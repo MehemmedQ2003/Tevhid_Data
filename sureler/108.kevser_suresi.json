@@ -1,0 +1,31 @@
+{
+  "result": [
+    {
+      "id": "6202",
+      "suraNo": "108",
+      "suraName": "Kevser",
+      "aya": "1",
+      "arabic_text": "اِنَّٓا اَعْطَيْنَاكَ الْكَوْثَرَۜ",
+      "translation": "Şüphe yok ki biz, sana (cennet ırmaklarından) Kevser’i verdik.",
+      "footnotes": null
+    },
+    {
+      "id": "6203",
+      "suraNo": "108",
+      "suraName": "Kevser",
+      "aya": "2",
+      "arabic_text": "فَصَلِّ لِرَبِّكَ وَانْحَرْۜ",
+      "translation": "(Buna şükür olarak) Rabbin için namaz kıl ve kurban kes.",
+      "footnotes": null
+    },
+    {
+      "id": "6204",
+      "suraNo": "108",
+      "suraName": "Kevser",
+      "aya": "3",
+      "arabic_text": "اِنَّ شَانِئَكَ هُوَ الْاَبْتَرُ",
+      "translation": "Gerçek şu ki; sana kin besleyip düşmanlık eden (var ya!) Asıl soyu kesik odur.",
+      "footnotes": null
+    }
+  ]
+}

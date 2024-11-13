@@ -1,0 +1,40 @@
+{
+  "result": [
+    {
+      "id": "6191",
+      "suraNo": "106",
+      "suraName": "Kureyş",
+      "aya": "1",
+      "arabic_text": "لِا۪يلَافِ قُرَيْشٍۙ",
+      "translation": "Kureyş’in kendi aralarında ülfet içinde yaşamaları sebebiyle,",
+      "footnotes": null
+    },
+    {
+      "id": "6192",
+      "suraNo": "106",
+      "suraName": "Kureyş",
+      "aya": "2",
+      "arabic_text": "ا۪يلَافِهِمْ رِحْلَةَ الشِّتَٓاءِ وَالصَّيْفِۚ",
+      "translation": "Yaz ve kış (aylarında ticaret amaçlı yaptıkları) yolculukların sağladığı rahatlık (için).",
+      "footnotes": null
+    },
+    {
+      "id": "6193",
+      "suraNo": "106",
+      "suraName": "Kureyş",
+      "aya": "3",
+      "arabic_text": "فَلْيَعْبُدُوا رَبَّ هٰذَا الْبَيْتِۙ",
+      "translation": "Bu evin Rabbine ibadet etsinler, (bu nimetine şükretsin ve O’nu birlesinler).",
+      "footnotes": null
+    },
+    {
+      "id": "6194",
+      "suraNo": "106",
+      "suraName": "Kureyş",
+      "aya": "4",
+      "arabic_text": "اَلَّذ۪ٓي اَطْعَمَهُمْ مِنْ جُوعٍ وَاٰمَنَهُمْ مِنْ خَوْفٍ",
+      "translation": "O (Rab ki), onları açlıktan doyuran ve korkudan emniyette kılandır.",
+      "footnotes": null
+    }
+  ]
+}

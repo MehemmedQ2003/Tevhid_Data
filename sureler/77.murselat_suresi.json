@@ -1,0 +1,454 @@
+{
+  "result": [
+    {
+      "id": "5620",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "1",
+      "arabic_text": "وَالْمُرْسَلَاتِ عُرْفًاۙ",
+      "translation": "Art arda gönderilenlere,",
+      "footnotes": null
+    },
+    {
+      "id": "5621",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "2",
+      "arabic_text": "فَالْعَاصِفَاتِ عَصْفًاۙ",
+      "translation": "Şiddetle ve gürültüyle esenlere,",
+      "footnotes": null
+    },
+    {
+      "id": "5622",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "3",
+      "arabic_text": "وَالنَّاشِرَاتِ نَشْرًاۙ",
+      "translation": "Tam bir şekilde yayanlara,",
+      "footnotes": null
+    },
+    {
+      "id": "5623",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "4",
+      "arabic_text": "فَالْفَارِقَاتِ فَرْقًاۙ",
+      "translation": "Kesin bir şekilde ayıranlara,",
+      "footnotes": null
+    },
+    {
+      "id": "5624",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "5",
+      "arabic_text": "فَالْمُلْقِيَاتِ ذِكْرًاۙ",
+      "translation": "Zikir/vahiy bırakanlara,",
+      "footnotes": null
+    },
+    {
+      "id": "5625",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "6",
+      "arabic_text": "عُذْرًا اَوْ نُذْرًاۙ",
+      "translation": "Mazeretleri kaldırmak veya uyarmak için (tüm bunlara) andolsun ki,",
+      "footnotes": null
+    },
+    {
+      "id": "5626",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "7",
+      "arabic_text": "اِنَّمَا تُوعَدُونَ لَوَاقِعٌۜ",
+      "translation": "Vadolunduğunuz (kıyamet) gerçekleşecektir.",
+      "footnotes": null
+    },
+    {
+      "id": "5627",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "8",
+      "arabic_text": "فَاِذَا النُّجُومُ طُمِسَتْۙ",
+      "translation": "Yıldızlar silindiği zaman,",
+      "footnotes": null
+    },
+    {
+      "id": "5628",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "9",
+      "arabic_text": "وَاِذَا السَّمَٓاءُ فُرِجَتْۙ",
+      "translation": "Gök yarıldığı zaman,",
+      "footnotes": null
+    },
+    {
+      "id": "5629",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "10",
+      "arabic_text": "وَاِذَا الْجِبَالُ نُسِفَتْۙ",
+      "translation": "Dağlar (aniden) savrulup parçalandığı zaman,",
+      "footnotes": null
+    },
+    {
+      "id": "5630",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "11",
+      "arabic_text": "وَاِذَا الرُّسُلُ اُقِّتَتْۜ",
+      "translation": "Resûller, belirlenmiş vakit (olan kıyamet) için toplandığı zaman.",
+      "footnotes": null
+    },
+    {
+      "id": "5631",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "12",
+      "arabic_text": "لِاَيِّ يَوْمٍ اُجِّلَتْۜ",
+      "translation": "(İnsanlar) hangi gün için ertelenmiştir?",
+      "footnotes": null
+    },
+    {
+      "id": "5632",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "13",
+      "arabic_text": "لِيَوْمِ الْفَصْلِۚ",
+      "translation": "(İnsanlar arasında hükmedilip araların ayrılacağı) Yevmu’l Fasl için.",
+      "footnotes": null
+    },
+    {
+      "id": "5633",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "14",
+      "arabic_text": "وَمَٓا اَدْرٰيكَ مَا يَوْمُ الْفَصْلِۜ",
+      "translation": "Sen ayırt etme gününün ne olduğunu nereden bileceksin?",
+      "footnotes": null
+    },
+    {
+      "id": "5634",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "15",
+      "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+      "translation": "O gün, yalanlayanların vay hâline!",
+      "footnotes": null
+    },
+    {
+      "id": "5635",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "16",
+      "arabic_text": "اَلَمْ نُهْلِكِ الْاَوَّل۪ينَۜ",
+      "translation": "Biz, öncekileri helak etmedik mi?",
+      "footnotes": null
+    },
+    {
+      "id": "5636",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "17",
+      "arabic_text": "ثُمَّ نُتْبِعُهُمُ الْاٰخِر۪ينَ",
+      "translation": "Sonra arkalarından gelenleri onlara uydurduk.",
+      "footnotes": null
+    },
+    {
+      "id": "5637",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "18",
+      "arabic_text": "كَذٰلِكَ نَفْعَلُ بِالْمُجْرِم۪ينَ",
+      "translation": "İşte biz, suçlu günahkârlara böyle yaparız.",
+      "footnotes": null
+    },
+    {
+      "id": "5638",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "19",
+      "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+      "translation": "O gün, yalanlayanların vay hâline!",
+      "footnotes": null
+    },
+    {
+      "id": "5639",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "20",
+      "arabic_text": "اَلَمْ نَخْلُقْكُمْ مِنْ مَٓاءٍ مَه۪ينٍۙ",
+      "translation": "Sizi değersiz bir sudan yaratmadık mı?",
+      "footnotes": null
+    },
+    {
+      "id": "5640",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "21",
+      "arabic_text": "فَجَعَلْنَاهُ ف۪ي قَرَارٍ مَك۪ينٍۙ",
+      "translation": "(Sonra) sizi o sağlam yerleşim yerine (rahme) yerleştirdik.",
+      "footnotes": null
+    },
+    {
+      "id": "5641",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "22",
+      "arabic_text": "اِلٰى قَدَرٍ مَعْلُومٍۙ",
+      "translation": "Bilinen bir zamana kadar.",
+      "footnotes": null
+    },
+    {
+      "id": "5642",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "23",
+      "arabic_text": "فَقَدَرْنَاۗ فَنِعْمَ الْقَادِرُونَ",
+      "translation": "(Bunları yapmaya) güç yetirdik. Biz ne güzel güç yetirenleriz.",
+      "footnotes": null
+    },
+    {
+      "id": "5643",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "24",
+      "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+      "translation": "O gün, yalanlayanların vay hâline!",
+      "footnotes": null
+    },
+    {
+      "id": "5644",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "25",
+      "arabic_text": "اَلَمْ نَجْعَلِ الْاَرْضَ كِفَاتًاۙ",
+      "translation": "Yeryüzünü toplanma yeri kılmadık mı?",
+      "footnotes": null
+    },
+    {
+      "id": "5645",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "26",
+      "arabic_text": "اَحْيَٓاءً وَاَمْوَاتًاۙ",
+      "translation": "(Yeryüzünün altı) ölüleri, (üstü) dirileri (toplar).",
+      "footnotes": null
+    },
+    {
+      "id": "5646",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "27",
+      "arabic_text": "وَجَعَلْنَا ف۪يهَا رَوَاسِيَ شَامِخَاتٍ وَاَسْقَيْنَاكُمْ مَٓاءً فُرَاتًاۜ",
+      "translation": "Ve onda (dağlardan) yüksek kazıklar kıldık. Size tatlı sular içirdik.",
+      "footnotes": null
+    },
+    {
+      "id": "5647",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "28",
+      "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+      "translation": "O gün, yalanlayanların vay hâline!",
+      "footnotes": null
+    },
+    {
+      "id": "5648",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "29",
+      "arabic_text": "اِنْطَلِقُٓوا اِلٰى مَا كُنْتُمْ بِه۪ تُكَذِّبُونَۚ",
+      "translation": "Yalanladığınız (cehenneme) doğru gidin.",
+      "footnotes": null
+    },
+    {
+      "id": "5649",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "30",
+      "arabic_text": "اِنْطَلِقُٓوا اِلٰى ظِلٍّ ذ۪ي ثَلٰثِ شُعَبٍۙ",
+      "translation": "Üç kola ayrılmış (ateş dumanının) gölgelerine.",
+      "footnotes": null
+    },
+    {
+      "id": "5650",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "31",
+      "arabic_text": "لَا ظَل۪يلٍ وَلَا يُغْن۪ي مِنَ اللَّهَبِۜ",
+      "translation": "Ne gölge sağlar, ne de alevlerden korur.",
+      "footnotes": null
+    },
+    {
+      "id": "5651",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "32",
+      "arabic_text": "اِنَّهَا تَرْم۪ي بِشَرَرٍ كَالْقَصْرِۚ",
+      "translation": "Şüphesiz ki o, her biri saray kadar (büyük) kıvılcımlar atar.",
+      "footnotes": null
+    },
+    {
+      "id": "5652",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "33",
+      "arabic_text": "كَاَنَّهُ جِمَالَتٌ صُفْرٌۜ",
+      "translation": "Her biri sapsarı (rengi siyaha çalan) develer gibidir.",
+      "footnotes": null
+    },
+    {
+      "id": "5653",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "34",
+      "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+      "translation": "O gün, yalanlayanların vay hâline!",
+      "footnotes": null
+    },
+    {
+      "id": "5654",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "35",
+      "arabic_text": "هٰذَا يَوْمُ لَا يَنْطِقُونَۙ",
+      "translation": "Bu konuşamayacakları bir gündür.",
+      "footnotes": null
+    },
+    {
+      "id": "5655",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "36",
+      "arabic_text": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+      "translation": "Özür beyan etmeleri için onlara izin de verilmez.",
+      "footnotes": null
+    },
+    {
+      "id": "5656",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "37",
+      "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+      "translation": "O gün, yalanlayanların vay hâline!",
+      "footnotes": null
+    },
+    {
+      "id": "5657",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "38",
+      "arabic_text": "هٰذَا يَوْمُ الْفَصْلِۚ جَمَعْنَاكُمْ وَالْاَوَّل۪ينَ",
+      "translation": "Bu (insanlar arasında hükmedilip araların ayrılacağı) Yevmu’l Fasl’dır. Sizi ve öncekileri topladık.",
+      "footnotes": null
+    },
+    {
+      "id": "5658",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "39",
+      "arabic_text": "فَاِنْ كَانَ لَكُمْ كَيْدٌ فَك۪يدُونِ",
+      "translation": "Şayet kurabileceğiniz bir tuzağınız varsa, (buyrun) bana karşı tuzağınızı kurun.",
+      "footnotes": null
+    },
+    {
+      "id": "5659",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "40",
+      "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ۟",
+      "translation": "O gün, yalanlayanların vay hâline!",
+      "footnotes": null
+    },
+    {
+      "id": "5660",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "41",
+      "arabic_text": "اِنَّ الْمُتَّق۪ينَ ف۪ي ظِلَالٍ وَعُيُونٍۙ",
+      "translation": "Şüphesiz ki muttakiler, gölgeliklerde ve pınarlardadır.",
+      "footnotes": null
+    },
+    {
+      "id": "5661",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "42",
+      "arabic_text": "وَفَوَاكِهَ مِمَّا يَشْتَهُونَۜ",
+      "translation": "Ve canlarının istediği meyvelerin içindelerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "5662",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "43",
+      "arabic_text": "كُلُوا وَاشْرَبُوا هَن۪ٓيـًٔا بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "translation": "İşlediğiniz (salih) amellere karşılık afiyetle yiyip için.",
+      "footnotes": null
+    },
+    {
+      "id": "5663",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "44",
+      "arabic_text": "اِنَّا كَذٰلِكَ نَجْزِي الْمُحْسِن۪ينَ",
+      "translation": "Hiç şüphesiz biz, muhsinleri/kulluğunu en güzel şekilde yapmaya çalışanları böyle mükâfatlandırırız.",
+      "footnotes": null
+    },
+    {
+      "id": "5664",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "45",
+      "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+      "translation": "O gün, yalanlayanların vay hâline!",
+      "footnotes": null
+    },
+    {
+      "id": "5665",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "46",
+      "arabic_text": "كُلُوا وَتَمَتَّعُوا قَل۪يلًا اِنَّكُمْ مُجْرِمُونَ",
+      "translation": "Yiyin ve biraz daha keyif sürün. Çünkü sizler mücrimlersiniz.",
+      "footnotes": null
+    },
+    {
+      "id": "5666",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "47",
+      "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+      "translation": "O gün, yalanlayanların vay hâline!",
+      "footnotes": null
+    },
+    {
+      "id": "5667",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "48",
+      "arabic_text": "وَاِذَا ق۪يلَ لَهُمُ ارْكَعُوا لَا يَرْكَعُونَ",
+      "translation": "Onlara: “Rükû edin.” denildiğinde rükû etmezler.",
+      "footnotes": null
+    },
+    {
+      "id": "5668",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "49",
+      "arabic_text": "وَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَ",
+      "translation": "O gün, yalanlayanların vay hâline!",
+      "footnotes": null
+    },
+    {
+      "id": "5669",
+      "suraNo": "77",
+      "suraName": "Mürselât",
+      "aya": "50",
+      "arabic_text": "فَبِاَيِّ حَد۪يثٍ بَعْدَهُ يُؤْمِنُونَ",
+      "translation": "(Bu Kur’ân’a da inanmıyorlarsa) bundan sonra hangi söze inanacaklar?",
+      "footnotes": null
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "result": [
+    {
+      "id": "6223",
+      "suraNo": "113",
+      "suraName": "Felak",
+      "aya": "1",
+      "arabic_text": "قُلْ اَعُوذُ بِرَبِّ الْفَلَقِۙ",
+      "translation": "De ki: “Sabahın Rabbine sığınırım.”",
+      "footnotes": null
+    },
+    {
+      "id": "6224",
+      "suraNo": "113",
+      "suraName": "Felak",
+      "aya": "2",
+      "arabic_text": "مِنْ شَرِّ مَا خَلَقَۙ",
+      "translation": "“Yarattığı şeylerin şerrinden.”",
+      "footnotes": null
+    },
+    {
+      "id": "6225",
+      "suraNo": "113",
+      "suraName": "Felak",
+      "aya": "3",
+      "arabic_text": "وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ",
+      "translation": "“Karardığı zaman gecenin şerrinden.”",
+      "footnotes": null
+    },
+    {
+      "id": "6226",
+      "suraNo": "113",
+      "suraName": "Felak",
+      "aya": "4",
+      "arabic_text": "وَمِنْ شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِۙ",
+      "translation": "“Düğümlere üfüren (büyücü) kadınların şerrinden.”",
+      "footnotes": null
+    },
+    {
+      "id": "6227",
+      "suraNo": "113",
+      "suraName": "Felak",
+      "aya": "5",
+      "arabic_text": "وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ",
+      "translation": "“Ve haset ettiği zaman hasetçinin şerrinden!”",
+      "footnotes": null
+    }
+  ]
+}

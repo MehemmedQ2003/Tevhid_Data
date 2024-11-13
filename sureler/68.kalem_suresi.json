@@ -1,0 +1,472 @@
+{
+  "result": [
+    {
+      "id": "5269",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "1",
+      "arabic_text": "نٓ وَالْقَلَمِ وَمَا يَسْطُرُونَۙ",
+      "translation": "Nûn. Kaleme ve yazdıklarına andolsun ki,",
+      "footnotes": null
+    },
+    {
+      "id": "5270",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "2",
+      "arabic_text": "مَٓا اَنْتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍۚ",
+      "translation": "Sen, Rabbinin nimeti sayesinde asla deli/cinlenmiş değilsin.",
+      "footnotes": null
+    },
+    {
+      "id": "5271",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "3",
+      "arabic_text": "وَاِنَّ لَكَ لَاَجْرًا غَيْرَ مَمْنُونٍۚ",
+      "translation": "Şüphesiz ki (onların bu eziyetlerine sabretmen karşılığında) senin için kesintisiz bir ecir vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "5272",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "4",
+      "arabic_text": "وَاِنَّكَ لَعَلٰى خُلُقٍ عَظ۪يمٍ",
+      "translation": "Ve hiç kuşkusuz, sen büyük bir ahlak üzeresin.",
+      "footnotes": null
+    },
+    {
+      "id": "5273",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "5",
+      "arabic_text": "فَسَتُبْصِرُ وَيُبْصِرُونَۙ",
+      "translation": "Sen de göreceksin, onlar da görecekler.",
+      "footnotes": null
+    },
+    {
+      "id": "5274",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "6",
+      "arabic_text": "بِاَيِّكُمُ الْمَفْتُونُ",
+      "translation": "Hanginizin fitneye uğramış (bir sapık) olduğunu.",
+      "footnotes": null
+    },
+    {
+      "id": "5275",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "7",
+      "arabic_text": "اِنَّ رَبَّكَ هُوَ اَعْلَمُ بِمَنْ ضَلَّ عَنْ سَب۪يلِه۪ۖ وَهُوَ اَعْلَمُ بِالْمُهْتَد۪ينَ",
+      "translation": "Şüphesiz ki Rabbin, yolundan sapanları da hidayet üzere olanları da en iyi bilendir.",
+      "footnotes": null
+    },
+    {
+      "id": "5276",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "8",
+      "arabic_text": "فَلَا تُطِعِ الْمُكَذِّب۪ينَ",
+      "translation": "(Öyleyse) yalanlayanlara itaat etme.",
+      "footnotes": null
+    },
+    {
+      "id": "5277",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "9",
+      "arabic_text": "وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ",
+      "translation": "Onlar, senin kendileriyle uyum içinde olup (sapkınlıklarına karşı yumuşamanı) istediler. (Buna karşılık) onlar da uyum gösterip (sana karşı yumuşayacaklardı).",
+      "footnotes": null
+    },
+    {
+      "id": "5278",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "10",
+      "arabic_text": "وَلَا تُطِعْ كُلَّ حَلَّافٍ مَه۪ينٍۙ",
+      "translation": "Çokça yemin eden değersiz kimseye itaat etme.",
+      "footnotes": null
+    },
+    {
+      "id": "5279",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "11",
+      "arabic_text": "هَمَّازٍ مَشَّٓاءٍ بِنَم۪يمٍۙ",
+      "translation": "Sürekli ayıplayıp (gıybet yapan) ve (insanların) sözlerini taşıyan,",
+      "footnotes": null
+    },
+    {
+      "id": "5280",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "12",
+      "arabic_text": "مَنَّاعٍ لِلْخَيْرِ مُعْتَدٍ اَث۪يمٍۙ",
+      "translation": "Hayra engel olan, haddi aşan, çok günah işleyen,",
+      "footnotes": null
+    },
+    {
+      "id": "5281",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "13",
+      "arabic_text": "عُتُلٍّ بَعْدَ ذٰلِكَ زَن۪يمٍۙ",
+      "translation": "Kaba-saba/zorba sonra da nesebi belli olmayan,",
+      "footnotes": null
+    },
+    {
+      "id": "5282",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "14",
+      "arabic_text": "اَنْ كَانَ ذَا مَالٍ وَبَن۪ينَۜ",
+      "translation": "Mal ve çocuk sahibi olmuş diye,",
+      "footnotes": null
+    },
+    {
+      "id": "5283",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "15",
+      "arabic_text": "اِذَا تُتْلٰى عَلَيْهِ اٰيَاتُنَا قَالَ اَسَاط۪يرُ الْاَوَّل۪ينَ",
+      "translation": "Ona ayetlerimiz okunduğu zaman, “evvelkilerin masalları” diyen.",
+      "footnotes": null
+    },
+    {
+      "id": "5284",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "16",
+      "arabic_text": "سَنَسِمُهُ عَلَى الْخُرْطُومِ",
+      "translation": "Onu burnundan damgalayacağız.",
+      "footnotes": null
+    },
+    {
+      "id": "5285",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "17",
+      "arabic_text": "اِنَّا بَلَوْنَاهُمْ كَمَا بَلَوْنَٓا اَصْحَابَ الْجَنَّةِۚ اِذْ اَقْسَمُوا لَيَصْرِمُنَّهَا مُصْبِح۪ينَۙ",
+      "translation": "Şüphesiz ki bahçe sahiplerini denediğimiz gibi bunları da (Mekkelileri de) denedik. Hani onlar, sabah vakti (meyveleri) devşireceklerine dair yemin etmişlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "5286",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "18",
+      "arabic_text": "وَلَا يَسْتَثْنُونَ",
+      "translation": "“İnşallah” demiyor (yoksulların hakkını ayıracaklarına dair istisnada bulunmuyorlardı).",
+      "footnotes": null
+    },
+    {
+      "id": "5287",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "19",
+      "arabic_text": "فَطَافَ عَلَيْهَا طَٓائِفٌ مِنْ رَبِّكَ وَهُمْ نَٓائِمُونَ",
+      "translation": "Onlar uyurken, Rabbinden bir afet (bahçelerini) kuşattı.",
+      "footnotes": null
+    },
+    {
+      "id": "5288",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "20",
+      "arabic_text": "فَاَصْبَحَتْ كَالصَّر۪يمِ",
+      "translation": "(Bahçe) gecenin karanlığı gibi kapkara kesiliverdi.",
+      "footnotes": null
+    },
+    {
+      "id": "5289",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "21",
+      "arabic_text": "فَتَنَادَوْا مُصْبِح۪ينَۙ",
+      "translation": "Sabah vakti birbirlerine seslendiler.",
+      "footnotes": null
+    },
+    {
+      "id": "5290",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "22",
+      "arabic_text": "اَنِ اغْدُوا عَلٰى حَرْثِكُمْ اِنْ كُنْتُمْ صَارِم۪ينَ",
+      "translation": "“Şayet ürünleri toplamaya (kesin niyetliyseniz), erkenden yola koyulun.”",
+      "footnotes": null
+    },
+    {
+      "id": "5291",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "23",
+      "arabic_text": "فَانْطَلَقُوا وَهُمْ يَتَخَافَتُونَۙ",
+      "translation": "Aralarında sessizce konuşarak çıktılar.",
+      "footnotes": null
+    },
+    {
+      "id": "5292",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "24",
+      "arabic_text": "اَنْ لَا يَدْخُلَنَّهَا الْيَوْمَ عَلَيْكُمْ مِسْك۪ينٌ",
+      "translation": "“Bugün yanınıza sakın bir yoksul girmesin!”",
+      "footnotes": null
+    },
+    {
+      "id": "5293",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "25",
+      "arabic_text": "وَغَدَوْا عَلٰى حَرْدٍ قَادِر۪ينَ",
+      "translation": "Yoksulları engellemeye güç yetirecek(mişler gibi), erkenden yola çıktılar.",
+      "footnotes": null
+    },
+    {
+      "id": "5294",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "26",
+      "arabic_text": "فَلَمَّا رَاَوْهَا قَالُٓوا اِنَّا لَضَٓالُّونَۙ",
+      "translation": "Onu (yanmış ve kapkara kesilmiş) görünce: “Hiç şüphesiz yolu şaşırdık.” dediler.",
+      "footnotes": null
+    },
+    {
+      "id": "5295",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "27",
+      "arabic_text": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "translation": "“(Hayır!) İşin aslı biz mahrum bırakıldık.”",
+      "footnotes": null
+    },
+    {
+      "id": "5296",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "28",
+      "arabic_text": "قَالَ اَوْسَطُهُمْ اَلَمْ اَقُلْ لَكُمْ لَوْلَا تُسَبِّحُونَ",
+      "translation": "Ortancaları: “Ben, ‘Allah’ı tesbih etmeniz gerekir.’ dememiş miydim?” dedi.",
+      "footnotes": null
+    },
+    {
+      "id": "5297",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "29",
+      "arabic_text": "قَالُوا سُبْحَانَ رَبِّنَٓا اِنَّا كُنَّا ظَالِم۪ينَ",
+      "translation": "Dediler ki: “Rabbimiz! Sen tüm eksikliklerden münezzehsin. Doğrusu biz, zalimleriz.”",
+      "footnotes": null
+    },
+    {
+      "id": "5298",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "30",
+      "arabic_text": "فَاَقْبَلَ بَعْضُهُمْ عَلٰى بَعْضٍ يَتَلَاوَمُونَ",
+      "translation": "Birbirlerine dönüp karşılıklı kınamaya başladılar.",
+      "footnotes": null
+    },
+    {
+      "id": "5299",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "31",
+      "arabic_text": "قَالُوا يَا وَيْلَنَٓا اِنَّا كُنَّا طَاغ۪ينَ",
+      "translation": "Dediler ki: “Yazıklar olsun bize! Gerçekten biz azgınmışız.”",
+      "footnotes": null
+    },
+    {
+      "id": "5300",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "32",
+      "arabic_text": "عَسٰى رَبُّنَٓا اَنْ يُبْدِلَنَا خَيْرًا مِنْهَٓا اِنَّٓا اِلٰى رَبِّنَا رَاغِبُونَ",
+      "translation": "“Umulur ki Rabbimiz, onun yerine daha hayırlısını verir bize. Şüphesiz ki biz, Rabbimize rağbet edenleriz.”",
+      "footnotes": null
+    },
+    {
+      "id": "5301",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "33",
+      "arabic_text": "كَذٰلِكَ الْعَذَابُۜ وَلَعَذَابُ الْاٰخِرَةِ اَكْبَرُۢ لَوْ كَانُوا يَعْلَمُونَ۟",
+      "translation": "İşte azap böyledir. Ahiret azabıysa elbette daha büyüktür. Keşke bilselerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "5302",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "34",
+      "arabic_text": "اِنَّ لِلْمُتَّق۪ينَ عِنْدَ رَبِّهِمْ جَنَّاتِ النَّع۪يمِ",
+      "translation": "Hiç kuşkusuz, muttakiler için Rableri katında Naim Cennetleri vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "5303",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "35",
+      "arabic_text": "اَفَنَجْعَلُ الْمُسْلِم۪ينَ كَالْمُجْرِم۪ينَۜ",
+      "translation": "Hiç (Allah’a) teslim olmuş olanları suçlu günahkârlar gibi kılar mıyız?",
+      "footnotes": null
+    },
+    {
+      "id": "5304",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "36",
+      "arabic_text": "مَا لَكُمْ۠ كَيْفَ تَحْكُمُونَۚ",
+      "translation": "Ne oluyor size, nasıl hüküm veriyorsunuz?",
+      "footnotes": null
+    },
+    {
+      "id": "5305",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "37",
+      "arabic_text": "اَمْ لَكُمْ كِتَابٌ ف۪يهِ تَدْرُسُونَۙ",
+      "translation": "Yoksa bir kitabınız var da (bu bilgilerinizi) oradan mı okuyorsunuz?",
+      "footnotes": null
+    },
+    {
+      "id": "5306",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "38",
+      "arabic_text": "اِنَّ لَكُمْ ف۪يهِ لَمَا تَخَيَّرُونَۚ",
+      "translation": "“Beğendiğiniz her şey sizindir.” (diye mi yazıyor o kitapta?)",
+      "footnotes": null
+    },
+    {
+      "id": "5307",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "39",
+      "arabic_text": "اَمْ لَكُمْ اَيْمَانٌ عَلَيْنَا بَالِغَةٌ اِلٰى يَوْمِ الْقِيٰمَةِۙ اِنَّ لَكُمْ لَمَا تَحْكُمُونَۚ",
+      "translation": "Yoksa: “Ne hüküm verirseniz o sizin olacak.” diye, kıyamete kadar, bizim üzerimizde, sizin için edilmiş yeminler mi vardır?",
+      "footnotes": null
+    },
+    {
+      "id": "5308",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "40",
+      "arabic_text": "سَلْهُمْ اَيُّهُمْ بِذٰلِكَ زَع۪يمٌۚۛ",
+      "translation": "Sor (bakalım) onlara, (bu iddialarına) hangisi kefilmiş?",
+      "footnotes": null
+    },
+    {
+      "id": "5309",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "41",
+      "arabic_text": "اَمْ لَهُمْ شُرَكَٓاءُۚۛ فَلْيَأْتُوا بِشُرَكَٓائِهِمْ اِنْ كَانُوا صَادِق۪ينَ",
+      "translation": "Yoksa (bu iddiaları gerçekleştirecek) ortakları mı varmış? Şayet doğru söylüyorlarsa, ortaklarını getirsinler (bakalım).",
+      "footnotes": null
+    },
+    {
+      "id": "5310",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "42",
+      "arabic_text": "يَوْمَ يُكْشَفُ عَنْ سَاقٍ وَيُدْعَوْنَ اِلَى السُّجُودِ فَلَا يَسْتَط۪يعُونَۙ",
+      "translation": "Baldırın açılacağı o günde secdeye çağrılırlar, (fakat secde etmeye) güç yetiremezler.",
+      "footnotes": null
+    },
+    {
+      "id": "5311",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "43",
+      "arabic_text": "خَاشِعَةً اَبْصَارُهُمْ تَرْهَقُهُمْ ذِلَّةٌۜ وَقَدْ كَانُوا يُدْعَوْنَ اِلَى السُّجُودِ وَهُمْ سَالِمُونَ",
+      "translation": "Gözleri (korkudan) baygın (bir hâldedir). Onları zillet bürür. (Oysa) onlar sıhhatli iken secdeye çağrılırlardı.",
+      "footnotes": null
+    },
+    {
+      "id": "5312",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "44",
+      "arabic_text": "فَذَرْن۪ي وَمَنْ يُكَذِّبُ بِهٰذَا الْحَد۪يثِۜ سَنَسْتَدْرِجُهُمْ مِنْ حَيْثُ لَا يَعْلَمُونَۙ",
+      "translation": "Sen, beni ve bu sözü yalanlayanı baş başa bırak. Biz onları hiç bilmedikleri yerden, adım adım (azaba) yaklaştıracağız.",
+      "footnotes": null
+    },
+    {
+      "id": "5313",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "45",
+      "arabic_text": "وَاُمْل۪ي لَهُمْۜ اِنَّ كَيْد۪ي مَت۪ينٌ",
+      "translation": "Onlara mühlet veririm. Şüphesiz ki benim tuzağım, pek sağlamdır.",
+      "footnotes": null
+    },
+    {
+      "id": "5314",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "46",
+      "arabic_text": "اَمْ تَسْـَٔلُهُمْ اَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَۚ",
+      "translation": "Yoksa sen onlardan ücret istiyorsun da bu borçtan dolayı mı ağır bir yük altına girmişler? (Ücret korkusuyla mı İslam’a girmiyorlar?)",
+      "footnotes": null
+    },
+    {
+      "id": "5315",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "47",
+      "arabic_text": "اَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَ",
+      "translation": "Yoksa gayb onların yanında da onlar mı yazıyorlar?",
+      "footnotes": null
+    },
+    {
+      "id": "5316",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "48",
+      "arabic_text": "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُنْ كَصَاحِبِ الْحُوتِۢ اِذْ نَادٰى وَهُوَ مَكْظُومٌۜ",
+      "translation": "Rabbinin hükmüne sabret, balık sahibi (Yunus Peygamber) gibi olma! Hani dert ve sıkıntıyla (Rabbine) dua etmişti.",
+      "footnotes": null
+    },
+    {
+      "id": "5317",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "49",
+      "arabic_text": "لَوْلَٓا اَنْ تَدَارَكَهُ نِعْمَةٌ مِنْ رَبِّه۪ لَنُبِذَ بِالْعَرَٓاءِ وَهُوَ مَذْمُومٌ",
+      "translation": "Şayet Rabbinden bir nimet ona ulaşmış olmasaydı, kınanmış bir hâlde boşluğa atılacaktı.",
+      "footnotes": null
+    },
+    {
+      "id": "5318",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "50",
+      "arabic_text": "فَاجْتَبٰيهُ رَبُّهُ فَجَعَلَهُ مِنَ الصَّالِح۪ينَ",
+      "translation": "Rabbi onu seçti ve salihlerden kıldı.",
+      "footnotes": null
+    },
+    {
+      "id": "5319",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "51",
+      "arabic_text": "وَاِنْ يَكَادُ الَّذ۪ينَ كَفَرُوا لَيُزْلِقُونَكَ بِاَبْصَارِهِمْ لَمَّا سَمِعُوا الذِّكْرَ وَيَقُولُونَ اِنَّهُ لَمَجْنُونٌۢ",
+      "translation": "O kâfirler zikri/Kur’ân’ı işittiklerinde, neredeyse gözleriyle ayaklarını kaydırıp (seni devireceklerdi). Ve derler ki: “Şüphesiz ki o, bir delidir.”",
+      "footnotes": null
+    },
+    {
+      "id": "5320",
+      "suraNo": "68",
+      "suraName": "Kalem",
+      "aya": "52",
+      "arabic_text": "وَمَا هُوَ اِلَّا ذِكْرٌ لِلْعَالَم۪ينَ",
+      "translation": "Oysa o, yalnızca âlemlere bir öğüttür/hatırlatmadır.",
+      "footnotes": null
+    }
+  ]
+}

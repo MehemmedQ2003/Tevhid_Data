@@ -1,0 +1,40 @@
+{
+  "result": [
+    {
+      "id": "6219",
+      "suraNo": "112",
+      "suraName": "İhlâs",
+      "aya": "1",
+      "arabic_text": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ",
+      "translation": "De ki: “O Allah (zatında, sıfatlarında ve fiillerinde) birdir.”",
+      "footnotes": null
+    },
+    {
+      "id": "6220",
+      "suraNo": "112",
+      "suraName": "İhlâs",
+      "aya": "2",
+      "arabic_text": "اَللّٰهُ الصَّمَدُۚ",
+      "translation": "“Allah (her şeyin kendisine muhtaç olduğu, kullarının duayla yöneldiği) Es-Samed’dir.”",
+      "footnotes": null
+    },
+    {
+      "id": "6221",
+      "suraNo": "112",
+      "suraName": "İhlâs",
+      "aya": "3",
+      "arabic_text": "لَمْ يَلِدْ وَلَمْ يُولَدْۙ",
+      "translation": "“Doğurmamış ve doğurulmamıştır.”",
+      "footnotes": null
+    },
+    {
+      "id": "6222",
+      "suraNo": "112",
+      "suraName": "İhlâs",
+      "aya": "4",
+      "arabic_text": "وَلَمْ يَكُنْ لَهُ كُفُوًا اَحَدٌ",
+      "translation": "“Hiçbir şey O’nun dengi değildir.”",
+      "footnotes": null
+    }
+  ]
+}

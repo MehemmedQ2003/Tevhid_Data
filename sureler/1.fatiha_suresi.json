@@ -1,0 +1,67 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "suraNo": "1",
+      "suraName": "Fatiha",
+      "aya": "1",
+      "arabic_text": "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ",
+      "translation": "Er-Rahmân ve Er-Rahîm olan Allah’ın adıyla (okumaya başlıyorum).",
+      "footnotes": null
+    },
+    {
+      "id": "2",
+      "suraNo": "1",
+      "suraName": "Fatiha",
+      "aya": "2",
+      "arabic_text": "اَلْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَۙ",
+      "translation": "Hamd, âlemlerin Rabbi olan Allah’a mahsustur.",
+      "footnotes": null
+    },
+    {
+      "id": "3",
+      "suraNo": "1",
+      "suraName": "Fatiha",
+      "aya": "3",
+      "arabic_text": "اَلرَّحْمٰنِ الرَّح۪يمِۙ",
+      "translation": "(O,) Er-Rahmân ve Er-Rahîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "4",
+      "suraNo": "1",
+      "suraName": "Fatiha",
+      "aya": "4",
+      "arabic_text": "مَالِكِ يَوْمِ الدّ۪ينِۜ",
+      "translation": "Din (Ahiret) Gününün sahibidir.",
+      "footnotes": null
+    },
+    {
+      "id": "5",
+      "suraNo": "1",
+      "suraName": "Fatiha",
+      "aya": "5",
+      "arabic_text": "اِيَّاكَ نَعْبُدُ وَاِيَّاكَ نَسْتَع۪ينُۜ",
+      "translation": "Biz, yalnız sana ibadet eder ve yalnız senden yardım dileriz.",
+      "footnotes": null
+    },
+    {
+      "id": "6",
+      "suraNo": "1",
+      "suraName": "Fatiha",
+      "aya": "6",
+      "arabic_text": "اِهْدِنَا الصِّرَاطَ الْمُسْتَق۪يمَۙ",
+      "translation": "Bizi sırat-ı mustakime/dosdoğru yola hidayet et.",
+      "footnotes": null
+    },
+    {
+      "id": "7",
+      "suraNo": "1",
+      "suraName": "Fatiha",
+      "aya": "7",
+      "arabic_text": "صِرَاطَ الَّذ۪ينَ اَنْعَمْتَ عَلَيْهِمْۙ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّٓالّ۪ينَ",
+      "translation": "Kendisine nimet verdiklerinin yoluna (ilet). Gazaba uğramış ve sapkınların (yoluna) değil.",
+      "footnotes": null
+    }
+  ]
+}

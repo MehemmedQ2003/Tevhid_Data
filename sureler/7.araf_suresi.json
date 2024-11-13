@@ -1,0 +1,1858 @@
+{
+  "result": [
+    {
+      "id": "955",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "1",
+      "arabic_text": "الٓمٓصٓۜ",
+      "translation": "Elif, Lâm, Mîm, Sâd.",
+      "footnotes": null
+    },
+    {
+      "id": "956",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "2",
+      "arabic_text": "كِتَابٌ اُنْزِلَ اِلَيْكَ فَلَا يَكُنْ ف۪ي صَدْرِكَ حَرَجٌ مِنْهُ لِتُنْذِرَ بِه۪ وَذِكْرٰى لِلْمُؤْمِن۪ينَ",
+      "translation": "(Bu,) onunla uyarman ve müminlere öğüt olması için sana indirilen bir Kitap’tır. (Sakın) ondan dolayı göğsünde bir sıkıntı olmasın.",
+      "footnotes": null
+    },
+    {
+      "id": "957",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "3",
+      "arabic_text": "اِتَّبِعُوا مَٓا اُنْزِلَ اِلَيْكُمْ مِنْ رَبِّكُمْ وَلَا تَتَّبِعُوا مِنْ دُونِه۪ٓ اَوْلِيَٓاءَۜ قَل۪يلًا مَا تَذَكَّرُونَ",
+      "translation": "Rabbinizden size indirilene uyun. O’ndan başka velilere uymayın. Ne de az öğüt alıyorsunuz!",
+      "footnotes": null
+    },
+    {
+      "id": "958",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "4",
+      "arabic_text": "وَكَمْ مِنْ قَرْيَةٍ اَهْلَكْنَاهَا فَجَٓاءَهَا بَأْسُنَا بَيَاتًا اَوْ هُمْ قَٓائِلُونَ",
+      "translation": "Helak ettiğimiz nice belde vardır ki gece uyurken veya gündüz uykusunda azabımız onlara gelmiştir.",
+      "footnotes": null
+    },
+    {
+      "id": "959",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "5",
+      "arabic_text": "فَمَا كَانَ دَعْوٰيهُمْ اِذْ جَٓاءَهُمْ بَأْسُنَٓا اِلَّٓا اَنْ قَالُٓوا اِنَّا كُنَّا ظَالِم۪ينَ",
+      "translation": "Onlara azabımız gelince: “Biz gerçekten zalimlerdik.” demekten başka yakarışları olmadı.",
+      "footnotes": null
+    },
+    {
+      "id": "960",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "6",
+      "arabic_text": "فَلَنَسْـَٔلَنَّ الَّذ۪ينَ اُرْسِلَ اِلَيْهِمْ وَلَنَسْـَٔلَنَّ الْمُرْسَل۪ينَۙ",
+      "translation": "Andolsun ki, kendisine (peygamber) gönderilenlere de (peygamber olarak) gönderilene de soracağız/hesaba çekeceğiz...",
+      "footnotes": null
+    },
+    {
+      "id": "961",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "7",
+      "arabic_text": "فَلَنَقُصَّنَّ عَلَيْهِمْ بِعِلْمٍ وَمَا كُنَّا غَٓائِب۪ينَ",
+      "translation": "Ve onlara (yapıp ettiklerini) ilimle haber vereceğiz. Biz (onlardan) habersiz değiliz.",
+      "footnotes": null
+    },
+    {
+      "id": "962",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "8",
+      "arabic_text": "وَالْوَزْنُ يَوْمَئِذٍۨ الْحَقُّۚ فَمَنْ ثَقُلَتْ مَوَاز۪ينُهُ فَاُو۬لٰٓئِكَ هُمُ الْمُفْلِحُونَ",
+      "translation": "O gün tartı haktır. Kimin mizanı (salih amellerle) ağır gelirse işte bunlar, kurtuluşa erecek olanların ta kendisidir.",
+      "footnotes": null
+    },
+    {
+      "id": "963",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "9",
+      "arabic_text": "وَمَنْ خَفَّتْ مَوَاز۪ينُهُ فَاُو۬لٰٓئِكَ الَّذ۪ينَ خَسِرُٓوا اَنْفُسَهُمْ بِمَا كَانُوا بِاٰيَاتِنَا يَظْلِمُونَ",
+      "translation": "Kimin de mizanı (salih amellerde) hafif gelirse, işte bunlar ayetlerimize zulmettiklerinden/gereken değeri vermediklerinden dolayı kendilerini hüsrana uğratanlardır.",
+      "footnotes": null
+    },
+    {
+      "id": "964",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "10",
+      "arabic_text": "وَلَقَدْ مَكَّنَّاكُمْ فِي الْاَرْضِ وَجَعَلْنَا لَكُمْ ف۪يهَا مَعَايِشَۜ قَل۪يلًا مَا تَشْكُرُونَ۟",
+      "translation": "Andolsun ki, sizi yeryüzünde yerleşik kıldık ve orada size (geçiminizi sağlayacağınız) geçimlikler verdik. Ne kadar da az şükrediyorsunuz!",
+      "footnotes": null
+    },
+    {
+      "id": "965",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "11",
+      "arabic_text": "وَلَقَدْ خَلَقْنَاكُمْ ثُمَّ صَوَّرْنَاكُمْ ثُمَّ قُلْنَا لِلْمَلٰٓئِكَةِ اسْجُدُوا لِاٰدَمَۗ فَسَجَدُٓوا اِلَّٓا اِبْل۪يسَۜ لَمْ يَكُنْ مِنَ السَّاجِد۪ينَ",
+      "translation": "Andolsun ki sizleri yarattık, sonra size şekil verdik, daha sonra meleklere: “Âdem’e secde edin.” dedik. İblis dışında hepsi secde ettiler. O, secde edenlerden olmadı.",
+      "footnotes": null
+    },
+    {
+      "id": "966",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "12",
+      "arabic_text": "قَالَ مَا مَنَعَكَ اَلَّا تَسْجُدَ اِذْ اَمَرْتُكَۜ قَالَ اَنَا۬ خَيْرٌ مِنْهُۚ خَلَقْتَن۪ي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ ط۪ينٍ",
+      "translation": "(Allah) buyurdu ki: “Sana emrettiğimde seni secde etmekten alıkoyan nedir?” Dedi ki: “Ben ondan daha hayırlıyım. (Çünkü) beni ateşten, onu topraktan yarattın.”",
+      "footnotes": null
+    },
+    {
+      "id": "967",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "13",
+      "arabic_text": "قَالَ فَاهْبِطْ مِنْهَا فَمَا يَكُونُ لَكَ اَنْ تَتَكَبَّرَ ف۪يهَا فَاخْرُجْ اِنَّكَ مِنَ الصَّاغِر۪ينَ",
+      "translation": "(Allah) buyurdu ki: “(Hemen) oradan in! Ne haddine ki orada büyüklenesin! (Hemen) çık! (Çünkü) sen alçaklardansın.”",
+      "footnotes": null
+    },
+    {
+      "id": "968",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "14",
+      "arabic_text": "قَالَ اَنْظِرْن۪ٓي اِلٰى يَوْمِ يُبْعَثُونَ",
+      "translation": "Dedi ki: “(İnsanların) diriltileceği güne kadar mühlet ver bana.”",
+      "footnotes": null
+    },
+    {
+      "id": "969",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "15",
+      "arabic_text": "قَالَ اِنَّكَ مِنَ الْمُنْظَر۪ينَ",
+      "translation": "(Allah) buyurdu ki: “Şüphesiz ki sen, kendisine mühlet verilenlerdensin.”",
+      "footnotes": null
+    },
+    {
+      "id": "970",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "16",
+      "arabic_text": "قَالَ فَبِمَٓا اَغْوَيْتَن۪ي لَاَقْعُدَنَّ لَهُمْ صِرَاطَكَ الْمُسْتَق۪يمَۙ",
+      "translation": "Dedi ki: “Beni saptırmana karşılık, ben de onları (saptırmak) için senin dosdoğru yolunun üzerine oturacağım.”",
+      "footnotes": null
+    },
+    {
+      "id": "971",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "17",
+      "arabic_text": "ثُمَّ لَاٰتِيَنَّهُمْ مِنْ بَيْنِ اَيْد۪يهِمْ وَمِنْ خَلْفِهِمْ وَعَنْ اَيْمَانِهِمْ وَعَنْ شَمَٓائِلِهِمْۜ وَلَا تَجِدُ اَكْثَرَهُمْ شَاكِر۪ينَ",
+      "translation": "“Sonra kesinlikle onlara önlerinden, arkalarından, sağlarından ve sollarından sokulacağım. Çoğunu şükredici bulamayacaksın.”",
+      "footnotes": null
+    },
+    {
+      "id": "972",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "18",
+      "arabic_text": "قَالَ اخْرُجْ مِنْهَا مَذْؤُ۫مًا مَدْحُورًاۜ لَمَنْ تَبِعَكَ مِنْهُمْ لَاَمْلَـَٔنَّ جَهَنَّمَ مِنْكُمْ اَجْمَع۪ينَ",
+      "translation": "(Allah) buyurdu ki: “Kınanmış ve alçalmış olarak oradan çık. Onlardan kim sana uyarsa, andolsun ki cehennemi sizlerle dolduracağım.”",
+      "footnotes": null
+    },
+    {
+      "id": "973",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "19",
+      "arabic_text": "وَيَٓا اٰدَمُ اسْكُنْ اَنْتَ وَزَوْجُكَ الْجَنَّةَ فَكُلَا مِنْ حَيْثُ شِئْتُمَا وَلَا تَقْرَبَا هٰذِهِ الشَّجَرَةَ فَتَكُونَا مِنَ الظَّالِم۪ينَ",
+      "translation": "“Ey Âdem! Sen ve eşin cennete yerleşin ve oradan dilediğiniz yerden yiyin. Şu ağaca yaklaşmayın! Yoksa zalimlerden olursunuz.”",
+      "footnotes": null
+    },
+    {
+      "id": "974",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "20",
+      "arabic_text": "فَوَسْوَسَ لَهُمَا الشَّيْطَانُ لِيُبْدِيَ لَهُمَا مَا وُ۫رِيَ عَنْهُمَا مِنْ سَوْاٰتِهِمَا وَقَالَ مَا نَهٰيكُمَا رَبُّكُمَا عَنْ هٰذِهِ الشَّجَرَةِ اِلَّٓا اَنْ تَكُونَا مَلَكَيْنِ اَوْ تَكُونَا مِنَ الْخَالِد۪ينَ",
+      "translation": "(Derken şeytan) örtünerek gizlenmiş bulunan avret yerlerini açığa çıkarmak için onlara vesvese verdi. Ve dedi ki: “Rabbinizin bu ağaçtan yemenizi yasaklaması, melek olmamanız ve ebedî yaşayanlardan olmamanız içindir.”",
+      "footnotes": null
+    },
+    {
+      "id": "975",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "21",
+      "arabic_text": "وَقَاسَمَهُمَٓا اِنّ۪ي لَكُمَا لَمِنَ النَّاصِح۪ينَۙ",
+      "translation": "Ve: “Şüphesiz ki ben, sizin iyiliğinizi istiyorum/size nasihat veriyorum.” diye o ikisine yemin etti.",
+      "footnotes": null
+    },
+    {
+      "id": "976",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "22",
+      "arabic_text": "فَدَلّٰيهُمَا بِغُرُورٍۚ فَلَمَّا ذَاقَا الشَّجَرَةَ بَدَتْ لَهُمَا سَوْاٰتُهُمَا وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِنْ وَرَقِ الْجَنَّةِۜ وَنَادٰيهُمَا رَبُّهُمَٓا اَلَمْ اَنْهَكُمَا عَنْ تِلْكُمَا الشَّجَرَةِ وَاَقُلْ لَكُمَٓا اِنَّ الشَّيْطَانَ لَكُمَا عَدُوٌّ مُب۪ينٌ",
+      "translation": "(Bu vesvese ve yeminleriyle) onları aldatıp (ağına) düşürdü. Ağaçtan tadınca, avret yerleri kendilerine görünmeye başladı. Üzerlerini cennet yapraklarıyla örtmeye başladılar. Rableri onlara seslendi: “Ben size bu ağaçtan yemeyi yasaklamamış mıydım? ‘Şeytan, sizin apaçık düşmanınızdır.’ dememiş miydim?”",
+      "footnotes": null
+    },
+    {
+      "id": "977",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "23",
+      "arabic_text": "قَالَا رَبَّنَا ظَلَمْنَٓا اَنْفُسَنَا وَاِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِر۪ينَ",
+      "translation": "Dediler ki: “Rabbimiz! Şüphesiz biz kendimize zulmettik. Şayet bizi bağışlamaz ve bize merhamet etmezsen muhakkak ki hüsrana uğrayanlardan oluruz.”",
+      "footnotes": null
+    },
+    {
+      "id": "978",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "24",
+      "arabic_text": "قَالَ اهْبِطُوا بَعْضُكُمْ لِبَعْضٍ عَدُوٌّۚ وَلَكُمْ فِي الْاَرْضِ مُسْتَقَرٌّ وَمَتَاعٌ اِلٰى ح۪ينٍ",
+      "translation": "(Allah) buyurdu ki: “Birbirinize düşman olarak inin! Yeryüzünde sizin için belli zamana kadar bir yerleşim ve faydalanma vardır.”",
+      "footnotes": null
+    },
+    {
+      "id": "979",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "25",
+      "arabic_text": "قَالَ ف۪يهَا تَحْيَوْنَ وَف۪يهَا تَمُوتُونَ وَمِنْهَا تُخْرَجُونَ۟",
+      "translation": "Buyurdu ki: “Orada yaşayacak, orada ölecek ve oradan çıkarılacaksınız.”",
+      "footnotes": null
+    },
+    {
+      "id": "980",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "26",
+      "arabic_text": "يَا بَن۪ٓي اٰدَمَ قَدْ اَنْزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَار۪ي سَوْاٰتِكُمْ وَر۪يشًا۠ وَلِبَاسُ التَّقْوٰى ذٰلِكَ خَيْرٌۜ ذٰلِكَ مِنْ اٰيَاتِ اللّٰهِ لَعَلَّهُمْ يَذَّكَّرُونَ",
+      "translation": "Ey Âdemoğulları! Şüphesiz size avretinizi örtecek ve kendisiyle süsleneceğiniz elbise indirdik. Asıl hayırlı olansa takva elbisesidir. (Dışınızı elbiseyle süslediğiniz gibi kalbinizi de takvayla süsleyiniz. Bu, daha hayırlıdır.) Bu (nimetler), düşünüp öğüt alsınlar diye Allah’ın ayetlerindendir.",
+      "footnotes": null
+    },
+    {
+      "id": "981",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "27",
+      "arabic_text": "يَا بَن۪ٓي اٰدَمَ لَا يَفْتِنَنَّكُمُ الشَّيْطَانُ كَمَٓا اَخْرَجَ اَبَوَيْكُمْ مِنَ الْجَنَّةِ يَنْزِعُ عَنْهُمَا لِبَاسَهُمَا لِيُرِيَهُمَا سَوْاٰتِهِمَاۜ اِنَّهُ يَرٰيكُمْ هُوَ وَقَب۪يلُهُ مِنْ حَيْثُ لَا تَرَوْنَهُمْۜ اِنَّا جَعَلْنَا الشَّيَاط۪ينَ اَوْلِيَٓاءَ لِلَّذ۪ينَ لَا يُؤْمِنُونَ",
+      "translation": "Ey Âdemoğulları! Şeytan, ebeveynlerinize avret yerlerini göstermek için elbiselerini çekip aldığı ve onları cennetten çıkardığı gibi sakın sizi (de) fitneye düşürmesin. (Çünkü) o ve avanesi, sizin onları görmediğiniz yerden sizleri görüyorlar. Şüphesiz ki biz, şeytanları iman etmeyenlerin dostu kıldık.",
+      "footnotes": null
+    },
+    {
+      "id": "982",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "28",
+      "arabic_text": "وَاِذَا فَعَلُوا فَاحِشَةً قَالُوا وَجَدْنَا عَلَيْهَٓا اٰبَٓاءَنَا وَاللّٰهُ اَمَرَنَا بِهَاۜ قُلْ اِنَّ اللّٰهَ لَا يَأْمُرُ بِالْفَحْشَٓاءِۜ اَتَقُولُونَ عَلَى اللّٰهِ مَا لَا تَعْلَمُونَ",
+      "translation": "(Kâbe’yi çıplak tavaf etmek gibi) bir fuhşiyat işlediklerinde derler ki: “Babalarımızı bunun üzerine bulduk. Allah bunu bize emretti.” De ki: “Şüphesiz ki Allah, fuhşiyatı emretmez. Yoksa siz Allah’a karşı bilmediğiniz şeyler mi söylüyorsunuz?”",
+      "footnotes": null
+    },
+    {
+      "id": "983",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "29",
+      "arabic_text": "قُلْ اَمَرَ رَبّ۪ي بِالْقِسْطِ۠ وَاَق۪يمُوا وُجُوهَكُمْ عِنْدَ كُلِّ مَسْجِدٍ وَادْعُوهُ مُخْلِص۪ينَ لَهُ الدّ۪ينَۜ كَمَا بَدَاَكُمْ تَعُودُونَۜ",
+      "translation": "(Yine) de ki: “Rabbim adaleti emretti. Her secde yerinde yüzlerinizi doğrultun ve dininizi yalnızca O’na halis kılarak O’na dua edin. Sizi ilk yaratan O olduğu gibi (yine O’na) döneceksiniz.”",
+      "footnotes": null
+    },
+    {
+      "id": "984",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "30",
+      "arabic_text": "فَر۪يقًا هَدٰى وَفَر۪يقًا حَقَّ عَلَيْهِمُ الضَّلَالَةُۜ اِنَّهُمُ اتَّخَذُوا الشَّيَاط۪ينَ اَوْلِيَٓاءَ مِنْ دُونِ اللّٰهِ وَيَحْسَبُونَ اَنَّهُمْ مُهْتَدُونَ",
+      "translation": "Bir kısmına hidayet verdi, bir kısmına da sapıklık hak oldu. (Çünkü) onlar, Allah’ı bırakıp şeytanları dost edindiler ve doğru yolda olduklarını sanıyorlar.",
+      "footnotes": null
+    },
+    {
+      "id": "985",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "31",
+      "arabic_text": "يَا بَن۪ٓي اٰدَمَ خُذُوا ز۪ينَتَكُمْ عِنْدَ كُلِّ مَسْجِدٍ وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُواۚ اِنَّهُ لَا يُحِبُّ الْمُسْرِف۪ينَ۟",
+      "translation": "Ey Âdemoğulları! Her mescid yerinde ziynetlerinizi alın. (Güzelce giyinin, müşrikler gibi çıplak ibadet etmeyin.) Ve yiyiniz, içiniz, israf etmeyiniz. (Çünkü) O, israf edenleri sevmez.",
+      "footnotes": null
+    },
+    {
+      "id": "986",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "32",
+      "arabic_text": "قُلْ مَنْ حَرَّمَ ز۪ينَةَ اللّٰهِ الَّت۪ٓي اَخْرَجَ لِعِبَادِه۪ وَالطَّيِّبَاتِ مِنَ الرِّزْقِۜ قُلْ هِيَ لِلَّذ۪ينَ اٰمَنُوا فِي الْحَيٰوةِ الدُّنْيَا خَالِصَةً يَوْمَ الْقِيٰمَةِۜ كَذٰلِكَ نُفَصِّلُ الْاٰيَاتِ لِقَوْمٍ يَعْلَمُونَ",
+      "translation": "De ki: “Allah’ın kulları için çıkardığı süsü ve temiz rızıkları kim haram kılmıştır?” (Ve yine) de ki: “O, dünya hayatında iman edenler içindir. Ahirette ise sadece iman edenleredir.” Böylece bilen bir topluluk için ayetleri detaylı bir şekilde açıklarız.",
+      "footnotes": null
+    },
+    {
+      "id": "987",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "33",
+      "arabic_text": "قُلْ اِنَّمَا حَرَّمَ رَبِّيَ الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ وَالْاِثْمَ وَالْبَغْيَ بِغَيْرِ الْحَقِّ وَاَنْ تُشْرِكُوا بِاللّٰهِ مَا لَمْ يُنَزِّلْ بِه۪ سُلْطَانًا وَاَنْ تَقُولُوا عَلَى اللّٰهِ مَا لَا تَعْلَمُونَ",
+      "translation": "De ki: “Rabbim (sizin uydurduklarınızı değil) yalnızca açık ve kapalı tüm fuhşiyatı, her türlü günahı ve haksız yere taşkınlık etmeyi, (meşruluğu) hakkında hiçbir delil indirmediği şeyi Allah’a ortak koşmanızı ve Allah’a karşı bilmediğiniz şeyleri söylemenizi haram kıldı.”",
+      "footnotes": null
+    },
+    {
+      "id": "988",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "34",
+      "arabic_text": "وَلِكُلِّ اُمَّةٍ اَجَلٌۚ فَاِذَا جَٓاءَ اَجَلُهُمْ لَا يَسْتَأْخِرُونَ سَاعَةً وَلَا يَسْتَقْدِمُونَ",
+      "translation": "Her ümmetin bir eceli vardır. Ecelleri geldiğinde ne bir saat/bir an onun gerisinde kalır ne de önüne geçebilirler.",
+      "footnotes": null
+    },
+    {
+      "id": "989",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "35",
+      "arabic_text": "يَا بَن۪ٓي اٰدَمَ اِمَّا يَأْتِيَنَّكُمْ رُسُلٌ مِنْكُمْ يَقُصُّونَ عَلَيْكُمْ اٰيَات۪يۙ فَمَنِ اتَّقٰى وَاَصْلَحَ فَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+      "translation": "Ey Âdemoğulları! İçinizden, ayetlerimi size okuyup/anlatan resûller geldiğinde her kim korkup sakınır ve ıslah ederse, onların üzerine korku yoktur ve onlar üzülmeyeceklerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "990",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "36",
+      "arabic_text": "وَالَّذ۪ينَ كَذَّبُوا بِاٰيَاتِنَا وَاسْتَكْبَرُوا عَنْهَٓا اُو۬لٰٓئِكَ اَصْحَابُ النَّارِۚ هُمْ ف۪يهَا خَالِدُونَ",
+      "translation": "Ayetlerimizi yalanlayan ve ona karşı büyüklenenler ise, bunlar ateşin ehlidir ve orada ebedî kalırlar.",
+      "footnotes": null
+    },
+    {
+      "id": "991",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "37",
+      "arabic_text": "فَمَنْ اَظْلَمُ مِمَّنِ افْتَرٰى عَلَى اللّٰهِ كَذِبًا اَوْ كَذَّبَ بِاٰيَاتِه۪ۜ اُو۬لٰٓئِكَ يَنَالُهُمْ نَص۪يبُهُمْ مِنَ الْكِتَابِۜ حَتّٰٓى اِذَا جَٓاءَتْهُمْ رُسُلُنَا يَتَوَفَّوْنَهُمْۙ قَالُٓوا اَيْنَ مَا كُنْتُمْ تَدْعُونَ مِنْ دُونِ اللّٰهِۜ قَالُوا ضَلُّوا عَنَّا وَشَهِدُوا عَلٰٓى اَنْفُسِهِمْ اَنَّهُمْ كَانُوا كَافِر۪ينَ",
+      "translation": "Allah’a yalan uydurarak iftira eden veya (Allah’ın) ayetlerini yalanlayandan daha zalim kim olabilir? Bunlara, Kitap’tan nasipleri (kendileri için takdir olunan hayır ve şer) erişir. Nihayet canlarını almak için elçilerimiz onlara geldiğinde derler ki: “Allah’ı bırakıp dua ettikleriniz nerede?” Derler ki: “Onlar bizi (terk edip) kayboldular.” Ve kâfir olduklarına dair kendileri aleyhine şahitlik ettiler.",
+      "footnotes": null
+    },
+    {
+      "id": "992",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "38",
+      "arabic_text": "قَالَ ادْخُلُوا ف۪ٓي اُمَمٍ قَدْ خَلَتْ مِنْ قَبْلِكُمْ مِنَ الْجِنِّ وَالْاِنْسِ فِي النَّارِۜ كُلَّمَا دَخَلَتْ اُمَّةٌ لَعَنَتْ اُخْتَهَاۜ حَتّٰٓى اِذَا ادَّارَكُوا ف۪يهَا جَم۪يعًاۙ قَالَتْ اُخْرٰيهُمْ لِاُو۫لٰيهُمْ رَبَّنَا هٰٓؤُ۬لَٓاءِ اَضَلُّونَا فَاٰتِهِمْ عَذَابًا ضِعْفًا مِنَ النَّارِۜ قَالَ لِكُلٍّ ضِعْفٌ وَلٰكِنْ لَا تَعْلَمُونَ",
+      "translation": "(Allah:) “Sizden önce ateşe girmiş olan cin ve insan topluluklarıyla beraber siz de ateşe girin.” der. Her ümmet oraya girdiğinde, (kendi gibi sapık olan) kardeşini (ümmetleri) lanetler. Sonunda hepsi bir araya toplanınca, sonradan gelmiş olanlar önceden yaşamış olanlar için: “Rabbimiz! Bunlar bizi saptırdılar. Onlara ateşten kat kat azap ver.” der. (Allah) buyuracak ki: “Hepinize kat kat (azap) vardır. Fakat bilmiyorsunuz.”",
+      "footnotes": null
+    },
+    {
+      "id": "993",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "39",
+      "arabic_text": "وَقَالَتْ اُو۫لٰيهُمْ لِاُخْرٰيهُمْ فَمَا كَانَ لَكُمْ عَلَيْنَا مِنْ فَضْلٍ فَذُوقُوا الْعَذَابَ بِمَا كُنْتُمْ تَكْسِبُونَ۟",
+      "translation": "Önce yaşamış olanlar sonradan gelenlere diyecekler ki: “Sizin bize hiçbir üstünlüğünüz/ayrıcalığınız yoktur. Kazandıklarınıza karşılık azabı tadın.”",
+      "footnotes": null
+    },
+    {
+      "id": "994",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "40",
+      "arabic_text": "اِنَّ الَّذ۪ينَ كَذَّبُوا بِاٰيَاتِنَا وَاسْتَكْبَرُوا عَنْهَا لَا تُفَتَّحُ لَهُمْ اَبْوَابُ السَّمَٓاءِ وَلَا يَدْخُلُونَ الْجَنَّةَ حَتّٰى يَلِجَ الْجَمَلُ ف۪ي سَمِّ الْخِيَاطِۜ وَكَذٰلِكَ نَجْزِي الْمُجْرِم۪ينَ",
+      "translation": "Şüphesiz ki ayetlerimizi yalanlayıp onlara karşı büyüklenenler... Gök kapıları onlara açılmayacak. (Öldüklerinde, ruhları sema ehli tarafından hoşnutlukla karşılanmayacak.) Ve deve iğne deliğinden geçene dek onlar cennete girmeyeceklerdir. Biz suçlu günahkârları işte böyle cezalandırırız.",
+      "footnotes": null
+    },
+    {
+      "id": "995",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "41",
+      "arabic_text": "لَهُمْ مِنْ جَهَنَّمَ مِهَادٌ وَمِنْ فَوْقِهِمْ غَوَاشٍۜ وَكَذٰلِكَ نَجْزِي الظَّالِم۪ينَ",
+      "translation": "Onlar için cehennemden (alevli) bir yatak ve üstlerinden (onları örten ateşten) bir yorgan vardır. İşte biz, zalimleri böyle cezalandırırız.",
+      "footnotes": null
+    },
+    {
+      "id": "996",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "42",
+      "arabic_text": "وَالَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَا نُكَلِّفُ نَفْسًا اِلَّا وُسْعَهَاۘ اُو۬لٰٓئِكَ اَصْحَابُ الْجَنَّةِۚ هُمْ ف۪يهَا خَالِدُونَ",
+      "translation": "İman edip salih amel işleyenlere gelince, biz, hiçbir nefse gücünden fazlasını yüklemeyiz. Bunlar, cennetin ehlidir ve orada ebedî kalacaklardır.",
+      "footnotes": null
+    },
+    {
+      "id": "997",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "43",
+      "arabic_text": "وَنَزَعْنَا مَا ف۪ي صُدُورِهِمْ مِنْ غِلٍّ تَجْر۪ي مِنْ تَحْتِهِمُ الْاَنْهَارُۚ وَقَالُوا الْحَمْدُ لِلّٰهِ الَّذ۪ي هَدٰينَا لِهٰذَا وَمَا كُنَّا لِنَهْتَدِيَ لَوْلَٓا اَنْ هَدٰينَا اللّٰهُۚ لَقَدْ جَٓاءَتْ رُسُلُ رَبِّنَا بِالْحَقِّۜ وَنُودُٓوا اَنْ تِلْكُمُ الْجَنَّةُ اُو۫رِثْتُمُوهَا بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "translation": "Biz, onların göğüslerinde kine/hınca/öfkeye dair ne varsa hepsini çekip almışızdır. Onların altlarından ırmaklar akar. “Bizi buna ulaştıran Allah’a hamd olsun. Eğer Allah, bizi bu (nimetlere) eriştirmeseydi kendiliğimizden bunlara erişmemiz mümkün olmazdı. Andolsun ki, Rabbimizin resûlleri bize hakla geldiler.” Onlara: “İşte bu, yaptığınız (salih) amellere karşılık mirasçısı kılındığınız cennettir.” diye seslenilir.",
+      "footnotes": null
+    },
+    {
+      "id": "998",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "44",
+      "arabic_text": "وَنَادٰٓى اَصْحَابُ الْجَنَّةِ اَصْحَابَ النَّارِ اَنْ قَدْ وَجَدْنَا مَا وَعَدَنَا رَبُّنَا حَقًّا فَهَلْ وَجَدْتُمْ مَا وَعَدَ رَبُّكُمْ حَقًّاۜ قَالُوا نَعَمْۚ فَاَذَّنَ مُؤَذِّنٌ بَيْنَهُمْ اَنْ لَعْنَةُ اللّٰهِ عَلَى الظَّالِم۪ينَۙ",
+      "translation": "Cennetlikler, cehennemliklere seslenir: “Rabbimizin bize vadettiğinin hak olduğunu bulduk. Siz de Rabbinizin (size olan azap) vaadinin hak olduğunu buldunuz mu?” (Onlar:) “Evet.” der. (Bunun üzerine) aralarından bir münadi: “Allah’ın laneti zalimlerin üzerine olsun.” diye seslenir.",
+      "footnotes": null
+    },
+    {
+      "id": "999",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "45",
+      "arabic_text": "اَلَّذ۪ينَ يَصُدُّونَ عَنْ سَب۪يلِ اللّٰهِ وَيَبْغُونَهَا عِوَجًاۚ وَهُمْ بِالْاٰخِرَةِ كَافِرُونَۜ",
+      "translation": "Onlar ki; insanları Allah’ın yolundan alıkoyar ve o yolun çarpık/eğri olmasını isterler. Onlar ahireti de inkâr ederler.",
+      "footnotes": null
+    },
+    {
+      "id": "1000",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "46",
+      "arabic_text": "وَبَيْنَهُمَا حِجَابٌۚ وَعَلَى الْاَعْرَافِ رِجَالٌ يَعْرِفُونَ كُلًّا بِس۪يمٰيهُمْۚ وَنَادَوْا اَصْحَابَ الْجَنَّةِ اَنْ سَلَامٌ عَلَيْكُمْ لَمْ يَدْخُلُوهَا وَهُمْ يَطْمَعُونَ",
+      "translation": "Onların arasında bir perde vardır. A’raf’ta bekleyen adamlar vardır. Onlar herkesi yüzünden tanırlar. Cennet ehline: “Selam size olsun!” diye seslenirler. Ki bunlar, şiddetle arzulamakla birlikte henüz (cennete) girmemişlerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "1001",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "47",
+      "arabic_text": "وَاِذَا صُرِفَتْ اَبْصَارُهُمْ تِلْقَٓاءَ اَصْحَابِ النَّارِۙ قَالُوا رَبَّنَا لَا تَجْعَلْنَا مَعَ الْقَوْمِ الظَّالِم۪ينَ۟",
+      "translation": "Gözleri cehennemlikler (olan) tarafa çevrildiğinde: “Rabbimiz! Bizi zalimler topluluğuyla beraber eyleme!” derler.",
+      "footnotes": null
+    },
+    {
+      "id": "1002",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "48",
+      "arabic_text": "وَنَادٰٓى اَصْحَابُ الْاَعْرَافِ رِجَالًا يَعْرِفُونَهُمْ بِس۪يمٰيهُمْ قَالُوا مَٓا اَغْنٰى عَنْكُمْ جَمْعُكُمْ وَمَا كُنْتُمْ تَسْتَكْبِرُونَ",
+      "translation": "A’raf’takiler yüzlerinden tanıdıkları bazı adamlara: “Ne topladığınız (güç ve servetiniz) ne de büyüklenmeniz (Allah’ın azabına karşı) size fayda sağladı.” diye seslenecekler.",
+      "footnotes": null
+    },
+    {
+      "id": "1003",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "49",
+      "arabic_text": "اَهٰٓؤُ۬لَٓاءِ الَّذ۪ينَ اَقْسَمْتُمْ لَا يَنَالُهُمُ اللّٰهُ بِرَحْمَةٍۜ اُدْخُلُوا الْجَنَّةَ لَا خَوْفٌ عَلَيْكُمْ وَلَٓا اَنْتُمْ تَحْزَنُونَ",
+      "translation": "“Allah’ın rahmeti erişmez.” diye yemin ettikleriniz bunlar mıydı? Girin cennete! Size korku da yoktur, siz üzülmeyeceksiniz de.",
+      "footnotes": null
+    },
+    {
+      "id": "1004",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "50",
+      "arabic_text": "وَنَادٰٓى اَصْحَابُ النَّارِ اَصْحَابَ الْجَنَّةِ اَنْ اَف۪يضُوا عَلَيْنَا مِنَ الْمَٓاءِ اَوْ مِمَّا رَزَقَكُمُ اللّٰهُۜ قَالُٓوا اِنَّ اللّٰهَ حَرَّمَهُمَا عَلَى الْكَافِر۪ينَۙ",
+      "translation": "Cehennemlikler cennetliklere seslenecekler: “Bize biraz sudan veya Allah’ın size verdiği rızıktan akıtın/verin.” (Cennetlikler:) “Şüphesiz ki Allah, o ikisini kâfirlere haram/yasak kılmıştır.” diyecekler.",
+      "footnotes": null
+    },
+    {
+      "id": "1005",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "51",
+      "arabic_text": "اَلَّذ۪ينَ اتَّخَذُوا د۪ينَهُمْ لَهْوًا وَلَعِبًا وَغَرَّتْهُمُ الْحَيٰوةُ الدُّنْيَاۚ فَالْيَوْمَ نَنْسٰيهُمْ كَمَا نَسُوا لِقَٓاءَ يَوْمِهِمْ هٰذَاۙ وَمَا كَانُوا بِاٰيَاتِنَا يَجْحَدُونَ",
+      "translation": "Onlar ki; dinlerini eğlence ve oyun edindiler ve dünya hayatı onları aldattı. Onlar bu günlerini unuttukları ve bizim ayetlerimizi inkâr ettikleri gibi biz de bugün onları unutacağız.",
+      "footnotes": null
+    },
+    {
+      "id": "1006",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "52",
+      "arabic_text": "وَلَقَدْ جِئْنَاهُمْ بِكِتَابٍ فَصَّلْنَاهُ عَلٰى عِلْمٍ هُدًى وَرَحْمَةً لِقَوْمٍ يُؤْمِنُونَ",
+      "translation": "Andolsun ki onlara, ilim üzere detaylandırdığımız, iman eden bir topluluk için hidayet ve rahmet olan bir Kitap getirdik.",
+      "footnotes": null
+    },
+    {
+      "id": "1007",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "53",
+      "arabic_text": "هَلْ يَنْظُرُونَ اِلَّا تَأْو۪يلَهُۜ يَوْمَ يَأْت۪ي تَأْو۪يلُهُ يَقُولُ الَّذ۪ينَ نَسُوهُ مِنْ قَبْلُ قَدْ جَٓاءَتْ رُسُلُ رَبِّنَا بِالْحَقِّۚ فَهَلْ لَنَا مِنْ شُفَعَٓاءَ فَيَشْفَعُوا لَنَٓا اَوْ نُرَدُّ فَنَعْمَلَ غَيْرَ الَّذ۪ي كُنَّا نَعْمَلُۜ قَدْ خَسِرُٓوا اَنْفُسَهُمْ وَضَلَّ عَنْهُمْ مَا كَانُوا يَفْتَرُونَ۟",
+      "translation": "Onlar onun (haber verdiği hakikatin) tevilinden/vuku bulmasından başka bir şey mi bekliyorlar? Onun (haber verdiklerinin) vuku bulduğu gün, onu daha önceden unutmuş olanlar diyecekler ki: “Şüphesiz ki Rabbimizin resûlleri, bize hak olanı getirmişlerdi. Acaba (Allah’ın azabından kurtulmamız için) bize şefaat edecek şefaatçiler var mıdır? Ya da (dünyaya) geri çevrilsek de (daha önce) yaptıklarımızdan farklı olarak (Allah’ı razı edecek) ameller yapsak?” Muhakkak ki kendilerini hüsrana uğratmış, (Allah’a) iftira ederek uydurdukları (hurafeler) kaybolup gitmiştir.",
+      "footnotes": null
+    },
+    {
+      "id": "1008",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "54",
+      "arabic_text": "اِنَّ رَبَّكُمُ اللّٰهُ الَّذ۪ي خَلَقَ السَّمٰوَاتِ وَالْاَرْضَ ف۪ي سِتَّةِ اَيَّامٍ ثُمَّ اسْتَوٰى عَلَى الْعَرْشِ يُغْشِي الَّيْلَ النَّهَارَ يَطْلُبُهُ حَث۪يثًاۙ وَالشَّمْسَ وَالْقَمَرَ وَالنُّجُومَ مُسَخَّرَاتٍ بِاَمْرِه۪ۜ اَلَا لَهُ الْخَلْقُ وَالْاَمْرُۜ تَبَارَكَ اللّٰهُ رَبُّ الْعَالَم۪ينَ",
+      "translation": "Şüphesiz ki sizin Rabbiniz, altı günde gökleri ve yeri yaratan, sonra arşa istiva eden1 Allah’tır. Gündüzü, ısrarla kovalayan geceyle örter. Güneş, Ay ve yıldızları emrine amade kılıp, boyun eğdirendir. Dikkat edin! Yaratmak da emretmek de Allah’a aittir.2 Âlemlerin Rabbi olan Allah, ne yücedir.",
+      "footnotes": null
+    },
+    {
+      "id": "1009",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "55",
+      "arabic_text": "اُدْعُوا رَبَّكُمْ تَضَرُّعًا وَخُفْيَةًۜ اِنَّهُ لَا يُحِبُّ الْمُعْتَد۪ينَۚ",
+      "translation": "Rabbinize gönülden (yalvara yakara) ve gizlice (için için) dua edin. Şüphesiz ki O, (duada) haddi aşanları sevmez.",
+      "footnotes": null
+    },
+    {
+      "id": "1010",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "56",
+      "arabic_text": "وَلَا تُفْسِدُوا فِي الْاَرْضِ بَعْدَ اِصْلَاحِهَا وَادْعُوهُ خَوْفًا وَطَمَعًاۜ اِنَّ رَحْمَتَ اللّٰهِ قَر۪يبٌ مِنَ الْمُحْسِن۪ينَ",
+      "translation": "Yeryüzü (Allah tarafından düzenlenip) ıslah edildikten sonra orada bozgunculuk yapmayın. O’na korkarak ve umarak dua edin. Elbette ki Allah’ın rahmeti, muhsinlere/kulluğunu en güzel şekilde yapmaya çalışanlara pek yakındır.",
+      "footnotes": null
+    },
+    {
+      "id": "1011",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "57",
+      "arabic_text": "وَهُوَ الَّذ۪ي يُرْسِلُ الرِّيَاحَ بُشْرًا بَيْنَ يَدَيْ رَحْمَتِه۪ۜ حَتّٰٓى اِذَٓا اَقَلَّتْ سَحَابًا ثِقَالًا سُقْنَاهُ لِبَلَدٍ مَيِّتٍ فَاَنْزَلْنَا بِهِ الْمَٓاءَ فَاَخْرَجْنَا بِه۪ مِنْ كُلِّ الثَّمَرَاتِۜ كَذٰلِكَ نُخْرِجُ الْمَوْتٰى لَعَلَّكُمْ تَذَكَّرُونَ",
+      "translation": "Rahmeti (gereği yağmurun) öncesinde rüzgârları müjde olarak yollayan O’dur. Bu (rüzgârlar) ağır bulutları yüklendiğinde biz (bulutları kuraklıktan) ölmüş bir beldeye sürükleriz. Onunla su indirir ve onunla her türlü üründen çıkarırız. İşte biz ölüleri de (kabirlerinden) böyle çıkarırız. Umulur ki düşünüp öğüt alırsınız.",
+      "footnotes": null
+    },
+    {
+      "id": "1012",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "58",
+      "arabic_text": "وَالْبَلَدُ الطَّيِّبُ يَخْرُجُ نَبَاتُهُ بِاِذْنِ رَبِّه۪ۚ وَالَّذ۪ي خَبُثَ لَا يَخْرُجُ اِلَّا نَكِدًاۜ كَذٰلِكَ نُصَرِّفُ الْاٰيَاتِ لِقَوْمٍ يَشْكُرُونَ۟",
+      "translation": "Güzel beldenin bitkisi, Rabbinin izniyle çıkar. Kötü olan (beldede ise) faydasız olandan başkası çıkmaz. Şükreden bir topluluk için ayetleri böyle türlü türlü biçimlerde açıklıyoruz.",
+      "footnotes": null
+    },
+    {
+      "id": "1013",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "59",
+      "arabic_text": "لَقَدْ اَرْسَلْنَا نُوحًا اِلٰى قَوْمِه۪ فَقَالَ يَا قَوْمِ اعْبُدُوا اللّٰهَ مَا لَكُمْ مِنْ اِلٰهٍ غَيْرُهُۜ اِنّ۪ٓي اَخَافُ عَلَيْكُمْ عَذَابَ يَوْمٍ عَظ۪يمٍ",
+      "translation": "Andolsun ki, Nuh’u kavmine (peygamber olarak) yolladık. Demişti ki: “Ey kavmim! Allah’a ibadet/kulluk edin. Sizin O’ndan başka (ibadeti hak eden) bir ilahınız yoktur. Şüphesiz ki ben, sizler için o büyük günün azabından korkmaktayım.”",
+      "footnotes": null
+    },
+    {
+      "id": "1014",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "60",
+      "arabic_text": "قَالَ الْمَلَاُ مِنْ قَوْمِه۪ٓ اِنَّا لَنَرٰيكَ ف۪ي ضَلَالٍ مُب۪ينٍ",
+      "translation": "Kavminin önde gelenleri demişlerdi ki: “Şüphesiz ki biz, seni apaçık bir sapıklık içinde görmekteyiz.”",
+      "footnotes": null
+    },
+    {
+      "id": "1015",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "61",
+      "arabic_text": "قَالَ يَا قَوْمِ لَيْسَ ب۪ي ضَلَالَةٌ وَلٰكِنّ۪ي رَسُولٌ مِنْ رَبِّ الْعَالَم۪ينَ",
+      "translation": "Demişti ki: “Ey kavmim! Bende sapıklık yok. Lakin ben âlemlerin Rabbi olan (Allah tarafından gönderilmiş) bir elçiyim.”",
+      "footnotes": null
+    },
+    {
+      "id": "1016",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "62",
+      "arabic_text": "اُبَلِّغُكُمْ رِسَالَاتِ رَبّ۪ي وَاَنْصَحُ لَكُمْ وَاَعْلَمُ مِنَ اللّٰهِ مَا لَا تَعْلَمُونَ",
+      "translation": "“Size Rabbimin risaletini/mesajlarını iletiyorum ve size nasihat ediyorum. Ve ben, Allah’tan (bana gelen vahiy sayesinde) sizin bilmediklerinizi biliyorum.”",
+      "footnotes": null
+    },
+    {
+      "id": "1017",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "63",
+      "arabic_text": "اَوَعَجِبْتُمْ اَنْ جَٓاءَكُمْ ذِكْرٌ مِنْ رَبِّكُمْ عَلٰى رَجُلٍ مِنْكُمْ لِيُنْذِرَكُمْ وَلِتَتَّقُوا وَلَعَلَّكُمْ تُرْحَمُونَ",
+      "translation": "“Sizi uyaran, sakınıp korkasınız diye (öğüt veren) ve merhamet olunursunuz diye sizin içinizden bir adama Rabbinizden bir zikir/hatırlatma geldi diye mi şaşırdınız?”",
+      "footnotes": null
+    },
+    {
+      "id": "1018",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "64",
+      "arabic_text": "فَكَذَّبُوهُ فَاَنْجَيْنَاهُ وَالَّذ۪ينَ مَعَهُ فِي الْفُلْكِ وَاَغْرَقْنَا الَّذ۪ينَ كَذَّبُوا بِاٰيَاتِنَاۜ اِنَّهُمْ كَانُوا قَوْمًا عَم۪ينَ۟",
+      "translation": "Onu yalanladılar. Biz de onu ve gemide onunla beraber olanları kurtardık. Ayetlerimizi yalanlayanları ise boğduk. (Çünkü) onlar (hakikatleri görmeyen) kör bir kavimdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1019",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "65",
+      "arabic_text": "وَاِلٰى عَادٍ اَخَاهُمْ هُودًاۜ قَالَ يَا قَوْمِ اعْبُدُوا اللّٰهَ مَا لَكُمْ مِنْ اِلٰهٍ غَيْرُهُۜ اَفَلَا تَتَّقُونَ",
+      "translation": "Âd Kavmi'ne de kardeşleri Hud’u (peygamber olarak yolladık). Demişti ki: “Ey kavmim! Allah’a ibadet/kulluk edin. Sizin O’ndan başka (ibadeti hak eden) bir ilahınız yoktur. Korkup sakınmayacak mısınız?”",
+      "footnotes": null
+    },
+    {
+      "id": "1020",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "66",
+      "arabic_text": "قَالَ الْمَلَاُ الَّذ۪ينَ كَفَرُوا مِنْ قَوْمِه۪ٓ اِنَّا لَنَرٰيكَ ف۪ي سَفَاهَةٍ وَاِنَّا لَنَظُنُّكَ مِنَ الْكَاذِب۪ينَ",
+      "translation": "Kavminin önde gelenlerinden kâfir olanlar demişlerdi ki: “Seni kıt akıllı biri olarak görüyor ve kesinlikle senin yalancı biri olduğunu sanıyoruz.”",
+      "footnotes": null
+    },
+    {
+      "id": "1021",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "67",
+      "arabic_text": "قَالَ يَا قَوْمِ لَيْسَ ب۪ي سَفَاهَةٌ وَلٰكِنّ۪ي رَسُولٌ مِنْ رَبِّ الْعَالَم۪ينَ",
+      "translation": "Demişti ki: “Ey kavmim! Bende akıl kıtlığı yoktur. Fakat ben âlemlerin Rabbi (tarafından gönderilmiş) bir elçiyim.”",
+      "footnotes": null
+    },
+    {
+      "id": "1022",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "68",
+      "arabic_text": "اُبَلِّغُكُمْ رِسَالَاتِ رَبّ۪ي وَاَنَا۬ لَكُمْ نَاصِحٌ اَم۪ينٌ",
+      "translation": "“Size Rabbimin risaletini/mesajlarını iletiyorum ve ben sizin için güvenilir bir nasihatçiyim.”",
+      "footnotes": null
+    },
+    {
+      "id": "1023",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "69",
+      "arabic_text": "اَوَعَجِبْتُمْ اَنْ جَٓاءَكُمْ ذِكْرٌ مِنْ رَبِّكُمْ عَلٰى رَجُلٍ مِنْكُمْ لِيُنْذِرَكُمْۜ وَاذْكُرُٓوا اِذْ جَعَلَكُمْ خُلَفَٓاءَ مِنْ بَعْدِ قَوْمِ نُوحٍ وَزَادَكُمْ فِي الْخَلْقِ بَصْۣطَةًۚ فَاذْكُرُٓوا اٰلَٓاءَ اللّٰهِ لَعَلَّكُمْ تُفْلِحُونَ",
+      "translation": "“İçinizden bir adama sizi uyarması için Rabbinizden bir zikir/hatırlatma gelmesine mi şaşırdınız? Hatırlayın! Hani (Allah) sizleri Nuh Kavmi'nden sonra halifeler kılmış ve (boy, pos, güç ve kuvvet vererek) yaratılışta genişlik ihsan etmişti. Allah’ın nimetlerini hatırlayın ki kurtuluşa eresiniz.”",
+      "footnotes": null
+    },
+    {
+      "id": "1024",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "70",
+      "arabic_text": "قَالُٓوا اَجِئْتَنَا لِنَعْبُدَ اللّٰهَ وَحْدَهُ وَنَذَرَ مَا كَانَ يَعْبُدُ اٰبَٓاؤُ۬نَاۚ فَأْتِنَا بِمَا تَعِدُنَٓا اِنْ كُنْتَ مِنَ الصَّادِق۪ينَ",
+      "translation": "Demişlerdi ki: “Bir tek Allah’a ibadet edelim ve babalarımızın ibadet ettiği (ilahları) bırakalım diye mi bize geldin? Şayet doğru sözlüysen vadettiğin (azabı) getir (bakalım)!”",
+      "footnotes": null
+    },
+    {
+      "id": "1025",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "71",
+      "arabic_text": "قَالَ قَدْ وَقَعَ عَلَيْكُمْ مِنْ رَبِّكُمْ رِجْسٌ وَغَضَبٌۜ اَتُجَادِلُونَن۪ي ف۪ٓي اَسْمَٓاءٍ سَمَّيْتُمُوهَٓا اَنْتُمْ وَاٰبَٓاؤُ۬كُمْ مَا نَزَّلَ اللّٰهُ بِهَا مِنْ سُلْطَانٍۜ فَانْتَظِرُٓوا اِنّ۪ي مَعَكُمْ مِنَ الْمُنْتَظِر۪ينَ",
+      "translation": "Gerçekten Rabbinizden size şiddetli bir azap ve öfke gelecektir. Sizin ve babalarınızın isimlendirdiği ve Allah’ın hakkında hiçbir delil indirmediği şu isimler hakkında benimle tartışacak mısınız? Bekleyin (bakalım)! Ben de sizinle beraber bekleyenlerdenim.",
+      "footnotes": null
+    },
+    {
+      "id": "1026",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "72",
+      "arabic_text": "فَاَنْجَيْنَاهُ وَالَّذ۪ينَ مَعَهُ بِرَحْمَةٍ مِنَّا وَقَطَعْنَا دَابِرَ الَّذ۪ينَ كَذَّبُوا بِاٰيَاتِنَا وَمَا كَانُوا مُؤْمِن۪ينَ۟",
+      "translation": "Onu ve onunla beraber olanları, tarafımızdan bir rahmetle kurtardık. Ayetlerimizi yalanlayanların ise (kökünü kurutarak) arkalarını kestik. Onlar mümin de değillerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1027",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "73",
+      "arabic_text": "وَاِلٰى ثَمُودَ اَخَاهُمْ صَالِحًاۢ قَالَ يَا قَوْمِ اعْبُدُوا اللّٰهَ مَا لَكُمْ مِنْ اِلٰهٍ غَيْرُهُۜ قَدْ جَٓاءَتْكُمْ بَيِّنَةٌ مِنْ رَبِّكُمْۜ هٰذِه۪ نَاقَةُ اللّٰهِ لَكُمْ اٰيَةً فَذَرُوهَا تَأْكُلْ ف۪ٓي اَرْضِ اللّٰهِ وَلَا تَمَسُّوهَا بِسُٓوءٍ فَيَأْخُذَكُمْ عَذَابٌ اَل۪يمٌ",
+      "translation": "Ve Semud Kavmi'ne de kardeşleri Salih’i (peygamber olarak yolladık). Demişti ki: “Ey kavmim! Allah’a kulluk/ibadet edin. Sizin O’ndan başka (ibadeti hak eden) bir ilahınız yoktur. Şüphesiz ki Rabbinizden size apaçık bir (mucize) geldi. Bu, Allah’ın dişi devesi, sizin için bir ayet/mucizedir. Onu bırakın, Allah’ın arzında otlasın. Sakın ona bir kötülük etmeye kalkmayın. Yoksa can yakıcı bir azap sizi yakalar.”",
+      "footnotes": null
+    },
+    {
+      "id": "1028",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "74",
+      "arabic_text": "وَاذْكُرُٓوا اِذْ جَعَلَكُمْ خُلَفَٓاءَ مِنْ بَعْدِ عَادٍ وَبَوَّاَكُمْ فِي الْاَرْضِ تَتَّخِذُونَ مِنْ سُهُولِهَا قُصُورًا وَتَنْحِتُونَ الْجِبَالَ بُيُوتًاۚ فَاذْكُرُٓوا اٰلَٓاءَ اللّٰهِ وَلَا تَعْثَوْا فِي الْاَرْضِ مُفْسِد۪ينَ",
+      "translation": "“Hatırlayın! Hani (Allah) Âd Kavmi'nden sonra sizleri halifeler kılmış ve sizi yeryüzüne yerleştirmişti. Ovalarında saraylar inşa ediyor, dağlarından evler yontuyordunuz. Allah’ın nimetlerini hatırlayın ve bozgunculuk yaparak karışıklık/düzensizlik/taşkınlık çıkarmayın.”",
+      "footnotes": null
+    },
+    {
+      "id": "1029",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "75",
+      "arabic_text": "قَالَ الْمَلَاُ الَّذ۪ينَ اسْتَكْبَرُوا مِنْ قَوْمِه۪ لِلَّذ۪ينَ اسْتُضْعِفُوا لِمَنْ اٰمَنَ مِنْهُمْ اَتَعْلَمُونَ اَنَّ صَالِحًا مُرْسَلٌ مِنْ رَبِّه۪ۜ قَالُٓوا اِنَّا بِمَٓا اُرْسِلَ بِه۪ مُؤْمِنُونَ",
+      "translation": "Kavminin önde gelen müstekbirleri, iman etmiş olan mustazaflara: “Salih’in, Rabbi tarafından gönderilen bir resûl olduğunu biliyor musunuz?” demişlerdi. (Onlar) demişlerdi ki: “Şüphesiz biz, onun kendisiyle gönderildiği şeye iman edenleriz.”",
+      "footnotes": null
+    },
+    {
+      "id": "1030",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "76",
+      "arabic_text": "قَالَ الَّذ۪ينَ اسْتَكْبَرُٓوا اِنَّا بِالَّذ۪ٓي اٰمَنْتُمْ بِه۪ كَافِرُونَ",
+      "translation": "Müstekbirler: “Biz de sizin inandığınıza kâfir olanlarız.” demişlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1031",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "77",
+      "arabic_text": "فَعَقَرُوا النَّاقَةَ وَعَتَوْا عَنْ اَمْرِ رَبِّهِمْ وَقَالُوا يَا صَالِحُ ائْتِنَا بِمَا تَعِدُنَٓا اِنْ كُنْتَ مِنَ الْمُرْسَل۪ينَ",
+      "translation": "Dişi deveyi kestiler. Rablerinin emrine karşı çıktılar ve: “Ey Salih! Şayet resûllerden isen vadettiğin (azabı) getir bize.” dediler.",
+      "footnotes": null
+    },
+    {
+      "id": "1032",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "78",
+      "arabic_text": "فَاَخَذَتْهُمُ الرَّجْفَةُ فَاَصْبَحُوا ف۪ي دَارِهِمْ جَاثِم۪ينَ",
+      "translation": "(Bunun üzerine) onları korkunç bir sarsıntı yakaladı ve öz yurtlarında diz üstü çöküp kaldılar.",
+      "footnotes": null
+    },
+    {
+      "id": "1033",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "79",
+      "arabic_text": "فَتَوَلّٰى عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ اَبْلَغْتُكُمْ رِسَالَةَ رَبّ۪ي وَنَصَحْتُ لَكُمْ وَلٰكِنْ لَا تُحِبُّونَ النَّاصِح۪ينَ",
+      "translation": "(Salih) onlardan yüz çevirdi ve: “Ey kavmim! Andolsun, size Rabbimin mesajını ilettim ve size nasihat ettim. Fakat siz nasihat edenleri sevmiyorsunuz.” dedi.",
+      "footnotes": null
+    },
+    {
+      "id": "1034",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "80",
+      "arabic_text": "وَلُوطًا اِذْ قَالَ لِقَوْمِه۪ٓ اَتَأْتُونَ الْفَاحِشَةَ مَا سَبَقَكُمْ بِهَا مِنْ اَحَدٍ مِنَ الْعَالَم۪ينَ",
+      "translation": "Lut’u da (kavmine gönderdik.) Hani (Lut) kavmine: “Sizden önce âlemlerden hiç kimsenin yapmadığı bir fuhşiyatı mı yapıyorsunuz?” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "1035",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "81",
+      "arabic_text": "اِنَّكُمْ لَتَأْتُونَ الرِّجَالَ شَهْوَةً مِنْ دُونِ النِّسَٓاءِۜ بَلْ اَنْتُمْ قَوْمٌ مُسْرِفُونَ",
+      "translation": "“Şüphesiz ki sizler, kadınları bırakıp erkeklere şehvetle yaklaşıyorsunuz. Siz, aşırı giden taşkın bir toplumsunuz.”",
+      "footnotes": null
+    },
+    {
+      "id": "1036",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "82",
+      "arabic_text": "وَمَا كَانَ جَوَابَ قَوْمِه۪ٓ اِلَّٓا اَنْ قَالُٓوا اَخْرِجُوهُمْ مِنْ قَرْيَتِكُمْۚ اِنَّهُمْ اُنَاسٌ يَتَطَهَّرُونَ",
+      "translation": "Kavmi: “Onları yurdunuzdan çıkarın. (Çünkü) onlar temizlenen insanlardır.” demek dışında bir cevap vermemişti.",
+      "footnotes": null
+    },
+    {
+      "id": "1037",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "83",
+      "arabic_text": "فَاَنْجَيْنَاهُ وَاَهْلَهُٓ اِلَّا امْرَاَتَهُۘ كَانَتْ مِنَ الْغَابِر۪ينَ",
+      "translation": "Hanımı hariç, onu ve ailesini kurtarmıştık. (Hanımı) geride (helak olanlarla) kalmıştı.",
+      "footnotes": null
+    },
+    {
+      "id": "1038",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "84",
+      "arabic_text": "وَاَمْطَرْنَا عَلَيْهِمْ مَطَرًاۜ فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُجْرِم۪ينَ۟",
+      "translation": "Onların üzerine bir (azap) yağmuru yağdırmıştık. Suçlu günahkârların akıbetinin nasıl olduğuna bir bak!",
+      "footnotes": null
+    },
+    {
+      "id": "1039",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "85",
+      "arabic_text": "وَاِلٰى مَدْيَنَ اَخَاهُمْ شُعَيْبًاۜ قَالَ يَا قَوْمِ اعْبُدُوا اللّٰهَ مَا لَكُمْ مِنْ اِلٰهٍ غَيْرُهُۜ قَدْ جَٓاءَتْكُمْ بَيِّنَةٌ مِنْ رَبِّكُمْ فَاَوْفُوا الْكَيْلَ وَالْم۪يزَانَ وَلَا تَبْخَسُوا النَّاسَ اَشْيَٓاءَهُمْ وَلَا تُفْسِدُوا فِي الْاَرْضِ بَعْدَ اِصْلَاحِهَاۜ ذٰلِكُمْ خَيْرٌ لَكُمْ اِنْ كُنْتُمْ مُؤْمِن۪ينَۚ",
+      "translation": "Medyen’e de kardeşleri Şuayb’ı (yollamıştık). Demişti ki: “Ey kavmim! Allah’a ibadet/kulluk edin. Sizin O’ndan başka (ibadeti hak eden) bir ilahınız yoktur. Şüphesiz ki size Rabbinizden apaçık bir mucize geldi. Ölçü ve tartıyı tam tutun. İnsanların eşyalarını (değerini düşürerek) eksiltmeyin. (Allah) yeryüzünü düzenledikten sonra orada bozgunculuk yapmayın. Şayet inanmışsanız bu sizin için en hayırlı olandır.”",
+      "footnotes": null
+    },
+    {
+      "id": "1040",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "86",
+      "arabic_text": "وَلَا تَقْعُدُوا بِكُلِّ صِرَاطٍ تُوعِدُونَ وَتَصُدُّونَ عَنْ سَب۪يلِ اللّٰهِ مَنْ اٰمَنَ بِه۪ وَتَبْغُونَهَا عِوَجًاۚ وَاذْكُرُٓوا اِذْ كُنْتُمْ قَل۪يلًا فَكَثَّرَكُمْۖ وَانْظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِد۪ينَ",
+      "translation": "“(Allah’ın yolunun) çarpık/eğri olmasını isteyerek ve O’na iman edenleri Allah’ın yolundan alıkoymak için tehditler savurarak her yolun başına oturmayın. Hatırlayın! Siz az iken sizi çoğalttı. Bozguncuların akıbetinin nasıl olduğuna bir bakın.”",
+      "footnotes": null
+    },
+    {
+      "id": "1041",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "87",
+      "arabic_text": "وَاِنْ كَانَ طَٓائِفَةٌ مِنْكُمْ اٰمَنُوا بِالَّذ۪ٓي اُرْسِلْتُ بِه۪ وَطَٓائِفَةٌ لَمْ يُؤْمِنُوا فَاصْبِرُوا حَتّٰى يَحْكُمَ اللّٰهُ بَيْنَنَاۚ وَهُوَ خَيْرُ الْحَاكِم۪ينَ",
+      "translation": "“İçinizden bir topluluk benim kendisiyle gönderildiğime iman etmiş ve bir taife de iman etmemişse, Allah aramızda hükmedinceye kadar sabredin. O, hükmedenlerin en hayırlısıdır.”",
+      "footnotes": null
+    },
+    {
+      "id": "1042",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "88",
+      "arabic_text": "قَالَ الْمَلَاُ الَّذ۪ينَ اسْتَكْبَرُوا مِنْ قَوْمِه۪ لَنُخْرِجَنَّكَ يَا شُعَيْبُ وَالَّذ۪ينَ اٰمَنُوا مَعَكَ مِنْ قَرْيَتِنَٓا اَوْ لَتَعُودُنَّ ف۪ي مِلَّتِنَاۜ قَالَ اَوَلَوْ كُنَّا كَارِه۪ينَ",
+      "translation": "Kavminden ileri gelen müstekbirler demişlerdi ki: “Ey Şuayb! Seni ve seninle beraber iman edenleri kesinlikle yurdumuzdan çıkarıp süreceğiz. Ya da kesinlikle dinimize geri dönersiniz.” Demişti ki: “İstemesek de mi?”",
+      "footnotes": null
+    },
+    {
+      "id": "1043",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "89",
+      "arabic_text": "قَدِ افْتَرَيْنَا عَلَى اللّٰهِ كَذِبًا اِنْ عُدْنَا ف۪ي مِلَّتِكُمْ بَعْدَ اِذْ نَجّٰينَا اللّٰهُ مِنْهَاۜ وَمَا يَكُونُ لَنَٓا اَنْ نَعُودَ ف۪يهَٓا اِلَّٓا اَنْ يَشَٓاءَ اللّٰهُ رَبُّنَاۜ وَسِعَ رَبُّنَا كُلَّ شَيْءٍ عِلْمًاۜ عَلَى اللّٰهِ تَوَكَّلْنَاۜ رَبَّنَا افْتَحْ بَيْنَنَا وَبَيْنَ قَوْمِنَا بِالْحَقِّ وَاَنْتَ خَيْرُ الْفَاتِح۪ينَ",
+      "translation": "“Bizi ondan kurtardıktan sonra sizin dininize dönersek, Allah’a yalan yere iftira etmiş oluruz. Rabbimiz olan Allah’ın dilemesi dışında bizim ona dönmemiz mümkün değildir. Rabbimiz her şeyi ilmiyle kuşatmıştır ve biz yalnızca Allah’a tevekkül ettik. Rabbimiz! Bizimle kavmimiz arasında hakla hükmet. Sen, hükmedenlerin en hayırlısısın.”",
+      "footnotes": null
+    },
+    {
+      "id": "1044",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "90",
+      "arabic_text": "وَقَالَ الْمَلَاُ الَّذ۪ينَ كَفَرُوا مِنْ قَوْمِه۪ لَئِنِ اتَّبَعْتُمْ شُعَيْبًا اِنَّكُمْ اِذًا لَخَاسِرُونَ",
+      "translation": "Kavminin önde gelen kâfirleri demişti ki: “Andolsun ki Şuayb’a uyarsanız kesinlikle hüsrana uğrayanlardan olursunuz.”",
+      "footnotes": null
+    },
+    {
+      "id": "1045",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "91",
+      "arabic_text": "فَاَخَذَتْهُمُ الرَّجْفَةُ فَاَصْبَحُوا ف۪ي دَارِهِمْ جَاثِم۪ينَۚۛ",
+      "translation": "(Bunun üzerine) onları şiddetli bir sarsıntı yakaladı. Öz yurtlarında diz üstü çöküp kaldılar.",
+      "footnotes": null
+    },
+    {
+      "id": "1046",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "92",
+      "arabic_text": "اَلَّذ۪ينَ كَذَّبُوا شُعَيْبًا كَاَنْ لَمْ يَغْنَوْا ف۪يهَاۚۛ اَلَّذ۪ينَ كَذَّبُوا شُعَيْبًا كَانُوا هُمُ الْخَاسِر۪ينَ",
+      "translation": "Şuayb’ı yalanlayanlar (var ya); sanki orada zenginlik içinde hiç yaşamamışlar gibi... Şuayb’ı yalanlayanlar (var ya); asıl hüsrana uğrayanlar onlar oldular.",
+      "footnotes": null
+    },
+    {
+      "id": "1047",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "93",
+      "arabic_text": "فَتَوَلّٰى عَنْهُمْ وَقَالَ يَا قَوْمِ لَقَدْ اَبْلَغْتُكُمْ رِسَالَاتِ رَبّ۪ي وَنَصَحْتُ لَكُمْۚ فَكَيْفَ اٰسٰى عَلٰى قَوْمٍ كَافِر۪ينَ۟",
+      "translation": "Onlardan yüz çevirmiş ve demişti ki: “Ey kavmim! Andolsun ki, size Rabbimin mesajlarını ilettim ve size nasihat ettim. Kâfir bir toplum için nasıl üzülebilirim ki?”",
+      "footnotes": null
+    },
+    {
+      "id": "1048",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "94",
+      "arabic_text": "وَمَٓا اَرْسَلْنَا ف۪ي قَرْيَةٍ مِنْ نَبِيٍّ اِلَّٓا اَخَذْنَٓا اَهْلَهَا بِالْبَأْسَٓاءِ وَالضَّرَّٓاءِ لَعَلَّهُمْ يَضَّرَّعُونَ",
+      "translation": "Biz hangi beldeye bir nebi yollamışsak, (Allah’a) boyun eğip gönülden yakarsınlar diye o belde halkını fakirlik ve sıkıntı ile imtihan etmişizdir.",
+      "footnotes": null
+    },
+    {
+      "id": "1049",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "95",
+      "arabic_text": "ثُمَّ بَدَّلْنَا مَكَانَ السَّيِّئَةِ الْحَسَنَةَ حَتّٰى عَفَوْا وَقَالُوا قَدْ مَسَّ اٰبَٓاءَنَا الضَّرَّٓاءُ وَالسَّرَّٓاءُ فَاَخَذْنَاهُمْ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "translation": "(Fakirlik ve sıkıntı imtihanında Allah’a gönülden yalvarıp yakarmadılar.) Sonra kötülüğün yerini iyilikle değiştirdik. Nihayet (afiyet içinde mal ve sayı olarak) çoğaldılar. (Allah’ın onları belalarla imtihan edip, sabırlarını; nimetlerle imtihan edip, şükürlerini sınadığını anlamadılar ve) dediler ki: “Atalarımıza da bazen yokluk bazen de genişlik dokunmuştu. (Demek bu, imtihan değil; herkesin başına gelen sıradan olaylardır.)” (Bunun üzerine) hiç farkında değilken, onları aniden yakalayıverdik.",
+      "footnotes": null
+    },
+    {
+      "id": "1050",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "96",
+      "arabic_text": "وَلَوْ اَنَّ اَهْلَ الْقُرٰٓى اٰمَنُوا وَاتَّقَوْا لَفَتَحْنَا عَلَيْهِمْ بَرَكَاتٍ مِنَ السَّمَٓاءِ وَالْاَرْضِ وَلٰكِنْ كَذَّبُوا فَاَخَذْنَاهُمْ بِمَا كَانُوا يَكْسِبُونَ",
+      "translation": "Şayet o beldenin halkı iman etmiş ve (Allah’tan) korkup sakınmış olsaydı, göğün ve yerin bereket (kapılarını) onlara açardık. Fakat yalanladılar. Biz de onları işledikleri (günahlara) karşılık (azapla) yakalayıverdik.",
+      "footnotes": null
+    },
+    {
+      "id": "1051",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "97",
+      "arabic_text": "اَفَاَمِنَ اَهْلُ الْقُرٰٓى اَنْ يَأْتِيَهُمْ بَأْسُنَا بَيَاتًا وَهُمْ نَٓائِمُونَۜ",
+      "translation": "Yoksa o belde halkı, gece uyurken azabımızın onlara gelmeyeceğinden emin mi oldular?",
+      "footnotes": null
+    },
+    {
+      "id": "1052",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "98",
+      "arabic_text": "اَوَاَمِنَ اَهْلُ الْقُرٰٓى اَنْ يَأْتِيَهُمْ بَأْسُنَا ضُحًى وَهُمْ يَلْعَبُونَ",
+      "translation": "Yoksa o belde halkı, kuşluk vakti eğlenirlerken azabımızın onlara gelmeyeceğinden emin mi oldular?",
+      "footnotes": null
+    },
+    {
+      "id": "1053",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "99",
+      "arabic_text": "اَفَاَمِنُوا مَكْرَ اللّٰهِۚ فَلَا يَأْمَنُ مَكْرَ اللّٰهِ اِلَّا الْقَوْمُ الْخَاسِرُونَ۟",
+      "translation": "Yoksa onlar, Allah’ın tuzağından emin mi oldular? Hüsrana uğramış olanlardan başkası Allah’ın tuzağından emin olmaz.",
+      "footnotes": null
+    },
+    {
+      "id": "1054",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "100",
+      "arabic_text": "اَوَلَمْ يَهْدِ لِلَّذ۪ينَ يَرِثُونَ الْاَرْضَ مِنْ بَعْدِ اَهْلِهَٓا اَنْ لَوْ نَشَٓاءُ اَصَبْنَاهُمْ بِذُنُوبِهِمْۚ وَنَطْبَعُ عَلٰى قُلُوبِهِمْ فَهُمْ لَا يَسْمَعُونَ",
+      "translation": "(Geçmiş) kavimlerin ardından yeryüzüne vâris olanlara şu gerçek belli olmadı mı? Şayet biz istesek günahları nedeniyle başlarına türlü sıkıntılar getirir, kalplerini mühürlerdik. Böylece işitmez olurlardı.",
+      "footnotes": null
+    },
+    {
+      "id": "1055",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "101",
+      "arabic_text": "تِلْكَ الْقُرٰى نَقُصُّ عَلَيْكَ مِنْ اَنْبَٓائِهَاۚ وَلَقَدْ جَٓاءَتْهُمْ رُسُلُهُمْ بِالْبَيِّنَاتِۚ فَمَا كَانُوا لِيُؤْمِنُوا بِمَا كَذَّبُوا مِنْ قَبْلُۜ كَذٰلِكَ يَطْبَعُ اللّٰهُ عَلٰى قُلُوبِ الْكَافِر۪ينَ",
+      "translation": "Bu beldelerin haberlerinden bir kısmını sana anlatıyoruz. Andolsun ki, resûlleri apaçık delillerle onlara gelmişlerdi. Daha önce yalanlamalarından ötürü (yeni gelene) iman etmeleri söz konusu olmadı. İşte Allah, kâfirlerin kalplerini böyle mühürler.",
+      "footnotes": null
+    },
+    {
+      "id": "1056",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "102",
+      "arabic_text": "وَمَا وَجَدْنَا لِاَكْثَرِهِمْ مِنْ عَهْدٍۚ وَاِنْ وَجَدْنَٓا اَكْثَرَهُمْ لَفَاسِق۪ينَ",
+      "translation": "Onların çoğunda söze bağlılık (ahlakı) görmedik. Ama onların çoğunun gerçekten fasıklar olduğunu gördük.",
+      "footnotes": null
+    },
+    {
+      "id": "1057",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "103",
+      "arabic_text": "ثُمَّ بَعَثْنَا مِنْ بَعْدِهِمْ مُوسٰى بِاٰيَاتِنَٓا اِلٰى فِرْعَوْنَ وَمَلَا۬ئِه۪ فَظَلَمُوا بِهَاۚ فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِد۪ينَ",
+      "translation": "Onların ardından Musa’yı, Firavun ve önde gelen avanesine ayetlerimizle yolladık. Onlar (ayetlerimizi inkâr edip, alaya alarak) zulmettiler. Bozguncuların akıbetinin nasıl olduğuna bir bak.",
+      "footnotes": null
+    },
+    {
+      "id": "1058",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "104",
+      "arabic_text": "وَقَالَ مُوسٰى يَا فِرْعَوْنُ اِنّ۪ي رَسُولٌ مِنْ رَبِّ الْعَالَم۪ينَۚ",
+      "translation": "Musa demişti ki: “Ey Firavun! Şüphesiz ben, âlemlerin Rabbinden (gelen) bir elçiyim.”",
+      "footnotes": null
+    },
+    {
+      "id": "1059",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "105",
+      "arabic_text": "حَق۪يقٌ عَلٰٓى اَنْ لَٓا اَقُولَ عَلَى اللّٰهِ اِلَّا الْحَقَّۜ قَدْ جِئْتُكُمْ بِبَيِّنَةٍ مِنْ رَبِّكُمْ فَاَرْسِلْ مَعِيَ بَن۪ٓي اِسْرَٓاء۪يلَۜ",
+      "translation": "“Allah’a karşı yalnızca hak olanı söylemek benim görevimdir.” (demişti.) “Şüphesiz ki size Rabbinizden apaçık mucizelerle geldim. Artık İsrailoğullarını benimle beraber gönder.”",
+      "footnotes": null
+    },
+    {
+      "id": "1060",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "106",
+      "arabic_text": "قَالَ اِنْ كُنْتَ جِئْتَ بِاٰيَةٍ فَأْتِ بِهَٓا اِنْ كُنْتَ مِنَ الصَّادِق۪ينَ",
+      "translation": "(Firavun:) “Eğer sen bir ayet/mucize ile gelmişsen ve sözünde de doğruysan hadi getir onu da (görelim).” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "1061",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "107",
+      "arabic_text": "فَاَلْقٰى عَصَاهُ فَاِذَا هِيَ ثُعْبَانٌ مُب۪ينٌۚ",
+      "translation": "(Bunun üzerine) Musa asasını attı. (Bir de ne görsün!) O apaçık bir yılan oluvermiş.",
+      "footnotes": null
+    },
+    {
+      "id": "1062",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "108",
+      "arabic_text": "وَنَزَعَ يَدَهُ فَاِذَا هِيَ بَيْضَٓاءُ لِلنَّاظِر۪ينَ۟",
+      "translation": "Elini (koynundan) çekti. (Bir de ne görsün!) Bakanların (gözünü alacak kadar) bembeyaz (bir ele dönüşüvermiş).",
+      "footnotes": null
+    },
+    {
+      "id": "1063",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "109",
+      "arabic_text": "قَالَ الْمَلَاُ مِنْ قَوْمِ فِرْعَوْنَ اِنَّ هٰذَا لَسَاحِرٌ عَل۪يمٌۙ",
+      "translation": "(Buna karşılık) Firavun’un kavminden önde gelen birileri demişlerdi ki: “Şüphesiz ki bu, bilgili/usta bir büyücüdür.”",
+      "footnotes": null
+    },
+    {
+      "id": "1064",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "110",
+      "arabic_text": "يُر۪يدُ اَنْ يُخْرِجَكُمْ مِنْ اَرْضِكُمْۚ فَمَاذَا تَأْمُرُونَ",
+      "translation": "(Firavun:) “(Yaptığı bu sihirle) sizi yerinizden yurdunuzdan etmek istiyor. Ne buyurursunuz?” (demişti.)",
+      "footnotes": null
+    },
+    {
+      "id": "1065",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "111",
+      "arabic_text": "قَالُٓوا اَرْجِهْ وَاَخَاهُ وَاَرْسِلْ فِي الْمَدَٓائِنِ حَاشِر۪ينَۙ",
+      "translation": "(Önde gelenler) dediler ki: “Ona ve kardeşine (vereceğin cezayı) ertele. Şehirlere toplayıcı adamlar sal.”",
+      "footnotes": null
+    },
+    {
+      "id": "1066",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "112",
+      "arabic_text": "يَأْتُوكَ بِكُلِّ سَاحِرٍ عَل۪يمٍ",
+      "translation": "“Usta büyücülerin tamamını sana getirirler.”",
+      "footnotes": null
+    },
+    {
+      "id": "1067",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "113",
+      "arabic_text": "وَجَٓاءَ السَّحَرَةُ فِرْعَوْنَ قَالُٓوا اِنَّ لَنَا لَاَجْرًا اِنْ كُنَّا نَحْنُ الْغَالِب۪ينَ",
+      "translation": "Büyücüler Firavun’a geldiler: “Şayet biz (Musa’ya) üstün gelirsek herhâlde bize (dolgun) bir ücret verirsin artık değil mi?” dediler.",
+      "footnotes": null
+    },
+    {
+      "id": "1068",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "114",
+      "arabic_text": "قَالَ نَعَمْ وَاِنَّكُمْ لَمِنَ الْمُقَرَّب۪ينَ",
+      "translation": "“Evet, şüphesiz (üstün geldiğiniz takdirde) bana yakınlaştırılmış (gözde adamlarımdan) olacaksınız.” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "1069",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "115",
+      "arabic_text": "قَالُوا يَا مُوسٰٓى اِمَّٓا اَنْ تُلْقِيَ وَاِمَّٓا اَنْ نَكُونَ نَحْنُ الْمُلْق۪ينَ",
+      "translation": "(Büyücüler:) “Ey Musa! Ya önce sen (hünerini) sergile ya da biz başlayalım. (Ne dersin?)” demişlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1070",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "116",
+      "arabic_text": "قَالَ اَلْقُواۚ فَلَمَّٓا اَلْقَوْا سَحَرُٓوا اَعْيُنَ النَّاسِ وَاسْتَرْهَبُوهُمْ وَجَٓاؤُ۫ بِسِحْرٍ عَظ۪يمٍ",
+      "translation": "Demişti ki: “Başlayın.” (Sihir aletlerini yere) atınca insanların gözlerini büyülediler, onları dehşete düşürdüler ve büyük bir sihir ortaya koydular.",
+      "footnotes": null
+    },
+    {
+      "id": "1071",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "117",
+      "arabic_text": "وَاَوْحَيْنَٓا اِلٰى مُوسٰٓى اَنْ اَلْقِ عَصَاكَۚ فَاِذَا هِيَ تَلْقَفُ مَا يَأْفِكُونَۚ",
+      "translation": "Biz, Musa’ya: “Asanı yere at.” diye vahyettik. (Bir de ne görsünler!) O, onların uydurduklarını yutuvermiş.",
+      "footnotes": null
+    },
+    {
+      "id": "1072",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "118",
+      "arabic_text": "فَوَقَعَ الْحَقُّ وَبَطَلَ مَا كَانُوا يَعْمَلُونَۚ",
+      "translation": "Artık hakikat ortaya çıktı ve onların yaptıkları bir hiç olup gitti.",
+      "footnotes": null
+    },
+    {
+      "id": "1073",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "119",
+      "arabic_text": "فَغُلِبُوا هُنَالِكَ وَانْقَلَبُوا صَاغِر۪ينَۚ",
+      "translation": "Oracıkta yenilmiş ve küçük düşmüşlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1074",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "120",
+      "arabic_text": "وَاُلْقِيَ السَّحَرَةُ سَاجِد۪ينَۚ",
+      "translation": "Sihirbazlar (gördükleri karşısında) secdeye kapanmışlardı.",
+      "footnotes": null
+    },
+    {
+      "id": "1075",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "121",
+      "arabic_text": "قَالُٓوا اٰمَنَّا بِرَبِّ الْعَالَم۪ينَۙ",
+      "translation": "Demişlerdi ki: “Biz, âlemlerin Rabbi olan (Allah’a) iman ettik.”",
+      "footnotes": null
+    },
+    {
+      "id": "1076",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "122",
+      "arabic_text": "رَبِّ مُوسٰى وَهٰرُونَ",
+      "translation": "“Musa’nın ve Harun’un Rabbi olan (Allah’a).”",
+      "footnotes": null
+    },
+    {
+      "id": "1077",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "123",
+      "arabic_text": "قَالَ فِرْعَوْنُ اٰمَنْتُمْ بِه۪ قَبْلَ اَنْ اٰذَنَ لَكُمْۚ اِنَّ هٰذَا لَمَكْرٌ مَكَرْتُمُوهُ فِي الْمَد۪ينَةِ لِتُخْرِجُوا مِنْهَٓا اَهْلَهَاۚ فَسَوْفَ تَعْلَمُونَ",
+      "translation": "Firavun dedi ki: “(Ben) size izin vermeden ona iman ettiniz öyle mi? Şüphesiz ki bu (yaptığınız), buranın halkını yurtlarından sürüp çıkarmak için (Musa ile beraber) tezgâhladığınız bir tuzaktır. Pek yakında (yapacaklarımı) bileceksiniz/anlayacaksınız.”",
+      "footnotes": null
+    },
+    {
+      "id": "1078",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "124",
+      "arabic_text": "لَاُقَطِّعَنَّ اَيْدِيَكُمْ وَاَرْجُلَكُمْ مِنْ خِلَافٍ ثُمَّ لَاُصَلِّبَنَّكُمْ اَجْمَع۪ينَ",
+      "translation": "“Kuşkusuz, ellerinizi ve ayaklarınızı çaprazlama kesip sonra da sizi topluca asacağım.”",
+      "footnotes": null
+    },
+    {
+      "id": "1079",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "125",
+      "arabic_text": "قَالُٓوا اِنَّٓا اِلٰى رَبِّنَا مُنْقَلِبُونَۚ",
+      "translation": "Demişlerdi ki: “Şüphesiz bizler Rabbimize döneceğiz.”",
+      "footnotes": null
+    },
+    {
+      "id": "1080",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "126",
+      "arabic_text": "وَمَا تَنْقِمُ مِنَّٓا اِلَّٓا اَنْ اٰمَنَّا بِاٰيَاتِ رَبِّنَا لَمَّا جَٓاءَتْنَاۜ رَبَّنَٓا اَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِم۪ينَ۟",
+      "translation": "“Bizden intikam almanın tek nedeni, Rabbimizin ayetleri bize geldiğinde ona inanmamızdır. Rabbimiz! Üzerimize sabır yağdır ve Müslimler/şirki terk ederek tevhidle Allah’a yönelen kullar olarak canımızı al.”",
+      "footnotes": null
+    },
+    {
+      "id": "1081",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "127",
+      "arabic_text": "وَقَالَ الْمَلَاُ مِنْ قَوْمِ فِرْعَوْنَ اَتَذَرُ مُوسٰى وَقَوْمَهُ لِيُفْسِدُوا فِي الْاَرْضِ وَيَذَرَكَ وَاٰلِهَتَكَۜ قَالَ سَنُقَتِّلُ اَبْنَٓاءَهُمْ وَنَسْتَحْي۪ نِسَٓاءَهُمْۚ وَاِنَّا فَوْقَهُمْ قَاهِرُونَ",
+      "translation": "Firavun’un kavminden önde gelenler demişlerdi ki: “Sen, Musa’yı ve kavmini yeryüzünde bozgunculuk yapsınlar, seni ve ilahlarını terk etsinler diye mi bırakacaksın?” (Firavun onları yatıştırmak için) demişti ki: “Erkek çocuklarını öldüreceğiz, kadınlarını sağ bırakacağız. Şüphesiz ki biz, onların üzerinde kahredici bir güce sahibiz.”",
+      "footnotes": null
+    },
+    {
+      "id": "1082",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "128",
+      "arabic_text": "قَالَ مُوسٰى لِقَوْمِهِ اسْتَع۪ينُوا بِاللّٰهِ وَاصْبِرُواۚ اِنَّ الْاَرْضَ لِلّٰهِ۠ يُورِثُهَا مَنْ يَشَٓاءُ مِنْ عِبَادِه۪ۜ وَالْعَاقِبَةُ لِلْمُتَّق۪ينَ",
+      "translation": "Musa, kavmine: “Allahtan yardım isteyin ve sabredin!” demişti. “Şüphesiz ki yeryüzü, Allah’ındır ve ona kullarından dilediğini mirasçı/sahip kılar. Akıbet/mutlu son muttakilerindir.”",
+      "footnotes": null
+    },
+    {
+      "id": "1083",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "129",
+      "arabic_text": "قَالُٓوا اُو۫ذ۪ينَا مِنْ قَبْلِ اَنْ تَأْتِيَنَا وَمِنْ بَعْدِ مَا جِئْتَنَاۜ قَالَ عَسٰى رَبُّكُمْ اَنْ يُهْلِكَ عَدُوَّكُمْ وَيَسْتَخْلِفَكُمْ فِي الْاَرْضِ فَيَنْظُرَ كَيْفَ تَعْمَلُونَ۟",
+      "translation": "Demişlerdi ki: “Sen gelmeden önce de eziyet görüyorduk; sen geldikten sonra da eziyet görmeye devam ediyoruz!” Demişti ki: “(Böyle düşünmeyin!) Umulur ki Rabbiniz düşmanınızı helak eder ve sizi yeryüzünün halifeleri (onların yerine geçen yöneticileri) kılar. Böylece sizin nasıl işler yapacağınızı gözler.”",
+      "footnotes": null
+    },
+    {
+      "id": "1084",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "130",
+      "arabic_text": "وَلَقَدْ اَخَذْنَٓا اٰلَ فِرْعَوْنَ بِالسِّن۪ينَ وَنَقْصٍ مِنَ الثَّمَرَاتِ لَعَلَّهُمْ يَذَّكَّرُونَ",
+      "translation": "Andolsun ki biz, Firavun ailesini düşünüp öğüt alırlar diye uzun yıllar kıtlık ve meyvelerden eksiltme ile imtihan ettik.",
+      "footnotes": null
+    },
+    {
+      "id": "1085",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "131",
+      "arabic_text": "فَاِذَا جَٓاءَتْهُمُ الْحَسَنَةُ قَالُوا لَنَا هٰذِه۪ۚ وَاِنْ تُصِبْهُمْ سَيِّئَةٌ يَطَّيَّرُوا بِمُوسٰى وَمَنْ مَعَهُۜ اَلَٓا اِنَّمَا طَٓائِرُهُمْ عِنْدَ اللّٰهِ وَلٰكِنَّ اَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "translation": "Onlara bir iyilik geldiğinde: “Biz bunu hak ettik.” derlerdi. Başlarına bir kötülük geldiğinde: “Musa’nın ve beraberinde olanların uğursuzluğudur.” (derlerdi.) Dikkat edin! Onların uğursuzluk (saydıkları musibetlerin tamamı) Allah katındandır. Fakat onların birçoğu bilmezler.",
+      "footnotes": null
+    },
+    {
+      "id": "1086",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "132",
+      "arabic_text": "وَقَالُوا مَهْمَا تَأْتِنَا بِه۪ مِنْ اٰيَةٍ لِتَسْحَرَنَا بِهَاۙ فَمَا نَحْنُ لَكَ بِمُؤْمِن۪ينَ",
+      "translation": "Demişlerdi ki: “Bizi büyülemek için ne ayet/mucize getirirsen getir, yine de sana iman etmeyeceğiz.”",
+      "footnotes": null
+    },
+    {
+      "id": "1087",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "133",
+      "arabic_text": "فَاَرْسَلْنَا عَلَيْهِمُ الطُّوفَانَ وَالْجَرَادَ وَالْقُمَّلَ وَالضَّفَادِعَ وَالدَّمَ اٰيَاتٍ مُفَصَّلَاتٍ فَاسْتَكْبَرُوا وَكَانُوا قَوْمًا مُجْرِم۪ينَ",
+      "translation": "(Bunun üzerine) ayrı ayrı ayetler/mucizeler olan tufan, çekirge, (bit, pire, böcek vb.) haşerat, kurbağalar ve kan yolladık üzerlerine. Yine büyüklenip kibre kapıldılar ve suçlu günahkâr bir toplum oldular.",
+      "footnotes": null
+    },
+    {
+      "id": "1088",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "134",
+      "arabic_text": "وَلَمَّا وَقَعَ عَلَيْهِمُ الرِّجْزُ قَالُوا يَا مُوسَى ادْعُ لَنَا رَبَّكَ بِمَا عَهِدَ عِنْدَكَۚ لَئِنْ كَشَفْتَ عَنَّا الرِّجْزَ لَنُؤْمِنَنَّ لَكَ وَلَنُرْسِلَنَّ مَعَكَ بَن۪ٓي اِسْرَٓاء۪يلَۚ",
+      "translation": "Azap üzerlerine çökünce: “Ey Musa! Senin yanında bulunan (Allah’ın) ahdiyle bizim için Rabbine dua et. Bu azabı bizden giderirsen, andolsun ki sana iman edecek ve İsrailoğullarını seninle beraber yollayacağız!” demişlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1089",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "135",
+      "arabic_text": "فَلَمَّا كَشَفْنَا عَنْهُمُ الرِّجْزَ اِلٰٓى اَجَلٍ هُمْ بَالِغُوهُ اِذَا هُمْ يَنْكُثُونَ",
+      "translation": "(Sözlerini tutup tutmayacaklarını sınamak için) bir zamana kadar azabı kaldırınca, (bir de ne göresin) onlar sözlerini bozmuşlar bile.",
+      "footnotes": null
+    },
+    {
+      "id": "1090",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "136",
+      "arabic_text": "فَانْتَقَمْنَا مِنْهُمْ فَاَغْرَقْنَاهُمْ فِي الْيَمِّ بِاَنَّهُمْ كَذَّبُوا بِاٰيَاتِنَا وَكَانُوا عَنْهَا غَافِل۪ينَ",
+      "translation": "(Bunun üzerine) onlardan intikam aldık. Ayetlerimizi yalanlamaları ve ona karşı gafil olmaları nedeniyle onları suda boğduk.",
+      "footnotes": null
+    },
+    {
+      "id": "1091",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "137",
+      "arabic_text": "وَاَوْرَثْنَا الْقَوْمَ الَّذ۪ينَ كَانُوا يُسْتَضْعَفُونَ مَشَارِقَ الْاَرْضِ وَمَغَارِبَهَا الَّت۪ي بَارَكْنَا ف۪يهَاۜ وَتَمَّتْ كَلِمَتُ رَبِّكَ الْحُسْنٰى عَلٰى بَن۪ٓي اِسْرَٓاء۪يلَ بِمَا صَبَرُواۜ وَدَمَّرْنَا مَا كَانَ يَصْنَعُ فِرْعَوْنُ وَقَوْمُهُ وَمَا كَانُوا يَعْرِشُونَ",
+      "translation": "Bereketli kıldığımız toprakların doğusuna ve batısına zayıf bırakılmış topluluğu mirasçı kıldık. Sabretmelerine karşılık Rabbinin güzel vaadi İsrailoğulları için gerçekleşti. Firavun ve kavminin yaptıkları ve bina edip yükselttiklerini yerle bir ettik.",
+      "footnotes": null
+    },
+    {
+      "id": "1092",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "138",
+      "arabic_text": "وَجَاوَزْنَا بِبَن۪ٓي اِسْرَٓاء۪يلَ الْبَحْرَ فَاَتَوْا عَلٰى قَوْمٍ يَعْكُفُونَ عَلٰٓى اَصْنَامٍ لَهُمْۚ قَالُوا يَا مُوسَى اجْعَلْ لَنَٓا اِلٰهًا كَمَا لَهُمْ اٰلِهَةٌۜ قَالَ اِنَّكُمْ قَوْمٌ تَجْهَلُونَ",
+      "translation": "İsrailoğullarını denizden geçirdik. Kendilerine ait putları olan ve sürekli o (putlara) tapan bir kavme geldiler. “Ey Musa! Onların ilahları olduğu gibi sen de bize bir ilah yap.” demişlerdi. “Şüphesiz sizler, cahillik eden bir topluluksunuz.” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "1093",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "139",
+      "arabic_text": "اِنَّ هٰٓؤُ۬لَٓاءِ مُتَبَّرٌ مَا هُمْ ف۪يهِ وَبَاطِلٌ مَا كَانُوا يَعْمَلُونَ",
+      "translation": "(Benzemeye çalıştığınız putperestlerin) içinde bulundukları hâl, yok olup gitmeye mahkûmdur. Yaptıkları da (Allah katında) batıldır/geçersizdir.",
+      "footnotes": null
+    },
+    {
+      "id": "1094",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "140",
+      "arabic_text": "قَالَ اَغَيْرَ اللّٰهِ اَبْغ۪يكُمْ اِلٰهًا وَهُوَ فَضَّلَكُمْ عَلَى الْعَالَم۪ينَ",
+      "translation": "Demişti ki: “Sizi âlemlere faziletli/üstün kılmışken, size Allah’ın dışında bir ilah mı arayayım?”",
+      "footnotes": null
+    },
+    {
+      "id": "1095",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "141",
+      "arabic_text": "وَاِذْ اَنْجَيْنَاكُمْ مِنْ اٰلِ فِرْعَوْنَ يَسُومُونَكُمْ سُٓوءَ الْعَذَابِۚ يُقَتِّلُونَ اَبْنَٓاءَكُمْ وَيَسْتَحْيُونَ نِسَٓاءَكُمْۜ وَف۪ي ذٰلِكُمْ بَلَٓاءٌ مِنْ رَبِّكُمْ عَظ۪يمٌ۟",
+      "translation": "(Hatırlayın!) Hani sizi Firavun hanedanından kurtarmıştık. Size işkencenin en kötüsünü reva görüyor, erkek çocuklarınızı boğazlıyor, kadınlarınızı sağ bırakıyorlardı. Bunda sizin için Rabbinizden büyük bir imtihan vardı.",
+      "footnotes": null
+    },
+    {
+      "id": "1096",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "142",
+      "arabic_text": "وَوٰعَدْنَا مُوسٰى ثَلٰث۪ينَ لَيْلَةً وَاَتْمَمْنَاهَا بِعَشْرٍ فَتَمَّ م۪يقَاتُ رَبِّه۪ٓ اَرْبَع۪ينَ لَيْلَةًۚ وَقَالَ مُوسٰى لِاَخ۪يهِ هٰرُونَ اخْلُفْن۪ي ف۪ي قَوْم۪ي وَاَصْلِحْ وَلَا تَتَّبِعْ سَب۪يلَ الْمُفْسِد۪ينَ",
+      "translation": "Musa ile otuz gece için sözleştik. Buna ayrıca on gün ekledik. Böylece Rabbinin belirlediği süre kırk güne tamamlandı. Musa kardeşi Harun’a dedi ki: “Kavmimde benim yerime geç. Islah et ve bozguncuların yoluna uyma.”",
+      "footnotes": null
+    },
+    {
+      "id": "1097",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "143",
+      "arabic_text": "وَلَمَّا جَٓاءَ مُوسٰى لِم۪يقَاتِنَا وَكَلَّمَهُ رَبُّهُۙ قَالَ رَبِّ اَرِن۪ٓي اَنْظُرْ اِلَيْكَۜ قَالَ لَنْ تَرٰين۪ي وَلٰكِنِ انْظُرْ اِلَى الْجَبَلِ فَاِنِ اسْتَقَرَّ مَكَانَهُ فَسَوْفَ تَرٰين۪يۚ فَلَمَّا تَجَلّٰى رَبُّهُ لِلْجَبَلِ جَعَلَهُ دَكًّا وَخَرَّ مُوسٰى صَعِقًاۚ فَلَمَّٓا اَفَاقَ قَالَ سُبْحَانَكَ تُبْتُ اِلَيْكَ وَاَنَا۬ اَوَّلُ الْمُؤْمِن۪ينَ",
+      "translation": "Musa tayin edilen yere gelip, Rabbi onunla konuşunca: “Rabbim! Bana göster de seni göreyim.” demişti. Allah buyurdu ki: “Beni göremeyeceksin. Fakat dağa bak. Eğer yerinde durabilirse beni göreceksin.” Allah dağa tecelli edince onu paramparça etti ve Musa düşüp bayıldı. Ayılınca da: “Seni (tüm eksikliklerden) tenzih ederim. Sana tevbe ettim ve ben iman edenlerin ilkiyim.” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "1098",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "144",
+      "arabic_text": "قَالَ يَا مُوسٰٓى اِنِّي اصْطَفَيْتُكَ عَلَى النَّاسِ بِرِسَالَات۪ي وَبِكَلَام۪يۘ فَخُذْ مَٓا اٰتَيْتُكَ وَكُنْ مِنَ الشَّاكِر۪ينَ",
+      "translation": "(Allah) buyurdu ki: “Ey Musa! Sana verdiğim risaletim ve seninle konuşmamla seni insanlara üstün/seçkin kıldım. Sana verdiğime kuvvetle yapış ve şükredenlerden ol.”",
+      "footnotes": null
+    },
+    {
+      "id": "1099",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "145",
+      "arabic_text": "وَكَتَبْنَا لَهُ فِي الْاَلْوَاحِ مِنْ كُلِّ شَيْءٍ مَوْعِظَةً وَتَفْص۪يلًا لِكُلِّ شَيْءٍۚ فَخُذْهَا بِقُوَّةٍ وَأْمُرْ قَوْمَكَ يَأْخُذُوا بِاَحْسَنِهَاۜ سَاُر۪يكُمْ دَارَ الْفَاسِق۪ينَ",
+      "translation": "O levhalarda ona her şeyden bir öğüt ve her şeye dair tafsilatlı bilgiler yazdık. “Ona kuvvetle tutun ve kavmine de emret, ona en güzel şekilde tutunsunlar. Fasıklar (cezalandırıldıklarında) yurtlarının (ne hâle geldiğini) size göstereceğim.”",
+      "footnotes": null
+    },
+    {
+      "id": "1100",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "146",
+      "arabic_text": "سَاَصْرِفُ عَنْ اٰيَاتِيَ الَّذ۪ينَ يَتَكَبَّرُونَ فِي الْاَرْضِ بِغَيْرِ الْحَقِّۜ وَاِنْ يَرَوْا كُلَّ اٰيَةٍ لَا يُؤْمِنُوا بِهَاۚ وَاِنْ يَرَوْا سَب۪يلَ الرُّشْدِ لَا يَتَّخِذُوهُ سَب۪يلًاۚ وَاِنْ يَرَوْا سَب۪يلَ الْغَيِّ يَتَّخِذُوهُ سَب۪يلًاۜ ذٰلِكَ بِاَنَّهُمْ كَذَّبُوا بِاٰيَاتِنَا وَكَانُوا عَنْهَا غَافِل۪ينَ",
+      "translation": "Hakları olmadığı hâlde yeryüzünde büyüklenip kibre kapılanları ayetlerimden çevireceğim. (İlgisiz kalacaklar, duysalar dahi anlamayacaklar.) Onlar bütün ayetleri görseler de inanmazlar. Rüşd/olgunluk/doğruluk yolunu görseler de onu yol edinmezler. Azgınlık yolunu gördüklerinde (hemen benimser) kendilerine yol edinirler. Bu, ayetlerimizi yalanlamaları ve ayetlerden gafil olmaları nedeniyledir.",
+      "footnotes": null
+    },
+    {
+      "id": "1101",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "147",
+      "arabic_text": "وَالَّذ۪ينَ كَذَّبُوا بِاٰيَاتِنَا وَلِقَٓاءِ الْاٰخِرَةِ حَبِطَتْ اَعْمَالُهُمْۜ هَلْ يُجْزَوْنَ اِلَّا مَا كَانُوا يَعْمَلُونَ۟",
+      "translation": "Ayetlerimizi ve ahiret karşılaşmasını yalanlayan kimselerin amelleri boşa gitmiştir. (Ne bekliyorlardı?) Yaptıklarından başkasıyla mı cezalandırılacaklardı?",
+      "footnotes": null
+    },
+    {
+      "id": "1102",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "148",
+      "arabic_text": "وَاتَّخَذَ قَوْمُ مُوسٰى مِنْ بَعْدِه۪ مِنْ حُلِيِّهِمْ عِجْلًا جَسَدًا لَهُ خُوَارٌۜ اَلَمْ يَرَوْا اَنَّهُ لَا يُكَلِّمُهُمْ وَلَا يَهْد۪يهِمْ سَب۪يلًاۢ اِتَّخَذُوهُ وَكَانُوا ظَالِم۪ينَ",
+      "translation": "Musa’nın kavmi onun ardından süs eşyalarından yapılmış, (aldığı hava nedeniyle) ses çıkaran bir buzağı heykelini ilah edindi. O (buzağının) onlarla konuşmadığını ve onları doğru yola hidayet edemediğini görmediler mi? Onu (ilah) edindiler ve (zaten) zalim idiler (veya onu ilah edinmekle zalim/müşrik oldular).",
+      "footnotes": null
+    },
+    {
+      "id": "1103",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "149",
+      "arabic_text": "وَلَمَّا سُقِطَ ف۪ٓي اَيْد۪يهِمْ وَرَاَوْا اَنَّهُمْ قَدْ ضَلُّواۙ قَالُوا لَئِنْ لَمْ يَرْحَمْنَا رَبُّنَا وَيَغْفِرْ لَنَا لَنَكُونَنَّ مِنَ الْخَاسِر۪ينَ",
+      "translation": "(Başlarını ellerinin arasına alıp) yaptıklarına pişman oldukları ve kesinlikle saptıklarını anladıkları vakit demişlerdi ki: “Şayet Rabbimiz bize merhamet edip bizi bağışlamazsa elbette hüsrana uğrayanlardan oluruz.”",
+      "footnotes": null
+    },
+    {
+      "id": "1104",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "150",
+      "arabic_text": "وَلَمَّا رَجَعَ مُوسٰٓى اِلٰى قَوْمِه۪ غَضْبَانَ اَسِفًاۙ قَالَ بِئْسَمَا خَلَفْتُمُون۪ي مِنْ بَعْد۪يۚ اَعَجِلْتُمْ اَمْرَ رَبِّكُمْۚ وَاَلْقَى الْاَلْوَاحَ وَاَخَذَ بِرَأْسِ اَخ۪يهِ يَجُرُّهُٓ اِلَيْهِۜ قَالَ ابْنَ اُمَّ اِنَّ الْقَوْمَ اسْتَضْعَفُون۪ي وَكَادُوا يَقْتُلُونَن۪يۘ فَلَا تُشْمِتْ بِيَ الْاَعْدَٓاءَ وَلَا تَجْعَلْن۪ي مَعَ الْقَوْمِ الظَّالِم۪ينَ",
+      "translation": "Musa kavmine öfkeli ve üzgün bir hâlde döndüğü zaman: “Arkamdan ne kötü işler ettiniz. Rabbinizin emrinin bir an önce olmasını istediniz (öyle mi)?” demişti. Levhaları fırlatmış ve kardeşinin başını (saçından) tutup kendisine çekmişti. (Harun:) “Ey anamın oğlu! (Sandığın gibi değil!) Bu topluluk beni zayıf buldular ve neredeyse beni öldüreceklerdi. Bana, düşmanları sevindirecek bir şey yapma ve beni zalimler topluluğuyla bir tutma.” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "1105",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "151",
+      "arabic_text": "قَالَ رَبِّ اغْفِرْ ل۪ي وَلِاَخ۪ي وَاَدْخِلْنَا ف۪ي رَحْمَتِكَۘ وَاَنْتَ اَرْحَمُ الرَّاحِم۪ينَ۟",
+      "translation": "(Bunun üzerine) Musa demişti ki: “Rabbim! Beni ve kardeşimi bağışla ve bizi rahmetine dâhil et. Sen merhamet edenlerin en merhametlisisin.”",
+      "footnotes": null
+    },
+    {
+      "id": "1106",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "152",
+      "arabic_text": "اِنَّ الَّذ۪ينَ اتَّخَذُوا الْعِجْلَ سَيَنَالُهُمْ غَضَبٌ مِنْ رَبِّهِمْ وَذِلَّةٌ فِي الْحَيٰوةِ الدُّنْيَاۜ وَكَذٰلِكَ نَجْزِي الْمُفْتَر۪ينَ",
+      "translation": "Şüphesiz ki buzağıyı (ilah) edinenlere, Rablerinden bir gazap ve dünya hayatında zillet erişecektir. Biz (şirk koşarak Allah’a) iftira edenleri böyle cezalandırırız işte!",
+      "footnotes": null
+    },
+    {
+      "id": "1107",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "153",
+      "arabic_text": "وَالَّذ۪ينَ عَمِلُوا السَّيِّـَٔاتِ ثُمَّ تَابُوا مِنْ بَعْدِهَا وَاٰمَنُواۘ اِنَّ رَبَّكَ مِنْ بَعْدِهَا لَغَفُورٌ رَح۪يمٌ",
+      "translation": "Kötülükler işleyip, sonrasında tevbe edip iman edenlere gelince; hiç şüphesiz Rabbin, onun ardından (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) Ğafûr, (kullarına karşı merhametli olan) Rahîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "1108",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "154",
+      "arabic_text": "وَلَمَّا سَكَتَ عَنْ مُوسَى الْغَضَبُ اَخَذَ الْاَلْوَاحَۚ وَف۪ي نُسْخَتِهَا هُدًى وَرَحْمَةٌ لِلَّذ۪ينَ هُمْ لِرَبِّهِمْ يَرْهَبُونَ",
+      "translation": "Musa’nın öfkesi yatışınca (yere atmış olduğu) levhaları aldı. Onun nüshasında: “Rablerinden korkanlar için hidayet ve rahmet vardır.” (yazılıydı.)",
+      "footnotes": null
+    },
+    {
+      "id": "1109",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "155",
+      "arabic_text": "وَاخْتَارَ مُوسٰى قَوْمَهُ سَبْع۪ينَ رَجُلًا لِم۪يقَاتِنَاۚ فَلَمَّٓا اَخَذَتْهُمُ الرَّجْفَةُ قَالَ رَبِّ لَوْ شِئْتَ اَهْلَكْتَهُمْ مِنْ قَبْلُ وَاِيَّايَۜ اَتُهْلِكُنَا بِمَا فَعَلَ السُّفَهَٓاءُ مِنَّاۚ اِنْ هِيَ اِلَّا فِتْنَتُكَۜ تُضِلُّ بِهَا مَنْ تَشَٓاءُ وَتَهْد۪ي مَنْ تَشَٓاءُۜ اَنْتَ وَلِيُّنَا فَاغْفِرْ لَنَا وَارْحَمْنَا وَاَنْتَ خَيْرُ الْغَافِر۪ينَ",
+      "translation": "Musa, tayin edilen randevu için kavminden yetmiş kişiyi seçmişti. (“Allah’ı açıktan görmeden iman etmeyiz.” sözlerine ceza olarak) onları şiddetli bir sarsıntı yakalayınca demişti ki: “Rabbim! Dileseydin bundan önce bunları da beni de helak ederdin. İçimizdeki sefihlerin/kıt akıllıların yaptığından dolayı bizi helak mı edeceksin? O, senin sınamandan başka bir şey değildir. Onunla dilediğini saptırır, dilediğini de hidayet edersin. Sen, bizim velimizsin/dostumuzsun. Bizi bağışla, bize merhamet et. Sen bağışlayanların en hayırlısısın.”",
+      "footnotes": null
+    },
+    {
+      "id": "1110",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "156",
+      "arabic_text": "وَاكْتُبْ لَنَا ف۪ي هٰذِهِ الدُّنْيَا حَسَنَةً وَفِي الْاٰخِرَةِ اِنَّا هُدْنَٓا اِلَيْكَۜ قَالَ عَذَاب۪ٓي اُص۪يبُ بِه۪ مَنْ اَشَٓاءُۚ وَرَحْمَت۪ي وَسِعَتْ كُلَّ شَيْءٍۜ فَسَاَكْتُبُهَا لِلَّذ۪ينَ يَتَّقُونَ وَيُؤْتُونَ الزَّكٰوةَ وَالَّذ۪ينَ هُمْ بِاٰيَاتِنَا يُؤْمِنُونَۚ",
+      "translation": "“Bize bu dünyada da ahirette de iyilik yaz. Şüphesiz ki (tevbe edip, hidayetini umarak) sana yöneldik.” (Allah) buyurdu ki: “Azabıma gelince, onu dilediğime isabet ettiririm. Rahmetim ise her şeyi kuşatmıştır. Onu, korkup sakınanlara, zekâtı verenlere ve ayetlerimize iman edenlere yazacağım.”",
+      "footnotes": null
+    },
+    {
+      "id": "1111",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "157",
+      "arabic_text": "اَلَّذ۪ينَ يَتَّبِعُونَ الرَّسُولَ النَّبِيَّ الْاُمِّيَّ الَّذ۪ي يَجِدُونَهُ مَكْتُوبًا عِنْدَهُمْ فِي التَّوْرٰيةِ وَالْاِنْج۪يلِۘ يَأْمُرُهُمْ بِالْمَعْرُوفِ وَيَنْهٰيهُمْ عَنِ الْمُنْكَرِ وَيُحِلُّ لَهُمُ الطَّيِّبَاتِ وَيُحَرِّمُ عَلَيْهِمُ الْخَبَٓائِثَ وَيَضَعُ عَنْهُمْ اِصْرَهُمْ وَالْاَغْلَالَ الَّت۪ي كَانَتْ عَلَيْهِمْۜ فَالَّذ۪ينَ اٰمَنُوا بِه۪ وَعَزَّرُوهُ وَنَصَرُوهُ وَاتَّبَعُوا النُّورَ الَّذ۪ٓي اُنْزِلَ مَعَهُٓۙ اُو۬لٰٓئِكَ هُمُ الْمُفْلِحُونَ۟",
+      "translation": "“Onlar ki; yanlarında bulunan Tevrat ve İncil’de yazılı olarak (sıfatlarını) buldukları ümmi olan Resûl Nebi’ye uyarlar. Onlara iyiliği emreder, kötülükten sakındırır; temiz şeyleri helal, pis şeyleri haram kılar; sırtlarındaki ağır yükü ve zincirlerini kaldırır. Ona iman edenler, onu saygı ile yüceltenler, ona yardım edenler ve onunla beraber indirilen Nur’a (Kur’ân’a) uyanlar... İşte bunlar, kurtuluşa erenlerin ta kendileridir.”",
+      "footnotes": null
+    },
+    {
+      "id": "1112",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "158",
+      "arabic_text": "قُلْ يَٓا اَيُّهَا النَّاسُ اِنّ۪ي رَسُولُ اللّٰهِ اِلَيْكُمْ جَم۪يعًاۨ الَّذ۪ي لَهُ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِۚ لَٓا اِلٰهَ اِلَّا هُوَ يُحْي۪ وَيُم۪يتُۖ فَاٰمِنُوا بِاللّٰهِ وَرَسُولِهِ النَّبِيِّ الْاُمِّيِّ الَّذ۪ي يُؤْمِنُ بِاللّٰهِ وَكَلِمَاتِه۪ وَاتَّبِعُوهُ لَعَلَّكُمْ تَهْتَدُونَ",
+      "translation": "De ki: “Ey insanlar! Şüphesiz ki ben, Allah’ın tümünüze (yolladığı) Resûl’üyüm. O (Allah ki) göklerin ve yerin hâkimiyeti/egemenliği O’na aittir. O’ndan başka (ibadeti hak eden) hiçbir ilah yoktur. Diriltir ve öldürür. Allah’a ve Resûl'ü olan ümmi Nebi’ye iman edin. O (Nebi), Allah’a ve O’nun kelimelerine iman eder. Ona uyun ki, hidayet bulasınız.”",
+      "footnotes": null
+    },
+    {
+      "id": "1113",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "159",
+      "arabic_text": "وَمِنْ قَوْمِ مُوسٰٓى اُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِه۪ يَعْدِلُونَ",
+      "translation": "Musa’nın kavminden öyle bir topluluk vardır ki; hakka çağırır ve hakla hükmederler.",
+      "footnotes": null
+    },
+    {
+      "id": "1114",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "160",
+      "arabic_text": "وَقَطَّعْنَاهُمُ اثْنَتَيْ عَشْرَةَ اَسْبَاطًا اُمَمًاۜ وَاَوْحَيْنَٓا اِلٰى مُوسٰٓى اِذِ اسْتَسْقٰيهُ قَوْمُهُٓ اَنِ اضْرِبْ بِعَصَاكَ الْحَجَرَۚ فَانْبَجَسَتْ مِنْهُ اثْنَتَا عَشْرَةَ عَيْنًاۜ قَدْ عَلِمَ كُلُّ اُنَاسٍ مَشْرَبَهُمْۜ وَظَلَّلْنَا عَلَيْهِمُ الْغَمَامَ وَاَنْزَلْنَا عَلَيْهِمُ الْمَنَّ وَالسَّلْوٰىۜ كُلُوا مِنْ طَيِّبَاتِ مَا رَزَقْنَاكُمْۜ وَمَا ظَلَمُونَا وَلٰكِنْ كَانُٓوا اَنْفُسَهُمْ يَظْلِمُونَ",
+      "translation": "Biz, onları on iki ayrı oymak olarak gruplara ayırdık. Kavmi Musa’dan su talebinde bulunduğunda Musa’ya: “Asanı taşa vur.” diye vahyettik. (Asasını taşa vurunca) ondan on iki pınar fışkırdı. Her insan topluluğu su içeceği çeşmeyi bildi. Bulutlarla onları gölgeledik ve üzerlerine kudret helvası ve bıldırcın eti indirdik. (Sonra:) “Allah’ın sizi rızıklandırdığı temiz şeylerden yiyin.” (dedik.) Onlar bize zulmetmediler. (İşledikleri günahlarla) kendilerine zulmediyorlardı.",
+      "footnotes": null
+    },
+    {
+      "id": "1115",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "161",
+      "arabic_text": "وَاِذْ ق۪يلَ لَهُمُ اسْكُنُوا هٰذِهِ الْقَرْيَةَ وَكُلُوا مِنْهَا حَيْثُ شِئْتُمْ وَقُولُوا حِطَّةٌ وَادْخُلُوا الْبَابَ سُجَّدًا نَغْفِرْ لَكُمْ خَط۪ٓيـَٔاتِكُمْۜ سَنَز۪يدُ الْمُحْسِن۪ينَ",
+      "translation": "Onlara: “Bu beldeye yerleşin, orada dilediğiniz yerden yiyin, ‘Hıttatun/Günahlarımızı dök.’ deyin, kapıdan secde ederek girin ki biz de hatalarınızı bağışlayalım. Muhsinlere/kulluğunu en güzel şekilde yapmaya çalışanlara (ihsanlarımızı) arttıracağız.” denildiğinde,",
+      "footnotes": null
+    },
+    {
+      "id": "1116",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "162",
+      "arabic_text": "فَبَدَّلَ الَّذ۪ينَ ظَلَمُوا مِنْهُمْ قَوْلًا غَيْرَ الَّذ۪ي ق۪يلَ لَهُمْ فَاَرْسَلْنَا عَلَيْهِمْ رِجْزًا مِنَ السَّمَٓاءِ بِمَا كَانُوا يَظْلِمُونَ۟",
+      "translation": "Onlardan zalim olanlar, kendilerine söylenen sözü başkasıyla (“Günahlarımızı dök” anlamında “Hıttatun” kelimesini “buğday” anlamına gelen “Hıntatun” ile) değiştirdiler. Biz de zulümlerine karşılık gökten bir azap saldık üzerlerine.",
+      "footnotes": null
+    },
+    {
+      "id": "1117",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "163",
+      "arabic_text": "وَسْـَٔلْهُمْ عَنِ الْقَرْيَةِ الَّت۪ي كَانَتْ حَاضِرَةَ الْبَحْرِۢ اِذْ يَعْدُونَ فِي السَّبْتِ اِذْ تَأْت۪يهِمْ ح۪يتَانُهُمْ يَوْمَ سَبْتِهِمْ شُرَّعًا وَيَوْمَ لَا يَسْبِتُونَۙ لَا تَأْت۪يهِمْۚ كَذٰلِكَ نَبْلُوهُمْ بِمَا كَانُوا يَفْسُقُونَ",
+      "translation": "Onlara deniz kıyısındaki (o sahil) kasabasının durumunu da sor. Hani onlar Cumartesi Günü'nde (Avlanma Yasağı''nı çiğneyerek) haddi aşmışlardı. Cumartesi Yasağına uyduklarında balıklar her taraftan akın ediyordu. Yasağa uymadıklarında ise gelmiyorlardı. İşte biz, fasıklıkları nedeniyle onları böyle imtihan ediyorduk.",
+      "footnotes": null
+    },
+    {
+      "id": "1118",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "164",
+      "arabic_text": "وَاِذْ قَالَتْ اُمَّةٌ مِنْهُمْ لِمَ تَعِظُونَ قَوْمًاۨۙ اللّٰهُ مُهْلِكُهُمْ اَوْ مُعَذِّبُهُمْ عَذَابًا شَد۪يدًاۜ قَالُوا مَعْذِرَةً اِلٰى رَبِّكُمْ وَلَعَلَّهُمْ يَتَّقُونَ",
+      "translation": "Onlardan bir topluluk: “Allah’ın helak edeceği ya da çetin bir azaba çarptıracağı kimselere ne diye öğüt veriyorsunuz?” dediği zaman: “Rabbinize sunacağımız bir mazeretimiz olsun ve umulur ki korkup sakınırlar.” demişlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1119",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "165",
+      "arabic_text": "فَلَمَّا نَسُوا مَا ذُكِّرُوا بِه۪ٓ اَنْجَيْنَا الَّذ۪ينَ يَنْهَوْنَ عَنِ السُّٓوءِ وَاَخَذْنَا الَّذ۪ينَ ظَلَمُوا بِعَذَابٍ بَـ۪ٔيسٍ بِمَا كَانُوا يَفْسُقُونَ",
+      "translation": "Kendilerine hatırlatılanı unuttukları vakit, kötülükten alıkoyanları kurtarmış, zalimleri ise fasıklıkları sebebiyle zorlu bir azapla yakalayıvermiştik.",
+      "footnotes": null
+    },
+    {
+      "id": "1120",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "166",
+      "arabic_text": "فَلَمَّا عَتَوْا عَنْ مَا نُهُوا عَنْهُ قُلْنَا لَهُمْ كُونُوا قِرَدَةً خَاسِـ۪ٔينَ",
+      "translation": "Yasaklandıkları şeyi yapmakta diretince: “Alçak/Aşağılık maymunlar olun!” demiştik.",
+      "footnotes": null
+    },
+    {
+      "id": "1121",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "167",
+      "arabic_text": "وَاِذْ تَاَذَّنَ رَبُّكَ لَيَبْعَثَنَّ عَلَيْهِمْ اِلٰى يَوْمِ الْقِيٰمَةِ مَنْ يَسُومُهُمْ سُٓوءَ الْعَذَابِۜ اِنَّ رَبَّكَ لَسَر۪يعُ الْعِقَابِۚ وَاِنَّهُ لَغَفُورٌ رَح۪يمٌ",
+      "translation": "O zaman Rabbin, kıyamete kadar onlara, işkencenin en kötüsünü reva görecek birilerini yollayacağını/musallat edeceğini bildirdi. Şüphesiz ki Rabbinin cezalandırması pek çabuktur. Şüphesiz ki O, (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) Ğafûr, (kullarına karşı merhametli olan) Rahîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "1122",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "168",
+      "arabic_text": "وَقَطَّعْنَاهُمْ فِي الْاَرْضِ اُمَمًاۚ مِنْهُمُ الصَّالِحُونَ وَمِنْهُمْ دُونَ ذٰلِكَۘ وَبَلَوْنَاهُمْ بِالْحَسَنَاتِ وَالسَّيِّـَٔاتِ لَعَلَّهُمْ يَرْجِعُونَ",
+      "translation": "Onları yeryüzünde topluluklar hâlinde böldük. İçlerinde salih kimseler olduğu gibi, böyle olmayanlar da vardır. (Takva ve salihliğe) dönerler diye onları iyilikler ve kötülüklerle imtihan ettik.",
+      "footnotes": null
+    },
+    {
+      "id": "1123",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "169",
+      "arabic_text": "فَخَلَفَ مِنْ بَعْدِهِمْ خَلْفٌ وَرِثُوا الْكِتَابَ يَأْخُذُونَ عَرَضَ هٰذَا الْاَدْنٰى وَيَقُولُونَ سَيُغْفَرُ لَنَاۚ وَاِنْ يَأْتِهِمْ عَرَضٌ مِثْلُهُ يَأْخُذُوهُۜ اَلَمْ يُؤْخَذْ عَلَيْهِمْ م۪يثَاقُ الْكِتَابِ اَنْ لَا يَقُولُوا عَلَى اللّٰهِ اِلَّا الْحَقَّ وَدَرَسُوا مَا ف۪يهِۜ وَالدَّارُ الْاٰخِرَةُ خَيْرٌ لِلَّذ۪ينَ يَتَّقُونَۜ اَفَلَا تَعْقِلُونَ",
+      "translation": "Sonra onların yerine Kitab’a da mirasçı olan bir topluluk geçti. Dünya malının değersiz olanını alıyor ve (ne de olsa): “Günahlarımız bağışlanacak.” diyorlardı. (Güya tevbe etmelerine rağmen) değersiz bir dünya malı geldiğinde yine onu alıyorlar. Oysa Allah’a karşı yalnızca hak olanı söyleyeceklerine dair onlardan Kitap sözü alınmamış mıydı? Kitab’ın içindekileri de sürekli okuyanlardı hâlbuki. Ahiret yurdu korkup sakınanlar için daha hayırlıdır. Akletmez misiniz?",
+      "footnotes": null
+    },
+    {
+      "id": "1124",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "170",
+      "arabic_text": "وَالَّذ۪ينَ يُمَسِّكُونَ بِالْكِتَابِ وَاَقَامُوا الصَّلٰوةَۜ اِنَّا لَا نُض۪يعُ اَجْرَ الْمُصْلِح۪ينَ",
+      "translation": "Kitab’a (dört elle) yapışanlar ve namazı dosdoğru kılanlar var ya! Şüphesiz biz, ıslah edenlerin ecirlerini zayi etmeyiz.",
+      "footnotes": null
+    },
+    {
+      "id": "1125",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "171",
+      "arabic_text": "وَاِذْ نَتَقْنَا الْجَبَلَ فَوْقَهُمْ كَاَنَّهُ ظُلَّةٌ وَظَنُّٓوا اَنَّهُ وَاقِعٌ بِهِمْۚ خُذُوا مَٓا اٰتَيْنَاكُمْ بِقُوَّةٍ وَاذْكُرُوا مَا ف۪يهِ لَعَلَّكُمْ تَتَّقُونَ۟",
+      "translation": "(Hatırlayın!) Hani bir zamanlar, (Tur) Dağı’nı bir gölgelik gibi tepelerinde yükseltmiştik de, onun tepelerine düşeceğini sanmışlardı. (O sırada onlara şöyle öğüt vermiştik:) “Size verdiğimize kuvvetle yapışın ve içindekileri hatırlayın ki korkup sakınasınız.”",
+      "footnotes": null
+    },
+    {
+      "id": "1126",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "172",
+      "arabic_text": "وَاِذْ اَخَذَ رَبُّكَ مِنْ بَن۪ٓي اٰدَمَ مِنْ ظُهُورِهِمْ ذُرِّيَّتَهُمْ وَاَشْهَدَهُمْ عَلٰٓى اَنْفُسِهِمْۚ اَلَسْتُ بِرَبِّكُمْۜ قَالُوا بَلٰىۚۛ شَهِدْنَاۚۛ اَنْ تَقُولُوا يَوْمَ الْقِيٰمَةِ اِنَّا كُنَّا عَنْ هٰذَا غَافِل۪ينَۙ",
+      "translation": "(Hatırla!) Hani Rabbin Âdemoğullarının sırtlarından zürriyetlerini almış ve onları kendilerine şahit tutarak: “Ben sizin Rabbiniz değil miyim?” demişti. Demişlerdi ki: “Evet! (Sen bizim Rabbimizsin!) Şahit olduk.” (Bu,) Kıyamet Günü: “Biz bundan habersizdik.” dememeniz içindir.",
+      "footnotes": null
+    },
+    {
+      "id": "1127",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "173",
+      "arabic_text": "اَوْ تَقُولُٓوا اِنَّمَٓا اَشْرَكَ اٰبَٓاؤُ۬نَا مِنْ قَبْلُ وَكُنَّا ذُرِّيَّةً مِنْ بَعْدِهِمْۚ اَفَتُهْلِكُنَا بِمَا فَعَلَ الْمُبْطِلُونَ",
+      "translation": "Ya da: “Babalarımız daha önce şirk koşmuştu. Biz ise onlardan sonra gelen (ve onları taklit eden) bir nesiliz. Batıl ehlinin yaptıkları yüzünden bizi helak mı edeceksin?” dememeniz içindir.",
+      "footnotes": null
+    },
+    {
+      "id": "1128",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "174",
+      "arabic_text": "وَكَذٰلِكَ نُفَصِّلُ الْاٰيَاتِ وَلَعَلَّهُمْ يَرْجِعُونَ",
+      "translation": "Ayetleri böyle detaylı bir şekilde açıklıyoruz ki (Allah’a verdikleri söze) dönsünler.",
+      "footnotes": null
+    },
+    {
+      "id": "1129",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "175",
+      "arabic_text": "وَاتْلُ عَلَيْهِمْ نَبَاَ الَّذ۪ٓي اٰتَيْنَاهُ اٰيَاتِنَا فَانْسَلَخَ مِنْهَا فَاَتْبَعَهُ الشَّيْطَانُ فَكَانَ مِنَ الْغَاو۪ينَ",
+      "translation": "Onlara, ayetlerimizi verdiğimiz kişinin durumunu anlat. O, ayetlerimizden sıyrılmış, (derken) şeytan onu kendisine uydurmuş ve (bütün bunların neticesinde) azgınlardan olmuştu.",
+      "footnotes": null
+    },
+    {
+      "id": "1130",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "176",
+      "arabic_text": "وَلَوْ شِئْنَا لَرَفَعْنَاهُ بِهَا وَلٰكِنَّهُٓ اَخْلَدَ اِلَى الْاَرْضِ وَاتَّبَعَ هَوٰيهُۚ فَمَثَلُهُ كَمَثَلِ الْكَلْبِۚ اِنْ تَحْمِلْ عَلَيْهِ يَلْهَثْ اَوْ تَتْرُكْهُ يَلْهَثْۜ ذٰلِكَ مَثَلُ الْقَوْمِ الَّذ۪ينَ كَذَّبُوا بِاٰيَاتِنَاۚ فَاقْصُصِ الْقَصَصَ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+      "translation": "Şayet biz isteseydik onu (kendisine verdiğimiz ilim ve deliller sayesinde) yüceltirdik. Fakat o, dünyaya meyletti ve hevasına/arzusuna uydu. Onun misali, üzerine gitsen de dili dışarda soluyan kendi hâline terk etsen de dili dışarda soluyan köpek gibidir. Bu, ayetlerimizi yalanlayan topluluğun misalidir. İyice düşünsünler diye kıssaları anlat.",
+      "footnotes": null
+    },
+    {
+      "id": "1131",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "177",
+      "arabic_text": "سَٓاءَ مَثَلًاۨ الْقَوْمُ الَّذ۪ينَ كَذَّبُوا بِاٰيَاتِنَا وَاَنْفُسَهُمْ كَانُوا يَظْلِمُونَ",
+      "translation": "Ayetlerimizi yalanlayan ve yalnızca kendilerine zulmetmekte olanların misali ne kötüdür.",
+      "footnotes": null
+    },
+    {
+      "id": "1132",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "178",
+      "arabic_text": "مَنْ يَهْدِ اللّٰهُ فَهُوَ الْمُهْتَد۪يۚ وَمَنْ يُضْلِلْ فَاُو۬لٰٓئِكَ هُمُ الْخَاسِرُونَ",
+      "translation": "Allah kimi hidayet ederse o, hidayeti bulmuştur. Kimi de saptırırsa bunlar, hüsrana uğrayanların ta kendileridir.",
+      "footnotes": null
+    },
+    {
+      "id": "1133",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "179",
+      "arabic_text": "وَلَقَدْ ذَرَأْنَا لِجَهَنَّمَ كَث۪يرًا مِنَ الْجِنِّ وَالْاِنْسِۘ لَهُمْ قُلُوبٌ لَا يَفْقَهُونَ بِهَاۘ وَلَهُمْ اَعْيُنٌ لَا يُبْصِرُونَ بِهَاۘ وَلَهُمْ اٰذَانٌ لَا يَسْمَعُونَ بِهَاۜ اُو۬لٰٓئِكَ كَالْاَنْعَامِ بَلْ هُمْ اَضَلُّۜ اُو۬لٰٓئِكَ هُمُ الْغَافِلُونَ",
+      "translation": "Andolsun ki cehennemi, kalpleri olup da onunla (hakikati) anlamayan, gözleri olup da onunla (hakikati) görmeyen; kulakları olup da onunla (hakikati) duymayan insanlar ve cinlerin çoğunluğu için yarattık/hazırladık. Bunlar hayvanlar gibidir, hatta (hayvanlardan) daha sapkınlardır. Bunlar gafillerin ta kendileridir.",
+      "footnotes": null
+    },
+    {
+      "id": "1134",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "180",
+      "arabic_text": "وَلِلّٰهِ الْاَسْمَٓاءُ الْحُسْنٰى فَادْعُوهُ بِهَاۖ وَذَرُوا الَّذ۪ينَ يُلْحِدُونَ ف۪ٓي اَسْمَٓائِه۪ۜ سَيُجْزَوْنَ مَا كَانُوا يَعْمَلُونَ",
+      "translation": "En güzel isimler Allah’ındır. (Öyleyse) bu isimlerle O’na dua edin. O’nun isimlerinde ilhada/eğriliğe sapanları (kendi hâllerine) bırakın. Yaptıklarının cezasını göreceklerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "1135",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "181",
+      "arabic_text": "وَمِمَّنْ خَلَقْنَٓا اُمَّةٌ يَهْدُونَ بِالْحَقِّ وَبِه۪ يَعْدِلُونَ۟",
+      "translation": "Bizim yarattıklarımız içinde öyle bir topluluk vardır ki; hakka çağırır ve hakla hükmederler (veya hak/vahiy ile rehberlik eder ve onunla adaleti sağlarlar).",
+      "footnotes": null
+    },
+    {
+      "id": "1136",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "182",
+      "arabic_text": "وَالَّذ۪ينَ كَذَّبُوا بِاٰيَاتِنَا سَنَسْتَدْرِجُهُمْ مِنْ حَيْثُ لَا يَعْلَمُونَۚ",
+      "translation": "Ayetlerimizi yalanlayanları ise, hiç bilmedikleri yönlerden derece derece/adım adım (azaba) yaklaştıracağız.",
+      "footnotes": null
+    },
+    {
+      "id": "1137",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "183",
+      "arabic_text": "وَاُمْل۪ي لَهُمْۜ اِنَّ كَيْد۪ي مَت۪ينٌ",
+      "translation": "Onlara mühlet veriyorum. Benim (adım adım azaba yaklaştırmak için, onlara kurduğum) tuzağım pek sağlamdır.",
+      "footnotes": null
+    },
+    {
+      "id": "1138",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "184",
+      "arabic_text": "اَوَلَمْ يَتَفَكَّرُوا مَا بِصَاحِبِهِمْ مِنْ جِنَّةٍۜ اِنْ هُوَ اِلَّا نَذ۪يرٌ مُب۪ينٌ",
+      "translation": "Hiç düşünmediler mi? Onların arkadaşlarında (onlara gönderilen Nebi’de) hiçbir delilik yoktur. O, ancak apaçık bir uyarıcıdır.",
+      "footnotes": null
+    },
+    {
+      "id": "1139",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "185",
+      "arabic_text": "اَوَلَمْ يَنْظُرُوا ف۪ي مَلَكُوتِ السَّمٰوَاتِ وَالْاَرْضِ وَمَا خَلَقَ اللّٰهُ مِنْ شَيْءٍۙ وَاَنْ عَسٰٓى اَنْ يَكُونَ قَدِ اقْتَرَبَ اَجَلُهُمْۚ فَبِاَيِّ حَد۪يثٍ بَعْدَهُ يُؤْمِنُونَ",
+      "translation": "(İnsanı hayrete düşüren ve sayısız ayetle donatılmış) göklerin ve yerin melekutuna, Allah’ın yarattıklarına ve ecellerinin yaklaşmış olma ihtimaline bakıp düşünmediler mi? (Buna inanmadıktan sonra) daha hangi söze inanacaklar?",
+      "footnotes": null
+    },
+    {
+      "id": "1140",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "186",
+      "arabic_text": "مَنْ يُضْلِلِ اللّٰهُ فَلَا هَادِيَ لَهُۜ وَيَذَرُهُمْ ف۪ي طُغْيَانِهِمْ يَعْمَهُونَ",
+      "translation": "Allah kimi saptırmışsa onu hidayet edecek kimse yoktur. Onları azgınlıkları içinde bocalar bir hâlde bırakır.",
+      "footnotes": null
+    },
+    {
+      "id": "1141",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "187",
+      "arabic_text": "يَسْـَٔلُونَكَ عَنِ السَّاعَةِ اَيَّانَ مُرْسٰيهَاۜ قُلْ اِنَّمَا عِلْمُهَا عِنْدَ رَبّ۪يۚ لَا يُجَلّ۪يهَا لِوَقْتِهَٓا اِلَّا هُوَۜ ثَقُلَتْ فِي السَّمٰوَاتِ وَالْاَرْضِۜ لَا تَأْت۪يكُمْ اِلَّا بَغْتَةًۜ يَسْـَٔلُونَكَ كَاَنَّكَ حَفِيٌّ عَنْهَاۜ قُلْ اِنَّمَا عِلْمُهَا عِنْدَ اللّٰهِ وَلٰكِنَّ اَكْثَرَ النَّاسِ لَا يَعْلَمُونَ",
+      "translation": "Sana kıyametin ne zaman demir atacağını (gelip çatacağını) soruyorlar. De ki: “Onun bilgisi yalnızca Rabbimin katındadır. Onun vaktini O’ndan başkası açıklayamaz. (Onun bilgisi ve vuku bulacağı gerçeği) göklerde ve yerde olanlara ağır gelmiştir. Ancak aniden başınıza gelir.” Sanki ona dair tafsilatlı bilgiye sahipmişsin gibi tutup sana soruyorlar. De ki: “Onun bilgisi yalnızca Allah’ın katındadır. Fakat insanların çoğu bilmiyorlar.”",
+      "footnotes": null
+    },
+    {
+      "id": "1142",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "188",
+      "arabic_text": "قُلْ لَٓا اَمْلِكُ لِنَفْس۪ي نَفْعًا وَلَا ضَرًّا اِلَّا مَا شَٓاءَ اللّٰهُۜ وَلَوْ كُنْتُ اَعْلَمُ الْغَيْبَ لَاسْتَكْثَرْتُ مِنَ الْخَيْرِۚ وَمَا مَسَّنِيَ السُّٓوءُ اِنْ اَنَا۬ اِلَّا نَذ۪يرٌ وَبَش۪يرٌ لِقَوْمٍ يُؤْمِنُونَ۟",
+      "translation": "De ki: “Ben kendime, Allah’ın dilemesi dışında ne fayda ne de zarar verme gücüne sahibim. Şayet gaybı biliyor olsaydım, hayrı çoğaltırdım/daha fazla mal toplardım ve hiçbir kötülük bana dokunmazdı. Ben, yalnızca inanan bir topluluk için uyarıcı ve müjdeciyim.”",
+      "footnotes": null
+    },
+    {
+      "id": "1143",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "189",
+      "arabic_text": "هُوَ الَّذ۪ي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ اِلَيْهَاۚ فَلَمَّا تَغَشّٰيهَا حَمَلَتْ حَمْلًا خَف۪يفًا فَمَرَّتْ بِه۪ۚ فَلَمَّٓا اَثْقَلَتْ دَعَوَا اللّٰهَ رَبَّهُمَا لَئِنْ اٰتَيْتَنَا صَالِحًا لَنَكُونَنَّ مِنَ الشَّاكِر۪ينَ",
+      "translation": "O, sizi tek bir nefisten (Âdem’den) yaratan ve sükûnete kavuşsun diye ondan eşini yaratandır. Eşini örtüp bürüyerek (onunla beraber olunca), hafif bir yük yüklendi ve (bir müddet) onunla dolaştı. Yükü ağırlaşınca ikisi beraber Rableri olan Allah’a şöyle dua ettiler: “Şayet bize salih (bir evlat) verirsen andolsun ki şükredenlerden olacağız.”",
+      "footnotes": null
+    },
+    {
+      "id": "1144",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "190",
+      "arabic_text": "فَلَمَّٓا اٰتٰيهُمَا صَالِحًا جَعَلَا لَهُ شُرَكَٓاءَ ف۪يمَٓا اٰتٰيهُمَاۚ فَتَعَالَى اللّٰهُ عَمَّا يُشْرِكُونَ",
+      "translation": "(Allah) onlara salih bir çocuk verince, tuttular (Allah’ın) onlara verdiği (evlat) konusunda (Allah’a) ortak koştular. Allah, onların şirk koştuklarından yücedir.",
+      "footnotes": null
+    },
+    {
+      "id": "1145",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "191",
+      "arabic_text": "اَيُشْرِكُونَ مَا لَا يَخْلُقُ شَيْـًٔا وَهُمْ يُخْلَقُونَۘ",
+      "translation": "Yoksa onlar, hiçbir şey yaratmayan, kendisi yaratılmış varlıkları mı (Allah’a) ortak koşuyorlar?",
+      "footnotes": null
+    },
+    {
+      "id": "1146",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "192",
+      "arabic_text": "وَلَا يَسْتَط۪يعُونَ لَهُمْ نَصْرًا وَلَٓا اَنْفُسَهُمْ يَنْصُرُونَ",
+      "translation": "(Oysa) bu varlıklar, ne onlara ne de kendilerine yardım etmeye güç yetirebilirler.",
+      "footnotes": null
+    },
+    {
+      "id": "1147",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "193",
+      "arabic_text": "وَاِنْ تَدْعُوهُمْ اِلَى الْهُدٰى لَا يَتَّبِعُوكُمْۜ سَوَٓاءٌ عَلَيْكُمْ اَدَعَوْتُمُوهُمْ اَمْ اَنْتُمْ صَامِتُونَ",
+      "translation": "Onları hidayete çağırsanız, size uymazlar. Gerçi onları çağırsanız da sussanız da birdir (inanmazlar).",
+      "footnotes": null
+    },
+    {
+      "id": "1148",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "194",
+      "arabic_text": "اِنَّ الَّذ۪ينَ تَدْعُونَ مِنْ دُونِ اللّٰهِ عِبَادٌ اَمْثَالُكُمْ فَادْعُوهُمْ فَلْيَسْتَج۪يبُوا لَكُمْ اِنْ كُنْتُمْ صَادِق۪ينَ",
+      "translation": "Allah’ı bırakıp da kendilerine dua ettiğiniz varlıklar, sizin gibi (Allah’a) kuldurlar. Şayet doğruysanız, çağırın da çağrınıza karşılık versinler.",
+      "footnotes": null
+    },
+    {
+      "id": "1149",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "195",
+      "arabic_text": "اَلَهُمْ اَرْجُلٌ يَمْشُونَ بِهَاۘ اَمْ لَهُمْ اَيْدٍ يَبْطِشُونَ بِهَاۘ اَمْ لَهُمْ اَعْيُنٌ يُبْصِرُونَ بِهَاۘ اَمْ لَهُمْ اٰذَانٌ يَسْمَعُونَ بِهَاۜ قُلِ ادْعُوا شُرَكَٓاءَكُمْ ثُمَّ ك۪يدُونِ فَلَا تُنْظِرُونِ",
+      "translation": "Onların kendisiyle yürüdükleri ayakları, tutacak elleri, görecek gözleri, işitecek kulakları mı var ki (çağrınıza icabet etsinler)? De ki: “Bütün ortaklarınızı çağırın. Sonra elinizden gelen tuzağı kurun ve bana göz açtırmayın.”",
+      "footnotes": null
+    },
+    {
+      "id": "1150",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "196",
+      "arabic_text": "اِنَّ وَلِيِّيَ اللّٰهُ الَّذ۪ي نَزَّلَ الْكِتَابَۘ وَهُوَ يَتَوَلَّى الصَّالِح۪ينَ",
+      "translation": "“Şüphesiz ki benim velim, Kitab’ı indiren Allah’tır. O, salihleri veli edinir.”",
+      "footnotes": null
+    },
+    {
+      "id": "1151",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "197",
+      "arabic_text": "وَالَّذ۪ينَ تَدْعُونَ مِنْ دُونِه۪ لَا يَسْتَط۪يعُونَ نَصْرَكُمْ وَلَٓا اَنْفُسَهُمْ يَنْصُرُونَ",
+      "translation": "O’nu bırakıp da dua ettikleriniz, size yardım etmeye de kendilerine yardıma da güç yetiremezler.",
+      "footnotes": null
+    },
+    {
+      "id": "1152",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "198",
+      "arabic_text": "وَاِنْ تَدْعُوهُمْ اِلَى الْهُدٰى لَا يَسْمَعُواۜ وَتَرٰيهُمْ يَنْظُرُونَ اِلَيْكَ وَهُمْ لَا يُبْصِرُونَ",
+      "translation": "Onları hidayete çağırsanız, sizi duymazlar. Onların sana baktığını görürsün, fakat onlar görmezler.",
+      "footnotes": null
+    },
+    {
+      "id": "1153",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "199",
+      "arabic_text": "خُذِ الْعَفْوَ وَأْمُرْ بِالْعُرْفِ وَاَعْرِضْ عَنِ الْجَاهِل۪ينَ",
+      "translation": "(Bütün bunlara rağmen) sen af yolunu tut, iyi olanı emret ve cahillerden yüz çevir.",
+      "footnotes": null
+    },
+    {
+      "id": "1154",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "200",
+      "arabic_text": "وَاِمَّا يَنْزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللّٰهِۜ اِنَّهُ سَم۪يعٌ عَل۪يمٌ",
+      "translation": "Şeytandan sana bir dürtü/vesvese gelirse, Allah’a sığın. Şüphesiz ki O, (işiten ve dualara icabet eden) Semi’, (her şeyi bilen) Alîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "1155",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "201",
+      "arabic_text": "اِنَّ الَّذ۪ينَ اتَّقَوْا اِذَا مَسَّهُمْ طَٓائِفٌ مِنَ الشَّيْطَانِ تَذَكَّرُوا فَاِذَا هُمْ مُبْصِرُونَۚ",
+      "translation": "Korkup sakınan (muttakileri), şeytanlar (vesvese ve kışkırtmalarıyla) kuşattığında, (Allah’ı) anıp hatırlarlar. (Bir de ne göresin hemen o hâlden kurtulmuş, şeytanın vesvesesine karşı) basiretli hâle gelmişlerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "1156",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "202",
+      "arabic_text": "وَاِخْوَانُهُمْ يَمُدُّونَهُمْ فِي الْغَيِّ ثُمَّ لَا يُقْصِرُونَ",
+      "translation": "(Şeytanlarla dost ve) kardeş olanlarsa, (şeytan) onları sapıklığa iter ve (onları saptırmayı bir görev bilir ve görevlerini) hiç aksatmazlar.",
+      "footnotes": null
+    },
+    {
+      "id": "1157",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "203",
+      "arabic_text": "وَاِذَا لَمْ تَأْتِهِمْ بِاٰيَةٍ قَالُوا لَوْلَا اجْتَبَيْتَهَاۜ قُلْ اِنَّمَٓا اَتَّبِعُ مَا يُوحٰٓى اِلَيَّ مِنْ رَبّ۪يۚ هٰذَا بَصَٓائِرُ مِنْ رَبِّكُمْ وَهُدًى وَرَحْمَةٌ لِقَوْمٍ يُؤْمِنُونَ",
+      "translation": "(Senden harikulade olaylar, mucizeler isteyip de) onlara bir ayet/mucize getirmediğinde: “Sen onu derlesen ya!” derler. De ki: “Ben yalnızca Rabbimden bana vahyolunana uyarım. (İlle de bir ayet/mucize istiyorsanız) işte bu (Kitap), içinde Rabbinizden basiretler taşıyan, mümin bir topluluk için hidayet ve rahmet olan bir ayettir/mucizedir.”",
+      "footnotes": null
+    },
+    {
+      "id": "1158",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "204",
+      "arabic_text": "وَاِذَا قُرِئَ الْقُرْاٰنُ فَاسْتَمِعُوا لَهُ وَاَنْصِتُوا لَعَلَّكُمْ تُرْحَمُونَ",
+      "translation": "(Kur’ân’ın insanı basiretli kılan, hidayete erdiren ve rahmete eriştiren ayetlerinden istifade etmek istiyorsanız) Kur’ân okunduğunda onu dinleyin ve susun ki merhamet olunasınız.",
+      "footnotes": null
+    },
+    {
+      "id": "1159",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "205",
+      "arabic_text": "وَاذْكُرْ رَبَّكَ ف۪ي نَفْسِكَ تَضَرُّعًا وَخ۪يفَةً وَدُونَ الْجَهْرِ مِنَ الْقَوْلِ بِالْغُدُوِّ وَالْاٰصَالِ وَلَا تَكُنْ مِنَ الْغَافِل۪ينَ",
+      "translation": "Gönülden yalvararak, korku ile ve yüksek olmayan bir sesle, sabah ve akşam Rabbini zikret. Sakın gafillerden olma!",
+      "footnotes": null
+    },
+    {
+      "id": "1160",
+      "suraNo": "7",
+      "suraName": "Araf",
+      "aya": "206",
+      "arabic_text": "اِنَّ الَّذ۪ينَ عِنْدَ رَبِّكَ لَا يَسْتَكْبِرُونَ عَنْ عِبَادَتِه۪ وَيُسَبِّحُونَهُ وَلَهُ يَسْجُدُونَ",
+      "translation": "Şüphesiz ki Rabbinin katında olan (melekler), O’na ibadet etmekten büyüklenmez, O’nu tesbih eder ve yalnızca O’na secde ederler.",
+      "footnotes": null
+    }
+  ]
+}

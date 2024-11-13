@@ -1,0 +1,31 @@
+{
+  "result": [
+    {
+      "id": "6174",
+      "suraNo": "103",
+      "suraName": "Asr",
+      "aya": "1",
+      "arabic_text": "وَالْعَصْرِۙ",
+      "translation": "Asra/zamana andolsun ki,",
+      "footnotes": null
+    },
+    {
+      "id": "6175",
+      "suraNo": "103",
+      "suraName": "Asr",
+      "aya": "2",
+      "arabic_text": "اِنَّ الْاِنْسَانَ لَف۪ي خُسْرٍۙ",
+      "translation": "Hiç şüphesiz insan, hüsran içindedir.",
+      "footnotes": null
+    },
+    {
+      "id": "6176",
+      "suraNo": "103",
+      "suraName": "Asr",
+      "aya": "3",
+      "arabic_text": "اِلَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَتَوَاصَوْا بِالْحَقِّ وَتَوَاصَوْا بِالصَّبْرِ",
+      "translation": "İman eden, salih amel işleyen, birbirlerine hakkı tavsiye edenler ve birbirlerine sabrı tavsiye edenler müstesna.",
+      "footnotes": null
+    }
+  ]
+}

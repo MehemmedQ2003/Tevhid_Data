@@ -1,0 +1,994 @@
+{
+  "result": [
+    {
+      "id": "2140",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "1",
+      "arabic_text": "اَلْحَمْدُ لِلّٰهِ الَّذ۪ٓي اَنْزَلَ عَلٰى عَبْدِهِ الْكِتَابَ وَلَمْ يَجْعَلْ لَهُ عِوَجًا ۜ۔",
+      "translation": "Hamd, kuluna Kitab’ı indiren ve onda hiçbir eğrilik/çarpıklık kılmayan Allah’a aittir.",
+      "footnotes": null
+    },
+    {
+      "id": "2141",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "2",
+      "arabic_text": "قَيِّمًا لِيُنْذِرَ بَأْسًا شَد۪يدًا مِنْ لَدُنْهُ وَيُبَشِّرَ الْمُؤْمِن۪ينَ الَّذ۪ينَ يَعْمَلُونَ الصَّالِحَاتِ اَنَّ لَهُمْ اَجْرًا حَسَنًاۙ",
+      "translation": "(O Kur’ân,) dosdoğru bir Kitap’tır. Katından şiddetli bir azapla uyarmak ve salih amel işleyen müminlere güzel bir mükâfat olduğunu müjdelemek için (indirilmiştir).",
+      "footnotes": null
+    },
+    {
+      "id": "2142",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "3",
+      "arabic_text": "مَاكِث۪ينَ ف۪يهِ اَبَدًاۙ",
+      "translation": "Orada ebedî olarak kalacaklardır.",
+      "footnotes": null
+    },
+    {
+      "id": "2143",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "4",
+      "arabic_text": "وَيُنْذِرَ الَّذ۪ينَ قَالُوا اتَّخَذَ اللّٰهُ وَلَدًاۗ",
+      "translation": "Ve “Allah çocuk edindi.” diyenleri uyarmak için (indirildi).",
+      "footnotes": null
+    },
+    {
+      "id": "2144",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "5",
+      "arabic_text": "مَا لَهُمْ بِه۪ مِنْ عِلْمٍ وَلَا لِاٰبَٓائِهِمْۜ كَبُرَتْ كَلِمَةً تَخْرُجُ مِنْ اَفْوَاهِهِمْۜ اِنْ يَقُولُونَ اِلَّا كَذِبًا",
+      "translation": "Ne onların ne de babalarının konuya dair hiçbir bilgisi yoktur. Ağızlarından çıkan bu söz ne kadar da büyük! Onlar yalnızca yalan söylerler.",
+      "footnotes": null
+    },
+    {
+      "id": "2145",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "6",
+      "arabic_text": "فَلَعَلَّكَ بَاخِعٌ نَفْسَكَ عَلٰٓى اٰثَارِهِمْ اِنْ لَمْ يُؤْمِنُوا بِهٰذَا الْحَد۪يثِ اَسَفًا",
+      "translation": "Bu söze (Kur’ân’a) inanmadılar diye arkalarından üzülerek kendini öldüreceksin/helak edeceksin öyle mi?",
+      "footnotes": null
+    },
+    {
+      "id": "2146",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "7",
+      "arabic_text": "اِنَّا جَعَلْنَا مَا عَلَى الْاَرْضِ ز۪ينَةً لَهَا لِنَبْلُوَهُمْ اَيُّهُمْ اَحْسَنُ عَمَلًا",
+      "translation": "Şüphesiz ki biz, hangisinin daha güzel amel yapacağını denemek/ortaya çıkarmak için, yeryüzünün üzerindekileri onun için bir süs kıldık.",
+      "footnotes": null
+    },
+    {
+      "id": "2147",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "8",
+      "arabic_text": "وَاِنَّا لَجَاعِلُونَ مَا عَلَيْهَا صَع۪يدًا جُرُزًاۜ",
+      "translation": "(Yine) şüphesiz ki biz, onun üzerinde (süs kıldıklarımızı) kuru/verimsiz bir toprak yaparız.",
+      "footnotes": null
+    },
+    {
+      "id": "2148",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "9",
+      "arabic_text": "اَمْ حَسِبْتَ اَنَّ اَصْحَابَ الْكَهْفِ وَالرَّق۪يمِ كَانُوا مِنْ اٰيَاتِنَا عَجَبًا",
+      "translation": "Yoksa sen, Ashab-ı Kehf ve Rakîm’i bizim ayetlerimiz arasında en ilginç olanı mı sandın?",
+      "footnotes": null
+    },
+    {
+      "id": "2149",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "10",
+      "arabic_text": "اِذْ اَوَى الْفِتْيَةُ اِلَى الْكَهْفِ فَقَالُوا رَبَّنَٓا اٰتِنَا مِنْ لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ اَمْرِنَا رَشَدًا",
+      "translation": "(Hatırlayın!) Hani o gençler mağaraya sığınmış: “Rabbimiz! Bize katından bir rahmet ver ve işimizde en isabetli olanı bize kolaylaştır.” demişlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "2150",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "11",
+      "arabic_text": "فَضَرَبْنَا عَلٰٓى اٰذَانِهِمْ فِي الْكَهْفِ سِن۪ينَ عَدَدًاۙ",
+      "translation": "(Dış sesleri duymamaları ve derin bir uykuya dalmaları için) mağarada uzun yıllar kulaklarına (ağırlık) vurmuştuk.",
+      "footnotes": null
+    },
+    {
+      "id": "2151",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "12",
+      "arabic_text": "ثُمَّ بَعَثْنَاهُمْ لِنَعْلَمَ اَيُّ الْحِزْبَيْنِ اَحْصٰى لِمَا لَبِثُٓوا اَمَدًا۟",
+      "translation": "Sonra da (onlar hakkında ihtilaf eden) iki zümreden hangisi kaldıkları süreyi daha doğru hesap edecek diye onları uyandırmıştık.",
+      "footnotes": null
+    },
+    {
+      "id": "2152",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "13",
+      "arabic_text": "نَحْنُ نَقُصُّ عَلَيْكَ نَبَاَهُمْ بِالْحَقِّۜ اِنَّهُمْ فِتْيَةٌ اٰمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًىۗ",
+      "translation": "Biz sana, onların kıssalarını hak olarak/gerçek hâliyle anlatıyoruz. Şüphesiz ki onlar, Rablerine iman etmiş bir grup gençti ve biz de onların hidayetlerini arttırmıştık.",
+      "footnotes": null
+    },
+    {
+      "id": "2153",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "14",
+      "arabic_text": "وَرَبَطْنَا عَلٰى قُلُوبِهِمْ اِذْ قَامُوا فَقَالُوا رَبُّنَا رَبُّ السَّمٰوَاتِ وَالْاَرْضِ لَنْ نَدْعُوَ۬ا مِنْ دُونِه۪ٓ اِلٰهًا لَقَدْ قُلْنَٓا اِذًا شَطَطًا",
+      "translation": "Ve kıyama kalkıp: “Bizim Rabbimiz göklerin ve yerin Rabbidir! Onu bırakıp da hiçbir (sahte) ilaha dua etmeyiz. Andolsun ki o takdirde batıl/saçma bir şey söylemiş oluruz.” dediklerinde, onların kalplerini (yakin, sabır ve kararlılıkla) pekiştirmiştik.",
+      "footnotes": null
+    },
+    {
+      "id": "2154",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "15",
+      "arabic_text": "هٰٓؤُ۬لَٓاءِ قَوْمُنَا اتَّخَذُوا مِنْ دُونِه۪ٓ اٰلِهَةًۜ لَوْلَا يَأْتُونَ عَلَيْهِمْ بِسُلْطَانٍ بَيِّنٍۜ فَمَنْ اَظْلَمُ مِمَّنِ افْتَرٰى عَلَى اللّٰهِ كَذِبًاۜ",
+      "translation": "“İşte bunlar, bizim kavmimiz. (Tutup) Allah’ın dışında ilahlar edindiler. (Bu yaptıklarının doğruluğuna dair) apaçık bir delil getirmeleri gerekmez miydi? Allah’a yalan uydurup iftira edenden daha zalim kim vardır?”",
+      "footnotes": null
+    },
+    {
+      "id": "2155",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "16",
+      "arabic_text": "وَاِذِ اعْتَزَلْتُمُوهُمْ وَمَا يَعْبُدُونَ اِلَّا اللّٰهَ فَأْوُ۫ٓا اِلَى الْكَهْفِ يَنْشُرْ لَكُمْ رَبُّكُمْ مِنْ رَحْمَتِه۪ وَيُهَيِّئْ لَكُمْ مِنْ اَمْرِكُمْ مِرْفَقًا",
+      "translation": "Mademki onları ve Allah’ın dışında ibadet ettiklerini terk edip ayrıldınız, (haydi) mağaraya sığının da Rabbiniz rahmetini yaysın ve işinizi kolaylaştırsın.",
+      "footnotes": null
+    },
+    {
+      "id": "2156",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "17",
+      "arabic_text": "وَتَرَى الشَّمْسَ اِذَا طَلَعَتْ تَزَاوَرُ عَنْ كَهْفِهِمْ ذَاتَ الْيَم۪ينِ وَاِذَا غَرَبَتْ تَقْرِضُهُمْ ذَاتَ الشِّمَالِ وَهُمْ ف۪ي فَجْوَةٍ مِنْهُۜ ذٰلِكَ مِنْ اٰيَاتِ اللّٰهِۜ مَنْ يَهْدِ اللّٰهُ فَهُوَ الْمُهْتَدِۚ وَمَنْ يُضْلِلْ فَلَنْ تَجِدَ لَهُ وَلِيًّا مُرْشِدًا۟",
+      "translation": "Güneş’in, doğduğu zaman mağaralarının sağ tarafına yöneldiğini, battığı zaman da onları sol taraftan kestiğini görürsün. Onlar (mağaranın) genişçe bir alanındaydılar. Bu, Allah’ın (kudret ve azametine delalet eden) ayetlerindendir. Allah kimi hidayet ederse, o doğru yolu bulmuştur. Kimi de saptırırsa, sen ona yol gösterecek bir dost bulamazsın.",
+      "footnotes": null
+    },
+    {
+      "id": "2157",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "18",
+      "arabic_text": "وَتَحْسَبُهُمْ اَيْقَاظًا وَهُمْ رُقُودٌۗ وَنُقَلِّبُهُمْ ذَاتَ الْيَم۪ينِ وَذَاتَ الشِّمَالِۗ وَكَلْبُهُمْ بَاسِطٌ ذِرَاعَيْهِ بِالْوَص۪يدِۜ لَوِ اطَّلَعْتَ عَلَيْهِمْ لَوَلَّيْتَ مِنْهُمْ فِرَارًا وَلَمُلِئْتَ مِنْهُمْ رُعْبًا",
+      "translation": "Onları uyanık sanırsın, (fakat) onlar uykudadır. Onları sağ ve sol yanlarına çeviriyorduk. Köpekleri ise kapı önünde kollarını uzatmış yatıyordu. Onları görmüş olsan, kesinlikle geri dönüp kaçar ve (için) onların korkusuyla dolup taşardı.",
+      "footnotes": null
+    },
+    {
+      "id": "2158",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "19",
+      "arabic_text": "وَكَذٰلِكَ بَعَثْنَاهُمْ لِيَتَسَٓاءَلُوا بَيْنَهُمْۜ قَالَ قَٓائِلٌ مِنْهُمْ كَمْ لَبِثْتُمْۜ قَالُوا لَبِثْنَا يَوْمًا اَوْ بَعْضَ يَوْمٍۜ قَالُوا رَبُّكُمْ اَعْلَمُ بِمَا لَبِثْتُمْ فَابْعَثُٓوا اَحَدَكُمْ بِوَرِقِكُمْ هٰذِه۪ٓ اِلَى الْمَد۪ينَةِ فَلْيَنْظُرْ اَيُّهَٓا اَزْكٰى طَعَامًا فَلْيَأْتِكُمْ بِرِزْقٍ مِنْهُ وَلْيَتَلَطَّفْ وَلَا يُشْعِرَنَّ بِكُمْ اَحَدًا",
+      "translation": "Yine böyle aralarında soruştursunlar diye onları dirilttik/uyandırdık. İçlerinden biri: “Ne kadar kaldınız (burada)?” demişti. Demişlerdi ki: “Bir gün ya da daha az.” Demişlerdi ki: “Rabbiniz ne kadar kaldığınızı en iyi bilendir. Şimdi bu parayla birinizi şehre gönderin. Baksın, en temiz yiyecek hangisiyse ondan size bir rızık getirsin. Çok dikkatli olsun, sizi ele vermesin.”",
+      "footnotes": null
+    },
+    {
+      "id": "2159",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "20",
+      "arabic_text": "اِنَّهُمْ اِنْ يَظْهَرُوا عَلَيْكُمْ يَرْجُمُوكُمْ اَوْ يُع۪يدُوكُمْ ف۪ي مِلَّتِهِمْ وَلَنْ تُفْلِحُٓوا اِذًا اَبَدًا",
+      "translation": "“Çünkü sizi ele geçirecek olsalar, taşa tutar ya da dinlerine döndürürler. O zaman da ebediyen kurtuluşa eremezsiniz.”",
+      "footnotes": null
+    },
+    {
+      "id": "2160",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "21",
+      "arabic_text": "وَكَذٰلِكَ اَعْثَرْنَا عَلَيْهِمْ لِيَعْلَمُٓوا اَنَّ وَعْدَ اللّٰهِ حَقٌّ وَاَنَّ السَّاعَةَ لَا رَيْبَ ف۪يهَاۚ اِذْ يَتَنَازَعُونَ بَيْنَهُمْ اَمْرَهُمْ فَقَالُوا ابْنُوا عَلَيْهِمْ بُنْيَانًاۜ رَبُّهُمْ اَعْلَمُ بِهِمْۜ قَالَ الَّذ۪ينَ غَلَبُوا عَلٰٓى اَمْرِهِمْ لَنَتَّخِذَنَّ عَلَيْهِمْ مَسْجِدًا",
+      "translation": "Allah’ın vaadinin hak olduğunu ve kıyametin (kopacağında) şüphe olmadığını bilmeleri için bulunmalarını sağladık. Hani onlar kendi aralarında işlerini tartışıyorlardı. (Bir grup) demişti ki: “Onların üzerine bir bina inşa edin. Rableri onları en iyi bilendir.” Onların içlerinde üstünlük sağlayanlar dediler ki: “Mutlaka onların üzerine bir mescid yapmalıyız.”",
+      "footnotes": null
+    },
+    {
+      "id": "2161",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "22",
+      "arabic_text": "سَيَقُولُونَ ثَلٰثَةٌ رَابِعُهُمْ كَلْبُهُمْۚ وَيَقُولُونَ خَمْسَةٌ سَادِسُهُمْ كَلْبُهُمْ رَجْمًا بِالْغَيْبِۚ وَيَقُولُونَ سَبْعَةٌ وَثَامِنُهُمْ كَلْبُهُمْۜ قُلْ رَبّ۪ٓي اَعْلَمُ بِعِدَّتِهِمْ مَا يَعْلَمُهُمْ اِلَّا قَل۪يلٌ۠ فَلَا تُمَارِ ف۪يهِمْ اِلَّا مِرَٓاءً ظَاهِرًۖا وَلَا تَسْتَفْتِ ف۪يهِمْ مِنْهُمْ اَحَدًا۟",
+      "translation": "(Sonradan gelenler) diyecekler ki: “Üç kişiydiler, dördüncüleri köpekti.” Diyecekler ki: “Beş kişiydiler, altıncıları köpekti.” Bu, gaybı taşlamaktır/bir konuda bilgisizce konuşmaktır. Diyecekler ki: “Yedi kişiydiler, sekizincileri köpekti.” De ki: “Onların sayısını en iyi bilen Rabbimdir. Onları yalnızca çok az (insan) bilir. Onlar hakkında açık olandan (sahip olduğun vahiy bilgisinden) başkasıyla tartışma ve (buna dair) onlardan kimseye bilgi sorma.”",
+      "footnotes": null
+    },
+    {
+      "id": "2162",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "23",
+      "arabic_text": "وَلَا تَقُولَنَّ لِشَا۬يْءٍ اِنّ۪ي فَاعِلٌ ذٰلِكَ غَدًاۙ",
+      "translation": "Bir şey için kesinlikle: “Bunu yarın yapacağım.” deme!",
+      "footnotes": null
+    },
+    {
+      "id": "2163",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "24",
+      "arabic_text": "اِلَّٓا اَنْ يَشَٓاءَ اللّٰهُۘ وَاذْكُرْ رَبَّكَ اِذَا نَس۪يتَ وَقُلْ عَسٰٓى اَنْ يَهْدِيَنِ رَبّ۪ي لِاَقْرَبَ مِنْ هٰذَا رَشَدًا",
+      "translation": "“Allah dilerse/inşallah” (de). Unuttuğun zaman Rabbini an. “Umulur ki Rabbim beni bundan daha yakın bir rüşde/olgunluğa eriştirir.” de.",
+      "footnotes": null
+    },
+    {
+      "id": "2164",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "25",
+      "arabic_text": "وَلَبِثُوا ف۪ي كَهْفِهِمْ ثَلٰثَ مِائَةٍ سِن۪ينَ وَازْدَادُوا تِسْعًا",
+      "translation": "Onlar mağaralarında üç yüz yıl kaldılar ve dokuz yıl arttırdılar.",
+      "footnotes": null
+    },
+    {
+      "id": "2165",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "26",
+      "arabic_text": "قُلِ اللّٰهُ اَعْلَمُ بِمَا لَبِثُواۚ لَهُ غَيْبُ السَّمٰوَاتِ وَالْاَرْضِۜ اَبْصِرْ بِه۪ وَاَسْمِعْۜ مَا لَهُمْ مِنْ دُونِه۪ مِنْ وَلِيٍّۘ وَلَا يُشْرِكُ ف۪ي حُكْمِه۪ٓ اَحَدًا",
+      "translation": "De ki: “Ne kadar kaldıklarını en iyi bilen Allah’tır. Göklerin ve yerin gaybı (bilgisi) O’na aittir. O, ne güzel görür, ne güzel işitir. Onların, O’ndan başka bir dostu yoktur. Hükmünde hiç kimseyi ortak kılmaz (tek hükümran, yasamada bulunan, doğru ve yanlış belirleyen O’dur.)”",
+      "footnotes": null
+    },
+    {
+      "id": "2166",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "27",
+      "arabic_text": "وَاتْلُ مَٓا اُو۫حِيَ اِلَيْكَ مِنْ كِتَابِ رَبِّكَۚ لَا مُبَدِّلَ لِكَلِمَاتِه۪ وَلَنْ تَجِدَ مِنْ دُونِه۪ مُلْتَحَدًا",
+      "translation": "Sana Rabbinin Kitabı’ndan vahyedileni oku. O’nun kelimelerini değiştirecek kimse yoktur. O’nun dışında sığınacak bir yer bulamazsın.",
+      "footnotes": null
+    },
+    {
+      "id": "2167",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "28",
+      "arabic_text": "وَاصْبِرْ نَفْسَكَ مَعَ الَّذ۪ينَ يَدْعُونَ رَبَّهُمْ بِالْغَدٰوةِ وَالْعَشِيِّ يُر۪يدُونَ وَجْهَهُ وَلَا تَعْدُ عَيْنَاكَ عَنْهُمْۚ تُر۪يدُ ز۪ينَةَ الْحَيٰوةِ الدُّنْيَا وَلَا تُطِعْ مَنْ اَغْفَلْنَا قَلْبَهُ عَنْ ذِكْرِنَا وَاتَّبَعَ هَوٰيهُ وَكَانَ اَمْرُهُ فُرُطًا",
+      "translation": "Sabah akşam Rablerinin rızasını umarak O’na dua edenlerle beraber sabret. Dünya hayatının süsünü isteyerek gözünü onlardan ayırma. (İlgin, alakan onlar üzerinde olsun.) Kalbini zikrimizden gafil bıraktığımız, hevasına uyan ve işleri hep aşırılık olan kimseye itaat etme.",
+      "footnotes": null
+    },
+    {
+      "id": "2168",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "29",
+      "arabic_text": "وَقُلِ الْحَقُّ مِنْ رَبِّكُمْ فَمَنْ شَٓاءَ فَلْيُؤْمِنْ وَمَنْ شَٓاءَ فَلْيَكْفُرْۙ اِنَّٓا اَعْتَدْنَا لِلظَّالِم۪ينَ نَارًاۙ اَحَاطَ بِهِمْ سُرَادِقُهَاۜ وَاِنْ يَسْتَغ۪يثُوا يُغَاثُوا بِمَٓاءٍ كَالْمُهْلِ يَشْوِي الْوُجُوهَۜ بِئْسَ الشَّرَابُۜ وَسَٓاءَتْ مُرْتَفَقًا",
+      "translation": "De ki: “Hak, Rabbinizden gelendir. Dileyen iman etsin, dileyen kâfir olsun.” Şüphesiz ki biz zalimlere, duvarları kendilerini her yönden kuşatan bir ateş hazırlamışızdır. Şayet yardım talebinde bulunurlarsa, onlara (yaklaştığında) yüzü yakıp kavuran erimiş maden şeklinde bir su verilir. Ne kötü bir içecek ve ne kötü bir konak!",
+      "footnotes": null
+    },
+    {
+      "id": "2169",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "30",
+      "arabic_text": "اِنَّ الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ اِنَّا لَا نُض۪يعُ اَجْرَ مَنْ اَحْسَنَ عَمَلًاۚ",
+      "translation": "İman edip salih amel işleyenlere gelince; şüphesiz ki biz, en güzel şekilde amel yapanların amellerini zayi etmeyiz.",
+      "footnotes": null
+    },
+    {
+      "id": "2170",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "31",
+      "arabic_text": "اُو۬لٰٓئِكَ لَهُمْ جَنَّاتُ عَدْنٍ تَجْر۪ي مِنْ تَحْتِهِمُ الْاَنْهَارُ يُحَلَّوْنَ ف۪يهَا مِنْ اَسَاوِرَ مِنْ ذَهَبٍ وَيَلْبَسُونَ ثِيَابًا خُضْرًا مِنْ سُنْدُسٍ وَاِسْتَبْرَقٍ مُتَّكِـ۪ٔينَ ف۪يهَا عَلَى الْاَرَٓائِكِۜ نِعْمَ الثَّوَابُۜ وَحَسُنَتْ مُرْتَفَقًا۟",
+      "translation": "Bunlar (var ya); onlara altından ırmaklar akan Adn Cennetleri vardır. Orada altın bileziklerle süslenirler. İnce ve kalın ipekten yapılmış yeşil elbiseler giyerler. Orada, sedirler üzerine kurulmuşlardır. Ne güzel bir mükâfat ve ne güzel bir konak.",
+      "footnotes": null
+    },
+    {
+      "id": "2171",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "32",
+      "arabic_text": "وَاضْرِبْ لَهُمْ مَثَلًا رَجُلَيْنِ جَعَلْنَا لِاَحَدِهِمَا جَنَّتَيْنِ مِنْ اَعْنَابٍ وَحَفَفْنَاهُمَا بِنَخْلٍ وَجَعَلْنَا بَيْنَهُمَا زَرْعًاۜ",
+      "translation": "Onlara, iki adamın örneğini ver. Onlardan birine iki üzüm bahçesi verdik, bahçelerin etrafını hurmalarla çevirdik ve iki bahçe arasında da ekinler bitirdik.",
+      "footnotes": null
+    },
+    {
+      "id": "2172",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "33",
+      "arabic_text": "كِلْتَا الْجَنَّتَيْنِ اٰتَتْ اُكُلَهَا وَلَمْ تَظْلِمْ مِنْهُ شَيْـًٔاۙ وَفَجَّرْنَا خِلَالَهُمَا نَهَرًاۙ",
+      "translation": "Her iki bahçe de yemişlerini tam bir şekilde vermiş, hiçbir şeyi eksik bırakmamıştı. Ve onların arasından bir nehir fışkırttık.",
+      "footnotes": null
+    },
+    {
+      "id": "2173",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "34",
+      "arabic_text": "وَكَانَ لَهُ ثَمَرٌۚ فَقَالَ لِصَاحِبِه۪ وَهُوَ يُحَاوِرُهُٓ اَنَا۬ اَكْثَرُ مِنْكَ مَالًا وَاَعَزُّ نَفَرًا",
+      "translation": "Onun ayrıca (ek gelir getiren) malları vardı. Arkadaşıyla konuşurken demişti ki: “Benim malım senden daha fazla ve ben sayı/nüfus olarak da senden daha güçlüyüm.”",
+      "footnotes": null
+    },
+    {
+      "id": "2174",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "35",
+      "arabic_text": "وَدَخَلَ جَنَّتَهُ وَهُوَ ظَالِمٌ لِنَفْسِه۪ۚ قَالَ مَٓا اَظُنُّ اَنْ تَب۪يدَ هٰذِه۪ٓ اَبَدًاۙ",
+      "translation": "(Böylece) nefsine zulmederek bahçesine girmiş ve: “Buranın ebediyen yok olacağını sanmıyorum.” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "2175",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "36",
+      "arabic_text": "وَمَٓا اَظُنُّ السَّاعَةَ قَٓائِمَةًۙ وَلَئِنْ رُدِدْتُ اِلٰى رَبّ۪ي لَاَجِدَنَّ خَيْرًا مِنْهَا مُنْقَلَبًا",
+      "translation": "“Kıyametin kopacağını da zannetmiyorum. Şayet (olur da kıyamet kopar ve) Rabbime döndürülürsem, bundan daha hayırlı bir dönüş yeri bulacağım elbette.”",
+      "footnotes": null
+    },
+    {
+      "id": "2176",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "37",
+      "arabic_text": "قَالَ لَهُ صَاحِبُهُ وَهُوَ يُحَاوِرُهُٓ اَكَفَرْتَ بِالَّذ۪ي خَلَقَكَ مِنْ تُرَابٍ ثُمَّ مِنْ نُطْفَةٍ ثُمَّ سَوّٰيكَ رَجُلًاۜ",
+      "translation": "Arkadaşı onunla konuşurken demişti ki: “Yoksa seni topraktan, sonra bir damla meniden yaratan, sonra da tam bir adam hâline getiren (Allah’ı) inkâr mı ettin?”",
+      "footnotes": null
+    },
+    {
+      "id": "2177",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "38",
+      "arabic_text": "لٰكِنَّا۬ هُوَ اللّٰهُ رَبّ۪ي وَلَٓا اُشْرِكُ بِرَبّ۪ٓي اَحَدًا",
+      "translation": "“Fakat O Allah, benim Rabbimdir. Ve ben hiçbir şeyi Rabbime ortak koşmam.”",
+      "footnotes": null
+    },
+    {
+      "id": "2178",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "39",
+      "arabic_text": "وَلَوْلَٓا اِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَٓاءَ اللّٰهُۙ لَا قُوَّةَ اِلَّا بِاللّٰهِۚ اِنْ تَرَنِ اَنَا۬ اَقَلَّ مِنْكَ مَالًا وَوَلَدًاۚ",
+      "translation": "“Bahçene girdiğinde: ‘Maşallah, Allah’ın (verdiği) dışında kuvvet yoktur.’ demen gerekmez miydi? Şayet mal ve evlat konusunda beni kendinden az görüyorsan.”",
+      "footnotes": null
+    },
+    {
+      "id": "2179",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "40",
+      "arabic_text": "فَعَسٰى رَبّ۪ٓي اَنْ يُؤْتِيَنِ خَيْرًا مِنْ جَنَّتِكَ وَيُرْسِلَ عَلَيْهَا حُسْبَانًا مِنَ السَّمَٓاءِ فَتُصْبِحَ صَع۪يدًا زَلَقًاۙ",
+      "translation": "“Belki, Rabbim senin bahçenden daha hayırlısını bana verir ve (senin bahçenin) üzerine gökten yakıp yıkan bir azap gönderir. Kaygan/bitki bitmeyen/çöl gibi bir toprak hâline geliverir.”",
+      "footnotes": null
+    },
+    {
+      "id": "2180",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "41",
+      "arabic_text": "اَوْ يُصْبِحَ مَٓاؤُ۬هَا غَوْرًا فَلَنْ تَسْتَط۪يعَ لَهُ طَلَبًا",
+      "translation": "“Ya da onun suyu toprağın derinliklerine çekilir de, onu (tekrardan) bulmaya güç yetiremezsin.”",
+      "footnotes": null
+    },
+    {
+      "id": "2181",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "42",
+      "arabic_text": "وَاُح۪يطَ بِثَمَرِه۪ فَاَصْبَحَ يُقَلِّبُ كَفَّيْهِ عَلٰى مَٓا اَنْفَقَ ف۪يهَا وَهِيَ خَاوِيَةٌ عَلٰى عُرُوشِهَا وَيَقُولُ يَا لَيْتَن۪ي لَمْ اُشْرِكْ بِرَبّ۪ٓي اَحَدًا",
+      "translation": "(Aniden) onun tüm meyveleri (yıkıcı afetlerle) kuşatıldı. Oraya harcadıklarına yanarak ellerini ovuşturmaya başladı. O, (altı üstüne gelmiş ve) tavanı üzerine çökmüştü. Ve şöyle diyordu: “Keşke hiçbir şeyi Rabbime ortak koşmasaydım.”",
+      "footnotes": null
+    },
+    {
+      "id": "2182",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "43",
+      "arabic_text": "وَلَمْ تَكُنْ لَهُ فِئَةٌ يَنْصُرُونَهُ مِنْ دُونِ اللّٰهِ وَمَا كَانَ مُنْتَصِرًاۜ",
+      "translation": "Allah’ın dışında ona yardım edecek bir topluluğu yoktu. Kendi kendine de yardım edemedi.",
+      "footnotes": null
+    },
+    {
+      "id": "2183",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "44",
+      "arabic_text": "هُنَالِكَ الْوَلَايَةُ لِلّٰهِ الْحَقِّۜ هُوَ خَيْرٌ ثَوَابًا وَخَيْرٌ عُقْبًا۟",
+      "translation": "İşte burada velayet/yardım etme/otorite, (hak ve hakikatin kaynağı) El-Hak olan Allah’a aittir. (Bir tek O yardım edebilir.) O, (vereceği) sevap/mükâfat bakımından da, (ulaştıracağı) sonuç bakımından da en hayırlı olandır.",
+      "footnotes": null
+    },
+    {
+      "id": "2184",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "45",
+      "arabic_text": "وَاضْرِبْ لَهُمْ مَثَلَ الْحَيٰوةِ الدُّنْيَا كَمَٓاءٍ اَنْزَلْنَاهُ مِنَ السَّمَٓاءِ فَاخْتَلَطَ بِه۪ نَبَاتُ الْاَرْضِ فَاَصْبَحَ هَش۪يمًا تَذْرُوهُ الرِّيَاحُۜ وَكَانَ اللّٰهُ عَلٰى كُلِّ شَيْءٍ مُقْتَدِرًا",
+      "translation": "Onlara dünya hayatının örneğini ver: (O,) gökten indirdiğimiz bir su gibidir. (Toprakla buluşunca) yerin bitkisiyle karışmıştır. (Sonra da bir zamanlar göz alan güzellikteki yeşil bitkiler) rüzgârın savurduğu kurumuş ota döndü. Şüphesiz ki Allah, her şeyin üzerinde muktedir/iktidar sahibidir.",
+      "footnotes": null
+    },
+    {
+      "id": "2185",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "46",
+      "arabic_text": "اَلْمَالُ وَالْبَنُونَ ز۪ينَةُ الْحَيٰوةِ الدُّنْيَاۚ وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا وَخَيْرٌ اَمَلًا",
+      "translation": "Mal ve evlatlar dünya hayatının süsüdür. Kalıcı salih ameller ise Rabbinin yanında sevap ve umut bakımından daha hayırlıdır.",
+      "footnotes": null
+    },
+    {
+      "id": "2186",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "47",
+      "arabic_text": "وَيَوْمَ نُسَيِّرُ الْجِبَالَ وَتَرَى الْاَرْضَ بَارِزَةًۙ وَحَشَرْنَاهُمْ فَلَمْ نُغَادِرْ مِنْهُمْ اَحَدًاۚ",
+      "translation": "Dağları yürüteceğimiz gün, yerin açığa çıkmış (dümdüz) olduğunu görürsün. Hepsini (diriltip) bir araya toplamış, tek bir kişiyi dahi geride bırakmamışızdır.",
+      "footnotes": null
+    },
+    {
+      "id": "2187",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "48",
+      "arabic_text": "وَعُرِضُوا عَلٰى رَبِّكَ صَفًّاۜ لَقَدْ جِئْتُمُونَا كَمَا خَلَقْنَاكُمْ اَوَّلَ مَرَّةٍۘ بَلْ زَعَمْتُمْ اَلَّنْ نَجْعَلَ لَكُمْ مَوْعِدًا",
+      "translation": "Saflar hâlinde Rabbine arz edileceklerdir. Andolsun ki sizi ilk defa (nasıl) yarattıysak, (çıplak, yalnız, sünnetsiz, tüm unvanlardan arınmış, sade bir kul olarak yine) bize öyle geldiniz. (Hayır, öyle değil!) Size bir buluşma zamanı tayin etmediğimizi sanmıştınız.",
+      "footnotes": null
+    },
+    {
+      "id": "2188",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "49",
+      "arabic_text": "وَوُضِعَ الْكِتَابُ فَتَرَى الْمُجْرِم۪ينَ مُشْفِق۪ينَ مِمَّا ف۪يهِ وَيَقُولُونَ يَا وَيْلَتَنَا مَا لِ‌هٰذَا الْكِتَابِ لَا يُغَادِرُ صَغ۪يرَةً وَلَا كَب۪يرَةً اِلَّٓا اَحْصٰيهَاۚ وَوَجَدُوا مَا عَمِلُوا حَاضِرًاۜ وَلَا يَظْلِمُ رَبُّكَ اَحَدًا۟",
+      "translation": "(Ortaya iyiliklerin ve kötülüklerin yazılı olduğu) kitap konur. Suçlu günahkârların o (kitapta) olandan dolayı korku ve endişe içinde olduğunu görürsün. Derler ki: “Eyvahlar olsun bize! Ne oluyor bu kitaba da küçük büyük ne varsa hiçbir şeyi bırakmadan kaydetmiş.” Yaptıklarını karşılarında hazır bulmuşlardır. Senin Rabbin kimseye zulmetmez.",
+      "footnotes": null
+    },
+    {
+      "id": "2189",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "50",
+      "arabic_text": "وَاِذْ قُلْنَا لِلْمَلٰٓئِكَةِ اسْجُدُوا لِاٰدَمَ فَسَجَدُٓوا اِلَّٓا اِبْل۪يسَۜ كَانَ مِنَ الْجِنِّ فَفَسَقَ عَنْ اَمْرِ رَبِّه۪ۜ اَفَتَتَّخِذُونَهُ وَذُرِّيَّتَهُٓ اَوْلِيَٓاءَ مِنْ دُون۪ي وَهُمْ لَكُمْ عَدُوٌّۜ بِئْسَ لِلظَّالِم۪ينَ بَدَلًا",
+      "translation": "Hani meleklere: “Âdem’e secde edin.” demiştik de İblis hariç hepsi secde etmişti. O, cinlerdendi ve Rabbinin emrinin dışına çıkmıştı. Onlar size düşman olmasına rağmen, beni bırakıp onu ve zürriyetini mi dost ediniyorsunuz? Zalimlerin, (Allah’ın dostluğuna) değiştikleri (şey) ne kötüdür.",
+      "footnotes": null
+    },
+    {
+      "id": "2190",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "51",
+      "arabic_text": "مَٓا اَشْهَدْتُهُمْ خَلْقَ السَّمٰوَاتِ وَالْاَرْضِ وَلَا خَلْقَ اَنْفُسِهِمْۖ وَمَا كُنْتُ مُتَّخِذَ الْمُضِلّ۪ينَ عَضُدًا",
+      "translation": "Ne göklerin ve yerin yaratılışında ne de kendilerinin yaratılışında onları şahit tuttum. (Onlardan destek almadım.) Zaten ben saptırıcılardan destek alacak da değilim.",
+      "footnotes": null
+    },
+    {
+      "id": "2191",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "52",
+      "arabic_text": "وَيَوْمَ يَقُولُ نَادُوا شُرَكَٓاءِيَ الَّذ۪ينَ زَعَمْتُمْ فَدَعَوْهُمْ فَلَمْ يَسْتَج۪يبُوا لَهُمْ وَجَعَلْنَا بَيْنَهُمْ مَوْبِقًا",
+      "translation": "O gün (müşriklere): “Haydi bana ortak olduğunu iddia ettiklerinizi çağırın (bakalım)!” der. Çağırırlar, (fakat putlar) icabet edemez ve aralarına (kavuşmalarına engel) bir uçurum koymuşuzdur.",
+      "footnotes": null
+    },
+    {
+      "id": "2192",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "53",
+      "arabic_text": "وَرَاَ الْمُجْرِمُونَ النَّارَ فَظَنُّٓوا اَنَّهُمْ مُوَاقِعُوهَا وَلَمْ يَجِدُوا عَنْهَا مَصْرِفًا۟",
+      "translation": "Suçlu günahkârlar ateşi görmüş ve oraya gireceklerini anlamışlardır. Ve ondan bir kaçış da bulamamışlardır.",
+      "footnotes": null
+    },
+    {
+      "id": "2193",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "54",
+      "arabic_text": "وَلَقَدْ صَرَّفْنَا ف۪ي هٰذَا الْقُرْاٰنِ لِلنَّاسِ مِنْ كُلِّ مَثَلٍۜ وَكَانَ الْاِنْسَانُ اَكْثَرَ شَيْءٍ جَدَلًا",
+      "translation": "Andolsun ki bu Kur’ân’da, insanlar için her türlü örnekten çeşitli açıklamalar yapmışızdır. İnsan her şeyden fazla tartışmacıdır.",
+      "footnotes": null
+    },
+    {
+      "id": "2194",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "55",
+      "arabic_text": "وَمَا مَنَعَ النَّاسَ اَنْ يُؤْمِنُٓوا اِذْ جَٓاءَهُمُ الْهُدٰى وَيَسْتَغْفِرُوا رَبَّهُمْ اِلَّٓا اَنْ تَأْتِيَهُمْ سُنَّةُ الْاَوَّل۪ينَ اَوْ يَأْتِيَهُمُ الْعَذَابُ قُبُلًا",
+      "translation": "İnsanlara hidayet geldiğinde, iman etmelerine ve Rablerinden bağışlanma dilemelerine engel olan şey (şudur:) Öncekilerin başına gelen sünnetin/helakın (kendi başlarına) gelmesini ya da (ahiret) azabını (gözle görecek şekilde) karşılarına gelmesini istemeleridir.",
+      "footnotes": null
+    },
+    {
+      "id": "2195",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "56",
+      "arabic_text": "وَمَا نُرْسِلُ الْمُرْسَل۪ينَ اِلَّا مُبَشِّر۪ينَ وَمُنْذِر۪ينَۚ وَيُجَادِلُ الَّذ۪ينَ كَفَرُوا بِالْبَاطِلِ لِيُدْحِضُوا بِهِ الْحَقَّ وَاتَّخَذُٓوا اٰيَات۪ي وَمَٓا اُنْذِرُوا هُزُوًا",
+      "translation": "Biz resûllerimizi (onların isteklerine icabet etsinler diye değil) yalnızca müjdeciler ve uyarıcılar olarak göndeririz. Kâfirler ise (hakka karşı) batılla mücadele ederek, hakkın ayağını kaydırmak/yok etmek istiyorlar. Ayetlerimi ve uyarıldıkları şeyi alaya aldılar.",
+      "footnotes": null
+    },
+    {
+      "id": "2196",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "57",
+      "arabic_text": "وَمَنْ اَظْلَمُ مِمَّنْ ذُكِّرَ بِاٰيَاتِ رَبِّه۪ فَاَعْرَضَ عَنْهَا وَنَسِيَ مَا قَدَّمَتْ يَدَاهُۜ اِنَّا جَعَلْنَا عَلٰى قُلُوبِهِمْ اَكِنَّةً اَنْ يَفْقَهُوهُ وَف۪ٓي اٰذَانِهِمْ وَقْرًاۜ وَاِنْ تَدْعُهُمْ اِلَى الْهُدٰى فَلَنْ يَهْتَدُٓوا اِذًا اَبَدًا",
+      "translation": "Rabbinin ayetleri kendisine hatırlatıldığı hâlde yüz çeviren ve elleriyle (yapıp) takdim ettiğini unutandan daha zalim kim olabilir? Şüphesiz ki anlamamaları için kalplerine perde germiş, kulaklarına da ağırlık koymuşuzdur. Sen onları hidayete çağırsan bile, ebediyen doğru yolu bulamazlar.",
+      "footnotes": null
+    },
+    {
+      "id": "2197",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "58",
+      "arabic_text": "وَرَبُّكَ الْغَفُورُ ذُو الرَّحْمَةِۜ لَوْ يُؤَاخِذُهُمْ بِمَا كَسَبُوا لَعَجَّلَ لَهُمُ الْعَذَابَۜ بَلْ لَهُمْ مَوْعِدٌ لَنْ يَجِدُوا مِنْ دُونِه۪ مَوْئِلًا",
+      "translation": "Senin Rabbin (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) El-Ğafûr ve merhamet sahibidir. Şayet işledikleriyle onları yargılasa azabı çarçabuk onlara ulaştırırdı. (Hayır, öyle değil!) Bilakis, onların (azapla) buluşma zamanları vardır ve ondan (korunacak) bir sığınak bulamayacaklardır.",
+      "footnotes": null
+    },
+    {
+      "id": "2198",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "59",
+      "arabic_text": "وَتِلْكَ الْقُرٰٓى اَهْلَكْنَاهُمْ لَمَّا ظَلَمُوا وَجَعَلْنَا لِمَهْلِكِهِمْ مَوْعِدًا۟",
+      "translation": "Bu, zulmettikleri zaman helak ettiğimiz (Nuh, Âd, Semud, Medyen gibi) beldeler (ve ahalileridir). Onların helakı için belli bir zaman tayin etmişizdir.",
+      "footnotes": null
+    },
+    {
+      "id": "2199",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "60",
+      "arabic_text": "وَاِذْ قَالَ مُوسٰى لِفَتٰيهُ لَٓا اَبْرَحُ حَتّٰٓى اَبْلُغَ مَجْمَعَ الْبَحْرَيْنِ اَوْ اَمْضِيَ حُقُبًا",
+      "translation": "(Hatırlayın!) Hani Musa, yanındaki gence demişti ki: “İki denizin buluştuğu yere varıncaya kadar ara vermeden gidecek, (gerekirse bu yolda/uğurda) uzun zaman geçireceğim.”",
+      "footnotes": null
+    },
+    {
+      "id": "2200",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "61",
+      "arabic_text": "فَلَمَّا بَلَغَا مَجْمَعَ بَيْنِهِمَا نَسِيَا حُوتَهُمَا فَاتَّخَذَ سَب۪يلَهُ فِي الْبَحْرِ سَرَبًا",
+      "translation": "İki denizin buluştuğu yere ulaştıklarında, balıklarını unuttular. Balık, denizde bir yol tutup gitti.",
+      "footnotes": null
+    },
+    {
+      "id": "2201",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "62",
+      "arabic_text": "فَلَمَّا جَاوَزَا قَالَ لِفَتٰيهُ اٰتِنَا غَدَٓاءَنَاۘ لَقَدْ لَق۪ينَا مِنْ سَفَرِنَا هٰذَا نَصَبًا",
+      "translation": "(İki denizin buluştuğu yeri) geçince gence demişti ki: “Yiyeceğimizi getir. Andolsun ki bu yolculuğumuzdan (sebep) pek yorulduk.”",
+      "footnotes": null
+    },
+    {
+      "id": "2202",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "63",
+      "arabic_text": "قَالَ اَرَاَيْتَ اِذْ اَوَيْنَٓا اِلَى الصَّخْرَةِ فَاِنّ۪ي نَس۪يتُ الْحُوتَۘ وَمَٓا اَنْسَان۪يهُ اِلَّا الشَّيْطَانُ اَنْ اَذْكُرَهُۚ وَاتَّخَذَ سَب۪يلَهُ فِي الْبَحْرِۗ عَجَبًا",
+      "translation": "(Genç) demişti ki: “Kayaya sığındığımız zaman (var ya) hatırladın mı? İşte orada balığı unuttum. Onu hatırlamamı yalnızca şeytan unutturdu. O, ilginç bir şekilde denizde yolunu tuttu ve kaçtı.”",
+      "footnotes": null
+    },
+    {
+      "id": "2203",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "64",
+      "arabic_text": "قَالَ ذٰلِكَ مَا كُنَّا نَبْغِۗ فَارْتَدَّا عَلٰٓى اٰثَارِهِمَا قَصَصًاۙ",
+      "translation": "Demişti ki: “Bu tam da aradığımız şey!” İkisi, izlerini takip ederek gerisin geriye döndüler.",
+      "footnotes": null
+    },
+    {
+      "id": "2204",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "65",
+      "arabic_text": "فَوَجَدَا عَبْدًا مِنْ عِبَادِنَٓا اٰتَيْنَاهُ رَحْمَةً مِنْ عِنْدِنَا وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا",
+      "translation": "(Orada) kullarımızdan bir kul buldular. Ona kendi katımızdan bir rahmet vermiş ve tarafımızdan bir ilim öğretmiştik.",
+      "footnotes": null
+    },
+    {
+      "id": "2205",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "66",
+      "arabic_text": "قَالَ لَهُ مُوسٰى هَلْ اَتَّبِعُكَ عَلٰٓى اَنْ تُعَلِّمَنِ مِمَّا عُلِّمْتَ رُشْدًا",
+      "translation": "Musa ona demişti ki: “Sana öğretilen doğrulardan/isabetli bilgilerden bana öğretmen için sana tabi olayım mı?”",
+      "footnotes": null
+    },
+    {
+      "id": "2206",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "67",
+      "arabic_text": "قَالَ اِنَّكَ لَنْ تَسْتَط۪يعَ مَعِيَ صَبْرًا",
+      "translation": "Demişti ki: “Sen, benimle beraberliğe sabredemezsin!”",
+      "footnotes": null
+    },
+    {
+      "id": "2207",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "68",
+      "arabic_text": "وَكَيْفَ تَصْبِرُ عَلٰى مَا لَمْ تُحِطْ بِه۪ خُبْرًا",
+      "translation": "“Hem hakikatini kavrayamadığın (sana verilmemiş bilgiye) nasıl sabredeceksin ki?”",
+      "footnotes": null
+    },
+    {
+      "id": "2208",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "69",
+      "arabic_text": "قَالَ سَتَجِدُن۪ٓي اِنْ شَٓاءَ اللّٰهُ صَابِرًا وَلَٓا اَعْص۪ي لَكَ اَمْرًا",
+      "translation": "(Musa) demişti ki: “İnşallah beni sabreden biri olarak bulacaksın ve senin hiçbir emrine karşı gelmeyeceğim.”",
+      "footnotes": null
+    },
+    {
+      "id": "2209",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "70",
+      "arabic_text": "قَالَ فَاِنِ اتَّبَعْتَن۪ي فَلَا تَسْـَٔلْن۪ي عَنْ شَيْءٍ حَتّٰٓى اُحْدِثَ لَكَ مِنْهُ ذِكْرًا۟",
+      "translation": "Demişti ki: “Şayet bana tabi olursan, (ne olursa olsun) sana açıklama yapmadıkça bana hiçbir şey sorma!”",
+      "footnotes": null
+    },
+    {
+      "id": "2210",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "71",
+      "arabic_text": "فَانْطَلَقَا۠ حَتّٰٓى اِذَا رَكِبَا فِي السَّف۪ينَةِ خَرَقَهَاۜ قَالَ اَخَرَقْتَهَا لِتُغْرِقَ اَهْلَهَاۚ لَقَدْ جِئْتَ شَيْـًٔا اِمْرًا",
+      "translation": "İkisi yola koyulmuşlardı. Nihayet bir gemiye bindiklerinde, (o) gemiyi delmişti. (Musa) demişti ki: “İçindeki ahaliyi boğmak için mi onu deldin? Andolsun ki sen, hayret edilesi bir iş yaptın.”",
+      "footnotes": null
+    },
+    {
+      "id": "2211",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "72",
+      "arabic_text": "قَالَ اَلَمْ اَقُلْ اِنَّكَ لَنْ تَسْتَط۪يعَ مَعِيَ صَبْرًا",
+      "translation": "Demişti ki: “Beraberliğime/yol arkadaşlığıma sabredemeyeceğini söylememiş miydim sana?”",
+      "footnotes": null
+    },
+    {
+      "id": "2212",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "73",
+      "arabic_text": "قَالَ لَا تُؤَاخِذْن۪ي بِمَا نَس۪يتُ وَلَا تُرْهِقْن۪ي مِنْ اَمْر۪ي عُسْرًا",
+      "translation": "(Musa:) “Unuttuğum bir şeyden dolayı beni yargılama ve bu işimden dolayı bana zorluk çıkarma.” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "2213",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "74",
+      "arabic_text": "فَانْطَلَقَا۠ حَتّٰٓى اِذَا لَقِيَا غُلَامًا فَقَتَلَهُۙ قَالَ اَقَتَلْتَ نَفْسًا زَكِيَّةً بِغَيْرِ نَفْسٍۜ لَقَدْ جِئْتَ شَيْـًٔا نُكْرًا",
+      "translation": "Yola koyuldular. Nihayet bir çocukla karşılaştılar. Onu (çocuğu) öldürdü. (Musa:) “Tertemiz bir canı, (kısas gibi) bir can karşılığı olmadan mı öldürdün? Andolsun ki sen, çok çirkin bir hata işledin.” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "2214",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "75",
+      "arabic_text": "قَالَ اَلَمْ اَقُلْ لَكَ اِنَّكَ لَنْ تَسْتَط۪يعَ مَعِيَ صَبْرًا",
+      "translation": "Demişti ki: “Beraberliğime/yol arkadaşlığıma sabredemeyeceğini söylememiş miydim sana?”",
+      "footnotes": null
+    },
+    {
+      "id": "2215",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "76",
+      "arabic_text": "قَالَ اِنْ سَاَلْتُكَ عَنْ شَيْءٍ بَعْدَهَا فَلَا تُصَاحِبْن۪يۚ قَدْ بَلَغْتَ مِنْ لَدُنّ۪ي عُذْرًا",
+      "translation": "(Musa:) “Bir daha bir şey soracak olursam, benimle (yol) arkadaşlığı yapma. (Yolunu ayırdığın takdirde de) seni mazur sayarım.” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "2216",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "77",
+      "arabic_text": "فَانْطَلَقَا۠ حَتّٰٓى اِذَٓا اَتَيَٓا اَهْلَ قَرْيَةٍۨ اسْتَطْعَمَٓا اَهْلَهَا فَاَبَوْا اَنْ يُضَيِّفُوهُمَا فَوَجَدَا ف۪يهَا جِدَارًا يُر۪يدُ اَنْ يَنْقَضَّ فَاَقَامَهُۜ قَالَ لَوْ شِئْتَ لَتَّخَذْتَ عَلَيْهِ اَجْرًا",
+      "translation": "(Tekrar) yola koyulmuş, nihayet bir belde halkına varmışlardı. Onlardan yemek istemişler (fakat halk) onları misafir etmeye yanaşmamıştı. Orada yıkılmaya yüz tutmuş bir duvar bulmuşlardı. Onu (duvarı onarıp) düzeltmişti. (Musa:) “İsteseydin (bu hizmetin) karşılığında ücret alabilirdin.” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "2217",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "78",
+      "arabic_text": "قَالَ هٰذَا فِرَاقُ بَيْن۪ي وَبَيْنِكَۚ سَاُنَبِّئُكَ بِتَأْو۪يلِ مَا لَمْ تَسْتَطِعْ عَلَيْهِ صَبْرًا",
+      "translation": "“Bu benimle senin arandaki ayrılık (zamanıdır). Sabretmeye güç yetiremediğin şeylerin tevilini/hakikatini sana haber vereceğim.” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "2218",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "79",
+      "arabic_text": "اَمَّا السَّف۪ينَةُ فَكَانَتْ لِمَسَاك۪ينَ يَعْمَلُونَ فِي الْبَحْرِ فَاَرَدْتُ اَنْ اَع۪يبَهَا وَكَانَ وَرَٓاءَهُمْ مَلِكٌ يَأْخُذُ كُلَّ سَف۪ينَةٍ غَصْبًا",
+      "translation": "“Gemiye gelince, o, denizde çalışan yoksul insanlarındı. Onu kusurlu hâle getirmek istedim. (Çünkü) onların önünde (sağlam olan) her gemiye zorla el koyan bir yönetici vardı.”",
+      "footnotes": null
+    },
+    {
+      "id": "2219",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "80",
+      "arabic_text": "وَاَمَّا الْغُلَامُ فَكَانَ اَبَوَاهُ مُؤْمِنَيْنِ فَخَش۪ينَٓا اَنْ يُرْهِقَهُمَا طُغْيَانًا وَكُفْرًاۚ",
+      "translation": "“Çocuğa gelince, onun anne babası mümin kimselerdi. (Çocuğun sevgisinin) onları azgınlığa ve küfre sevk etmesinden çekindik.”",
+      "footnotes": null
+    },
+    {
+      "id": "2220",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "81",
+      "arabic_text": "فَاَرَدْنَٓا اَنْ يُبْدِلَهُمَا رَبُّهُمَا خَيْرًا مِنْهُ زَكٰوةً وَاَقْرَبَ رُحْمًا",
+      "translation": "“İstedik ki Rableri onlara (ölenin yerine) daha hayırlı, temiz ve merhametlisini ihsan etsin.”",
+      "footnotes": null
+    },
+    {
+      "id": "2221",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "82",
+      "arabic_text": "وَاَمَّا الْجِدَارُ فَكَانَ لِغُلَامَيْنِ يَت۪يمَيْنِ فِي الْمَد۪ينَةِ وَكَانَ تَحْتَهُ كَنْزٌ لَهُمَا وَكَانَ اَبُوهُمَا صَالِحًاۚ فَاَرَادَ رَبُّكَ اَنْ يَبْلُغَٓا اَشُدَّهُمَا وَيَسْتَخْرِجَا كَنْزَهُمَاۗ رَحْمَةً مِنْ رَبِّكَۚ وَمَا فَعَلْتُهُ عَنْ اَمْر۪يۜ ذٰلِكَ تَأْو۪يلُ مَا لَمْ تَسْطِعْ عَلَيْهِ صَبْرًاۜ۟",
+      "translation": "“Duvara gelince, o, şehirde (yaşayan) iki yetime aitti. Altında da o ikisine ait bir hazine vardı. Onların babası salih bir kimseydi. Rabbin onların yetişkinlik çağına erişip hazinelerini çıkarmalarını istedi. (Bu,) Rabbinden bir rahmettir. (Bunları) kendiliğimden yapmadım. İşte, sabretmeye güç yetiremediğin şeylerin hakikati budur.”",
+      "footnotes": null
+    },
+    {
+      "id": "2222",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "83",
+      "arabic_text": "وَيَسْـَٔلُونَكَ عَنْ ذِي الْقَرْنَيْنِۜ قُلْ سَاَتْلُوا عَلَيْكُمْ مِنْهُ ذِكْرًاۜ",
+      "translation": "Sana Zulkarneyn’den sorarlar. De ki: “Size ondan bahseden (ayetler) okuyacağım.”",
+      "footnotes": null
+    },
+    {
+      "id": "2223",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "84",
+      "arabic_text": "اِنَّا مَكَّنَّا لَهُ فِي الْاَرْضِ وَاٰتَيْنَاهُ مِنْ كُلِّ شَيْءٍ سَبَبًاۙ",
+      "translation": "Biz ona yeryüzünde (dilediği gibi hareket etme imkânı sağlayan) bir iktidar ve (istediği hedefe ulaştıracak) sebepleri verdik/yolları öğrettik.",
+      "footnotes": null
+    },
+    {
+      "id": "2224",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "85",
+      "arabic_text": "فَاَتْبَعَ سَبَبًا",
+      "translation": "O da bir yol tuttu.",
+      "footnotes": null
+    },
+    {
+      "id": "2225",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "86",
+      "arabic_text": "حَتّٰٓى اِذَا بَلَغَ مَغْرِبَ الشَّمْسِ وَجَدَهَا تَغْرُبُ ف۪ي عَيْنٍ حَمِئَةٍ وَوَجَدَ عِنْدَهَا قَوْمًاۜ قُلْنَا يَا ذَا الْقَرْنَيْنِ اِمَّٓا اَنْ تُعَذِّبَ وَاِمَّٓا اَنْ تَتَّخِذَ ف۪يهِمْ حُسْنًا",
+      "translation": "Güneş’in battığı yere ulaşınca, onun balçıklı bir gözede battığını gördü. Onun yanında bir topluluk buldu. Buyurduk ki: “Ey Zulkarneyn! Ya onlara azap edersin ya da onlar hakkında iyilik/güzellik yolunu tutarsın.”",
+      "footnotes": null
+    },
+    {
+      "id": "2226",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "87",
+      "arabic_text": "قَالَ اَمَّا مَنْ ظَلَمَ فَسَوْفَ نُعَذِّبُهُ ثُمَّ يُرَدُّ اِلٰى رَبِّه۪ فَيُعَذِّبُهُ عَذَابًا نُكْرًا",
+      "translation": "Dedi ki: “Zulmeden kimseyi cezalandıracağız. Sonra Rabbine döndürülecek ve (Rabbi) onu çetin bir azapla azaplandıracak.”",
+      "footnotes": null
+    },
+    {
+      "id": "2227",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "88",
+      "arabic_text": "وَاَمَّا مَنْ اٰمَنَ وَعَمِلَ صَالِحًا فَلَهُ جَزَٓاءًۨ الْحُسْنٰىۚ وَسَنَقُولُ لَهُ مِنْ اَمْرِنَا يُسْرًاۜ",
+      "translation": "“Kim de iman edip salih amel işlerse, ona en güzel mükâfat vardır. Ona da işimizden/buyruğumuzdan yumuşak/güzel sözümüzü söyleyeceğiz.”",
+      "footnotes": null
+    },
+    {
+      "id": "2228",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "89",
+      "arabic_text": "ثُمَّ اَتْبَعَ سَبَبًا",
+      "translation": "Sonra bir yol tuttu.",
+      "footnotes": null
+    },
+    {
+      "id": "2229",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "90",
+      "arabic_text": "حَتّٰٓى اِذَا بَلَغَ مَطْلِعَ الشَّمْسِ وَجَدَهَا تَطْلُعُ عَلٰى قَوْمٍ لَمْ نَجْعَلْ لَهُمْ مِنْ دُونِهَا سِتْرًاۙ",
+      "translation": "Sonunda Güneş’in doğduğu yere varınca, (Güneş’le) aralarına hiçbir perde kılmadığımız bir kavmin üzerine doğduğunu gördü.",
+      "footnotes": null
+    },
+    {
+      "id": "2230",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "91",
+      "arabic_text": "كَذٰلِكَۜ وَقَدْ اَحَطْنَا بِمَا لَدَيْهِ خُبْرًا",
+      "translation": "İşte böyle! Biz onun yanında olan ne varsa hepsinin hakikatini ilmimizle kuşatmıştık.",
+      "footnotes": null
+    },
+    {
+      "id": "2231",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "92",
+      "arabic_text": "ثُمَّ اَتْبَعَ سَبَبًا",
+      "translation": "Sonra bir yol tuttu.",
+      "footnotes": null
+    },
+    {
+      "id": "2232",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "93",
+      "arabic_text": "حَتّٰٓى اِذَا بَلَغَ بَيْنَ السَّدَّيْنِ وَجَدَ مِنْ دُونِهِمَا قَوْمًاۙ لَا يَكَادُونَ يَفْقَهُونَ قَوْلًا",
+      "translation": "İki seddin arasına ulaşınca, setlerin dışında neredeyse hiçbir söz anlamayan bir topluluk buldu.",
+      "footnotes": null
+    },
+    {
+      "id": "2233",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "94",
+      "arabic_text": "قَالُوا يَا ذَا الْقَرْنَيْنِ اِنَّ يَأْجُوجَ وَمَأْجُوجَ مُفْسِدُونَ فِي الْاَرْضِ فَهَلْ نَجْعَلُ لَكَ خَرْجًا عَلٰٓى اَنْ تَجْعَلَ بَيْنَنَا وَبَيْنَهُمْ سَدًّا",
+      "translation": "Dediler ki: “Ey Zulkarneyn! Şüphesiz ki Ye’cuc ve Me’cuc (topluluğu), yeryüzünde bozgunculuk yapmaktadır. Sana bir vergi versek, sen de bizimle onlar arasına bir set yapsan (olmaz mı)?”",
+      "footnotes": null
+    },
+    {
+      "id": "2234",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "95",
+      "arabic_text": "قَالَ مَا مَكَّنّ۪ي ف۪يهِ رَبّ۪ي خَيْرٌ فَاَع۪ينُون۪ي بِقُوَّةٍ اَجْعَلْ بَيْنَكُمْ وَبَيْنَهُمْ رَدْمًاۙ",
+      "translation": "Dedi ki: “Rabbimin bana verdiği güç ve imkânlar (sizin vereceğiniz vergiden) daha hayırlıdır. Bana (insan) gücüyle yardım edin ki, sizinle onlar arasında bir set yapayım.”",
+      "footnotes": null
+    },
+    {
+      "id": "2235",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "96",
+      "arabic_text": "اٰتُون۪ي زُبَرَ الْحَد۪يدِۜ حَتّٰٓى اِذَا سَاوٰى بَيْنَ الصَّدَفَيْنِ قَالَ انْفُخُواۜ حَتّٰٓى اِذَا جَعَلَهُ نَارًاۙ قَالَ اٰتُون۪ٓي اُفْرِغْ عَلَيْهِ قِطْرًاۜ",
+      "translation": "“Bana demir kütleleri getirin. (Demir) dağların iki yanını eşitlediği zaman körükleyin.” dedi. (Demir kütlelerini) ateş hâline getirince, “Üzerine dökmem için erimiş bakır getirin.” dedi.",
+      "footnotes": null
+    },
+    {
+      "id": "2236",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "97",
+      "arabic_text": "فَمَا اسْطَاعُٓوا اَنْ يَظْهَرُوهُ وَمَا اسْتَطَاعُوا لَهُ نَقْبًا",
+      "translation": "(Ye’cuc, Me’cuc) ne onu aşmaya ne de onda bir delik açmaya güç yetirebildiler.",
+      "footnotes": null
+    },
+    {
+      "id": "2237",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "98",
+      "arabic_text": "قَالَ هٰذَا رَحْمَةٌ مِنْ رَبّ۪يۚ فَاِذَا جَٓاءَ وَعْدُ رَبّ۪ي جَعَلَهُ دَكَّٓاءَۚ وَكَانَ وَعْدُ رَبّ۪ي حَقًّاۜ",
+      "translation": "Dedi ki: “Bu, Rabbimin rahmetidir. Rabbimin vaadi gelince onu yerle bir eder. Rabbimin vaadi haktır.”",
+      "footnotes": null
+    },
+    {
+      "id": "2238",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "99",
+      "arabic_text": "وَتَرَكْنَا بَعْضَهُمْ يَوْمَئِذٍ يَمُوجُ ف۪ي بَعْضٍ وَنُفِخَ فِي الصُّورِ فَجَمَعْنَاهُمْ جَمْعًاۙ",
+      "translation": "O gün onları, bir kısmı (diğer) bir kısmı içinde dalgalanır hâlde bırakırız. Sura da üfürülmüştür. Onların hepsini bir araya toplamışızdır.",
+      "footnotes": null
+    },
+    {
+      "id": "2239",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "100",
+      "arabic_text": "وَعَرَضْنَا جَهَنَّمَ يَوْمَئِذٍ لِلْكَافِر۪ينَ عَرْضًاۙ",
+      "translation": "Cehennemi o gün kâfirlerin (karşısına getirip), öyle bir sunumla sunmuşuzdur ki!",
+      "footnotes": null
+    },
+    {
+      "id": "2240",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "101",
+      "arabic_text": "اَلَّذ۪ينَ كَانَتْ اَعْيُنُهُمْ ف۪ي غِطَٓاءٍ عَنْ ذِكْر۪ي وَكَانُوا لَا يَسْتَط۪يعُونَ سَمْعًا۟",
+      "translation": "Onlar ki benim zikrime (ayetlerime) karşı gözleri örtülüydü. (Kur’ân’ı) dinlemeye de tahammül etmezlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "2241",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "102",
+      "arabic_text": "اَفَحَسِبَ الَّذ۪ينَ كَفَرُٓوا اَنْ يَتَّخِذُوا عِبَاد۪ي مِنْ دُون۪ٓي اَوْلِيَٓاءَۜ اِنَّٓا اَعْتَدْنَا جَهَنَّمَ لِلْكَافِر۪ينَ نُزُلًا",
+      "translation": "Kâfirler, beni bırakıp da benim kullarımı veliler/dostlar edineceklerini (benim de bu şirki cezasız bırakacağımı mı) sandılar? Doğrusu biz, cehennemi kâfirler için bir konaklama yeri olarak hazırladık.",
+      "footnotes": null
+    },
+    {
+      "id": "2242",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "103",
+      "arabic_text": "قُلْ هَلْ نُنَبِّئُكُمْ بِالْاَخْسَر۪ينَ اَعْمَالًاۜ",
+      "translation": "De ki: “Size amel yönünden en fazla hüsrana uğrayanları haber verelim mi?”",
+      "footnotes": null
+    },
+    {
+      "id": "2243",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "104",
+      "arabic_text": "اَلَّذ۪ينَ ضَلَّ سَعْيُهُمْ فِي الْحَيٰوةِ الدُّنْيَا وَهُمْ يَحْسَبُونَ اَنَّهُمْ يُحْسِنُونَ صُنْعًا",
+      "translation": "Onlar ki; dünya hayatındaki çabaları boşa gittiği hâlde, gerçekte iyi şeyler yaptıklarını sanırlar.",
+      "footnotes": null
+    },
+    {
+      "id": "2244",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "105",
+      "arabic_text": "اُو۬لٰٓئِكَ الَّذ۪ينَ كَفَرُوا بِاٰيَاتِ رَبِّهِمْ وَلِقَٓائِه۪ فَحَبِطَتْ اَعْمَالُهُمْ فَلَا نُق۪يمُ لَهُمْ يَوْمَ الْقِيٰمَةِ وَزْنًا",
+      "translation": "Bunlar, Rablerinin ayetlerini ve onunla karşılaşmayı inkâr etmiş, (böylece) amelleri boşa gitmiş kimselerdir. Kıyamet Günü'nde onlara hiçbir kıymet vermeyeceğiz.",
+      "footnotes": null
+    },
+    {
+      "id": "2245",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "106",
+      "arabic_text": "ذٰلِكَ جَزَٓاؤُ۬هُمْ جَهَنَّمُ بِمَا كَفَرُوا وَاتَّخَذُٓوا اٰيَات۪ي وَرُسُل۪ي هُزُوًا",
+      "translation": "Bu, kâfir olmaları nedeniyle onların cezası olan cehennemdir. (Hem) ayetlerimi ve resûllerimi de alaya almışlardır.",
+      "footnotes": null
+    },
+    {
+      "id": "2246",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "107",
+      "arabic_text": "اِنَّ الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَانَتْ لَهُمْ جَنَّاتُ الْفِرْدَوْسِ نُزُلًاۙ",
+      "translation": "Şüphesiz ki iman edip salih amel işleyenlerin konağı, Firdevs Cennetleridir.",
+      "footnotes": null
+    },
+    {
+      "id": "2247",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "108",
+      "arabic_text": "خَالِد۪ينَ ف۪يهَا لَا يَبْغُونَ عَنْهَا حِوَلًا",
+      "translation": "Orada ebedî olarak kalacaklar, oradan ayrılmayı da istemeyeceklerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "2248",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "109",
+      "arabic_text": "قُلْ لَوْ كَانَ الْبَحْرُ مِدَادًا لِكَلِمَاتِ رَبّ۪ي لَنَفِدَ الْبَحْرُ قَبْلَ اَنْ تَنْفَدَ كَلِمَاتُ رَبّ۪ي وَلَوْ جِئْنَا بِمِثْلِه۪ مَدَدًا",
+      "translation": "De ki: “Şayet denizler Rabbimin kelimelerini (yazmak için) mürekkep olsa ve bir o kadar daha yardım için getirmiş olsak, (yine de) Rabbimin kelimeleri bitmeden deniz tükenirdi.”",
+      "footnotes": null
+    },
+    {
+      "id": "2249",
+      "suraNo": "18",
+      "suraName": "Kehf",
+      "aya": "110",
+      "arabic_text": "قُلْ اِنَّمَٓا اَنَا۬ بَشَرٌ مِثْلُكُمْ يُوحٰٓى اِلَيَّ اَنَّمَٓا اِلٰهُكُمْ اِلٰهٌ وَاحِدٌۚ فَمَنْ كَانَ يَرْجُوا لِقَٓاءَ رَبِّه۪ فَلْيَعْمَلْ عَمَلًا صَالِحًا وَلَا يُشْرِكْ بِعِبَادَةِ رَبِّه۪ٓ اَحَدًا",
+      "translation": "De ki: “Ancak ben de sizin gibi bir insanım. Bana: ‘İlahınız ancak tek bir ilahtır.’ diye vahyolunuyor. Artık kim Rabbi ile karşılaşmayı (ve ondan bir mükâfat almayı) umuyorsa, salih amelde bulunsun ve hiçbir şeyi Rabbine ibadette ortak koşmasın.”",
+      "footnotes": null
+    }
+  ]
+}

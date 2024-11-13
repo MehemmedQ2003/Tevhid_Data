@@ -1,0 +1,895 @@
+{
+  "result": [
+    {
+      "id": "1802",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "1",
+      "arabic_text": "الٓرٰ۠ تِلْكَ اٰيَاتُ الْكِتَابِ وَقُرْاٰنٍ مُب۪ينٍ",
+      "translation": "Elif, Lâm, Râ. Bu, Kitab’ın ve apaçık/açıklayıcı olan Kur’ân’ın ayetleridir.",
+      "footnotes": null
+    },
+    {
+      "id": "1803",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "2",
+      "arabic_text": "رُبَمَا يَوَدُّ الَّذ۪ينَ كَفَرُوا لَوْ كَانُوا مُسْلِم۪ينَ",
+      "translation": "Öyle bir zaman olur ki; o kâfirler, Müslim/şirki terk ederek tevhidle Allah’a yönelen bir kul olmayı temenni ederler.",
+      "footnotes": null
+    },
+    {
+      "id": "1804",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "3",
+      "arabic_text": "ذَرْهُمْ يَأْكُلُوا وَيَتَمَتَّعُوا وَيُلْهِهِمُ الْاَمَلُ فَسَوْفَ يَعْلَمُونَ",
+      "translation": "Onları (kendi hâllerine) terk et! Yesinler, keyif sürsünler, boş hayalleri onları oyalayadursun. (Ne de olsa hakikati) pek yakında bilecekler/anlayacaklar.",
+      "footnotes": null
+    },
+    {
+      "id": "1805",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "4",
+      "arabic_text": "وَمَٓا اَهْلَكْنَا مِنْ قَرْيَةٍ اِلَّا وَلَهَا كِتَابٌ مَعْلُومٌ",
+      "translation": "Biz, hiçbir yerleşim yerini, (önceden kararlaştırılmış) bilinen bir yazısı olmadan helak etmedik.",
+      "footnotes": null
+    },
+    {
+      "id": "1806",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "5",
+      "arabic_text": "مَا تَسْبِقُ مِنْ اُمَّةٍ اَجَلَهَا وَمَا يَسْتَأْخِرُونَ",
+      "translation": "Hiçbir ümmet, ne ecelinin önüne geçebilir ne de onun gerisinde kalabilir.",
+      "footnotes": null
+    },
+    {
+      "id": "1807",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "6",
+      "arabic_text": "وَقَالُوا يَٓا اَيُّهَا الَّذ۪ي نُزِّلَ عَلَيْهِ الذِّكْرُ اِنَّكَ لَمَجْنُونٌۜ",
+      "translation": "Dediler ki: “Ey üzerine zikir/Kitap inen kişi! Şüphesiz ki sen, cinlenmiş bir delisin.”",
+      "footnotes": null
+    },
+    {
+      "id": "1808",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "7",
+      "arabic_text": "لَوْ مَا تَأْت۪ينَا بِالْمَلٰٓئِكَةِ اِنْ كُنْتَ مِنَ الصَّادِق۪ينَ",
+      "translation": "“Şayet doğru söylüyorsan bize melekleri getirmen gerekmez miydi?”",
+      "footnotes": null
+    },
+    {
+      "id": "1809",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "8",
+      "arabic_text": "مَا نُنَزِّلُ الْمَلٰٓئِكَةَ اِلَّا بِالْحَقِّ وَمَا كَانُٓوا اِذًا مُنْظَر۪ينَ",
+      "translation": "Biz melekleri ancak hak ile indiririz. (Melekleri indirecek olsak) o zaman hiç bekletilmez (anında helak edilirlerdi).",
+      "footnotes": null
+    },
+    {
+      "id": "1810",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "9",
+      "arabic_text": "اِنَّا نَحْنُ نَزَّلْنَا الذِّكْرَ وَاِنَّا لَهُ لَحَافِظُونَ",
+      "translation": "Şüphesiz ki zikri/Kur’ân’ı biz indirdik. Onu koruyacak olan da hiç kuşkusuz yine biziz.",
+      "footnotes": null
+    },
+    {
+      "id": "1811",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "10",
+      "arabic_text": "وَلَقَدْ اَرْسَلْنَا مِنْ قَبْلِكَ ف۪ي شِيَعِ الْاَوَّل۪ينَ",
+      "translation": "Andolsun ki, senden önceki toplumlar içinde de resûller gönderdik.",
+      "footnotes": null
+    },
+    {
+      "id": "1812",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "11",
+      "arabic_text": "وَمَا يَأْت۪يهِمْ مِنْ رَسُولٍ اِلَّا كَانُوا بِه۪ يَسْتَهْزِؤُ۫نَ",
+      "translation": "Onlara hangi resûl gelmişse, mutlaka onunla alay ederlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1813",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "12",
+      "arabic_text": "كَذٰلِكَ نَسْلُكُهُ ف۪ي قُلُوبِ الْمُجْرِم۪ينَۙ",
+      "translation": "İşte böyle! Biz (resûlleri inkâr ve onları alaya almayı) suçlu günahkârların kalbine sokarız da,",
+      "footnotes": null
+    },
+    {
+      "id": "1814",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "13",
+      "arabic_text": "لَا يُؤْمِنُونَ بِه۪ وَقَدْ خَلَتْ سُنَّةُ الْاَوَّل۪ينَ",
+      "translation": "Ona iman etmezler. (Oysa) öncekilerin sünneti geçmiştir. (Öncekilerin başına gelenleri bilmelerine rağmen yine de inanmazlar.)",
+      "footnotes": null
+    },
+    {
+      "id": "1815",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "14",
+      "arabic_text": "وَلَوْ فَتَحْنَا عَلَيْهِمْ بَابًا مِنَ السَّمَٓاءِ فَظَلُّوا ف۪يهِ يَعْرُجُونَۙ",
+      "translation": "Şayet onlar için gökyüzünde bir kapı açsak onda yükselseler,",
+      "footnotes": null
+    },
+    {
+      "id": "1816",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "15",
+      "arabic_text": "لَقَالُٓوا اِنَّمَا سُكِّرَتْ اَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ مَسْحُورُونَ۟",
+      "translation": "Hiç şüphesiz: “Gözlerimiz perdelendi. (Hayır,) galiba bizler büyülenmiş bir toplumuz.” derler.",
+      "footnotes": null
+    },
+    {
+      "id": "1817",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "16",
+      "arabic_text": "وَلَقَدْ جَعَلْنَا فِي السَّمَٓاءِ بُرُوجًا وَزَيَّنَّاهَا لِلنَّاظِر۪ينَۙ",
+      "translation": "Andolsun ki, gökyüzünde burçlar kıldık ve onu bakıp seyredenler için süsledik.",
+      "footnotes": null
+    },
+    {
+      "id": "1818",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "17",
+      "arabic_text": "وَحَفِظْنَاهَا مِنْ كُلِّ شَيْطَانٍ رَج۪يمٍۙ",
+      "translation": "Ve onu her taşlanmış/kovulmuş şeytandan koruduk.",
+      "footnotes": null
+    },
+    {
+      "id": "1819",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "18",
+      "arabic_text": "اِلَّا مَنِ اسْتَرَقَ السَّمْعَ فَاَتْبَعَهُ شِهَابٌ مُب۪ينٌ",
+      "translation": "Ancak kulak hırsızlığı yapıp (Mele-i A’lâ’da konuşulanları çalmaya yeltenenler) müstesna. Onun ardına da yakıcı, parlak bir ateş düşer.",
+      "footnotes": null
+    },
+    {
+      "id": "1820",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "19",
+      "arabic_text": "وَالْاَرْضَ مَدَدْنَاهَا وَاَلْقَيْنَا ف۪يهَا رَوَاسِيَ وَاَنْبَتْنَا ف۪يهَا مِنْ كُلِّ شَيْءٍ مَوْزُونٍ",
+      "translation": "Yeryüzünü yaydık. Orada (denge sağlaması için dağlardan) kazıklar çaktık ve her şeyden ölçüsü belirlenmiş bitkiler bitirdik.",
+      "footnotes": null
+    },
+    {
+      "id": "1821",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "20",
+      "arabic_text": "وَجَعَلْنَا لَكُمْ ف۪يهَا مَعَايِشَ وَمَنْ لَسْتُمْ لَهُ بِرَازِق۪ينَ",
+      "translation": "Ve orada sizin ve rızıklarını temin edemediğiniz (diğer canlılar için) geçim vasıtaları kıldık.",
+      "footnotes": null
+    },
+    {
+      "id": "1822",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "21",
+      "arabic_text": "وَاِنْ مِنْ شَيْءٍ اِلَّا عِنْدَنَا خَزَٓائِنُهُۘ وَمَا نُنَزِّلُهُٓ اِلَّا بِقَدَرٍ مَعْلُومٍ",
+      "translation": "Her şeyin asıl hazineleri/kaynakları bizim katımızdadır. Ancak ondan belirli bir miktar indiririz.",
+      "footnotes": null
+    },
+    {
+      "id": "1823",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "22",
+      "arabic_text": "وَاَرْسَلْنَا الرِّيَاحَ لَوَاقِحَ فَاَنْزَلْنَا مِنَ السَّمَٓاءِ مَٓاءً فَاَسْقَيْنَاكُمُوهُۚ وَمَٓا اَنْتُمْ لَهُ بِخَازِن۪ينَ",
+      "translation": "Rüzgârları aşılayıcı olarak gönderdik. Gökyüzünden su indirdik ve onunla sizi suladık. Onu depolayıp muhafaza eden siz değilsiniz.",
+      "footnotes": null
+    },
+    {
+      "id": "1824",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "23",
+      "arabic_text": "وَاِنَّا لَنَحْنُ نُحْي۪ وَنُم۪يتُ وَنَحْنُ الْوَارِثُونَ",
+      "translation": "Şüphesiz ki biz, (evet, gerçekten) biz diriltir ve öldürürüz. Ve (öldükten sonra geride bırakacaklarınıza) vâris olan da biziz.",
+      "footnotes": null
+    },
+    {
+      "id": "1825",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "24",
+      "arabic_text": "وَلَقَدْ عَلِمْنَا الْمُسْتَقْدِم۪ينَ مِنْكُمْ وَلَقَدْ عَلِمْنَا الْمُسْتَأْخِر۪ينَ",
+      "translation": "Andolsun ki, sizden önce (yaşamış toplumları da) sonra gelecek (olanları da) biz bildik.",
+      "footnotes": null
+    },
+    {
+      "id": "1826",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "25",
+      "arabic_text": "وَاِنَّ رَبَّكَ هُوَ يَحْشُرُهُمْۜ اِنَّهُ حَك۪يمٌ عَل۪يمٌ۟",
+      "translation": "Onları (diriltip) huzurunda toplayacak olan, hiç şüphesiz ki senin Rabbindir. Şüphesiz ki O, (hüküm ve hikmet sahibi olan) Hakîm, (her şeyi bilen) Alîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "1827",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "26",
+      "arabic_text": "وَلَقَدْ خَلَقْنَا الْاِنْسَانَ مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍۚ",
+      "translation": "Andolsun ki insanı, kokuşmuş bir balçığın kuruyan çamurundan yarattık.",
+      "footnotes": null
+    },
+    {
+      "id": "1828",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "27",
+      "arabic_text": "وَالْجَٓانَّ خَلَقْنَاهُ مِنْ قَبْلُ مِنْ نَارِ السَّمُومِ",
+      "translation": "Cinleri de (insanı yaratmadan) önce, (içlere nüfuz eden) zehirli bir ateşten yarattık.",
+      "footnotes": null
+    },
+    {
+      "id": "1829",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "28",
+      "arabic_text": "وَاِذْ قَالَ رَبُّكَ لِلْمَلٰٓئِكَةِ اِنّ۪ي خَالِقٌ بَشَرًا مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ",
+      "translation": "Hani Rabbin, meleklere demişti ki: “Şüphesiz ki kokuşmuş balçığın kurumuş çamurundan bir insan yaratacağım.”",
+      "footnotes": null
+    },
+    {
+      "id": "1830",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "29",
+      "arabic_text": "فَاِذَا سَوَّيْتُهُ وَنَفَخْتُ ف۪يهِ مِنْ رُوح۪ي فَقَعُوا لَهُ سَاجِد۪ينَ",
+      "translation": "“Yaratılışını tamamlayıp ruhumdan ona üflediğimde, ona secdeye kapanın.”",
+      "footnotes": null
+    },
+    {
+      "id": "1831",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "30",
+      "arabic_text": "فَسَجَدَ الْمَلٰٓئِكَةُ كُلُّهُمْ اَجْمَعُونَۙ",
+      "translation": "Meleklerin tamamı secde ettiler.",
+      "footnotes": null
+    },
+    {
+      "id": "1832",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "31",
+      "arabic_text": "اِلَّٓا اِبْل۪يسَۜ اَبٰٓى اَنْ يَكُونَ مَعَ السَّاجِد۪ينَ",
+      "translation": "İblis hariç! Secde edenlerle beraber olmayı kabul etmedi.",
+      "footnotes": null
+    },
+    {
+      "id": "1833",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "32",
+      "arabic_text": "قَالَ يَٓا اِبْل۪يسُ مَا لَكَ اَلَّا تَكُونَ مَعَ السَّاجِد۪ينَ",
+      "translation": "(Allah) buyurdu ki: “Ey İblis! Ne oluyor sana? Niçin secde edenlerle beraber olmuyorsun?”",
+      "footnotes": null
+    },
+    {
+      "id": "1834",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "33",
+      "arabic_text": "قَالَ لَمْ اَكُنْ لِاَسْجُدَ لِبَشَرٍ خَلَقْتَهُ مِنْ صَلْصَالٍ مِنْ حَمَإٍ مَسْنُونٍ",
+      "translation": "Dedi ki: “Kokuşmuş balçığın kurumuş çamurundan yarattığın bir insana secde edecek değilim.”",
+      "footnotes": null
+    },
+    {
+      "id": "1835",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "34",
+      "arabic_text": "قَالَ فَاخْرُجْ مِنْهَا فَاِنَّكَ رَج۪يمٌ",
+      "translation": "Buyurdu ki: “Çık oradan! Şüphesiz ki sen, kovulmuş/taşlanmış birisin.”",
+      "footnotes": null
+    },
+    {
+      "id": "1836",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "35",
+      "arabic_text": "وَاِنَّ عَلَيْكَ اللَّعْنَةَ اِلٰى يَوْمِ الدّ۪ينِ",
+      "translation": "“Din/Kıyamet Günü'ne kadar da lanet senin üzerinedir.”",
+      "footnotes": null
+    },
+    {
+      "id": "1837",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "36",
+      "arabic_text": "قَالَ رَبِّ فَاَنْظِرْن۪ٓي اِلٰى يَوْمِ يُبْعَثُونَ",
+      "translation": "Dedi ki: “Rabbim! Bana (insanların) diriltileceği güne kadar mühlet ver.”",
+      "footnotes": null
+    },
+    {
+      "id": "1838",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "37",
+      "arabic_text": "قَالَ فَاِنَّكَ مِنَ الْمُنْظَر۪ينَۙ",
+      "translation": "Buyurdu ki: “Sen mühlet verilenlerdensin.”",
+      "footnotes": null
+    },
+    {
+      "id": "1839",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "38",
+      "arabic_text": "اِلٰى يَوْمِ الْوَقْتِ الْمَعْلُومِ",
+      "translation": "“Zamanı bilinen güne (kıyamete) kadar!”",
+      "footnotes": null
+    },
+    {
+      "id": "1840",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "39",
+      "arabic_text": "قَالَ رَبِّ بِمَٓا اَغْوَيْتَن۪ي لَاُزَيِّنَنَّ لَهُمْ فِي الْاَرْضِ وَلَاُغْوِيَنَّهُمْ اَجْمَع۪ينَۙ",
+      "translation": "Dedi ki: “Rabbim! Beni saptırmana karşılık, yeryüzünde (sapkınlığı) onlara süsleyecek ve hepsini saptıracağım.”",
+      "footnotes": null
+    },
+    {
+      "id": "1841",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "40",
+      "arabic_text": "اِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَص۪ينَ",
+      "translation": "“Senin muhlas/arındırılmış/ihlaslı kılınmış kulların hariç.”",
+      "footnotes": null
+    },
+    {
+      "id": "1842",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "41",
+      "arabic_text": "قَالَ هٰذَا صِرَاطٌ عَلَيَّ مُسْتَق۪يمٌ",
+      "translation": "Bu yolun dosdoğru bir yol olduğu, benim güvencem altındadır.",
+      "footnotes": null
+    },
+    {
+      "id": "1843",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "42",
+      "arabic_text": "اِنَّ عِبَاد۪ي لَيْسَ لَكَ عَلَيْهِمْ سُلْطَانٌ اِلَّا مَنِ اتَّبَعَكَ مِنَ الْغَاو۪ينَ",
+      "translation": "Kuşkusuz, kullarım üzerinde bir otoriten yoktur. (Senin otoriten) ancak sana uyan azgınlar üzerinedir.",
+      "footnotes": null
+    },
+    {
+      "id": "1844",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "43",
+      "arabic_text": "وَاِنَّ جَهَنَّمَ لَمَوْعِدُهُمْ اَجْمَع۪ينَۙ",
+      "translation": "Kuşkusuz, onların tümünün buluşma yeri cehennemdir.",
+      "footnotes": null
+    },
+    {
+      "id": "1845",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "44",
+      "arabic_text": "لَهَا سَبْعَةُ اَبْوَابٍۜ لِكُلِّ بَابٍ مِنْهُمْ جُزْءٌ مَقْسُومٌ۟",
+      "translation": "Onun yedi kapısı vardır. İçlerinden her bir grup bir kapının payı (olarak o kapıdan cehenneme gireceklerdir).",
+      "footnotes": null
+    },
+    {
+      "id": "1846",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "45",
+      "arabic_text": "اِنَّ الْمُتَّق۪ينَ ف۪ي جَنَّاتٍ وَعُيُونٍۜ",
+      "translation": "Şüphesiz ki muttakiler, cennetlerde ve pınar başlarındadır.",
+      "footnotes": null
+    },
+    {
+      "id": "1847",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "46",
+      "arabic_text": "اُدْخُلُوهَا بِسَلَامٍ اٰمِن۪ينَ",
+      "translation": "“Oraya esenlik ve güven içerisinde girin.” (buyrulacak.)",
+      "footnotes": null
+    },
+    {
+      "id": "1848",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "47",
+      "arabic_text": "وَنَزَعْنَا مَا ف۪ي صُدُورِهِمْ مِنْ غِلٍّ اِخْوَانًا عَلٰى سُرُرٍ مُتَقَابِل۪ينَ",
+      "translation": "Göğüslerindeki kin/düşmanlık/öfke (gibi tüm olumsuz duyguları) çıkarmışızdır. Karşılıklı sedirlerde kardeşler olarak (kurulurlar).",
+      "footnotes": null
+    },
+    {
+      "id": "1849",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "48",
+      "arabic_text": "لَا يَمَسُّهُمْ ف۪يهَا نَصَبٌ وَمَا هُمْ مِنْهَا بِمُخْرَج۪ينَ",
+      "translation": "Orada onlara yorgunluk dokunmaz ve asla oradan çıkarılmazlar.",
+      "footnotes": null
+    },
+    {
+      "id": "1850",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "49",
+      "arabic_text": "نَبِّئْ عِبَاد۪ٓي اَنّ۪ٓي اَنَا۬ الْغَفُورُ الرَّح۪يمُۙ",
+      "translation": "Kullarıma haber ver. Şüphesiz ki ben, (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) El-Ğafûr, (kullarına karşı merhametli) Er-Rahîm olanın ta kendisiyim.",
+      "footnotes": null
+    },
+    {
+      "id": "1851",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "50",
+      "arabic_text": "وَاَنَّ عَذَاب۪ي هُوَ الْعَذَابُ الْاَل۪يمُ",
+      "translation": "Ve şüphesiz ki benim azabım, can yakıcı azabın ta kendisidir.",
+      "footnotes": null
+    },
+    {
+      "id": "1852",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "51",
+      "arabic_text": "وَنَبِّئْهُمْ عَنْ ضَيْفِ اِبْرٰه۪يمَۢ",
+      "translation": "Onlara İbrahim’in misafirlerini de haber ver.",
+      "footnotes": null
+    },
+    {
+      "id": "1853",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "52",
+      "arabic_text": "اِذْ دَخَلُوا عَلَيْهِ فَقَالُوا سَلَامًاۜ قَالَ اِنَّا مِنْكُمْ وَجِلُونَ",
+      "translation": "Yanına girdikleri zaman: “Selam!” demişlerdi. (İbrahim de:) “Biz sizden gerçekten korkuyoruz.” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "1854",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "53",
+      "arabic_text": "قَالُوا لَا تَوْجَلْ اِنَّا نُبَشِّرُكَ بِغُلَامٍ عَل۪يمٍ",
+      "translation": "“Korkma.” demişlerdi. “Biz seni bilgili bir çocukla müjdeliyoruz.”",
+      "footnotes": null
+    },
+    {
+      "id": "1855",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "54",
+      "arabic_text": "قَالَ اَبَشَّرْتُمُون۪ي عَلٰٓى اَنْ مَسَّنِيَ الْكِبَرُ فَبِمَ تُبَشِّرُونَ",
+      "translation": "“Başıma gelen (şu) ihtiyarlığa (rağmen) beni (bir çocukla mı) müjdeliyorsunuz? Beni ne ile müjdeliyorsunuz (farkında mısınız)?” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "1856",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "55",
+      "arabic_text": "قَالُوا بَشَّرْنَاكَ بِالْحَقِّ فَلَا تَكُنْ مِنَ الْقَانِط۪ينَ",
+      "translation": "“Seni gerçekle müjdeledik. (Öyleyse) sakın ümitsizlerden olma!” demişlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1857",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "56",
+      "arabic_text": "قَالَ وَمَنْ يَقْنَطُ مِنْ رَحْمَةِ رَبِّه۪ٓ اِلَّا الضَّٓالُّونَ",
+      "translation": "“Rabbinin rahmetinden sapıklardan başka kim ümit keser ki?” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "1858",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "57",
+      "arabic_text": "قَالَ فَمَا خَطْبُكُمْ اَيُّهَا الْمُرْسَلُونَ",
+      "translation": "“Ey elçiler/melekler! Sizin işiniz (göreviniz) nedir?” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "1859",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "58",
+      "arabic_text": "قَالُٓوا اِنَّٓا اُرْسِلْنَٓا اِلٰى قَوْمٍ مُجْرِم۪ينَۙ",
+      "translation": "“Şüphesiz ki biz, suçlu günahkâr bir kavme yollandık.” demişlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1860",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "59",
+      "arabic_text": "اِلَّٓا اٰلَ لُوطٍۜ اِنَّا لَمُنَجُّوهُمْ اَجْمَع۪ينَۙ",
+      "translation": "“Lut ailesi hariç. Elbette, onların tamamını kurtaracağız.”",
+      "footnotes": null
+    },
+    {
+      "id": "1861",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "60",
+      "arabic_text": "اِلَّا امْرَاَتَهُ قَدَّرْنَٓاۙ اِنَّهَا لَمِنَ الْغَابِر۪ينَ۟",
+      "translation": "“(Lut’un) karısı hariç. Onun geride kalanlardan olmasını takdir ettik.”",
+      "footnotes": null
+    },
+    {
+      "id": "1862",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "61",
+      "arabic_text": "فَلَمَّا جَٓاءَ اٰلَ لُوطٍۨ الْمُرْسَلُونَۙ",
+      "translation": "Lut ailesine elçiler geldiği zaman:",
+      "footnotes": null
+    },
+    {
+      "id": "1863",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "62",
+      "arabic_text": "قَالَ اِنَّكُمْ قَوْمٌ مُنْكَرُونَ",
+      "translation": "“Şüphesiz sizler tanınmayan bir topluluksunuz.” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "1864",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "63",
+      "arabic_text": "قَالُوا بَلْ جِئْنَاكَ بِمَا كَانُوا ف۪يهِ يَمْتَرُونَ",
+      "translation": "“(Hayır, öyle değil!) Bilakis, onların hakkında şüpheye kapılıp tartıştıkları (azabı) getirdik.” demişlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1865",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "64",
+      "arabic_text": "وَاَتَيْنَاكَ بِالْحَقِّ وَاِنَّا لَصَادِقُونَ",
+      "translation": "“Sana hakkı getirdik. Ve biz, elbette doğru söyleyenleriz.”",
+      "footnotes": null
+    },
+    {
+      "id": "1866",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "65",
+      "arabic_text": "فَاَسْرِ بِاَهْلِكَ بِقِطْعٍ مِنَ الَّيْلِ وَاتَّبِعْ اَدْبَارَهُمْ وَلَا يَلْتَفِتْ مِنْكُمْ اَحَدٌ وَامْضُوا حَيْثُ تُؤْمَرُونَ",
+      "translation": "“Gecenin bir bölümünde aileni yola çıkar. Sen de peşlerine düş. Sizden kimse arkasına bakmasın. Emrolunduğunuz yere doğru devam edin.”",
+      "footnotes": null
+    },
+    {
+      "id": "1867",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "66",
+      "arabic_text": "وَقَضَيْنَٓا اِلَيْهِ ذٰلِكَ الْاَمْرَ اَنَّ دَابِرَ هٰٓؤُ۬لَٓاءِ مَقْطُوعٌ مُصْبِح۪ينَ",
+      "translation": "Ona şu kesin hükmü bildirdik: “Sabah olduğunda bunların arkaları kesilmiş (kökleri kurumuş) olacaktır.”",
+      "footnotes": null
+    },
+    {
+      "id": "1868",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "67",
+      "arabic_text": "وَجَٓاءَ اَهْلُ الْمَد۪ينَةِ يَسْتَبْشِرُونَ",
+      "translation": "Şehir halkı (erkek misafirlerin şehre geldiğini birbirlerine müjdeleyerek) sevinç içinde geldiler.",
+      "footnotes": null
+    },
+    {
+      "id": "1869",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "68",
+      "arabic_text": "قَالَ اِنَّ هٰٓؤُ۬لَٓاءِ ضَيْف۪ي فَلَا تَفْضَحُونِۙ",
+      "translation": "Dedi ki: “Bunlar benim misafirlerimdir. Beni utandırıp dillerine düşürmeyin.”",
+      "footnotes": null
+    },
+    {
+      "id": "1870",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "69",
+      "arabic_text": "وَاتَّقُوا اللّٰهَ وَلَا تُخْزُونِ",
+      "translation": "“Allah’tan korkun ve beni rezil etmeyin.”",
+      "footnotes": null
+    },
+    {
+      "id": "1871",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "70",
+      "arabic_text": "قَالُٓوا اَوَلَمْ نَنْهَكَ عَنِ الْعَالَم۪ينَ",
+      "translation": "“Biz seni toplumun işine karışmaktan alıkoymamış mıydık?” demişlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1872",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "71",
+      "arabic_text": "قَالَ هٰٓؤُ۬لَٓاءِ بَنَات۪ٓي اِنْ كُنْتُمْ فَاعِل۪ينَۜ",
+      "translation": "Dedi ki: “İllaki bir şey yapacaksanız işte benim (evlenebileceğiniz) kızlarım!”",
+      "footnotes": null
+    },
+    {
+      "id": "1873",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "72",
+      "arabic_text": "لَعَمْرُكَ اِنَّهُمْ لَف۪ي سَكْرَتِهِمْ يَعْمَهُونَ",
+      "translation": "Senin ömrüne andolsun ki, onlar sarhoşlukları içinde bocalayıp duruyorlardı.",
+      "footnotes": null
+    },
+    {
+      "id": "1874",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "73",
+      "arabic_text": "فَاَخَذَتْهُمُ الصَّيْحَةُ مُشْرِق۪ينَۙ",
+      "translation": "(Derken) Güneş’in doğmasıyla onları bir çığlık yakalayıverdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1875",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "74",
+      "arabic_text": "فَجَعَلْنَا عَالِيَهَا سَافِلَهَا وَاَمْطَرْنَا عَلَيْهِمْ حِجَارَةً مِنْ سِجّ۪يلٍۜ",
+      "translation": "Oranın altını üstüne getirdik. Üzerlerine de balçıktan pişirilmiş taşlar yağdırdık.",
+      "footnotes": null
+    },
+    {
+      "id": "1876",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "75",
+      "arabic_text": "اِنَّ ف۪ي ذٰلِكَ لَاٰيَاتٍ لِلْمُتَوَسِّم۪ينَ",
+      "translation": "Şüphesiz ki bunda, basiret/feraset sahibi insanlar için (ibret alınacak) ayetler vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "1877",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "76",
+      "arabic_text": "وَاِنَّهَا لَبِسَب۪يلٍ مُق۪يمٍ",
+      "translation": "Orası hâlen bir yerleşim yolu üzerinde bulunuyor.",
+      "footnotes": null
+    },
+    {
+      "id": "1878",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "77",
+      "arabic_text": "اِنَّ ف۪ي ذٰلِكَ لَاٰيَةً لِلْمُؤْمِن۪ينَۜ",
+      "translation": "Şüphesiz bunda, iman edenler için (dersler çıkarılacak) bir ayet vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "1879",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "78",
+      "arabic_text": "وَاِنْ كَانَ اَصْحَابُ الْاَيْكَةِ لَظَالِم۪ينَۙ",
+      "translation": "Eyke halkı da hiç şüphesiz zalim kimselerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1880",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "79",
+      "arabic_text": "فَانْتَقَمْنَا مِنْهُمْۢ وَاِنَّهُمَا لَبِاِمَامٍ مُب۪ينٍۜ۟",
+      "translation": "Onlardan intikam aldık. Her ikisi de açık bir yol üstünde (göz önündedir).",
+      "footnotes": null
+    },
+    {
+      "id": "1881",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "80",
+      "arabic_text": "وَلَقَدْ كَذَّبَ اَصْحَابُ الْحِجْرِ الْمُرْسَل۪ينَۙ",
+      "translation": "Andolsun ki, Hicr halkı da gönderilmiş resûlleri yalanladılar.",
+      "footnotes": null
+    },
+    {
+      "id": "1882",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "81",
+      "arabic_text": "وَاٰتَيْنَاهُمْ اٰيَاتِنَا فَكَانُوا عَنْهَا مُعْرِض۪ينَۙ",
+      "translation": "Onlara ayetlerimizi verdik. Ondan yüz çevirip (ona karşı ilgisiz davrandılar).",
+      "footnotes": null
+    },
+    {
+      "id": "1883",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "82",
+      "arabic_text": "وَكَانُوا يَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا اٰمِن۪ينَ",
+      "translation": "Dağlardan güven (içinde oturacakları) evler yontuyorlardı.",
+      "footnotes": null
+    },
+    {
+      "id": "1884",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "83",
+      "arabic_text": "فَاَخَذَتْهُمُ الصَّيْحَةُ مُصْبِح۪ينَۙ",
+      "translation": "Sabah vakti onları (kulakları sağır edip, beyinleri patlatan) bir çığlık yakalayıverdi.",
+      "footnotes": null
+    },
+    {
+      "id": "1885",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "84",
+      "arabic_text": "فَمَٓا اَغْنٰى عَنْهُمْ مَا كَانُوا يَكْسِبُونَۜ",
+      "translation": "Kazandıkları şeyler onları (Allah’ın azabından) kurtaramadı.",
+      "footnotes": null
+    },
+    {
+      "id": "1886",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "85",
+      "arabic_text": "وَمَا خَلَقْنَا السَّمٰوَاتِ وَالْاَرْضَ وَمَا بَيْنَهُمَٓا اِلَّا بِالْحَقِّۜ وَاِنَّ السَّاعَةَ لَاٰتِيَةٌ فَاصْفَحِ الصَّفْحَ الْجَم۪يلَ",
+      "translation": "Gökleri, yeri ve ikisi arasındakileri ancak hak ile (hakkı açığa çıkarmak, Allah’ın kudretini göstermek, insanlara kazandıklarına göre karşılık vermek için) yarattık. Hiç şüphesiz, saat/kıyamet gelecektir. (Öyleyse) onlara karşı (hoşgörülü ve affedici bir tavırla) güzel davran.",
+      "footnotes": null
+    },
+    {
+      "id": "1887",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "86",
+      "arabic_text": "اِنَّ رَبَّكَ هُوَ الْخَلَّاقُ الْعَل۪يمُ",
+      "translation": "Şüphesiz ki Rabbin, (çokça yaratan) El-Hallâk, (her şeyi bilen) El-Alîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "1888",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "87",
+      "arabic_text": "وَلَقَدْ اٰتَيْنَاكَ سَبْعًا مِنَ الْمَثَان۪ي وَالْقُرْاٰنَ الْعَظ۪يمَ",
+      "translation": "Andolsun ki sana, Sebu’l Mesani’yi/tekrar eden yediyi (Fâtiha Suresi’ni) ve büyük Kur’ân’ı verdik.",
+      "footnotes": null
+    },
+    {
+      "id": "1889",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "88",
+      "arabic_text": "لَا تَمُدَّنَّ عَيْنَيْكَ اِلٰى مَا مَتَّعْنَا بِه۪ٓ اَزْوَاجًا مِنْهُمْ وَلَا تَحْزَنْ عَلَيْهِمْ وَاخْفِضْ جَنَاحَكَ لِلْمُؤْمِن۪ينَ",
+      "translation": "(Sana verilen Kur’ân ile yetin ve) sakın faydalanmaları için o (kâfirlerin) bir kısmına verdiğimiz şeylere gözünü dikme. Onlara karşı üzülme, (şefkat) kanatlarını müminlere ger.",
+      "footnotes": null
+    },
+    {
+      "id": "1890",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "89",
+      "arabic_text": "وَقُلْ اِنّ۪ٓي اَنَا النَّذ۪يرُ الْمُب۪ينُۚ",
+      "translation": "De ki: “Kuşkusuz ben, (evet,) ben apaçık bir uyarıcıyım.”",
+      "footnotes": null
+    },
+    {
+      "id": "1891",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "90",
+      "arabic_text": "كَمَٓا اَنْزَلْنَا عَلَى الْمُقْتَسِم۪ينَۙ",
+      "translation": "Tıpkı bölüp taksim edenlere indirdiğimiz gibi.",
+      "footnotes": null
+    },
+    {
+      "id": "1892",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "91",
+      "arabic_text": "اَلَّذ۪ينَ جَعَلُوا الْقُرْاٰنَ عِض۪ينَ",
+      "translation": "Onlar ki Kur’ân’ı (bir kısmına inanıp bir kısmını reddettikleri) parçalara ayırdılar.",
+      "footnotes": null
+    },
+    {
+      "id": "1893",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "92",
+      "arabic_text": "فَوَرَبِّكَ لَنَسْـَٔلَنَّهُمْ اَجْمَع۪ينَۙ",
+      "translation": "Rabbine yemin olsun ki, onların hepsini hesaba çekeceğiz.",
+      "footnotes": null
+    },
+    {
+      "id": "1894",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "93",
+      "arabic_text": "عَمَّا كَانُوا يَعْمَلُونَ",
+      "translation": "Yapmakta olduklarından...",
+      "footnotes": null
+    },
+    {
+      "id": "1895",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "94",
+      "arabic_text": "فَاصْدَعْ بِمَا تُؤْمَرُ وَاَعْرِضْ عَنِ الْمُشْرِك۪ينَ",
+      "translation": "Emrolunduğun (tevhidi) açıkça ortaya koy ve müşriklerden yüz çevir.",
+      "footnotes": null
+    },
+    {
+      "id": "1896",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "95",
+      "arabic_text": "اِنَّا كَفَيْنَاكَ الْمُسْتَهْزِء۪ينَۙ",
+      "translation": "O alaycılara karşı biz sana yeteriz.",
+      "footnotes": null
+    },
+    {
+      "id": "1897",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "96",
+      "arabic_text": "اَلَّذ۪ينَ يَجْعَلُونَ مَعَ اللّٰهِ اِلٰهًا اٰخَرَۚ فَسَوْفَ يَعْلَمُونَ",
+      "translation": "Onlar ki; Allah’la beraber başka ilah(lar) ediniyorlar. Pek yakında bilecekler/anlayacaklar.",
+      "footnotes": null
+    },
+    {
+      "id": "1898",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "97",
+      "arabic_text": "وَلَقَدْ نَعْلَمُ اَنَّكَ يَض۪يقُ صَدْرُكَ بِمَا يَقُولُونَۙ",
+      "translation": "Andolsun ki, onların söylediklerinden dolayı göğsünün daraldığını (çok sıkıldığını) biliyoruz.",
+      "footnotes": null
+    },
+    {
+      "id": "1899",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "98",
+      "arabic_text": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَكُنْ مِنَ السَّاجِد۪ينَۙ",
+      "translation": "(Bu sıkıntıdan, kurtulmak için) Rabbini hamd ile tesbih et ve secde edenlerden ol.",
+      "footnotes": null
+    },
+    {
+      "id": "1900",
+      "suraNo": "15",
+      "suraName": "Hicr",
+      "aya": "99",
+      "arabic_text": "وَاعْبُدْ رَبَّكَ حَتّٰى يَأْتِيَكَ الْيَق۪ينُ",
+      "translation": "Yakin (ölüm) sana gelinceye dek Rabbine ibadet/kulluk et!",
+      "footnotes": null
+    }
+  ]
+}

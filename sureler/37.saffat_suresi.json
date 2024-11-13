@@ -1,0 +1,1633 @@
+{
+  "result": [
+    {
+      "id": "3787",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "1",
+      "arabic_text": "وَالصَّٓافَّاتِ صَفًّاۙ",
+      "translation": "Saf saf dizilenlere,",
+      "footnotes": null
+    },
+    {
+      "id": "3788",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "2",
+      "arabic_text": "فَالزَّاجِرَاتِ زَجْرًاۙ",
+      "translation": "Gürültüyle sürükleyenlere,",
+      "footnotes": null
+    },
+    {
+      "id": "3789",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "3",
+      "arabic_text": "فَالتَّالِيَاتِ ذِكْرًاۙ",
+      "translation": "Zikri okuyanlara andolsun ki,",
+      "footnotes": null
+    },
+    {
+      "id": "3790",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "4",
+      "arabic_text": "اِنَّ اِلٰهَكُمْ لَوَاحِدٌۜ",
+      "translation": "Sizin ilahınız tek bir (ilahtır).",
+      "footnotes": null
+    },
+    {
+      "id": "3791",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "5",
+      "arabic_text": "رَبُّ السَّمٰوَاتِ وَالْاَرْضِ وَمَا بَيْنَهُمَا وَرَبُّ الْمَشَارِقِۜ",
+      "translation": "Göklerin, yerin ve ikisi arasındakilerin Rabbidir. Doğuların da Rabbidir.",
+      "footnotes": null
+    },
+    {
+      "id": "3792",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "6",
+      "arabic_text": "اِنَّا زَيَّنَّا السَّمَٓاءَ الدُّنْيَا بِز۪ينَةٍۨ الْكَوَاكِبِۙ",
+      "translation": "Şüphesiz ki biz, dünya semasını yıldızlarla süsledik.",
+      "footnotes": null
+    },
+    {
+      "id": "3793",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "7",
+      "arabic_text": "وَحِفْظًا مِنْ كُلِّ شَيْطَانٍ مَارِدٍۚ",
+      "translation": "Ve onu inatçı her şeytandan (yıldızlarla) koruduk.",
+      "footnotes": null
+    },
+    {
+      "id": "3794",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "8",
+      "arabic_text": "لَا يَسَّمَّعُونَ اِلَى الْمَلَاِ الْاَعْلٰى وَيُقْذَفُونَ مِنْ كُلِّ جَانِبٍۗ",
+      "translation": "Mele-i A’lâ’yı dinleyemezler. (Dinlemeye kalkınca) her yandan (taşlanıp) atılırlar.",
+      "footnotes": null
+    },
+    {
+      "id": "3795",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "9",
+      "arabic_text": "دُحُورًا وَلَهُمْ عَذَابٌ وَاصِبٌۙ",
+      "translation": "Defedilirler. Onlara sürekli olan bir azap vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3796",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "10",
+      "arabic_text": "اِلَّا مَنْ خَطِفَ الْخَطْفَةَ فَاَتْبَعَهُ شِهَابٌ ثَاقِبٌ",
+      "translation": "Ancak (kulak verip) hızlıca söz kaçıran olursa, onun peşine delip geçen alev topu takılır.",
+      "footnotes": null
+    },
+    {
+      "id": "3797",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "11",
+      "arabic_text": "فَاسْتَفْتِهِمْ اَهُمْ اَشَدُّ خَلْقًا اَمْ مَنْ خَلَقْنَاۜ اِنَّا خَلَقْنَاهُمْ مِنْ ط۪ينٍ لَازِبٍ",
+      "translation": "Sor (bakalım) onlara! Onların yaratılışı mı daha zorlu, yoksa (yer, gök, dağ gibi) diğer yarattıklarımız mı? Şüphesiz ki biz, onları yapış yapış bir çamurdan yarattık.",
+      "footnotes": null
+    },
+    {
+      "id": "3798",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "12",
+      "arabic_text": "بَلْ عَجِبْتَ وَيَسْخَرُونَۖ",
+      "translation": "Sen (onların Kur’ân’a ve ahirete inanmayışlarına) şaşırdın. Onlarsa alay ederler.",
+      "footnotes": null
+    },
+    {
+      "id": "3799",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "13",
+      "arabic_text": "وَاِذَا ذُكِّرُوا لَا يَذْكُرُونَۖ",
+      "translation": "Öğüt verildiğinde öğüt almazlar.",
+      "footnotes": null
+    },
+    {
+      "id": "3800",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "14",
+      "arabic_text": "وَاِذَا رَاَوْا اٰيَةً يَسْتَسْخِرُونَۖ",
+      "translation": "Bir ayet gördüklerinde alay konusu edinirler.",
+      "footnotes": null
+    },
+    {
+      "id": "3801",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "15",
+      "arabic_text": "وَقَالُٓوا اِنْ هٰذَٓا اِلَّا سِحْرٌ مُب۪ينٌۚ",
+      "translation": "Ve derler ki: “Bu, apaçık bir sihirden başkası değildir.”",
+      "footnotes": null
+    },
+    {
+      "id": "3802",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "16",
+      "arabic_text": "ءَاِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا ءَاِنَّا لَمَبْعُوثُونَۙ",
+      "translation": "“Biz, ölüp toprak ve kemik olduğumuzda diriltilecek miymişiz?”",
+      "footnotes": null
+    },
+    {
+      "id": "3803",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "17",
+      "arabic_text": "اَوَاٰبَٓاؤُ۬نَا الْاَوَّلُونَۜ",
+      "translation": "“Önceki atalarımız da mı?”",
+      "footnotes": null
+    },
+    {
+      "id": "3804",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "18",
+      "arabic_text": "قُلْ نَعَمْ وَاَنْتُمْ دَاخِرُونَۚ",
+      "translation": "De ki: “Evet, sizler boyun eğip, alçalmış olarak (diriltileceksiniz).”",
+      "footnotes": null
+    },
+    {
+      "id": "3805",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "19",
+      "arabic_text": "فَاِنَّمَا هِيَ زَجْرَةٌ وَاحِدَةٌ فَاِذَا هُمْ يَنْظُرُونَ",
+      "translation": "O yalnızca tek bir çığlıktır. (Bir de bakarsın ki) bakınıyorlar.",
+      "footnotes": null
+    },
+    {
+      "id": "3806",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "20",
+      "arabic_text": "وَقَالُوا يَا وَيْلَنَا هٰذَا يَوْمُ الدّ۪ينِ",
+      "translation": "Derler ki: “Yazıklar olsun bize! Bu, Din Günüdür.”",
+      "footnotes": null
+    },
+    {
+      "id": "3807",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "21",
+      "arabic_text": "هٰذَا يَوْمُ الْفَصْلِ الَّذ۪ي كُنْتُمْ بِه۪ تُكَذِّبُونَ۟",
+      "translation": "Bu, sizin yalanladığınız (her şeyi birbirinden ayıracak olan) “Fasl” günüdür.",
+      "footnotes": null
+    },
+    {
+      "id": "3808",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "22-23",
+      "arabic_text": "اُحْشُرُوا الَّذ۪ينَ ظَلَمُوا وَاَزْوَاجَهُمْ وَمَا كَانُوا يَعْبُدُونَۙ مِنْ دُونِ اللّٰهِ فَاهْدُوهُمْ اِلٰى صِرَاطِ الْجَح۪يمِۙ",
+      "translation": "Zulmedenleri, (onlarla aynı amelleri yapan) eşlerini ve Allah’ın dışında ibadet ettiklerini toplayın bir araya! Onları cehennemin yoluna sürün.",
+      "footnotes": null
+    },
+    {
+      "id": "3809",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "24",
+      "arabic_text": "وَقِفُوهُمْ اِنَّهُمْ مَسْؤُ۫لُونَۙ",
+      "translation": "Onları durdurun, çünkü onlar sorgulanacaklardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3810",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "25",
+      "arabic_text": "مَا لَكُمْ لَا تَنَاصَرُونَ",
+      "translation": "Ne oldu size? Neden birbirinize yardım etmiyorsunuz?",
+      "footnotes": null
+    },
+    {
+      "id": "3811",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "26",
+      "arabic_text": "بَلْ هُمُ الْيَوْمَ مُسْتَسْلِمُونَ",
+      "translation": "(Hayır!) Bilakis onlar, bugün teslim olmuşlardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3812",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "27",
+      "arabic_text": "وَاَقْبَلَ بَعْضُهُمْ عَلٰى بَعْضٍ يَتَسَٓاءَلُونَ",
+      "translation": "Birbirlerine yönelmiş vaziyette karşılıklı soruşurlar.",
+      "footnotes": null
+    },
+    {
+      "id": "3813",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "28",
+      "arabic_text": "قَالُٓوا اِنَّكُمْ كُنْتُمْ تَأْتُونَنَا عَنِ الْيَم۪ينِ",
+      "translation": "(Saptırıcı liderlere derler ki:) “Şüphesiz ki sizler, bize sağdan gelip yanaşıyordunuz.”",
+      "footnotes": null
+    },
+    {
+      "id": "3814",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "29",
+      "arabic_text": "قَالُوا بَلْ لَمْ تَكُونُوا مُؤْمِن۪ينَۚ",
+      "translation": "(Liderler) dediler ki: “(Hayır, öyle değil!) Bilakis, siz iman etmiş değildiniz.”",
+      "footnotes": null
+    },
+    {
+      "id": "3815",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "30",
+      "arabic_text": "وَمَا كَانَ لَنَا عَلَيْكُمْ مِنْ سُلْطَانٍۚ بَلْ كُنْتُمْ قَوْمًا طَاغ۪ينَ",
+      "translation": "“Bizim sizler üzerinde hiçbir otoritemiz yoktu. (Sizi bir şeye zorlamadık.) Bilakis siz, azgın bir topluluktunuz.”",
+      "footnotes": null
+    },
+    {
+      "id": "3816",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "31",
+      "arabic_text": "فَحَقَّ عَلَيْنَا قَوْلُ رَبِّنَاۗ اِنَّا لَذَٓائِقُونَ",
+      "translation": "“Rabbimizin (azap) sözü/hükmü üzerimize hak oldu. Şüphesiz ki biz, (azabı) tadanlarız.”",
+      "footnotes": null
+    },
+    {
+      "id": "3817",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "32",
+      "arabic_text": "فَاَغْوَيْنَاكُمْ اِنَّا كُنَّا غَاو۪ينَ",
+      "translation": "“Sizleri azdırıp (bu hâle düşürdük). Çünkü bizler de azgın kimselerdik.”",
+      "footnotes": null
+    },
+    {
+      "id": "3818",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "33",
+      "arabic_text": "فَاِنَّهُمْ يَوْمَئِذٍ فِي الْعَذَابِ مُشْتَرِكُونَ",
+      "translation": "Onlar, o gün azapta ortaklardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3819",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "34",
+      "arabic_text": "اِنَّا كَذٰلِكَ نَفْعَلُ بِالْمُجْرِم۪ينَ",
+      "translation": "Biz, suçlu günahkârlara böyle yaparız işte.",
+      "footnotes": null
+    },
+    {
+      "id": "3820",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "35",
+      "arabic_text": "اِنَّهُمْ كَانُٓوا اِذَا ق۪يلَ لَهُمْ لَٓا اِلٰهَ اِلَّا اللّٰهُ يَسْتَكْبِرُونَۙ",
+      "translation": "Onlara, “Lailaheillallah” denildiği zaman büyüklenirlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "3821",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "36",
+      "arabic_text": "وَيَقُولُونَ اَئِنَّا لَتَارِكُٓوا اٰلِهَتِنَا لِشَاعِرٍ مَجْنُونٍۜ",
+      "translation": "Ve derlerdi ki: “Biz, ilahlarımızı deli bir şair için mi bırakacağız?”",
+      "footnotes": null
+    },
+    {
+      "id": "3822",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "37",
+      "arabic_text": "بَلْ جَٓاءَ بِالْحَقِّ وَصَدَّقَ الْمُرْسَل۪ينَ",
+      "translation": "(Hayır! O şair ve deli değil!) Bilakis, hakla gelmiş ve (kendinden önce) gönderilmiş resûlleri doğrulamıştır.",
+      "footnotes": null
+    },
+    {
+      "id": "3823",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "38",
+      "arabic_text": "اِنَّكُمْ لَذَٓائِقُوا الْعَذَابِ الْاَل۪يمِۚ",
+      "translation": "Şüphesiz ki sizler, can yakıcı azabı tadacaksınız.",
+      "footnotes": null
+    },
+    {
+      "id": "3824",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "39",
+      "arabic_text": "وَمَا تُجْزَوْنَ اِلَّا مَا كُنْتُمْ تَعْمَلُونَۙ",
+      "translation": "Yaptıklarınız dışında bir karşılık görmeyeceksiniz.",
+      "footnotes": null
+    },
+    {
+      "id": "3825",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "40",
+      "arabic_text": "اِلَّا عِبَادَ اللّٰهِ الْمُخْلَص۪ينَ",
+      "translation": "Allah’ın muhlas/arındırılmış/ihlas sahibi kulları müstesna.",
+      "footnotes": null
+    },
+    {
+      "id": "3826",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "41",
+      "arabic_text": "اُو۬لٰٓئِكَ لَهُمْ رِزْقٌ مَعْلُومٌۙ",
+      "translation": "Bunlar için bilinen bir rızık vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3827",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "42",
+      "arabic_text": "فَوَاكِهُۚ وَهُمْ مُكْرَمُونَۙ",
+      "translation": "Meyveler... Onlar ikram olunanlardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3828",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "43",
+      "arabic_text": "ف۪ي جَنَّاتِ النَّع۪يمِۙ",
+      "translation": "Naim Cennetlerindelerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "3829",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "44",
+      "arabic_text": "عَلٰى سُرُرٍ مُتَقَابِل۪ينَ",
+      "translation": "Karşılıklı tahtlar üzerinde (kurulmuşlardır).",
+      "footnotes": null
+    },
+    {
+      "id": "3830",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "45",
+      "arabic_text": "يُطَافُ عَلَيْهِمْ بِكَأْسٍ مِنْ مَع۪ينٍۙ",
+      "translation": "Kaynakta doldurulmuş kadehlerle etraflarında dolanılır.",
+      "footnotes": null
+    },
+    {
+      "id": "3831",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "46",
+      "arabic_text": "بَيْضَٓاءَ لَذَّةٍ لِلشَّارِب۪ينَۚ",
+      "translation": "(Kadehlerin içinde) içenlere lezzet veren beyaz bir içecek vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3832",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "47",
+      "arabic_text": "لَا ف۪يهَا غَوْلٌ وَلَا هُمْ عَنْهَا يُنْزَفُونَ",
+      "translation": "Ondan dolayı ne bir baş ağrısı (çekerler), ne de sarhoş olurlar.",
+      "footnotes": null
+    },
+    {
+      "id": "3833",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "48",
+      "arabic_text": "وَعِنْدَهُمْ قَاصِرَاتُ الطَّرْفِ ع۪ينٌۙ",
+      "translation": "Yanlarında, bakışları sadece kocaları üzerinde olan iri gözlü eşler vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3834",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "49",
+      "arabic_text": "كَاَنَّهُنَّ بَيْضٌ مَكْنُونٌ",
+      "translation": "Sanki onlar, saklı birer inci gibidir.",
+      "footnotes": null
+    },
+    {
+      "id": "3835",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "50",
+      "arabic_text": "فَاَقْبَلَ بَعْضُهُمْ عَلٰى بَعْضٍ يَتَسَٓاءَلُونَ",
+      "translation": "Birbirlerine yönelip karşılıklı sorarlar,",
+      "footnotes": null
+    },
+    {
+      "id": "3836",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "51",
+      "arabic_text": "قَالَ قَٓائِلٌ مِنْهُمْ اِنّ۪ي كَانَ ل۪ي قَر۪ينٌۙ",
+      "translation": "İçlerinden bir sözcü der ki: “Benim bir dostum vardı.”",
+      "footnotes": null
+    },
+    {
+      "id": "3837",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "52",
+      "arabic_text": "يَقُولُ اَئِنَّكَ لَمِنَ الْمُصَدِّق۪ينَ",
+      "translation": "Derdi ki: “Sen, (ahiret hayatını) tasdik edenlerden misin?”",
+      "footnotes": null
+    },
+    {
+      "id": "3838",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "53",
+      "arabic_text": "ءَاِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا ءَاِنَّا لَمَد۪ينُونَ",
+      "translation": "“Biz ölüp de toprak ve kemik olduğumuzda, yaptıklarımızın karşılığını mı alacağız?”",
+      "footnotes": null
+    },
+    {
+      "id": "3839",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "54",
+      "arabic_text": "قَالَ هَلْ اَنْتُمْ مُطَّلِعُونَ",
+      "translation": "“Siz de görmek ister misiniz (onun ne durumda olduğunu)?”",
+      "footnotes": null
+    },
+    {
+      "id": "3840",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "55",
+      "arabic_text": "فَاطَّلَعَ فَرَاٰهُ ف۪ي سَوَٓاءِ الْجَح۪يمِ",
+      "translation": "Baktı ve onu dehşetli ateşin orta yerinde gördü.",
+      "footnotes": null
+    },
+    {
+      "id": "3841",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "56",
+      "arabic_text": "قَالَ تَاللّٰهِ اِنْ كِدْتَ لَتُرْد۪ينِۙ",
+      "translation": "Dedi ki: “Allah’a yemin olsun ki, neredeyse beni de (içinde bulunduğun yere) düşürecektin.”",
+      "footnotes": null
+    },
+    {
+      "id": "3842",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "57",
+      "arabic_text": "وَلَوْلَا نِعْمَةُ رَبّ۪ي لَكُنْتُ مِنَ الْمُحْضَر۪ينَ",
+      "translation": "“Rabbimin (üzerimdeki) nimeti olmamış olsaydı, ben de hazır edilenlerden olurdum.”",
+      "footnotes": null
+    },
+    {
+      "id": "3843",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "58",
+      "arabic_text": "اَفَمَا نَحْنُ بِمَيِّت۪ينَۙ",
+      "translation": "“Demek biz ölmeyecekmişiz, öyle mi?”",
+      "footnotes": null
+    },
+    {
+      "id": "3844",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "59",
+      "arabic_text": "اِلَّا مَوْتَتَنَا الْاُو۫لٰى وَمَا نَحْنُ بِمُعَذَّب۪ينَ",
+      "translation": "“Yalnızca bir defa ölecekmişiz ve biz azaba da uğramayacakmışız, öyle mi?”",
+      "footnotes": null
+    },
+    {
+      "id": "3845",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "60",
+      "arabic_text": "اِنَّ هٰذَا لَهُوَ الْفَوْزُ الْعَظ۪يمُ",
+      "translation": "Şüphesiz ki bu, (evet, bu) büyük bir kazanç ve kurtuluştur.",
+      "footnotes": null
+    },
+    {
+      "id": "3846",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "61",
+      "arabic_text": "لِمِثْلِ هٰذَا فَلْيَعْمَلِ الْعَامِلُونَ",
+      "translation": "İşte çalışacak olanlar, böylesi için çalışsınlar.",
+      "footnotes": null
+    },
+    {
+      "id": "3847",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "62",
+      "arabic_text": "اَذٰلِكَ خَيْرٌ نُزُلًا اَمْ شَجَرَةُ الزَّقُّومِ",
+      "translation": "(Şimdi söyleyin) böyle bir ağırlama mı daha hayırlı, yoksa zakkum ağacı mı?",
+      "footnotes": null
+    },
+    {
+      "id": "3848",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "63",
+      "arabic_text": "اِنَّا جَعَلْنَاهَا فِتْنَةً لِلظَّالِم۪ينَ",
+      "translation": "Biz onu, zalimler için fitne kılmışızdır.",
+      "footnotes": null
+    },
+    {
+      "id": "3849",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "64",
+      "arabic_text": "اِنَّهَا شَجَرَةٌ تَخْرُجُ ف۪ٓي اَصْلِ الْجَح۪يمِۙ",
+      "translation": "Şüphesiz ki o, cehennemin dibinde çıkan bir ağaçtır.",
+      "footnotes": null
+    },
+    {
+      "id": "3850",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "65",
+      "arabic_text": "طَلْعُهَا كَاَنَّهُ رُؤُ۫سُ الشَّيَاط۪ينِ",
+      "translation": "Onun meyveleri şeytanların başları gibidir.",
+      "footnotes": null
+    },
+    {
+      "id": "3851",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "66",
+      "arabic_text": "فَاِنَّهُمْ لَاٰكِلُونَ مِنْهَا فَمَالِؤُ۫نَ مِنْهَا الْبُطُونَۜ",
+      "translation": "Şüphesiz ki onlar, ondan yiyecek ve karınlarını dolduracaklardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3852",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "67",
+      "arabic_text": "ثُمَّ اِنَّ لَهُمْ عَلَيْهَا لَشَوْبًا مِنْ حَم۪يمٍۚ",
+      "translation": "(Zakkum yedikten) sonra, üzerine içecekleri kaynar bir karışım vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3853",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "68",
+      "arabic_text": "ثُمَّ اِنَّ مَرْجِعَهُمْ لَاِلَى الْجَح۪يمِ",
+      "translation": "Sonra onların döneceği yer elbette, cehennem ateşi olacaktır.",
+      "footnotes": null
+    },
+    {
+      "id": "3854",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "69",
+      "arabic_text": "اِنَّهُمْ اَلْفَوْا اٰبَٓاءَهُمْ ضَٓالّ۪ينَۙ",
+      "translation": "Gerçek şu ki; onlar babalarını sapıklar olarak buldular.",
+      "footnotes": null
+    },
+    {
+      "id": "3855",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "70",
+      "arabic_text": "فَهُمْ عَلٰٓى اٰثَارِهِمْ يُهْرَعُونَ",
+      "translation": "Kendileri de, onların izleri peşinde koşuşturmaktalardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3856",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "71",
+      "arabic_text": "وَلَقَدْ ضَلَّ قَبْلَهُمْ اَكْثَرُ الْاَوَّل۪ينَۙ",
+      "translation": "Andolsun ki onlardan önce, evvelkilerin çoğu da sapmıştı.",
+      "footnotes": null
+    },
+    {
+      "id": "3857",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "72",
+      "arabic_text": "وَلَقَدْ اَرْسَلْنَا ف۪يهِمْ مُنْذِر۪ينَ",
+      "translation": "Andolsun biz, onların arasına uyarıcılar yollamıştık.",
+      "footnotes": null
+    },
+    {
+      "id": "3858",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "73",
+      "arabic_text": "فَانْظُرْ كَيْفَ كَانَ عَاقِبَةُ الْمُنْذَر۪ينَۙ",
+      "translation": "Uyarılanların akıbetinin nasıl olduğuna bir bak!",
+      "footnotes": null
+    },
+    {
+      "id": "3859",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "74",
+      "arabic_text": "اِلَّا عِبَادَ اللّٰهِ الْمُخْلَص۪ينَ۟",
+      "translation": "Allah’ın muhlas/arındırılmış/ihlaslı kulları müstesna.",
+      "footnotes": null
+    },
+    {
+      "id": "3860",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "75",
+      "arabic_text": "وَلَقَدْ نَادٰينَا نُوحٌ فَلَنِعْمَ الْمُج۪يبُونَۚ",
+      "translation": "Andolsun ki Nuh, bize seslenmişti. (Biz) ne güzel cevap vermiştik.",
+      "footnotes": null
+    },
+    {
+      "id": "3861",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "76",
+      "arabic_text": "وَنَجَّيْنَاهُ وَاَهْلَهُ مِنَ الْكَرْبِ الْعَظ۪يمِۘ",
+      "translation": "Onu ve ailesini büyük bir dertten/sıkıntıdan kurtarmıştık.",
+      "footnotes": null
+    },
+    {
+      "id": "3862",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "77",
+      "arabic_text": "وَجَعَلْنَا ذُرِّيَّتَهُ هُمُ الْبَاق۪ينَۘ",
+      "translation": "Onun soyunu bakî kalanlar kılmıştık.",
+      "footnotes": null
+    },
+    {
+      "id": "3863",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "78",
+      "arabic_text": "وَتَرَكْنَا عَلَيْهِ فِي الْاٰخِر۪ينَۘ",
+      "translation": "Sonradan gelecekler arasında (hayırla yâd edilmesi için ona güzel bir nam) bırakmıştık.",
+      "footnotes": null
+    },
+    {
+      "id": "3864",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "79",
+      "arabic_text": "سَلَامٌ عَلٰى نُوحٍ فِي الْعَالَم۪ينَ",
+      "translation": "Âlemler içinde Nuh’a selam olsun.",
+      "footnotes": null
+    },
+    {
+      "id": "3865",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "80",
+      "arabic_text": "اِنَّا كَذٰلِكَ نَجْزِي الْمُحْسِن۪ينَ",
+      "translation": "Hiç şüphesiz biz, muhsinleri/kulluğunu en güzel şekilde yapmaya çalışanları böyle mükâfatlandırırız.",
+      "footnotes": null
+    },
+    {
+      "id": "3866",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "81",
+      "arabic_text": "اِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِن۪ينَ",
+      "translation": "Şüphesiz ki o, bizim mümin kullarımızdandı.",
+      "footnotes": null
+    },
+    {
+      "id": "3867",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "82",
+      "arabic_text": "ثُمَّ اَغْرَقْنَا الْاٰخَر۪ينَ",
+      "translation": "Sonra diğerlerini (tufanda) boğduk.",
+      "footnotes": null
+    },
+    {
+      "id": "3868",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "83",
+      "arabic_text": "وَاِنَّ مِنْ ش۪يعَتِه۪ لَاِبْرٰه۪يمَۢ",
+      "translation": "Şüphesiz ki İbrahim de onun taraftarlarındandı.",
+      "footnotes": null
+    },
+    {
+      "id": "3869",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "84",
+      "arabic_text": "اِذْ جَٓاءَ رَبَّهُ بِقَلْبٍ سَل۪يمٍ",
+      "translation": "Hani Rabbine selim bir kalple gelmişti.",
+      "footnotes": null
+    },
+    {
+      "id": "3870",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "85",
+      "arabic_text": "اِذْ قَالَ لِاَب۪يهِ وَقَوْمِه۪ مَاذَا تَعْبُدُونَۚ",
+      "translation": "Hani babasına ve kavmine: “Siz neye ibadet ediyorsunuz?” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "3871",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "86",
+      "arabic_text": "اَئِفْكًا اٰلِهَةً دُونَ اللّٰهِ تُر۪يدُونَۜ",
+      "translation": "“Birtakım yalanlar uydurarak Allah’tan başka ilahlar mı ediniyorsunuz?”",
+      "footnotes": null
+    },
+    {
+      "id": "3872",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "87",
+      "arabic_text": "فَمَا ظَنُّكُمْ بِرَبِّ الْعَالَم۪ينَ",
+      "translation": "“Âlemlerin Rabbi hakkındaki zannınız nedir? (Bu yaptığınızı cezasız bırakacağını mı düşünüyorsunuz?)”",
+      "footnotes": null
+    },
+    {
+      "id": "3873",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "88",
+      "arabic_text": "فَنَظَرَ نَظْرَةً فِي النُّجُومِۙ",
+      "translation": "Yıldızlara bir bakış attı.",
+      "footnotes": null
+    },
+    {
+      "id": "3874",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "89",
+      "arabic_text": "فَقَالَ اِنّ۪ي سَق۪يمٌ",
+      "translation": "“Ben hastayım.” dedi.",
+      "footnotes": null
+    },
+    {
+      "id": "3875",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "90",
+      "arabic_text": "فَتَوَلَّوْا عَنْهُ مُدْبِر۪ينَ",
+      "translation": "Ondan yüz çevirip arkalarını dönüp gittiler.",
+      "footnotes": null
+    },
+    {
+      "id": "3876",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "91",
+      "arabic_text": "فَرَاغَ اِلٰٓى اٰلِهَتِهِمْ فَقَالَ اَلَا تَأْكُلُونَۚ",
+      "translation": "(Kimseler kalmayınca) onların ilahlarına yöneldi ve: “(Şu yemeklerden) yemez misiniz?” dedi.",
+      "footnotes": null
+    },
+    {
+      "id": "3877",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "92",
+      "arabic_text": "مَا لَكُمْ لَا تَنْطِقُونَ",
+      "translation": "“Ne oluyor size? Konuşmuyorsunuz.”",
+      "footnotes": null
+    },
+    {
+      "id": "3878",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "93",
+      "arabic_text": "فَرَاغَ عَلَيْهِمْ ضَرْبًا بِالْيَم۪ينِ",
+      "translation": "(Derken) onlara yöneldi ve sağ eli ile bir darbe indirdi.",
+      "footnotes": null
+    },
+    {
+      "id": "3879",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "94",
+      "arabic_text": "فَاَقْبَلُٓوا اِلَيْهِ يَزِفُّونَ",
+      "translation": "(İnsanlar) acele ile ona yöneldiler.",
+      "footnotes": null
+    },
+    {
+      "id": "3880",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "95",
+      "arabic_text": "قَالَ اَتَعْبُدُونَ مَا تَنْحِتُونَۙ",
+      "translation": "Dedi ki: “Ellerinizle yonttuğunuz şeylere mi ibadet ediyorsunuz?”",
+      "footnotes": null
+    },
+    {
+      "id": "3881",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "96",
+      "arabic_text": "وَاللّٰهُ خَلَقَكُمْ وَمَا تَعْمَلُونَ",
+      "translation": "“Oysa sizi de yaptıklarınızı da Allah yaratmıştır.”",
+      "footnotes": null
+    },
+    {
+      "id": "3882",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "97",
+      "arabic_text": "قَالُوا ابْنُوا لَهُ بُنْيَانًا فَاَلْقُوهُ فِي الْجَح۪يمِ",
+      "translation": "Dediler ki: “Onun için yüksek bir yapı inşa edin. Sonra onu ateşin içine atın.”",
+      "footnotes": null
+    },
+    {
+      "id": "3883",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "98",
+      "arabic_text": "فَاَرَادُوا بِه۪ كَيْدًا فَجَعَلْنَاهُمُ الْاَسْفَل۪ينَ",
+      "translation": "Ona tuzak kurmak istediler. Biz onları alçaltılmışlar kıldık.",
+      "footnotes": null
+    },
+    {
+      "id": "3884",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "99",
+      "arabic_text": "وَقَالَ اِنّ۪ي ذَاهِبٌ اِلٰى رَبّ۪ي سَيَهْد۪ينِ",
+      "translation": "Dedi ki: “Ben Rabbime gideceğim. Şüphesiz ki O, beni doğru yola iletecektir.”",
+      "footnotes": null
+    },
+    {
+      "id": "3885",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "100",
+      "arabic_text": "رَبِّ هَبْ ل۪ي مِنَ الصَّالِح۪ينَ",
+      "translation": "“Rabbim, bana salihlerden (bir evlat) ver.”",
+      "footnotes": null
+    },
+    {
+      "id": "3886",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "101",
+      "arabic_text": "فَبَشَّرْنَاهُ بِغُلَامٍ حَل۪يمٍ",
+      "translation": "Biz onu, halim (yumuşak huylu) bir çocukla müjdeledik.",
+      "footnotes": null
+    },
+    {
+      "id": "3887",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "102",
+      "arabic_text": "فَلَمَّا بَلَغَ مَعَهُ السَّعْيَ قَالَ يَا بُنَيَّ اِنّ۪ٓي اَرٰى فِي الْمَنَامِ اَنّ۪ٓي اَذْبَحُكَ فَانْظُرْ مَاذَا تَرٰىۜ قَالَ يَٓا اَبَتِ افْعَلْ مَا تُؤْمَرُۘ سَتَجِدُن۪ٓي اِنْ شَٓاءَ اللّٰهُ مِنَ الصَّابِر۪ينَ",
+      "translation": "Çocuk onunla beraber iş yapıp koşuşturma çağına erişince, dedi ki: “Oğulcuğum! Rüyamda seni kestiğimi görüyorum. Sen ne düşünürsün (bu konuda)?” (İsmail) dedi ki: “Babacığım! Emrolunduğun şeyi yap. İnşallah beni sabredenlerden bulacaksın.”",
+      "footnotes": null
+    },
+    {
+      "id": "3888",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "103",
+      "arabic_text": "فَلَمَّٓا اَسْلَمَا وَتَلَّهُ لِلْجَب۪ينِۚ",
+      "translation": "İkisi de (Allah’ın emrine) teslim olup (İsmail’i) alnı üzere yere yatırınca,",
+      "footnotes": null
+    },
+    {
+      "id": "3889",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "104",
+      "arabic_text": "وَنَادَيْنَاهُ اَنْ يَٓا اِبْرٰه۪يمُۙ",
+      "translation": "Ona: “Ey İbrahim!” diye seslendik.",
+      "footnotes": null
+    },
+    {
+      "id": "3890",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "105",
+      "arabic_text": "قَدْ صَدَّقْتَ الرُّءْيَاۚ اِنَّا كَذٰلِكَ نَجْزِي الْمُحْسِن۪ينَ",
+      "translation": "“(Bu davranışınla) rüyayı tasdik etmiş oldun. Şüphesiz ki biz, muhsinleri/kulluğunu en güzel şekilde yapmaya çalışanları böyle mükâfatlandırırız.”",
+      "footnotes": null
+    },
+    {
+      "id": "3891",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "106",
+      "arabic_text": "اِنَّ هٰذَا لَهُوَ الْبَلٰٓؤُ۬ا الْمُب۪ينُ",
+      "translation": "Şüphesiz bu, apaçık bir imtihandı.",
+      "footnotes": null
+    },
+    {
+      "id": "3892",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "107",
+      "arabic_text": "وَفَدَيْنَاهُ بِذِبْحٍ عَظ۪يمٍ",
+      "translation": "Biz (İsmail’in yerine), büyük bir kurbanlığı fidye olarak verdik.",
+      "footnotes": null
+    },
+    {
+      "id": "3893",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "108",
+      "arabic_text": "وَتَرَكْنَا عَلَيْهِ فِي الْاٰخِر۪ينَ",
+      "translation": "Sonradan gelecekler arasında (hayırla yâd edilmesi için ona güzel bir nam) bıraktık.",
+      "footnotes": null
+    },
+    {
+      "id": "3894",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "109",
+      "arabic_text": "سَلَامٌ عَلٰٓى اِبْرٰه۪يمَ",
+      "translation": "Selam olsun İbrahim’e.",
+      "footnotes": null
+    },
+    {
+      "id": "3895",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "110",
+      "arabic_text": "كَذٰلِكَ نَجْزِي الْمُحْسِن۪ينَ",
+      "translation": "Biz, muhsinleri/kulluğunu en güzel şekilde yapmaya çalışanları böyle mükâfatlandırırız işte.",
+      "footnotes": null
+    },
+    {
+      "id": "3896",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "111",
+      "arabic_text": "اِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِن۪ينَ",
+      "translation": "Şüphesiz ki o, iman eden kullarımızdandı.",
+      "footnotes": null
+    },
+    {
+      "id": "3897",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "112",
+      "arabic_text": "وَبَشَّرْنَاهُ بِاِسْحٰقَ نَبِيًّا مِنَ الصَّالِح۪ينَ",
+      "translation": "Ona, salihlerden bir nebi olarak İshak’ı müjdeledik.",
+      "footnotes": null
+    },
+    {
+      "id": "3898",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "113",
+      "arabic_text": "وَبَارَكْنَا عَلَيْهِ وَعَلٰٓى اِسْحٰقَۜ وَمِنْ ذُرِّيَّتِهِمَا مُحْسِنٌ وَظَالِمٌ لِنَفْسِه۪ مُب۪ينٌ۟",
+      "translation": "Onun ve İshak’ın üzerine bereket kıldık. İkisinin soyundan muhsin olan/kulluğunu en güzel şekilde yapmaya çalışan da vardır. Apaçık bir şekilde nefsine zulmeden de.",
+      "footnotes": null
+    },
+    {
+      "id": "3899",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "114",
+      "arabic_text": "وَلَقَدْ مَنَنَّا عَلٰى مُوسٰى وَهٰرُونَۚ",
+      "translation": "Andolsun ki Musa ve Harun’a da iyilikte bulunmuştuk.",
+      "footnotes": null
+    },
+    {
+      "id": "3900",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "115",
+      "arabic_text": "وَنَجَّيْنَاهُمَا وَقَوْمَهُمَا مِنَ الْكَرْبِ الْعَظ۪يمِۚ",
+      "translation": "O ikisini ve kavimlerini büyük dertten/sıkıntıdan kurtarmıştık.",
+      "footnotes": null
+    },
+    {
+      "id": "3901",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "116",
+      "arabic_text": "وَنَصَرْنَاهُمْ فَكَانُوا هُمُ الْغَالِب۪ينَۚ",
+      "translation": "Onlara yardım etmiştik. (Böylece) onlar galip olmuşlardı.",
+      "footnotes": null
+    },
+    {
+      "id": "3902",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "117",
+      "arabic_text": "وَاٰتَيْنَاهُمَا الْكِتَابَ الْمُسْتَب۪ينَۚ",
+      "translation": "İkisine apaçık olan bir Kitap verdik.",
+      "footnotes": null
+    },
+    {
+      "id": "3903",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "118",
+      "arabic_text": "وَهَدَيْنَاهُمَا الصِّرَاطَ الْمُسْتَق۪يمَۚ",
+      "translation": "İkisini dosdoğru yola hidayet ettik.",
+      "footnotes": null
+    },
+    {
+      "id": "3904",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "119",
+      "arabic_text": "وَتَرَكْنَا عَلَيْهِمَا فِي الْاٰخِر۪ينَ",
+      "translation": "Sonra gelecekler arasında (hayırla yâd edilmeleri için o ikisine güzel bir nam) bıraktık.",
+      "footnotes": null
+    },
+    {
+      "id": "3905",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "120",
+      "arabic_text": "سَلَامٌ عَلٰى مُوسٰى وَهٰرُونَ",
+      "translation": "Selam olsun Musa ve Harun’a.",
+      "footnotes": null
+    },
+    {
+      "id": "3906",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "121",
+      "arabic_text": "اِنَّا كَذٰلِكَ نَجْزِي الْمُحْسِن۪ينَ",
+      "translation": "Şüphesiz ki biz, muhsinleri/kulluğunu en güzel şekilde yapmaya çalışanları böyle mükâfatlandırırız.",
+      "footnotes": null
+    },
+    {
+      "id": "3907",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "122",
+      "arabic_text": "اِنَّهُمَا مِنْ عِبَادِنَا الْمُؤْمِن۪ينَ",
+      "translation": "O ikisi, bizim mümin kullarımızdandı.",
+      "footnotes": null
+    },
+    {
+      "id": "3908",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "123",
+      "arabic_text": "وَاِنَّ اِلْيَاسَ لَمِنَ الْمُرْسَل۪ينَۜ",
+      "translation": "Şüphesiz ki İlyas, gönderilmiş resûllerdendir.",
+      "footnotes": null
+    },
+    {
+      "id": "3909",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "124",
+      "arabic_text": "اِذْ قَالَ لِقَوْمِه۪ٓ اَلَا تَتَّقُونَ",
+      "translation": "Hani kavmine: “(Allah’tan) korkup sakınmaz mısınız?” demişti.",
+      "footnotes": null
+    },
+    {
+      "id": "3910",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "125",
+      "arabic_text": "اَتَدْعُونَ بَعْلًا وَتَذَرُونَ اَحْسَنَ الْخَالِق۪ينَۙ",
+      "translation": "“Siz Ba’l (putuna) dua edip, yaratanların en güzeli olan (Allah’ı) terk mi ediyorsunuz?”",
+      "footnotes": null
+    },
+    {
+      "id": "3911",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "126",
+      "arabic_text": "اَللّٰهَ رَبَّكُمْ وَرَبَّ اٰبَٓائِكُمُ الْاَوَّل۪ينَ",
+      "translation": "“Sizin Rabbiniz ve evvelki atalarınızın Rabbi olan Allah’ı?!”",
+      "footnotes": null
+    },
+    {
+      "id": "3912",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "127",
+      "arabic_text": "فَكَذَّبُوهُ فَاِنَّهُمْ لَمُحْضَرُونَۙ",
+      "translation": "Onu yalanladılar. Şüphesiz ki onlar, (azap için) hazır edilecek olanlardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3913",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "128",
+      "arabic_text": "اِلَّا عِبَادَ اللّٰهِ الْمُخْلَص۪ينَ",
+      "translation": "Allah’ın muhlas/arındırılmış/ihlaslı kulları müstesna.",
+      "footnotes": null
+    },
+    {
+      "id": "3914",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "129",
+      "arabic_text": "وَتَرَكْنَا عَلَيْهِ فِي الْاٰخِر۪ينَ",
+      "translation": "Sonradan gelecekler arasında (onun hayırla yâd edilmesi için, güzel bir nam) bıraktık.",
+      "footnotes": null
+    },
+    {
+      "id": "3915",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "130",
+      "arabic_text": "سَلَامٌ عَلٰٓى اِلْ‌يَاس۪ينَ",
+      "translation": "Selam olsun İlyas’a.",
+      "footnotes": null
+    },
+    {
+      "id": "3916",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "131",
+      "arabic_text": "اِنَّا كَذٰلِكَ نَجْزِي الْمُحْسِن۪ينَ",
+      "translation": "İşte biz, muhsinleri/kulluğunu en güzel şekilde yapmaya çalışanları böyle mükâfatlandırırız.",
+      "footnotes": null
+    },
+    {
+      "id": "3917",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "132",
+      "arabic_text": "اِنَّهُ مِنْ عِبَادِنَا الْمُؤْمِن۪ينَ",
+      "translation": "Şüphesiz ki o, bizim mümin kullarımızdandı.",
+      "footnotes": null
+    },
+    {
+      "id": "3918",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "133",
+      "arabic_text": "وَاِنَّ لُوطًا لَمِنَ الْمُرْسَل۪ينَۜ",
+      "translation": "Muhakkak ki Lut da gönderilmiş resûllerdendir.",
+      "footnotes": null
+    },
+    {
+      "id": "3919",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "134",
+      "arabic_text": "اِذْ نَجَّيْنَاهُ وَاَهْلَهُٓ اَجْمَع۪ينَۙ",
+      "translation": "Hani onu ve ailesini topluca kurtarmıştık.",
+      "footnotes": null
+    },
+    {
+      "id": "3920",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "135",
+      "arabic_text": "اِلَّا عَجُوزًا فِي الْغَابِر۪ينَ",
+      "translation": "Geride bırakılanlar arasında bir yaşlı kadın hariç.",
+      "footnotes": null
+    },
+    {
+      "id": "3921",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "136",
+      "arabic_text": "ثُمَّ دَمَّرْنَا الْاٰخَر۪ينَ",
+      "translation": "Sonra diğerlerini yerle bir etmiştik.",
+      "footnotes": null
+    },
+    {
+      "id": "3922",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "137",
+      "arabic_text": "وَاِنَّكُمْ لَتَمُرُّونَ عَلَيْهِمْ مُصْبِح۪ينَۙ",
+      "translation": "Siz sabah vakti onlara uğrayıp geçmektesiniz.",
+      "footnotes": null
+    },
+    {
+      "id": "3923",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "138",
+      "arabic_text": "وَبِالَّيْلِۜ اَفَلَا تَعْقِلُونَ۟",
+      "translation": "Gece vakti de... Akletmez misiniz?",
+      "footnotes": null
+    },
+    {
+      "id": "3924",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "139",
+      "arabic_text": "وَاِنَّ يُونُسَ لَمِنَ الْمُرْسَل۪ينَۜ",
+      "translation": "Muhakkak ki Yunus da gönderilmiş resûllerdendir.",
+      "footnotes": null
+    },
+    {
+      "id": "3925",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "140",
+      "arabic_text": "اِذْ اَبَقَ اِلَى الْفُلْكِ الْمَشْحُونِۙ",
+      "translation": "Hani o, dolu bir gemiye kaçmıştı.",
+      "footnotes": null
+    },
+    {
+      "id": "3926",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "141",
+      "arabic_text": "فَسَاهَمَ فَكَانَ مِنَ الْمُدْحَض۪ينَۚ",
+      "translation": "Kura çekimine katılmıştı ve kaybedenlerden olmuştu.",
+      "footnotes": null
+    },
+    {
+      "id": "3927",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "142",
+      "arabic_text": "فَالْتَقَمَهُ الْحُوتُ وَهُوَ مُل۪يمٌ",
+      "translation": "Kendini kınayan (bir ruh hâlindeyken), balık onu yutuvermişti.",
+      "footnotes": null
+    },
+    {
+      "id": "3928",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "143",
+      "arabic_text": "فَلَوْلَٓا اَنَّهُ كَانَ مِنَ الْمُسَبِّح۪ينَۙ",
+      "translation": "Şayet o, tesbih edenlerden olmasaydı,",
+      "footnotes": null
+    },
+    {
+      "id": "3929",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "144",
+      "arabic_text": "لَلَبِثَ ف۪ي بَطْنِه۪ٓ اِلٰى يَوْمِ يُبْعَثُونَ",
+      "translation": "Diriltilecekleri güne kadar onun karnında kalırdı.",
+      "footnotes": null
+    },
+    {
+      "id": "3930",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "145",
+      "arabic_text": "فَنَبَذْنَاهُ بِالْعَرَٓاءِ وَهُوَ سَق۪يمٌۚ",
+      "translation": "O, hasta bir hâldeyken onu boşluğa/sahile attık.",
+      "footnotes": null
+    },
+    {
+      "id": "3931",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "146",
+      "arabic_text": "وَاَنْبَتْنَا عَلَيْهِ شَجَرَةً مِنْ يَقْط۪ينٍۚ",
+      "translation": "Onun üzerine (yaprakları geniş olan, gölgelikli, korunaklı) “yaktin” ağacı bitirdik.",
+      "footnotes": null
+    },
+    {
+      "id": "3932",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "147",
+      "arabic_text": "وَاَرْسَلْنَاهُ اِلٰى مِائَةِ اَلْفٍ اَوْ يَز۪يدُونَۚ",
+      "translation": "Onu, yüz bin veya daha fazla olan bir topluluğa gönderdik.",
+      "footnotes": null
+    },
+    {
+      "id": "3933",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "148",
+      "arabic_text": "فَاٰمَنُوا فَمَتَّعْنَاهُمْ اِلٰى ح۪ينٍۜ",
+      "translation": "İman ettiler. Biz de belirli bir süreye kadar onları faydalandırdık.",
+      "footnotes": null
+    },
+    {
+      "id": "3934",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "149",
+      "arabic_text": "فَاسْتَفْتِهِمْ اَلِرَبِّكَ الْبَنَاتُ وَلَهُمُ الْبَنُونَۙ",
+      "translation": "Sor şimdi onlara: Kız çocukları Rabbinin, erkek çocukları onların mıdır?",
+      "footnotes": null
+    },
+    {
+      "id": "3935",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "150",
+      "arabic_text": "اَمْ خَلَقْنَا الْمَلٰٓئِكَةَ اِنَاثًا وَهُمْ شَاهِدُونَ",
+      "translation": "Yoksa biz, melekleri dişi olarak yaratmışız da onlar buna şahitlik mi etmişler?",
+      "footnotes": null
+    },
+    {
+      "id": "3936",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "151",
+      "arabic_text": "اَلَٓا اِنَّهُمْ مِنْ اِفْكِهِمْ لَيَقُولُونَۙ",
+      "translation": "Dikkat edin! Onlar uydurdukları iftira sebebiyle derler ki:",
+      "footnotes": null
+    },
+    {
+      "id": "3937",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "152",
+      "arabic_text": "وَلَدَ اللّٰهُۙ وَاِنَّهُمْ لَكَاذِبُونَ",
+      "translation": "“Allah doğurdu.” Hiç şüphesiz onlar, yalancılardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3938",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "153",
+      "arabic_text": "اَصْطَفَى الْبَنَاتِ عَلَى الْبَن۪ينَۜ",
+      "translation": "Allah, kız çocuklarını erkek çocuklara tercih edip (üstün mü kılmıştır?)",
+      "footnotes": null
+    },
+    {
+      "id": "3939",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "154",
+      "arabic_text": "مَا لَكُمْ۠ كَيْفَ تَحْكُمُونَ",
+      "translation": "Ne oluyor size, nasıl hükmediyorsunuz?",
+      "footnotes": null
+    },
+    {
+      "id": "3940",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "155",
+      "arabic_text": "اَفَلَا تَذَكَّرُونَۚ",
+      "translation": "Öğüt almaz mısınız?",
+      "footnotes": null
+    },
+    {
+      "id": "3941",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "156",
+      "arabic_text": "اَمْ لَكُمْ سُلْطَانٌ مُب۪ينٌۙ",
+      "translation": "Yoksa (bu söylediklerinizin doğruluğuna dair) apaçık bir deliliniz mi var?",
+      "footnotes": null
+    },
+    {
+      "id": "3942",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "157",
+      "arabic_text": "فَأْتُوا بِكِتَابِكُمْ اِنْ كُنْتُمْ صَادِق۪ينَ",
+      "translation": "Şayet doğru söylüyorsanız kitabınızı getirin (bakalım)!",
+      "footnotes": null
+    },
+    {
+      "id": "3943",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "158",
+      "arabic_text": "وَجَعَلُوا بَيْنَهُ وَبَيْنَ الْجِنَّةِ نَسَبًاۜ وَلَقَدْ عَلِمَتِ الْجِنَّةُ اِنَّهُمْ لَمُحْضَرُونَۙ",
+      "translation": "O’nunla cinler arasında nesep bağı kurdular. Andolsun ki cinler, (hesap için) hazır edileceklerini bildiler.",
+      "footnotes": null
+    },
+    {
+      "id": "3944",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "159",
+      "arabic_text": "سُبْحَانَ اللّٰهِ عَمَّا يَصِفُونَۙ",
+      "translation": "Allah, onların yakıştırdığı sıfatlardan münezzehtir.",
+      "footnotes": null
+    },
+    {
+      "id": "3945",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "160",
+      "arabic_text": "اِلَّا عِبَادَ اللّٰهِ الْمُخْلَص۪ينَ",
+      "translation": "Allah’ın muhlas/arındırılmış/ihlaslı kulları müstesna. (Onlar, Allah’a böyle sıfatlar yakıştırmaz; O’nu tüm eksikliklerden tenzih ederler.)",
+      "footnotes": null
+    },
+    {
+      "id": "3946",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "161",
+      "arabic_text": "فَاِنَّكُمْ وَمَا تَعْبُدُونَۙ",
+      "translation": "Şüphesiz ki siz ve ibadet ettikleriniz...",
+      "footnotes": null
+    },
+    {
+      "id": "3947",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "162",
+      "arabic_text": "مَٓا اَنْتُمْ عَلَيْهِ بِفَاتِن۪ينَۙ",
+      "translation": "Siz, kimseyi (dininiz üzere) fitneye düşüremezsiniz.",
+      "footnotes": null
+    },
+    {
+      "id": "3948",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "163",
+      "arabic_text": "اِلَّا مَنْ هُوَ صَالِ الْجَح۪يمِ",
+      "translation": "Ateşe girecek olanlar müstesna. (Ancak böylesini dininde fitneye düşürürsünüz.)",
+      "footnotes": null
+    },
+    {
+      "id": "3949",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "164",
+      "arabic_text": "وَمَا مِنَّٓا اِلَّا لَهُ مَقَامٌ مَعْلُومٌ",
+      "translation": "(Melekler der ki:) “Bizim her birimizin mutlaka bilinen bir makamı vardır.”",
+      "footnotes": null
+    },
+    {
+      "id": "3950",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "165",
+      "arabic_text": "وَاِنَّا لَنَحْنُ الصَّٓافُّونَۚ",
+      "translation": "“Şüphesiz ki bizler, saf tutanlarız.”",
+      "footnotes": null
+    },
+    {
+      "id": "3951",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "166",
+      "arabic_text": "وَاِنَّا لَنَحْنُ الْمُسَبِّحُونَ",
+      "translation": "“Ve yine, hiç şüphesiz ki bizler, tesbih edenleriz.”",
+      "footnotes": null
+    },
+    {
+      "id": "3952",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "167",
+      "arabic_text": "وَاِنْ كَانُوا لَيَقُولُونَۙ",
+      "translation": "(Müşrikler) şöyle diyorlardı:",
+      "footnotes": null
+    },
+    {
+      "id": "3953",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "168",
+      "arabic_text": "لَوْ اَنَّ عِنْدَنَا ذِكْرًا مِنَ الْاَوَّل۪ينَۙ",
+      "translation": "“Şayet evvelkilerin Kitaplarından bizim yanımızda olsaydı,”",
+      "footnotes": null
+    },
+    {
+      "id": "3954",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "169",
+      "arabic_text": "لَكُنَّا عِبَادَ اللّٰهِ الْمُخْلَص۪ينَ",
+      "translation": "“Hiç şüphesiz, Allah’ın muhlas/arındırılmış/ihlaslı kullarından olurduk.”",
+      "footnotes": null
+    },
+    {
+      "id": "3955",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "170",
+      "arabic_text": "فَكَفَرُوا بِه۪ۚ فَسَوْفَ يَعْلَمُونَ",
+      "translation": "(Onlara Kitap gelince de) inkâr ettiler. Pek yakında bilecekler/anlayacaklar.",
+      "footnotes": null
+    },
+    {
+      "id": "3956",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "171",
+      "arabic_text": "وَلَقَدْ سَبَقَتْ كَلِمَتُنَا لِعِبَادِنَا الْمُرْسَل۪ينَۚ",
+      "translation": "Andolsun ki resûllerimiz için (şu) sözümüz geçmiştir:",
+      "footnotes": null
+    },
+    {
+      "id": "3957",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "172",
+      "arabic_text": "اِنَّهُمْ لَهُمُ الْمَنْصُورُونَۖ",
+      "translation": "Şüphesiz ki onlar, (evet, kesinlikle onlar) yardım olunacaklardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3958",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "173",
+      "arabic_text": "وَاِنَّ جُنْدَنَا لَهُمُ الْغَالِبُونَ",
+      "translation": "Ve bizim askerlerimiz mutlaka galip olacaklardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3959",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "174",
+      "arabic_text": "فَتَوَلَّ عَنْهُمْ حَتّٰى ح۪ينٍۙ",
+      "translation": "Artık bir süreye kadar onlardan yüz çevir.",
+      "footnotes": null
+    },
+    {
+      "id": "3960",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "175",
+      "arabic_text": "وَاَبْصِرْهُمْ فَسَوْفَ يُبْصِرُونَ",
+      "translation": "Onları izle. Yakında (onlar da) göreceklerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "3961",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "176",
+      "arabic_text": "اَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+      "translation": "Azabımızın (gelmesi için) acele mi ediyorlar?",
+      "footnotes": null
+    },
+    {
+      "id": "3962",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "177",
+      "arabic_text": "فَاِذَا نَزَلَ بِسَاحَتِهِمْ فَسَٓاءَ صَبَاحُ الْمُنْذَر۪ينَ",
+      "translation": "(Azap) onların yaşam alanlarına indiğinde, uyarılanların sabahı ne kötü olur.",
+      "footnotes": null
+    },
+    {
+      "id": "3963",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "178",
+      "arabic_text": "وَتَوَلَّ عَنْهُمْ حَتّٰى ح۪ينٍۙ",
+      "translation": "Bir süreye kadar onlardan yüz çevir.",
+      "footnotes": null
+    },
+    {
+      "id": "3964",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "179",
+      "arabic_text": "وَاَبْصِرْ فَسَوْفَ يُبْصِرُونَ",
+      "translation": "Onları izle! Yakında (onlar da) göreceklerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "3965",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "180",
+      "arabic_text": "سُبْحَانَ رَبِّكَ رَبِّ الْعِزَّةِ عَمَّا يَصِفُونَۚ",
+      "translation": "İzzet sahibi olan Rabbin, onların yakıştırdıklarından münezzehtir.",
+      "footnotes": null
+    },
+    {
+      "id": "3966",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "181",
+      "arabic_text": "وَسَلَامٌ عَلَى الْمُرْسَل۪ينَۚ",
+      "translation": "Selam olsun gönderilmiş (resûllere).",
+      "footnotes": null
+    },
+    {
+      "id": "3967",
+      "suraNo": "37",
+      "suraName": "Saffat",
+      "aya": "182",
+      "arabic_text": "وَالْحَمْدُ لِلّٰهِ رَبِّ الْعَالَم۪ينَ",
+      "translation": "Ve âlemlerin Rabbi olan Allah’a hamd olsun.",
+      "footnotes": null
+    }
+  ]
+}

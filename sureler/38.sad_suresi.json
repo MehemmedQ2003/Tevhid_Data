@@ -1,0 +1,796 @@
+{
+  "result": [
+    {
+      "id": "3968",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "1",
+      "arabic_text": "صٓ وَالْقُرْاٰنِ ذِي الذِّكْرِۜ",
+      "translation": "Sâd. Çok şerefli/öğüt dolu Kur’ân’a andolsun.",
+      "footnotes": null
+    },
+    {
+      "id": "3969",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "2",
+      "arabic_text": "بَلِ الَّذ۪ينَ كَفَرُوا ف۪ي عِزَّةٍ وَشِقَاقٍ",
+      "translation": "(Hayır!) Bilakis kâfirler, (anlamsız) bir kibir ve ayrılık/muhalefet içindelerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "3970",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "3",
+      "arabic_text": "كَمْ اَهْلَكْنَا مِنْ قَبْلِهِمْ مِنْ قَرْنٍ فَنَادَوْا وَلَاتَ ح۪ينَ مَنَاصٍ",
+      "translation": "Onlardan önce nice nesilleri helak etmişizdir. Onlar (kurtulmak için) çığlıklar atmışlardı/seslenmişlerdi. (Fakat) kurtuluş zamanı değildi/iş işten geçmişti.",
+      "footnotes": null
+    },
+    {
+      "id": "3971",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "4",
+      "arabic_text": "وَعَجِبُٓوا اَنْ جَٓاءَهُمْ مُنْذِرٌ مِنْهُمْۘ وَقَالَ الْكَافِرُونَ هٰذَا سَاحِرٌ كَذَّابٌۚ",
+      "translation": "Onlara içlerinden bir uyarıcının gelmesine şaşırdılar ve kâfirler dediler ki: “Şüphesiz ki bu, bir büyücüdür, bir yalancıdır.”",
+      "footnotes": null
+    },
+    {
+      "id": "3972",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "5",
+      "arabic_text": "اَجَعَلَ الْاٰلِهَةَ اِلٰهًا وَاحِدًاۚ اِنَّ هٰذَا لَشَيْءٌ عُجَابٌ",
+      "translation": "“İlahları tek bir ilah mı yaptı? Gerçekten bu çok ilginç/şaşılacak bir şeydir.”",
+      "footnotes": null
+    },
+    {
+      "id": "3973",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "6",
+      "arabic_text": "وَانْطَلَقَ الْمَلَاُ مِنْهُمْ اَنِ امْشُوا وَاصْبِرُوا عَلٰٓى اٰلِهَتِكُمْۚ اِنَّ هٰذَا لَشَيْءٌ يُرَادُۚ",
+      "translation": "İleri gelenler harekete geçti ve: “Yürüyün, ilahlarınıza sahip çıkın (onlara bağlılıkta direnç gösterin). Şüphesiz ki bu, (sizden) istenen bir şeydir.” (dediler.)",
+      "footnotes": null
+    },
+    {
+      "id": "3974",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "7",
+      "arabic_text": "مَا سَمِعْنَا بِهٰذَا فِي الْمِلَّةِ الْاٰخِرَةِۚ اِنْ هٰذَٓا اِلَّا اخْتِلَاقٌۚ",
+      "translation": "“Biz bunu başka bir dinde işitmedik. O (tevhid) yalnızca bir uydurmadır.”",
+      "footnotes": null
+    },
+    {
+      "id": "3975",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "8",
+      "arabic_text": "ءَاُنْزِلَ عَلَيْهِ الذِّكْرُ مِنْ بَيْنِنَاۜ بَلْ هُمْ ف۪ي شَكٍّ مِنْ ذِكْر۪يۚ بَلْ لَمَّا يَذُوقُوا عَذَابِۜ",
+      "translation": "“Kur’ân, aramızdan ona mı indi?” (Hayır, öyle değil!) İşin aslı onlar, benim Kitabım’dan şüphe içindelerdir. Daha doğrusu ise, henüz azabımı tatmamışlardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3976",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "9",
+      "arabic_text": "اَمْ عِنْدَهُمْ خَزَٓائِنُ رَحْمَةِ رَبِّكَ الْعَز۪يزِ الْوَهَّابِۚ",
+      "translation": "Yoksa izzet sahibi, üstün ve karşılıksız veren Rabbinin rahmet hazineleri onların yanında mıdır?",
+      "footnotes": null
+    },
+    {
+      "id": "3977",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "10",
+      "arabic_text": "اَمْ لَهُمْ مُلْكُ السَّمٰوَاتِ وَالْاَرْضِ وَمَا بَيْنَهُمَا۠ فَلْيَرْتَقُوا فِي الْاَسْبَابِ",
+      "translation": "Yoksa göklerin, yerin ve ikisi arasındakilerin hâkimiyeti/egemenliği onlara mı aittir? (Madem öyle! Bir yol bulup) göğe yükselsinler.",
+      "footnotes": null
+    },
+    {
+      "id": "3978",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "11",
+      "arabic_text": "جُنْدٌ مَا هُنَالِكَ مَهْزُومٌ مِنَ الْاَحْزَابِ",
+      "translation": "(Onlar) orada, yenilgiye uğramış gruplardan bir ordudur.",
+      "footnotes": null
+    },
+    {
+      "id": "3979",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "12",
+      "arabic_text": "كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَفِرْعَوْنُ ذُو الْاَوْتَادِۙ",
+      "translation": "Onlardan önce Nuh Kavmi, Âd ve kazıklar (büyük ordular) sahibi Firavun da yalanladı.",
+      "footnotes": null
+    },
+    {
+      "id": "3980",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "13",
+      "arabic_text": "وَثَمُودُ وَقَوْمُ لُوطٍ وَاَصْحَابُ لْـَٔيْكَةِۜ اُو۬لٰٓئِكَ الْاَحْزَابُ",
+      "translation": "Semud, Lut Kavmi, Eyke halkı da (yalanladı). Bunlar (helak olmuş) gruplardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3981",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "14",
+      "arabic_text": "اِنْ كُلٌّ اِلَّا كَذَّبَ الرُّسُلَ فَحَقَّ عِقَابِ۟",
+      "translation": "Hepsi mutlaka resûlleri yalanladılar da, azabım (üzerlerine) hak oldu.",
+      "footnotes": null
+    },
+    {
+      "id": "3982",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "15",
+      "arabic_text": "وَمَا يَنْظُرُ هٰٓؤُ۬لَٓاءِ اِلَّا صَيْحَةً وَاحِدَةً مَا لَهَا مِنْ فَوَاقٍ",
+      "translation": "Bunların beklediği yalnızca bir çığlıktır. O, bir an dahi gecikmez.",
+      "footnotes": null
+    },
+    {
+      "id": "3983",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "16",
+      "arabic_text": "وَقَالُوا رَبَّنَا عَجِّلْ لَنَا قِطَّنَا قَبْلَ يَوْمِ الْحِسَابِ",
+      "translation": "Dediler ki: “Rabbimiz! Azaptan payımıza düşeni, Hesap Günü gelmeden hemen ver.”",
+      "footnotes": null
+    },
+    {
+      "id": "3984",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "17",
+      "arabic_text": "اِصْبِرْ عَلٰى مَا يَقُولُونَ وَاذْكُرْ عَبْدَنَا دَاوُ۫دَ ذَا الْاَيْدِۚ اِنَّهُٓ اَوَّابٌ",
+      "translation": "Onların söylediklerine sabret ve kuvvet sahibi olan kulumuz Davud’u an! Şüphesiz ki o, çokça (Allah’a) yönelirdi.",
+      "footnotes": null
+    },
+    {
+      "id": "3985",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "18",
+      "arabic_text": "اِنَّا سَخَّرْنَا الْجِبَالَ مَعَهُ يُسَبِّحْنَ بِالْعَشِيِّ وَالْاِشْرَاقِۙ",
+      "translation": "Biz dağları onun emrine verdik, sabah ve akşam onunla beraber tesbih ederlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "3986",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "19",
+      "arabic_text": "وَالطَّيْرَ مَحْشُورَةًۜ كُلٌّ لَهُٓ اَوَّابٌ",
+      "translation": "Ve toplanmış, sürüler hâlinde kuşları (verdik). Hepsi onunla beraber (tesbih eder, Allah’a) yönelirlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "3987",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "20",
+      "arabic_text": "وَشَدَدْنَا مُلْكَهُ وَاٰتَيْنَاهُ الْحِكْمَةَ وَفَصْلَ الْخِطَابِ",
+      "translation": "Onun mülkünü güçlendirdik. Ona hikmeti ve isabetli karar/etkileyici konuşma özelliği verdik.",
+      "footnotes": null
+    },
+    {
+      "id": "3988",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "21",
+      "arabic_text": "وَهَلْ اَتٰيكَ نَبَؤُ۬ا الْخَصْمِۢ اِذْ تَسَوَّرُوا الْمِحْرَابَۙ",
+      "translation": "Sana davalı olan (hasımların) haberi geldi mi? Hani onlar yüksek duvardan atlayıp (Davud’un yanına girmişlerdi).",
+      "footnotes": null
+    },
+    {
+      "id": "3989",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "22",
+      "arabic_text": "اِذْ دَخَلُوا عَلٰى دَاوُ۫دَ فَفَزِعَ مِنْهُمْ قَالُوا لَا تَخَفْۚ خَصْمَانِ بَغٰى بَعْضُنَا عَلٰى بَعْضٍ فَاحْكُمْ بَيْنَنَا بِالْحَقِّ وَلَا تُشْطِطْ وَاهْدِنَٓا اِلٰى سَوَٓاءِ الصِّرَاطِ",
+      "translation": "Davud’un yanına girdiklerinde onlardan korkmuştu. Dediler ki: “Korkma! Birbirinin hakkına girmiş bulunan iki davalıyız. Aramızda adaletle hükmet, zulmetme. Bizi dosdoğru yola ilet.”",
+      "footnotes": null
+    },
+    {
+      "id": "3990",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "23",
+      "arabic_text": "اِنَّ هٰذَٓا اَخ۪ي لَهُ تِسْعٌ وَتِسْعُونَ نَعْجَةً وَلِيَ نَعْجَةٌ وَاحِدَةٌ فَقَالَ اَكْفِلْن۪يهَا وَعَزَّن۪ي فِي الْخِطَابِ",
+      "translation": "“Bu, benim kardeşimdir. Onun doksan dokuz koyunu, benim de bir tek koyunum vardır. ‘Onu da bana ver.’ dedi. Tartışmada bana üstün geldi.”",
+      "footnotes": null
+    },
+    {
+      "id": "3991",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "24",
+      "arabic_text": "قَالَ لَقَدْ ظَلَمَكَ بِسُؤَالِ نَعْجَتِكَ اِلٰى نِعَاجِه۪ۜ وَاِنَّ كَث۪يرًا مِنَ الْخُلَطَٓاءِ لَيَبْغ۪ي بَعْضُهُمْ عَلٰى بَعْضٍ اِلَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ وَقَل۪يلٌ مَا هُمْۜ وَظَنَّ دَاوُ۫دُ اَنَّمَا فَتَنَّاهُ فَاسْتَغْفَرَ رَبَّهُ وَخَرَّ رَاكِعًا وَاَنَابَ",
+      "translation": "Dedi ki: “Andolsun ki senin koyununu, kendi koyunlarına katmanı istemekle sana zulmetmiştir. Gerçek şu ki; ortakların çoğu birbirlerinin hakkına girerler. İman edip salih amel işleyenler müstesna. Onlar da ne azdır!” Davud, onu imtihan ettiğimizi sandı. Rabbinden bağışlanma diledi, rükûya kapandı ve (Allah’a) yöneldi.",
+      "footnotes": null
+    },
+    {
+      "id": "3992",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "25",
+      "arabic_text": "فَغَفَرْنَا لَهُ ذٰلِكَۜ وَاِنَّ لَهُ عِنْدَنَا لَزُلْفٰى وَحُسْنَ مَاٰبٍ",
+      "translation": "Bunu, onun için bağışladık. Şüphesiz ki bizim katımızda onun yakınlığı ve döneceği güzel bir yeri vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3993",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "26",
+      "arabic_text": "يَا دَاوُ۫دُ اِنَّا جَعَلْنَاكَ خَل۪يفَةً فِي الْاَرْضِ فَاحْكُمْ بَيْنَ النَّاسِ بِالْحَقِّ وَلَا تَتَّبِعِ الْهَوٰى فَيُضِلَّكَ عَنْ سَب۪يلِ اللّٰهِۜ اِنَّ الَّذ۪ينَ يَضِلُّونَ عَنْ سَب۪يلِ اللّٰهِ لَهُمْ عَذَابٌ شَد۪يدٌ بِمَا نَسُوا يَوْمَ الْحِسَابِ۟",
+      "translation": "Ey Davud! Seni yeryüzünde halife kıldık. (Öyleyse) insanlar arasında hak ile hükmet. Sakın hevaya/arzuya uyma, yoksa seni, Allah’ın yolundan saptırır. Hiç şüphesiz, Allah’ın yolundan sapanlara, Hesap Günü'nü unuttukları için çetin bir azap vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3994",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "27",
+      "arabic_text": "وَمَا خَلَقْنَا السَّمَٓاءَ وَالْاَرْضَ وَمَا بَيْنَهُمَا بَاطِلًاۜ ذٰلِكَ ظَنُّ الَّذ۪ينَ كَفَرُواۚ فَوَيْلٌ لِلَّذ۪ينَ كَفَرُوا مِنَ النَّارِۜ",
+      "translation": "Gök, yer ve ikisi arasındakileri boş/amaçsız/öylesine yaratmadık. Bu, kâfirlerin zannıdır. (Girecekleri) ateş nedeniyle veyl olsun o kâfirlere!",
+      "footnotes": null
+    },
+    {
+      "id": "3995",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "28",
+      "arabic_text": "اَمْ نَجْعَلُ الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ كَالْمُفْسِد۪ينَ فِي الْاَرْضِۘ اَمْ نَجْعَلُ الْمُتَّق۪ينَ كَالْفُجَّارِ",
+      "translation": "İman edip salih amel işleyenleri, yeryüzünde bozgunculuk yapanlarla bir tutar mıyız hiç? Ya da muttakileri facirlerle bir tutar mıyız?",
+      "footnotes": null
+    },
+    {
+      "id": "3996",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "29",
+      "arabic_text": "كِتَابٌ اَنْزَلْنَاهُ اِلَيْكَ مُبَارَكٌ لِيَدَّبَّرُٓوا اٰيَاتِه۪ وَلِيَتَذَكَّرَ اُو۬لُوا الْاَلْبَابِ",
+      "translation": "Ayetlerini tedebbür edip (iyice düşünsünler) ve akıl sahipleri öğüt alsınlar diye, (bu Kur’ân) sana indirdiğimiz mübarek bir Kitap’tır.",
+      "footnotes": null
+    },
+    {
+      "id": "3997",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "30",
+      "arabic_text": "وَوَهَبْنَا لِدَاوُ۫دَ سُلَيْمٰنَۜ نِعْمَ الْعَبْدُۜ اِنَّهُٓ اَوَّابٌۜ",
+      "translation": "Davud’a, Süleyman’ı ihsan ettik. Ne güzel bir kuldur o. Çünkü o, çokça (Allah’a) yönelirdi.",
+      "footnotes": null
+    },
+    {
+      "id": "3998",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "31",
+      "arabic_text": "اِذْ عُرِضَ عَلَيْهِ بِالْعَشِيِّ الصَّافِنَاتُ الْجِيَادُۙ",
+      "translation": "Hani ona, akşamüstü, ayakta duran iyi cins atlar gösterilmişti.",
+      "footnotes": null
+    },
+    {
+      "id": "3999",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "32",
+      "arabic_text": "فَقَالَ اِنّ۪ٓي اَحْبَبْتُ حُبَّ الْخَيْرِ عَنْ ذِكْرِ رَبّ۪يۚ حَتّٰى تَوَارَتْ بِالْحِجَابِ۠",
+      "translation": "Demişti ki: “Benim hayra (atlara) olan sevgim, beni Rabbimi zikretmekten alıkoydu.” Nihayet o da perdenin arkasına gizlendi. (Güneş battı, ibadet vakti çıktı.)",
+      "footnotes": null
+    },
+    {
+      "id": "4000",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "33",
+      "arabic_text": "رُدُّوهَا عَلَيَّۜ فَطَفِقَ مَسْحًا بِالسُّوقِ وَالْاَعْنَاقِ",
+      "translation": "“Onları bana geri çevirin.” Atların ayaklarını ve boyunlarını sıvazlamaya başladı. (Onu Allah’ı zikretmekten alıkoydukları için onları kesip, hayatından çıkardı.)",
+      "footnotes": null
+    },
+    {
+      "id": "4001",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "34",
+      "arabic_text": "وَلَقَدْ فَتَنَّا سُلَيْمٰنَ وَاَلْقَيْنَا عَلٰى كُرْسِيِّه۪ جَسَدًا ثُمَّ اَنَابَ",
+      "translation": "Andolsun ki Süleyman’ı imtihan etmiş ve onun tahtı üzerine (hareketsiz) bir ceset atmıştık. Sonra o, (Allah’a) yönelmişti.",
+      "footnotes": null
+    },
+    {
+      "id": "4002",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "35",
+      "arabic_text": "قَالَ رَبِّ اغْفِرْ ل۪ي وَهَبْ ل۪ي مُلْكًا لَا يَنْبَغ۪ي لِاَحَدٍ مِنْ بَعْد۪يۚ اِنَّكَ اَنْتَ الْوَهَّابُ",
+      "translation": "Demişti ki: “Rabbim! Beni bağışla ve bana benden sonra kimseye nasip olmayacak bir mülk ver. Şüphesiz ki sen, (kullarına karşılıksız veren) El-Vehhâb’sın.”",
+      "footnotes": null
+    },
+    {
+      "id": "4003",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "36",
+      "arabic_text": "فَسَخَّرْنَا لَهُ الرّ۪يحَ تَجْر۪ي بِاَمْرِه۪ رُخَٓاءً حَيْثُ اَصَابَۙ",
+      "translation": "Rüzgârı onun hizmetine verdik. Onun emriyle istediği yere akıp giderdi.",
+      "footnotes": null
+    },
+    {
+      "id": "4004",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "37",
+      "arabic_text": "وَالشَّيَاط۪ينَ كُلَّ بَنَّٓاءٍ وَغَوَّاصٍۙ",
+      "translation": "Ve bina ustası, dalgıçlık yapan tüm şeytanları da (onun hizmetine verdik).",
+      "footnotes": null
+    },
+    {
+      "id": "4005",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "38",
+      "arabic_text": "وَاٰخَر۪ينَ مُقَرَّن۪ينَ فِي الْاَصْفَادِ",
+      "translation": "Prangalara vurulmuş diğer (bazı şeytanları da onun emrine verdik).",
+      "footnotes": null
+    },
+    {
+      "id": "4006",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "39",
+      "arabic_text": "هٰذَا عَطَٓاؤُ۬نَا فَامْنُنْ اَوْ اَمْسِكْ بِغَيْرِ حِسَابٍ",
+      "translation": "“İşte bu, bizim (sana olan) vergimizdir. Artık hesapsız olarak dilediğine ver, dilediğine verme.” (dedik.)",
+      "footnotes": null
+    },
+    {
+      "id": "4007",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "40",
+      "arabic_text": "وَاِنَّ لَهُ عِنْدَنَا لَزُلْفٰى وَحُسْنَ مَاٰبٍ۟",
+      "translation": "Şüphesiz ki onun, bizim yanımızda yakınlığı ve dönecek güzel bir yeri vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "4008",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "41",
+      "arabic_text": "وَاذْكُرْ عَبْدَنَٓا اَيُّوبَۢ اِذْ نَادٰى رَبَّهُٓ اَنّ۪ي مَسَّنِيَ الشَّيْطَانُ بِنُصْبٍ وَعَذَابٍۜ",
+      "translation": "Kulumuz Eyyub’u da an! Hani o, Rabbine: “Şüphesiz ki şeytan, bana yorgunluk ve azapla dokundu.” diye seslenmişti.",
+      "footnotes": null
+    },
+    {
+      "id": "4009",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "42",
+      "arabic_text": "اُرْكُضْ بِرِجْلِكَۚ هٰذَا مُغْتَسَلٌ بَارِدٌ وَشَرَابٌ",
+      "translation": "“Ayağını yere vur. Bu, yıkanacak ve içilecek soğuk bir sudur.”",
+      "footnotes": null
+    },
+    {
+      "id": "4010",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "43",
+      "arabic_text": "وَوَهَبْنَا لَهُٓ اَهْلَهُ وَمِثْلَهُمْ مَعَهُمْ رَحْمَةً مِنَّا وَذِكْرٰى لِاُو۬لِي الْاَلْبَابِ",
+      "translation": "Katımızdan bir rahmet ve akıl sahiplerine öğüt olması için ona, ailesini ve bir o kadarını daha verdik.",
+      "footnotes": null
+    },
+    {
+      "id": "4011",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "44",
+      "arabic_text": "وَخُذْ بِيَدِكَ ضِغْثًا فَاضْرِبْ بِه۪ وَلَا تَحْنَثْۜ اِنَّا وَجَدْنَاهُ صَابِرًاۜ نِعْمَ الْعَبْدُۜ اِنَّهُٓ اَوَّابٌ",
+      "translation": "“Eline bir deste çalı al, onunla vur ve yeminini bozma.” Gerçekten biz, onu sabredenlerden bulduk. O, ne güzel bir kuldu. Çünkü o, çokça (Allah’a) yönelirdi.",
+      "footnotes": null
+    },
+    {
+      "id": "4012",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "45",
+      "arabic_text": "وَاذْكُرْ عِبَادَنَٓا اِبْرٰه۪يمَ وَاِسْحٰقَ وَيَعْقُوبَ اُو۬لِي الْاَيْد۪ي وَالْاَبْصَارِ",
+      "translation": "Kullarımızdan kuvvet ve basiret sahibi olan İbrahim, İshak ve Yakub’u da an!",
+      "footnotes": null
+    },
+    {
+      "id": "4013",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "46",
+      "arabic_text": "اِنَّٓا اَخْلَصْنَاهُمْ بِخَالِصَةٍ ذِكْرَى الدَّارِۚ",
+      "translation": "Şüphesiz ki biz, onları yalnızca ahiret yurdunu anan ihlaslı kullar kıldık.",
+      "footnotes": null
+    },
+    {
+      "id": "4014",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "47",
+      "arabic_text": "وَاِنَّهُمْ عِنْدَنَا لَمِنَ الْمُصْطَفَيْنَ الْاَخْيَارِ",
+      "translation": "Ve hiç şüphesiz onlar, bizim yanımızda seçilmiş, hayırlı olanlardandır.",
+      "footnotes": null
+    },
+    {
+      "id": "4015",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "48",
+      "arabic_text": "وَاذْكُرْ اِسْمٰع۪يلَ وَالْيَسَعَ وَذَا الْكِفْلِۜ وَكُلٌّ مِنَ الْاَخْيَارِۜ",
+      "translation": "İsmail’i, Elyesa’yı ve Zelkifl’i de an! Hepsi hayırlı olanlardandı.",
+      "footnotes": null
+    },
+    {
+      "id": "4016",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "49",
+      "arabic_text": "هٰذَا ذِكْرٌۜ وَاِنَّ لِلْمُتَّق۪ينَ لَحُسْنَ مَاٰبٍۙ",
+      "translation": "Bu (onlar için) bir şereftir. Şüphesiz ki muttakiler için de güzel bir dönüş yeri vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "4017",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "50",
+      "arabic_text": "جَنَّاتِ عَدْنٍ مُفَتَّحَةً لَهُمُ الْاَبْوَابُۚ",
+      "translation": "Kapıları onlar için açılmış Adn Cennetleri.",
+      "footnotes": null
+    },
+    {
+      "id": "4018",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "51",
+      "arabic_text": "مُتَّكِـ۪ٔينَ ف۪يهَا يَدْعُونَ ف۪يهَا بِفَاكِهَةٍ كَث۪يرَةٍ وَشَرَابٍ",
+      "translation": "Orada (sedirlere) yaslanarak çokça meyve ve içecek istemektelerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "4019",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "52",
+      "arabic_text": "وَعِنْدَهُمْ قَاصِرَاتُ الطَّرْفِ اَتْرَابٌ",
+      "translation": "Yanlarında, bakışları yalnızca (kocaları) üzerinde olan, yaşıt (hepsi genç kadınlar) vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "4020",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "53",
+      "arabic_text": "هٰذَا مَا تُوعَدُونَ لِيَوْمِ الْحِسَابِ",
+      "translation": "Bu, hesap günü için size vadolunandır.",
+      "footnotes": null
+    },
+    {
+      "id": "4021",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "54",
+      "arabic_text": "اِنَّ هٰذَا لَرِزْقُنَا مَا لَهُ مِنْ نَفَادٍۚ",
+      "translation": "Şüphesiz ki bu, hiç bitmeyecek olan rızkımızdır.",
+      "footnotes": null
+    },
+    {
+      "id": "4022",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "55",
+      "arabic_text": "هٰذَاۜ وَاِنَّ لِلطَّاغ۪ينَ لَشَرَّ مَاٰبٍۙ",
+      "translation": "İşte böyle... Hiç kuşkusuz, haddi aşanlar için en kötü dönüş yeri vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "4023",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "56",
+      "arabic_text": "جَهَنَّمَۚ يَصْلَوْنَهَاۚ فَبِئْسَ الْمِهَادُ",
+      "translation": "Cehennem... Oraya girecekler. Ne kötü bir yataktır o.",
+      "footnotes": null
+    },
+    {
+      "id": "4024",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "57",
+      "arabic_text": "هٰذَاۙ فَلْيَذُوقُوهُ حَم۪يمٌ وَغَسَّاقٌۙ",
+      "translation": "Bu, kaynar su ve irindir. Tatsınlar (bakalım) onu.",
+      "footnotes": null
+    },
+    {
+      "id": "4025",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "58",
+      "arabic_text": "وَاٰخَرُ مِنْ شَكْلِه۪ٓ اَزْوَاجٌۜ",
+      "translation": "Ve ondan başka, türlü türlü azaplar vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "4026",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "59",
+      "arabic_text": "هٰذَا فَوْجٌ مُقْتَحِمٌ مَعَكُمْۚ لَا مَرْحَبًا بِهِمْۜ اِنَّهُمْ صَالُوا النَّارِ",
+      "translation": "(Oraya her yeni grup geldiğinde melekler cehennem ehline:) “Bu da sizinle beraber cehenneme atılacak bir gruptur. Onlara: ‘merhaba’ yok. Çünkü onlar ateşe gireceklerdir.” (derler.)",
+      "footnotes": null
+    },
+    {
+      "id": "4027",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "60",
+      "arabic_text": "قَالُوا بَلْ اَنْتُمْ۠ لَا مَرْحَبًا بِكُمْۜ اَنْتُمْ قَدَّمْتُمُوهُ لَنَاۚ فَبِئْسَ الْقَرَارُ",
+      "translation": "(Tabi olanlar liderlere:) “(Hayır!) Asıl size ‘merhaba’ olmasın/rahat yüzü görmeyesiniz. Bu (cehennemi) bizim önümüze siz getirdiniz. Ne kötü bir yerleşim yeridir o.” (derler.)",
+      "footnotes": null
+    },
+    {
+      "id": "4028",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "61",
+      "arabic_text": "قَالُوا رَبَّنَا مَنْ قَدَّمَ لَنَا هٰذَا فَزِدْهُ عَذَابًا ضِعْفًا فِي النَّارِ",
+      "translation": "Derler ki: “Rabbimiz! Kim bu cehennemi önümüze getirdiyse, onun azabını kat kat arttır.”",
+      "footnotes": null
+    },
+    {
+      "id": "4029",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "62",
+      "arabic_text": "وَقَالُوا مَا لَنَا لَا نَرٰى رِجَالًا كُنَّا نَعُدُّهُمْ مِنَ الْاَشْرَارِۜ",
+      "translation": "Ve derler ki: “Ne oluyor bize böyle? Şerli/değersiz kabul ettiğimiz adamları (burada) göremiyoruz. (Küçümsediğimiz müminler neden burada değil?)”",
+      "footnotes": null
+    },
+    {
+      "id": "4030",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "63",
+      "arabic_text": "اَتَّخَذْنَاهُمْ سِخْرِيًّا اَمْ زَاغَتْ عَنْهُمُ الْاَبْصَارُ",
+      "translation": "“Onları alaya almıştık, değil mi? (Yazıklar olsun bize.) Yoksa (onlarda cehennemde de) biz mi görmüyoruz?”",
+      "footnotes": null
+    },
+    {
+      "id": "4031",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "64",
+      "arabic_text": "اِنَّ ذٰلِكَ لَحَقٌّ تَخَاصُمُ اَهْلِ النَّارِ۟",
+      "translation": "Cehennem halkının bu çekişmesi elbette haktır.",
+      "footnotes": null
+    },
+    {
+      "id": "4032",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "65",
+      "arabic_text": "قُلْ اِنَّمَٓا اَنَا۬ مُنْذِرٌۗ وَمَا مِنْ اِلٰهٍ اِلَّا اللّٰهُ الْوَاحِدُ الْقَهَّارُۚ",
+      "translation": "De ki: “Ancak ben, bir uyarıcıyım. (Zatında, fiillerinde ve sıfatlarında tek olan) El-Vâhid ve (her şeye boyun eğdirip hükmüne ram eyleyen) El-Kahhâr olan Allah’tan başka hiçbir ilah yoktur.”",
+      "footnotes": null
+    },
+    {
+      "id": "4033",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "66",
+      "arabic_text": "رَبُّ السَّمٰوَاتِ وَالْاَرْضِ وَمَا بَيْنَهُمَا الْعَز۪يزُ الْغَفَّارُ",
+      "translation": "Göklerin, yerin ve ikisi arasındakilerin Rabbidir. (İzzet sahibi, her şeyi mağlup eden) El-Azîz, (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) El-Ğaffâr’dır.",
+      "footnotes": null
+    },
+    {
+      "id": "4034",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "67",
+      "arabic_text": "قُلْ هُوَ نَبَؤٌ۬ا عَظ۪يمٌۙ",
+      "translation": "De ki: “O, büyük bir haberdir.”",
+      "footnotes": null
+    },
+    {
+      "id": "4035",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "68",
+      "arabic_text": "اَنْتُمْ عَنْهُ مُعْرِضُونَ",
+      "translation": "“Siz ondan yüz çevirmektesiniz.”",
+      "footnotes": null
+    },
+    {
+      "id": "4036",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "69",
+      "arabic_text": "مَا كَانَ لِيَ مِنْ عِلْمٍ بِالْمَلَاِ الْاَعْلٰٓى اِذْ يَخْتَصِمُونَ",
+      "translation": "“Onlar kendi aralarında tartışırlarken, benim Mele-i A’lâ’ya dair bir bilgim yoktur.”",
+      "footnotes": null
+    },
+    {
+      "id": "4037",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "70",
+      "arabic_text": "اِنْ يُوحٰٓى اِلَيَّ اِلَّٓا اَنَّمَٓا اَنَا۬ نَذ۪يرٌ مُب۪ينٌ",
+      "translation": "“Bana, yalnızca bir uyarıcı olduğum vahyedilmektedir.”",
+      "footnotes": null
+    },
+    {
+      "id": "4038",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "71",
+      "arabic_text": "اِذْ قَالَ رَبُّكَ لِلْمَلٰٓئِكَةِ اِنّ۪ي خَالِقٌ بَشَرًا مِنْ ط۪ينٍ",
+      "translation": "Hani Rabbin, meleklere demişti ki: “Muhakkak ki ben, çamurdan bir insan yaratacağım.”",
+      "footnotes": null
+    },
+    {
+      "id": "4039",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "72",
+      "arabic_text": "فَاِذَا سَوَّيْتُهُ وَنَفَخْتُ ف۪يهِ مِنْ رُوح۪ي فَقَعُوا لَهُ سَاجِد۪ينَ",
+      "translation": "“Onu tamamlayıp ruhumdan üflediğimde onun için secdeye kapanın.”",
+      "footnotes": null
+    },
+    {
+      "id": "4040",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "73",
+      "arabic_text": "فَسَجَدَ الْمَلٰٓئِكَةُ كُلُّهُمْ اَجْمَعُونَۙ",
+      "translation": "Meleklerin tamamı secde ettiler.",
+      "footnotes": null
+    },
+    {
+      "id": "4041",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "74",
+      "arabic_text": "اِلَّٓا اِبْل۪يسَۜ اِسْتَكْبَرَ وَكَانَ مِنَ الْكَافِر۪ينَ",
+      "translation": "İblis hariç... O büyüklendi ve kâfirlerden oldu.",
+      "footnotes": null
+    },
+    {
+      "id": "4042",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "75",
+      "arabic_text": "قَالَ يَٓا اِبْل۪يسُ مَا مَنَعَكَ اَنْ تَسْجُدَ لِمَا خَلَقْتُ بِيَدَيَّۜ اَسْتَكْبَرْتَ اَمْ كُنْتَ مِنَ الْعَال۪ينَ",
+      "translation": "Buyurdu ki: “Ey İblis! Ellerimle yarattığıma secde etmekten seni alıkoyan nedir? Kibre mi kapıldın yoksa yüksekte olanlardan olup (tepeden mi bakmaya başladın)?”",
+      "footnotes": null
+    },
+    {
+      "id": "4043",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "76",
+      "arabic_text": "قَالَ اَنَا۬ خَيْرٌ مِنْهُۜ خَلَقْتَن۪ي مِنْ نَارٍ وَخَلَقْتَهُ مِنْ ط۪ينٍ",
+      "translation": "Dedi ki: “Ben, ondan daha hayırlıyım. Beni ateşten yarattın, onu ise çamurdan yarattın.”",
+      "footnotes": null
+    },
+    {
+      "id": "4044",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "77",
+      "arabic_text": "قَالَ فَاخْرُجْ مِنْهَا فَاِنَّكَ رَج۪يمٌۚ",
+      "translation": "Buyurdu ki: “Çık oradan! Şüphesiz ki sen, taşlanmış/kovulmuş olanlardansın.”",
+      "footnotes": null
+    },
+    {
+      "id": "4045",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "78",
+      "arabic_text": "وَاِنَّ عَلَيْكَ لَعْنَت۪ٓي اِلٰى يَوْمِ الدّ۪ينِ",
+      "translation": "“Ve hiç şüphesiz benim lanetim, kıyamete kadar senin üstünde olacaktır.”",
+      "footnotes": null
+    },
+    {
+      "id": "4046",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "79",
+      "arabic_text": "قَالَ رَبِّ فَاَنْظِرْن۪ٓي اِلٰى يَوْمِ يُبْعَثُونَ",
+      "translation": "Dedi ki: “Rabbim! (İnsanların) diriltilecekleri güne kadar bana mühlet ver.”",
+      "footnotes": null
+    },
+    {
+      "id": "4047",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "80",
+      "arabic_text": "قَالَ فَاِنَّكَ مِنَ الْمُنْظَر۪ينَۙ",
+      "translation": "Buyurdu ki: “Hiç şüphesiz sen, mühlet verilenlerdensin.”",
+      "footnotes": null
+    },
+    {
+      "id": "4048",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "81",
+      "arabic_text": "اِلٰى يَوْمِ الْوَقْتِ الْمَعْلُومِ",
+      "translation": "“Bilinen vaktin gününe kadar.”",
+      "footnotes": null
+    },
+    {
+      "id": "4049",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "82",
+      "arabic_text": "قَالَ فَبِعِزَّتِكَ لَاُغْوِيَنَّهُمْ اَجْمَع۪ينَۙ",
+      "translation": "Dedi ki: “İzzetine yemin olsun ki, onların hepsini azdıracağım.”",
+      "footnotes": null
+    },
+    {
+      "id": "4050",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "83",
+      "arabic_text": "اِلَّا عِبَادَكَ مِنْهُمُ الْمُخْلَص۪ينَ",
+      "translation": "“Muhlas/arındırılmış/ihlaslı kulların müstesna.”",
+      "footnotes": null
+    },
+    {
+      "id": "4051",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "84",
+      "arabic_text": "قَالَ فَالْحَقُّۘ وَالْحَقَّ اَقُولُۚ",
+      "translation": "Buyurdu ki: “Hak (budur) ve ben hak olanı söylerim.”",
+      "footnotes": null
+    },
+    {
+      "id": "4052",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "85",
+      "arabic_text": "لَاَمْلَـَٔنَّ جَهَنَّمَ مِنْكَ وَمِمَّنْ تَبِعَكَ مِنْهُمْ اَجْمَع۪ينَ",
+      "translation": "“Andolsun ki cehennemi, sen ve onlardan sana uyanların tamamıyla dolduracağım.”",
+      "footnotes": null
+    },
+    {
+      "id": "4053",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "86",
+      "arabic_text": "قُلْ مَٓا اَسْـَٔلُكُمْ عَلَيْهِ مِنْ اَجْرٍ وَمَٓا اَنَا۬ مِنَ الْمُتَكَلِّف۪ينَ",
+      "translation": "De ki: “Ben (davetim karşılığında) sizden bir ücret istemiyorum. Ve ben zora koşanlardan (kafasından ayet uyduran, nübüvvet iddiasında bulunanlardan da) değilim.”",
+      "footnotes": null
+    },
+    {
+      "id": "4054",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "87",
+      "arabic_text": "اِنْ هُوَ اِلَّا ذِكْرٌ لِلْعَالَم۪ينَ",
+      "translation": "“O, yalnızca âlemlere bir öğüttür.”",
+      "footnotes": null
+    },
+    {
+      "id": "4055",
+      "suraNo": "38",
+      "suraName": "Sad",
+      "aya": "88",
+      "arabic_text": "وَلَتَعْلَمُنَّ نَبَاَهُ بَعْدَ ح۪ينٍ",
+      "translation": "“Verdiği haberlerin (hak olduğunu) bir süre sonra öğreneceksiniz.”",
+      "footnotes": null
+    }
+  ]
+}

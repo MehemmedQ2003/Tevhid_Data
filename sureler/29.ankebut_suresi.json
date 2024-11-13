@@ -1,0 +1,625 @@
+{
+  "result": [
+    {
+      "id": "3339",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "1",
+      "arabic_text": "الٓمٓ۠",
+      "translation": "Elif, Lâm, Mîm.",
+      "footnotes": null
+    },
+    {
+      "id": "3340",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "2",
+      "arabic_text": "اَحَسِبَ النَّاسُ اَنْ يُتْرَكُٓوا اَنْ يَقُولُٓوا اٰمَنَّا وَهُمْ لَا يُفْتَنُونَ",
+      "translation": "Yoksa insanlar, “İman ettik.” dedikten sonra, imtihana tabi tutulmadan bırakılacaklarını mı sandılar?",
+      "footnotes": null
+    },
+    {
+      "id": "3341",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "3",
+      "arabic_text": "وَلَقَدْ فَتَنَّا الَّذ۪ينَ مِنْ قَبْلِهِمْ فَلَيَعْلَمَنَّ اللّٰهُ الَّذ۪ينَ صَدَقُوا وَلَيَعْلَمَنَّ الْكَاذِب۪ينَ",
+      "translation": "Andolsun ki, onlardan öncekileri imtihan ettik. Elbette Allah, doğru olanları da yalancıları da bilir. (Ve imtihanlarla insanların da bilmesini sağlar.)",
+      "footnotes": null
+    },
+    {
+      "id": "3342",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "4",
+      "arabic_text": "اَمْ حَسِبَ الَّذ۪ينَ يَعْمَلُونَ السَّيِّـَٔاتِ اَنْ يَسْبِقُونَاۜ سَٓاءَ مَا يَحْكُمُونَ",
+      "translation": "Yoksa kötülükleri işleyenler, önümüze geçip (bizden kurtulacaklarını mı) sandılar? Ne kötü hüküm veriyorlar.",
+      "footnotes": null
+    },
+    {
+      "id": "3343",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "5",
+      "arabic_text": "مَنْ كَانَ يَرْجُوا لِقَٓاءَ اللّٰهِ فَاِنَّ اَجَلَ اللّٰهِ لَاٰتٍۜ وَهُوَ السَّم۪يعُ الْعَل۪يمُ",
+      "translation": "Kim Allah’la karşılaşmayı (ve O’ndan mükâfat almayı) umuyorsa, hiç şüphesiz Allah’ın belirlediği süre gelmektedir. O, (işiten ve dualara icabet eden) Es-Semi’, (her şeyi bilen) El-Alîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "3344",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "6",
+      "arabic_text": "وَمَنْ جَاهَدَ فَاِنَّمَا يُجَاهِدُ لِنَفْسِه۪ۜ اِنَّ اللّٰهَ لَغَنِيٌّ عَنِ الْعَالَم۪ينَ",
+      "translation": "Kim cihad ederse, kendisi için cihad etmiş olur. Şüphesiz ki Allah, âlemlere (ve onların kulluğuna) muhtaç değildir.",
+      "footnotes": null
+    },
+    {
+      "id": "3345",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "7",
+      "arabic_text": "وَالَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُكَفِّرَنَّ عَنْهُمْ سَيِّـَٔاتِهِمْ وَلَنَجْزِيَنَّهُمْ اَحْسَنَ الَّذ۪ي كَانُوا يَعْمَلُونَ",
+      "translation": "İman edip salih amel işleyenlerin ise elbette, kusurlarını örtecek ve onları işledikleri amellerin en güzeliyle mükâfatlandıracağız.",
+      "footnotes": null
+    },
+    {
+      "id": "3346",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "8",
+      "arabic_text": "وَوَصَّيْنَا الْاِنْسَانَ بِوَالِدَيْهِ حُسْنًاۜ وَاِنْ جَاهَدَاكَ لِتُشْرِكَ ب۪ي مَا لَيْسَ لَكَ بِه۪ عِلْمٌ فَلَا تُطِعْهُمَاۜ اِلَيَّ مَرْجِعُكُمْ فَاُنَبِّئُكُمْ بِمَا كُنْتُمْ تَعْمَلُونَ",
+      "translation": "İnsana, anne babasına karşı güzellikle muamele etmesini tavsiye ettik. Şayet bilgin olmayan bir şeyi bana ortak koşman için seni zorlarlarsa, onlara itaat etme. Dönüşünüz banadır ve size yaptıklarınızı haber vereceğim.",
+      "footnotes": null
+    },
+    {
+      "id": "3347",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "9",
+      "arabic_text": "وَالَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُدْخِلَنَّهُمْ فِي الصَّالِح۪ينَ",
+      "translation": "İman edip salih amel işleyenleri ise elbette, salih (kullarımızın arasına) dâhil edeceğiz.",
+      "footnotes": null
+    },
+    {
+      "id": "3348",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "10",
+      "arabic_text": "وَمِنَ النَّاسِ مَنْ يَقُولُ اٰمَنَّا بِاللّٰهِ فَاِذَٓا اُو۫ذِيَ فِي اللّٰهِ جَعَلَ فِتْنَةَ النَّاسِ كَعَذَابِ اللّٰهِۜ وَلَئِنْ جَٓاءَ نَصْرٌ مِنْ رَبِّكَ لَيَقُولُنَّ اِنَّا كُنَّا مَعَكُمْۜ اَوَلَيْسَ اللّٰهُ بِاَعْلَمَ بِمَا ف۪ي صُدُورِ الْعَالَم۪ينَ",
+      "translation": "İnsanlardan öylesi vardır ki: “Allah’a iman ettik.” der. Allah’ın dini uğruna eziyete uğradığında da, insanların ezasını Allah’ın azabına denk tutar. Şayet Rabbinden bir zafer/yardım gelecek olsa: “Kuşkusuz biz, sizinle beraberdik.” derler. (İyi de) Allah, âlemlerin sinesinde olan (iman ve nifağı) en iyi bilen değil midir? (Bunu da mı bilmiyorlar?)",
+      "footnotes": null
+    },
+    {
+      "id": "3349",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "11",
+      "arabic_text": "وَلَيَعْلَمَنَّ اللّٰهُ الَّذ۪ينَ اٰمَنُوا وَلَيَعْلَمَنَّ الْمُنَافِق۪ينَ",
+      "translation": "Kesinlikle Allah, iman edenleri de münafıkları da bilir (ve imtihanlarla insanların da bilmesini sağlar).",
+      "footnotes": null
+    },
+    {
+      "id": "3350",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "12",
+      "arabic_text": "وَقَالَ الَّذ۪ينَ كَفَرُوا لِلَّذ۪ينَ اٰمَنُوا اتَّبِعُوا سَب۪يلَنَا وَلْنَحْمِلْ خَطَايَاكُمْۜ وَمَا هُمْ بِحَامِل۪ينَ مِنْ خَطَايَاهُمْ مِنْ شَيْءٍۜ اِنَّهُمْ لَكَاذِبُونَ",
+      "translation": "Kâfirler, müminlere dediler ki: “Bizim yolumuza/dinimize uyun, (şayet iddia ettiğiniz gibi ahiret hayatı olursa) günahınızı biz yükleniriz.” (Oysa) onların günahlarından hiçbir şey yüklenecek değillerdir. Şüphesiz ki onlar, yalancılardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3351",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "13",
+      "arabic_text": "وَلَيَحْمِلُنَّ اَثْقَالَهُمْ وَاَثْقَالًا مَعَ اَثْقَالِهِمْۘ وَلَيُسْـَٔلُنَّ يَوْمَ الْقِيٰمَةِ عَمَّا كَانُوا يَفْتَرُونَ۟",
+      "translation": "Andolsun ki, hem kendi yüklerini hem de kendi yükleriyle beraber (saptırdıkları insanların) yüklerini yüklenecekler. Ve Kıyamet Günü'nde iftiralarından dolayı kesinlikle hesaba çekileceklerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "3352",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "14",
+      "arabic_text": "وَلَقَدْ اَرْسَلْنَا نُوحًا اِلٰى قَوْمِه۪ فَلَبِثَ ف۪يهِمْ اَلْفَ سَنَةٍ اِلَّا خَمْس۪ينَ عَامًاۜ فَاَخَذَهُمُ الطُّوفَانُ وَهُمْ ظَالِمُونَ",
+      "translation": "Andolsun ki Nuh’u kavmine gönderdik. İçlerinde elli yıl eksik olarak bin yıl yaşadı. Onlar zalimlik yapmaya devam ederken tufan onları yakalayıverdi.",
+      "footnotes": null
+    },
+    {
+      "id": "3353",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "15",
+      "arabic_text": "فَاَنْجَيْنَاهُ وَاَصْحَابَ السَّف۪ينَةِ وَجَعَلْنَاهَٓا اٰيَةً لِلْعَالَم۪ينَ",
+      "translation": "Onu ve gemi ahalisini kurtardık. Ve o (gemiyi), âlemlere (ibret alınacak) bir ayet kıldık.",
+      "footnotes": null
+    },
+    {
+      "id": "3354",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "16",
+      "arabic_text": "وَاِبْرٰه۪يمَ اِذْ قَالَ لِقَوْمِهِ اعْبُدُوا اللّٰهَ وَاتَّقُوهُۜ ذٰلِكُمْ خَيْرٌ لَكُمْ اِنْ كُنْتُمْ تَعْلَمُونَ",
+      "translation": "İbrahim’i de (kavmine yolladık). Hani kavmine demişti ki: “Allah’a kulluk edin ve O’ndan korkup sakının. Şayet bilirseniz bu, sizler için en hayırlı olandır.”",
+      "footnotes": null
+    },
+    {
+      "id": "3355",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "17",
+      "arabic_text": "اِنَّمَا تَعْبُدُونَ مِنْ دُونِ اللّٰهِ اَوْثَانًا وَتَخْلُقُونَ اِفْكًاۜ اِنَّ الَّذ۪ينَ تَعْبُدُونَ مِنْ دُونِ اللّٰهِ لَا يَمْلِكُونَ لَكُمْ رِزْقًا فَابْتَغُوا عِنْدَ اللّٰهِ الرِّزْقَ وَاعْبُدُوهُ وَاشْكُرُوا لَهُۜ اِلَيْهِ تُرْجَعُونَ",
+      "translation": "“Siz, ancak Allah’ı bırakıp birtakım putlara ibadet ediyor ve aslı astarı olmayan yalanlar uyduruyorsunuz. Şüphesiz ki Allah’ı bırakıp da ibadet ettikleriniz, size rızık verme gücüne sahip değiller. Rızkı Allah’ın yanında arayın. O’na ibadet edin ve O’na şükredin. (Çünkü sonunda) O’na döndürüleceksiniz.”",
+      "footnotes": null
+    },
+    {
+      "id": "3356",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "18",
+      "arabic_text": "وَاِنْ تُكَذِّبُوا فَقَدْ كَذَّبَ اُمَمٌ مِنْ قَبْلِكُمْۜ وَمَا عَلَى الرَّسُولِ اِلَّا الْبَلَاغُ الْمُب۪ينُ",
+      "translation": "“Şayet yalanlayacak olursanız, hiç şüphesiz sizden önceki kavimler de yalanladı. Resûl’ün vazifesi, ancak apaçık bir tebliğdir.”",
+      "footnotes": null
+    },
+    {
+      "id": "3357",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "19",
+      "arabic_text": "اَوَلَمْ يَرَوْا كَيْفَ يُبْدِئُ اللّٰهُ الْخَلْقَ ثُمَّ يُع۪يدُهُۜ اِنَّ ذٰلِكَ عَلَى اللّٰهِ يَس۪يرٌ",
+      "translation": "Allah’ın yaratmaya nasıl başlayıp sonra da (dirilterek) onu tekrar ettiğini görmediler mi? Şüphesiz ki bu, Allah’a göre kolaydır.",
+      "footnotes": null
+    },
+    {
+      "id": "3358",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "20",
+      "arabic_text": "قُلْ س۪يرُوا فِي الْاَرْضِ فَانْظُرُوا كَيْفَ بَدَاَ الْخَلْقَ ثُمَّ اللّٰهُ يُنْشِئُ النَّشْاَةَ الْاٰخِرَةَۜ اِنَّ اللّٰهَ عَلٰى كُلِّ شَيْءٍ قَد۪يرٌۚ",
+      "translation": "De ki: “Yeryüzünde gezip dolaşın da (Allah’ın) yaratmaya nasıl başladığına bir bakın. Sonra Allah, ahiret hayatını yaratıp var edecektir. Şüphesiz ki Allah, her şeye kadîrdir.”",
+      "footnotes": null
+    },
+    {
+      "id": "3359",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "21",
+      "arabic_text": "يُعَذِّبُ مَنْ يَشَٓاءُ وَيَرْحَمُ مَنْ يَشَٓاءُۚ وَاِلَيْهِ تُقْلَبُونَ",
+      "translation": "(O) dilediğine azap eder, dilediğine merhamet eder. O’na çevrileceksiniz.",
+      "footnotes": null
+    },
+    {
+      "id": "3360",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "22",
+      "arabic_text": "وَمَٓا اَنْتُمْ بِمُعْجِز۪ينَ فِي الْاَرْضِ وَلَا فِي السَّمَٓاءِۘ وَمَا لَكُمْ مِنْ دُونِ اللّٰهِ مِنْ وَلِيٍّ وَلَا نَص۪يرٍ۟",
+      "translation": "Siz, yerde ve gökte (Allah’ın vaadini yerine getirmesine engel olup) O’nu aciz bırakacak değilsiniz. Sizin Allah’ın dışında ne bir dostunuz ne de bir yardımcınız vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3361",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "23",
+      "arabic_text": "وَالَّذ۪ينَ كَفَرُوا بِاٰيَاتِ اللّٰهِ وَلِقَٓائِه۪ٓ اُو۬لٰٓئِكَ يَئِسُوا مِنْ رَحْمَت۪ي وَاُو۬لٰٓئِكَ لَهُمْ عَذَابٌ اَل۪يمٌ",
+      "translation": "Allah’ın ayetlerini ve O’nunla karşılaşmayı inkâr edenler... Bunlar, benim rahmetimden ümitlerini kesmişlerdir. Bunlara can yakıcı bir azap vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3362",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "24",
+      "arabic_text": "فَمَا كَانَ جَوَابَ قَوْمِه۪ٓ اِلَّٓا اَنْ قَالُوا اقْتُلُوهُ اَوْ حَرِّقُوهُ فَاَنْجٰيهُ اللّٰهُ مِنَ النَّارِۜ اِنَّ ف۪ي ذٰلِكَ لَاٰيَاتٍ لِقَوْمٍ يُؤْمِنُونَ",
+      "translation": "(İbrahim’in tevhid davetine) kavminin cevabı: “Onu öldürün ya da yakın!” sözünden başkası olmadı. Allah onu ateşten kurtardı. Şüphesiz ki bunda, iman eden bir topluluk için (Allah’ın dostlarına yardım edip onlara destek olduğuna dair) ayetler vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3363",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "25",
+      "arabic_text": "وَقَالَ اِنَّمَا اتَّخَذْتُمْ مِنْ دُونِ اللّٰهِ اَوْثَانًاۙ مَوَدَّةَ بَيْنِكُمْ فِي الْحَيٰوةِ الدُّنْيَاۚ ثُمَّ يَوْمَ الْقِيٰمَةِ يَكْفُرُ بَعْضُكُمْ بِبَعْضٍ وَيَلْعَنُ بَعْضُكُمْ بَعْضًاۘ وَمَأْوٰيكُمُ النَّارُ وَمَا لَكُمْ مِنْ نَاصِر۪ينَۗ",
+      "translation": "Dedi ki: “Siz, Allah’ı bırakıp, sizi birbirinize ısındırsın/aranızda sevgi bağı oluştursun diye dünya hayatında putları (ilah) edindiniz. Sonra Kıyamet Günü'nde (sevgi bir yana) kiminiz kiminizi inkâr edecek, kiminiz de kiminize lanet edecektir. Barınağınız ateştir. Hiçbir yardımcınız da yoktur.”",
+      "footnotes": null
+    },
+    {
+      "id": "3364",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "26",
+      "arabic_text": "فَاٰمَنَ لَهُ لُوطٌۢ وَقَالَ اِنّ۪ي مُهَاجِرٌ اِلٰى رَبّ۪يۜ اِنَّهُ هُوَ الْعَز۪يزُ الْحَك۪يمُ",
+      "translation": "Lut, ona iman etti. Ve dedi ki: “Hiç kuşkusuz ben, Rabbime hicret edeceğim. Çünkü O, (izzet sahibi, her şeyi mağlup eden) El-Azîz, (hüküm ve hikmet sahibi olan) El-Hakîm’in ta kendisidir.”",
+      "footnotes": null
+    },
+    {
+      "id": "3365",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "27",
+      "arabic_text": "وَوَهَبْنَا لَهُٓ اِسْحٰقَ وَيَعْقُوبَ وَجَعَلْنَا ف۪ي ذُرِّيَّتِهِ النُّبُوَّةَ وَالْكِتَابَ وَاٰتَيْنَاهُ اَجْرَهُ فِي الدُّنْيَاۚ وَاِنَّهُ فِي الْاٰخِرَةِ لَمِنَ الصَّالِح۪ينَ",
+      "translation": "Ona İshak’ı ve Yakub’u verdik. Zürriyeti arasında nübüvvet ve kitap kıldık. Ona mükâfatını dünyada verdik. Hiç şüphesiz o, ahirette de salihlerdendir.",
+      "footnotes": null
+    },
+    {
+      "id": "3366",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "28",
+      "arabic_text": "وَلُوطًا اِذْ قَالَ لِقَوْمِه۪ٓ اِنَّكُمْ لَتَأْتُونَ الْفَاحِشَةَۘ مَا سَبَقَكُمْ بِهَا مِنْ اَحَدٍ مِنَ الْعَالَم۪ينَ",
+      "translation": "Lut’u da (gönderdik). Hani kavmine demişti ki: “Şüphesiz ki, sizden önce âlemlerden/dünyada hiç kimsenin yapmadığı bir kötülüğü işliyorsunuz.”",
+      "footnotes": null
+    },
+    {
+      "id": "3367",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "29",
+      "arabic_text": "اَئِنَّكُمْ لَتَأْتُونَ الرِّجَالَ وَتَقْطَعُونَ السَّب۪يلَ وَتَأْتُونَ ف۪ي نَاد۪يكُمُ الْمُنْكَرَۜ فَمَا كَانَ جَوَابَ قَوْمِه۪ٓ اِلَّٓا اَنْ قَالُوا ائْتِنَا بِعَذَابِ اللّٰهِ اِنْ كُنْتَ مِنَ الصَّادِق۪ينَ",
+      "translation": "“Siz, erkeklere yanaşacak, yol kesecek ve sizi bir araya getiren meclislerinizde münker işlemeye devam edeceksiniz öyle mi?” Kavminin cevabı: “Şayet doğru sözlülerden isen bize Allah’ın azabını getir (bakalım).” sözünden başkası olmadı.",
+      "footnotes": null
+    },
+    {
+      "id": "3368",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "30",
+      "arabic_text": "قَالَ رَبِّ انْصُرْن۪ي عَلَى الْقَوْمِ الْمُفْسِد۪ينَ۟",
+      "translation": "Dedi ki: “Rabbim (şu) bozguncu topluluğa karşı bana yardım et.”",
+      "footnotes": null
+    },
+    {
+      "id": "3369",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "31",
+      "arabic_text": "وَلَمَّا جَٓاءَتْ رُسُلُنَٓا اِبْرٰه۪يمَ بِالْبُشْرٰىۙ قَالُٓوا اِنَّا مُهْلِكُٓوا اَهْلِ هٰذِهِ الْقَرْيَةِۚ اِنَّ اَهْلَهَا كَانُوا ظَالِم۪ينَۚ",
+      "translation": "Elçilerimiz/Melekler İbrahim’e müjdeyle geldiklerinde: “Biz, bu beldenin ahalisini helak edeceğiz. Şüphesiz onun ahalisi, zalim oldular.” demişlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "3370",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "32",
+      "arabic_text": "قَالَ اِنَّ ف۪يهَا لُوطًاۜ قَالُوا نَحْنُ اَعْلَمُ بِمَنْ ف۪يهَاۘ لَنُنَجِّيَنَّهُ وَاَهْلَهُٓ اِلَّا امْرَاَتَهُۘ كَانَتْ مِنَ الْغَابِر۪ينَ",
+      "translation": "Demişti ki: “O (beldenin) içinde Lut da var!” Demişlerdi ki: “Biz orada kimin olduğunu çok iyi biliyoruz. Karısı hariç, onu ve ailesini mutlaka kurtaracağız. (Karısı) geride kalacaklardandır.”",
+      "footnotes": null
+    },
+    {
+      "id": "3371",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "33",
+      "arabic_text": "وَلَمَّٓا اَنْ جَٓاءَتْ رُسُلُنَا لُوطًا س۪ٓيءَ بِهِمْ وَضَاقَ بِهِمْ ذَرْعًا وَقَالُوا لَا تَخَفْ وَلَا تَحْزَنْ۠ اِنَّا مُنَجُّوكَ وَاَهْلَكَ اِلَّا امْرَاَتَكَ كَانَتْ مِنَ الْغَابِر۪ينَ",
+      "translation": "Elçilerimiz/Melekler Lut’a geldiğinde, onlar yüzünden kendini kötü hissetmiş, bir çıkar yol bulamamıştı. Demişlerdi ki: “Korkma ve üzülme! Kuşkusuz, karın hariç, seni ve aileni kurtaracağız. (Karın ise) geride kalacaklardandır.”",
+      "footnotes": null
+    },
+    {
+      "id": "3372",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "34",
+      "arabic_text": "اِنَّا مُنْزِلُونَ عَلٰٓى اَهْلِ هٰذِهِ الْقَرْيَةِ رِجْزًا مِنَ السَّمَٓاءِ بِمَا كَانُوا يَفْسُقُونَ",
+      "translation": "“Şüphesiz ki biz, o yaptıkları fasıklık nedeniyle bu belde halkının üzerine gökten azap indireceğiz.”",
+      "footnotes": null
+    },
+    {
+      "id": "3373",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "35",
+      "arabic_text": "وَلَقَدْ تَرَكْنَا مِنْهَٓا اٰيَةً بَيِّنَةً لِقَوْمٍ يَعْقِلُونَ",
+      "translation": "Andolsun ki biz, akleden bir topluluk için oradan (ibret alınacak) apaçık bir ayet bıraktık.",
+      "footnotes": null
+    },
+    {
+      "id": "3374",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "36",
+      "arabic_text": "وَاِلٰى مَدْيَنَ اَخَاهُمْ شُعَيْبًاۙ فَقَالَ يَا قَوْمِ اعْبُدُوا اللّٰهَ وَارْجُوا الْيَوْمَ الْاٰخِرَ وَلَا تَعْثَوْا فِي الْاَرْضِ مُفْسِد۪ينَ",
+      "translation": "Medyen’e kardeşleri Şuayb’ı (gönderdik). Demişti ki: “Ey kavmim! Allah’a ibadet edin! Ahiret Günü (Allah’tan sevap almayı) umun. Yeryüzünde bozgunculuk yaparak karışıklık/düzensizlik/taşkınlık çıkarmayın.”",
+      "footnotes": null
+    },
+    {
+      "id": "3375",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "37",
+      "arabic_text": "فَكَذَّبُوهُ فَاَخَذَتْهُمُ الرَّجْفَةُ فَاَصْبَحُوا ف۪ي دَارِهِمْ جَاثِم۪ينَۘ",
+      "translation": "Onu yalanladılar. (Bunun üzerine) onları korkunç bir sarsıntı tuttu ve öz yurtlarında dizleri üstüne çöküp kaldılar.",
+      "footnotes": null
+    },
+    {
+      "id": "3376",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "38",
+      "arabic_text": "وَعَادًا وَثَمُودَا۬ وَقَدْ تَبَيَّنَ لَكُمْ مِنْ مَسَاكِنِهِمْ۠ وَزَيَّنَ لَهُمُ الشَّيْطَانُ اَعْمَالَهُمْ فَصَدَّهُمْ عَنِ السَّب۪يلِ وَكَانُوا مُسْتَبْصِر۪ينَۙ",
+      "translation": "Âd ve Semud’u da (helak ettik). Onların oturdukları yerlerden, (kendilerini helak etmiş olduğumuz) sizin için açığa çıkmıştır. Şeytan, amellerini kendilerine süslü gösterdi ve (böylece) onları (dosdoğru) yoldan saptırdı. (Aslında onlar hakikati anlayabilecek) gözü açık, aklı başında insanlardı.",
+      "footnotes": null
+    },
+    {
+      "id": "3377",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "39",
+      "arabic_text": "وَقَارُونَ وَفِرْعَوْنَ وَهَامَانَ وَلَقَدْ جَٓاءَهُمْ مُوسٰى بِالْبَيِّنَاتِ فَاسْتَكْبَرُوا فِي الْاَرْضِ وَمَا كَانُوا سَابِق۪ينَۚ",
+      "translation": "Karun, Firavun ve Haman’ı da (helak ettik). Andolsun ki Musa, onlara apaçık deliller getirdi. Yeryüzünde büyüklendiler. Hâlbuki onlar (azabımızın) önüne geçemediler (ona engel olamadılar).",
+      "footnotes": null
+    },
+    {
+      "id": "3378",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "40",
+      "arabic_text": "فَكُلًّا اَخَذْنَا بِذَنْبِه۪ۚ فَمِنْهُمْ مَنْ اَرْسَلْنَا عَلَيْهِ حَاصِبًاۚ وَمِنْهُمْ مَنْ اَخَذَتْهُ الصَّيْحَةُۚ وَمِنْهُمْ مَنْ خَسَفْنَا بِهِ الْاَرْضَۚ وَمِنْهُمْ مَنْ اَغْرَقْنَاۚ وَمَا كَانَ اللّٰهُ لِيَظْلِمَهُمْ وَلٰكِنْ كَانُٓوا اَنْفُسَهُمْ يَظْلِمُونَ",
+      "translation": "Her birini günahıyla yakalayıverdik. Onlardan kiminin üzerine taş yağdıran bir fırtına yolladık. Kimini (kulakları sağır eden) bir çığlık yakalayıverdi. Kimini yerin dibine geçirdik. Kimini de boğduk. Allah onlara zulmedecek değildi, onlar kendilerine zulmediyorlardı.",
+      "footnotes": null
+    },
+    {
+      "id": "3379",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "41",
+      "arabic_text": "مَثَلُ الَّذ۪ينَ اتَّخَذُوا مِنْ دُونِ اللّٰهِ اَوْلِيَٓاءَ كَمَثَلِ الْعَنْكَبُوتِۚ اِتَّخَذَتْ بَيْتًاۜ وَاِنَّ اَوْهَنَ الْبُيُوتِ لَبَيْتُ الْعَنْكَبُوتِۢ لَوْ كَانُوا يَعْلَمُونَ",
+      "translation": "Allah’ın dışında veliler edinenin misali, kendisi için yuva edinen örümceğin durumu gibidir. Hiç şüphesiz evlerin en zayıfı, örümceğin evidir. Keşke bilselerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "3380",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "42",
+      "arabic_text": "اِنَّ اللّٰهَ يَعْلَمُ مَا يَدْعُونَ مِنْ دُونِه۪ مِنْ شَيْءٍۜ وَهُوَ الْعَز۪يزُ الْحَك۪يمُ",
+      "translation": "Şüphesiz ki Allah, O’nun dışında dua ettikleri (velileri) bilmektedir. O, (izzet sahibi, her şeyi mağlup eden) El-Azîz, (hüküm ve hikmet sahibi olan) El-Hakîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "3381",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "43",
+      "arabic_text": "وَتِلْكَ الْاَمْثَالُ نَضْرِبُهَا لِلنَّاسِۚ وَمَا يَعْقِلُهَٓا اِلَّا الْعَالِمُونَ",
+      "translation": "Bu örnekleri insanlara veririz. Âlim olanlardan başkası onlara akıl erdirmez.",
+      "footnotes": null
+    },
+    {
+      "id": "3382",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "44",
+      "arabic_text": "خَلَقَ اللّٰهُ السَّمٰوَاتِ وَالْاَرْضَ بِالْحَقِّۜ اِنَّ ف۪ي ذٰلِكَ لَاٰيَةً لِلْمُؤْمِن۪ينَ۟",
+      "translation": "Allah gökleri ve yeri hak ile yarattı. Şüphesiz ki bunda müminler için bir ayet vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3383",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "45",
+      "arabic_text": "اُتْلُ مَٓا اُو۫حِيَ اِلَيْكَ مِنَ الْكِتَابِ وَاَقِمِ الصَّلٰوةَۜ اِنَّ الصَّلٰوةَ تَنْهٰى عَنِ الْفَحْشَٓاءِ وَالْمُنْكَرِۜ وَلَذِكْرُ اللّٰهِ اَكْبَرُۜ وَاللّٰهُ يَعْلَمُ مَا تَصْنَعُونَ",
+      "translation": "Sana vahyedilen Kitab’ı oku ve namazı dosdoğru kıl. Şüphesiz ki namaz, insanı fuhşiyat ve münkerden alıkoyar. (Kıldığınız namaza karşılık) Allah’ın sizi anması daha büyüktür. Allah yaptıklarınızı bilir.",
+      "footnotes": null
+    },
+    {
+      "id": "3384",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "46",
+      "arabic_text": "وَلَا تُجَادِلُٓوا اَهْلَ الْكِتَابِ اِلَّا بِالَّت۪ي هِيَ اَحْسَنُۗ اِلَّا الَّذ۪ينَ ظَلَمُوا مِنْهُمْ وَقُولُٓوا اٰمَنَّا بِالَّذ۪ٓي اُنْزِلَ اِلَيْنَا وَاُنْزِلَ اِلَيْكُمْ وَاِلٰهُنَا وَاِلٰهُكُمْ وَاحِدٌ وَنَحْنُ لَهُ مُسْلِمُونَ",
+      "translation": "İçlerinden zalim olanlar hariç, Ehl-i Kitap’la ancak en güzel üslupla tartışın. Deyin ki: “Bize ve size indirilene iman ettik. Bizim ilahımız ve sizin ilahınız tektir ve bizler, O’na teslim olmuş kimseleriz.”",
+      "footnotes": null
+    },
+    {
+      "id": "3385",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "47",
+      "arabic_text": "وَكَذٰلِكَ اَنْزَلْنَٓا اِلَيْكَ الْكِتَابَۜ فَالَّذ۪ينَ اٰتَيْنَاهُمُ الْكِتَابَ يُؤْمِنُونَ بِه۪ۚ وَمِنْ هٰٓؤُ۬لَٓاءِ مَنْ يُؤْمِنُ بِه۪ۜ وَمَا يَجْحَدُ بِاٰيَاتِنَٓا اِلَّا الْكَافِرُونَ",
+      "translation": "(Onlara Kitap indirdiğimiz gibi) sana da Kitap indirdik. Daha önceden kendilerine Kitap verdiklerimiz o (Kur’ân’a) iman ederler. Bunlar (Mekkeliler) arasından da ona iman edenler vardır. Kâfirlerden başkası ayetlerimizi inkâr etmez.",
+      "footnotes": null
+    },
+    {
+      "id": "3386",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "48",
+      "arabic_text": "وَمَا كُنْتَ تَتْلُوا مِنْ قَبْلِه۪ مِنْ كِتَابٍ وَلَا تَخُطُّهُ بِيَم۪ينِكَ اِذًا لَارْتَابَ الْمُبْطِلُونَ",
+      "translation": "Sen, bundan önce kitap okuyor değildin. Hem onu sağ elinle de yazmıyordun. (Öyle olsaydı) işte o zaman batıl ehli şüpheye düşerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "3387",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "49",
+      "arabic_text": "بَلْ هُوَ اٰيَاتٌ بَيِّنَاتٌ ف۪ي صُدُورِ الَّذ۪ينَ اُو۫تُوا الْعِلْمَۜ وَمَا يَجْحَدُ بِاٰيَاتِنَٓا اِلَّا الظَّالِمُونَ",
+      "translation": "(Hayır, öyle değil!) Bilakis o (Kur’ân), kendilerine ilim verilenlerin göğsünde apaçık ayetlerdir. Ayetlerimizi zalimlerden başkası inkâr etmez.",
+      "footnotes": null
+    },
+    {
+      "id": "3388",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "50",
+      "arabic_text": "وَقَالُوا لَوْلَٓا اُنْزِلَ عَلَيْهِ اٰيَاتٌ مِنْ رَبِّه۪ۜ قُلْ اِنَّمَا الْاٰيَاتُ عِنْدَ اللّٰهِۜ وَاِنَّمَٓا اَنَا۬ نَذ۪يرٌ مُب۪ينٌ",
+      "translation": "Dediler ki: “Ona Rabbinden ayetler/mucizeler gelmesi gerekmez miydi?” De ki: “Ayetler, ancak Allah katındadır. Ve ben yalnızca apaçık bir uyarıcıyım.”",
+      "footnotes": null
+    },
+    {
+      "id": "3389",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "51",
+      "arabic_text": "اَوَلَمْ يَكْفِهِمْ اَنَّٓا اَنْزَلْنَا عَلَيْكَ الْكِتَابَ يُتْلٰى عَلَيْهِمْۜ اِنَّ ف۪ي ذٰلِكَ لَرَحْمَةً وَذِكْرٰى لِقَوْمٍ يُؤْمِنُونَ۟",
+      "translation": "Sana indirdiğimiz ve onlara okunmakta olan Kitap kendilerine yetmiyor mu? Şüphesiz ki bunda, iman eden bir topluluk için rahmet ve öğüt vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "3390",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "52",
+      "arabic_text": "قُلْ كَفٰى بِاللّٰهِ بَيْن۪ي وَبَيْنَكُمْ شَه۪يدًاۚ يَعْلَمُ مَا فِي السَّمٰوَاتِ وَالْاَرْضِۜ وَالَّذ۪ينَ اٰمَنُوا بِالْبَاطِلِ وَكَفَرُوا بِاللّٰهِۙ اُو۬لٰٓئِكَ هُمُ الْخَاسِرُونَ",
+      "translation": "De ki: “Benimle sizin aranızda şahit olarak Allah yeter. Göklerde ve yerde olanların tamamını bilir. Batıla inanıp Allah’a kâfir olanlar, işte bunlar hüsrana uğrayanların ta kendileridir.",
+      "footnotes": null
+    },
+    {
+      "id": "3391",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "53",
+      "arabic_text": "وَيَسْتَعْجِلُونَكَ بِالْعَذَابِۜ وَلَوْلَٓا اَجَلٌ مُسَمًّى لَجَٓاءَهُمُ الْعَذَابُۜ وَلَيَأْتِيَنَّهُمْ بَغْتَةً وَهُمْ لَا يَشْعُرُونَ",
+      "translation": "Senden, azabın bir an önce gelmesini istiyorlar. Belirlenmiş bir süre olmasaydı, elbette azap onlara gelmişti. Andolsun ki onlara, farkında olmadıkları bir hâldeyken ansızın gelecektir.",
+      "footnotes": null
+    },
+    {
+      "id": "3392",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "54",
+      "arabic_text": "يَسْتَعْجِلُونَكَ بِالْعَذَابِۜ وَاِنَّ جَهَنَّمَ لَمُح۪يطَةٌ بِالْكَافِر۪ينَۙ",
+      "translation": "Senden azabın bir an önce gelmesini istiyorlar. Hiç şüphesiz cehennem, kâfirleri çepeçevre kuşatmıştır.",
+      "footnotes": null
+    },
+    {
+      "id": "3393",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "55",
+      "arabic_text": "يَوْمَ يَغْشٰيهُمُ الْعَذَابُ مِنْ فَوْقِهِمْ وَمِنْ تَحْتِ اَرْجُلِهِمْ وَيَقُولُ ذُوقُوا مَا كُنْتُمْ تَعْمَلُونَ",
+      "translation": "Azabın onları tepelerinden ve ayaklarının altından sarıp bürüyeceği gün, (Allah) buyuracak ki: “Yaptıklarınızın (karşılığı olarak azabı) tadın.”",
+      "footnotes": null
+    },
+    {
+      "id": "3394",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "56",
+      "arabic_text": "يَا عِبَادِيَ الَّذ۪ينَ اٰمَنُٓوا اِنَّ اَرْض۪ي وَاسِعَةٌ فَاِيَّايَ فَاعْبُدُونِ",
+      "translation": "Ey iman eden kullarım! Hiç şüphesiz benim arzım geniştir. (Dininizi yaşayamadığınız yerden hicret edin.) Yalnızca bana ibadet/kulluk edin.",
+      "footnotes": null
+    },
+    {
+      "id": "3395",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "57",
+      "arabic_text": "كُلُّ نَفْسٍ ذَٓائِقَةُ الْمَوْتِ ثُمَّ اِلَيْنَا تُرْجَعُونَ",
+      "translation": "Her nefis ölümü tadacaktır. Sonra bize döndürüleceksiniz.",
+      "footnotes": null
+    },
+    {
+      "id": "3396",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "58",
+      "arabic_text": "وَالَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ لَنُبَوِّئَنَّهُمْ مِنَ الْجَنَّةِ غُرَفًا تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَاۜ نِعْمَ اَجْرُ الْعَامِل۪ينَۗ",
+      "translation": "İman edip salih amel işleyenleri altından ırmaklar akan, içinde ebedî kalacakları, (özel misafirler için hazırlanmış) odalara yerleştiririz. (Salih) amel işleyenlerin mükâfatı ne güzeldir.",
+      "footnotes": null
+    },
+    {
+      "id": "3397",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "59",
+      "arabic_text": "اَلَّذ۪ينَ صَبَرُوا وَعَلٰى رَبِّهِمْ يَتَوَكَّلُونَ",
+      "translation": "Onlar ki; sabreder ve yalnızca Rablerine tevekkül ederler.",
+      "footnotes": null
+    },
+    {
+      "id": "3398",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "60",
+      "arabic_text": "وَكَاَيِّنْ مِنْ دَٓابَّةٍ لَا تَحْمِلُ رِزْقَهَاۗ اَللّٰهُ يَرْزُقُهَا وَاِيَّاكُمْۘ وَهُوَ السَّم۪يعُ الْعَل۪يمُ",
+      "translation": "Nice canlı vardır ki, kendi rızkını taşıyamaz. Onları da sizi de Allah rızıklandırır. O, (işiten ve dualara icabet eden) Es-Semi’, (her şeyi bilen) El-Alîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "3399",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "61",
+      "arabic_text": "وَلَئِنْ سَاَلْتَهُمْ مَنْ خَلَقَ السَّمٰوَاتِ وَالْاَرْضَ وَسَخَّرَ الشَّمْسَ وَالْقَمَرَ لَيَقُولُنَّ اللّٰهُۚ فَاَنّٰى يُؤْفَكُونَ",
+      "translation": "Onlara: “Gökleri ve yeri kim yarattı, Güneş’i ve Ay’ı kim emrinize amade kıldı?” diye soracak olsan kesinlikle: “Allah!” diyecekler. O hâlde, nasıl oluyor da (tevhidden şirke) çevriliyorlar?",
+      "footnotes": null
+    },
+    {
+      "id": "3400",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "62",
+      "arabic_text": "اَللّٰهُ يَبْسُطُ الرِّزْقَ لِمَنْ يَشَٓاءُ مِنْ عِبَادِه۪ وَيَقْدِرُ لَهُۜ اِنَّ اللّٰهَ بِكُلِّ شَيْءٍ عَل۪يمٌ",
+      "translation": "Allah, kullarından dilediğine rızkı genişletir (dilediğine de) daraltır. Şüphesiz ki Allah, her şeyi bilendir.",
+      "footnotes": null
+    },
+    {
+      "id": "3401",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "63",
+      "arabic_text": "وَلَئِنْ سَاَلْتَهُمْ مَنْ نَزَّلَ مِنَ السَّمَٓاءِ مَٓاءً فَاَحْيَا بِهِ الْاَرْضَ مِنْ بَعْدِ مَوْتِهَا لَيَقُولُنَّ اللّٰهُۜ قُلِ الْحَمْدُ لِلّٰهِۜ بَلْ اَكْثَرُهُمْ لَا يَعْقِلُونَ۟",
+      "translation": "Onlara: “Gökten su indirip ölümünden sonra yeryüzüne hayat veren kimdir?” diye soracak olsan kesinlikle: “Allah!” diyecekler. De ki: “Allah’a hamd olsun.” Bilakis, onların çoğu akletmezler.",
+      "footnotes": null
+    },
+    {
+      "id": "3402",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "64",
+      "arabic_text": "وَمَا هٰذِهِ الْحَيٰوةُ الدُّنْيَٓا اِلَّا لَهْوٌ وَلَعِبٌۜ وَاِنَّ الدَّارَ الْاٰخِرَةَ لَهِيَ الْحَيَوَانُۢ لَوْ كَانُوا يَعْلَمُونَ",
+      "translation": "Bu dünya hayatı, bir eğlence ve oyundan başka bir şey değildir. Asıl (yaşanılacak ve ebedî olan) ahiret hayatıdır. Keşke bilselerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "3403",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "65",
+      "arabic_text": "فَاِذَا رَكِبُوا فِي الْفُلْكِ دَعَوُا اللّٰهَ مُخْلِص۪ينَ لَهُ الدّ۪ينَۚ فَلَمَّا نَجّٰيهُمْ اِلَى الْبَرِّ اِذَا هُمْ يُشْرِكُونَۙ",
+      "translation": "Gemiye bindikleri zaman, dini Allah’a halis kılarak (şirk koşmaksızın yalnızca) Allah’a dua ederler. Onları kurtarıp karaya çıkardığı zaman, (bir bakarsın ki) hemen şirk koşuvermişler.",
+      "footnotes": null
+    },
+    {
+      "id": "3404",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "66",
+      "arabic_text": "لِيَكْفُرُوا بِمَٓا اٰتَيْنَاهُمْۙ وَلِيَتَمَتَّعُوا۠ فَسَوْفَ يَعْلَمُونَ",
+      "translation": "Onlara verdiklerimizi inkâr edip keyif sürsünler (bakalım)! Pek yakında bilecekler/anlayacaklar.",
+      "footnotes": null
+    },
+    {
+      "id": "3405",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "67",
+      "arabic_text": "اَوَلَمْ يَرَوْا اَنَّا جَعَلْنَا حَرَمًا اٰمِنًا وَيُتَخَطَّفُ النَّاسُ مِنْ حَوْلِهِمْۜ اَفَبِالْبَاطِلِ يُؤْمِنُونَ وَبِنِعْمَةِ اللّٰهِ يَكْفُرُونَ",
+      "translation": "Çevrelerindeki insanların (yağma ve talanla) kapılıp götürülmesine rağmen, bizim (Mekke’yi) güvenilir ve kutsal bir yer kıldığımızı görmüyorlar mı? Batıla inanıp Allah’ın nimetini inkâr mı ediyorlar?",
+      "footnotes": null
+    },
+    {
+      "id": "3406",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "68",
+      "arabic_text": "وَمَنْ اَظْلَمُ مِمَّنِ افْتَرٰى عَلَى اللّٰهِ كَذِبًا اَوْ كَذَّبَ بِالْحَقِّ لَمَّا جَٓاءَهُۜ اَلَيْسَ ف۪ي جَهَنَّمَ مَثْوًى لِلْكَافِر۪ينَ",
+      "translation": "Allah’a yalan uydurarak iftira eden veya hak kendisine geldiğinde onu yalanlayandan daha zalim kim olabilir? Kâfirler için cehennemde konaklayacak yer mi yok?",
+      "footnotes": null
+    },
+    {
+      "id": "3407",
+      "suraNo": "29",
+      "suraName": "Ankebut",
+      "aya": "69",
+      "arabic_text": "وَالَّذ۪ينَ جَاهَدُوا ف۪ينَا لَنَهْدِيَنَّهُمْ سُبُلَنَاۜ وَاِنَّ اللّٰهَ لَمَعَ الْمُحْسِن۪ينَ",
+      "translation": "Bizim yolumuzda cihad edenlere elbette (en doğru olan) yollarımızı gösteririz. Şüphesiz ki Allah, muhsinlerle/kulluğunu en güzel şekilde yapmaya çalışanlarla beraberdir.",
+      "footnotes": null
+    }
+  ]
+}

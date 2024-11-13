@@ -1,0 +1,868 @@
+{
+  "result": [
+    {
+      "id": "4977",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "1",
+      "arabic_text": "اِذَا وَقَعَتِ الْوَاقِعَةُۙ",
+      "translation": "Vakıa (kıyamet) gerçekleştiği zaman,",
+      "footnotes": null
+    },
+    {
+      "id": "4978",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "2",
+      "arabic_text": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌۢ",
+      "translation": "Onun gerçekleşmesini yalanlayacak yoktur.",
+      "footnotes": null
+    },
+    {
+      "id": "4979",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "3",
+      "arabic_text": "خَافِضَةٌ رَافِعَةٌۙ",
+      "translation": "O, (kimini) alçaltan (kimini de) yükselten (bir gündür).",
+      "footnotes": null
+    },
+    {
+      "id": "4980",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "4",
+      "arabic_text": "اِذَا رُجَّتِ الْاَرْضُ رَجًّاۙ",
+      "translation": "Yer şiddetle sarsıldığında,",
+      "footnotes": null
+    },
+    {
+      "id": "4981",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "5",
+      "arabic_text": "وَبُسَّتِ الْجِبَالُ بَسًّاۙ",
+      "translation": "Dağlar parça parça olduğunda,",
+      "footnotes": null
+    },
+    {
+      "id": "4982",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "6",
+      "arabic_text": "فَكَانَتْ هَبَٓاءً مُنْبَثًّاۙ",
+      "translation": "Savrulmuş toz hâline geldiğinde,",
+      "footnotes": null
+    },
+    {
+      "id": "4983",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "7",
+      "arabic_text": "وَكُنْتُمْ اَزْوَاجًا ثَلٰثَةًۜ",
+      "translation": "Sizler de üç sınıf olduğunuzda,",
+      "footnotes": null
+    },
+    {
+      "id": "4984",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "8",
+      "arabic_text": "فَاَصْحَابُ الْمَيْمَنَةِ مَٓا اَصْحَابُ الْمَيْمَنَةِۜ",
+      "translation": "(Amel defterlerini sağ taraflarından alacak olan mutlu) Ashabu’l Meymene, ne Ashabu’l Meymene’dir ama!",
+      "footnotes": null
+    },
+    {
+      "id": "4985",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "9",
+      "arabic_text": "وَاَصْحَابُ الْمَشْـَٔمَةِ مَٓا اَصْحَابُ الْمَشْـَٔمَةِۜ",
+      "translation": "(Amel defterlerini sol taraflarından alacak olan bedbaht) Ashabu’l Meş’eme, ne Ashabu’l Meş’eme’dir ama!",
+      "footnotes": null
+    },
+    {
+      "id": "4986",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "10",
+      "arabic_text": "وَالسَّابِقُونَ السَّابِقُونَۙ",
+      "translation": "(İman ve salih amelde) önde olanlar, (onlar) öncülerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "4987",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "11",
+      "arabic_text": "اُو۬لٰٓئِكَ الْمُقَرَّبُونَۚ",
+      "translation": "Bunlar (Allah’a) yakınlaştırılmışlardır.",
+      "footnotes": null
+    },
+    {
+      "id": "4988",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "12",
+      "arabic_text": "ف۪ي جَنَّاتِ النَّع۪يمِ",
+      "translation": "Naim Cennetlerinde,",
+      "footnotes": null
+    },
+    {
+      "id": "4989",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "13",
+      "arabic_text": "ثُلَّةٌ مِنَ الْاَوَّل۪ينَۙ",
+      "translation": "Birçoğu öncekilerdendir. (Geçmiş ümmetlerdendir.)",
+      "footnotes": null
+    },
+    {
+      "id": "4990",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "14",
+      "arabic_text": "وَقَل۪يلٌ مِنَ الْاٰخِر۪ينَۜ",
+      "translation": "Az bir kısmı da sonrakilerdendir.",
+      "footnotes": null
+    },
+    {
+      "id": "4991",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "15",
+      "arabic_text": "عَلٰى سُرُرٍ مَوْضُونَةٍۙ",
+      "translation": "(Altın ve mücevherlerle) işlenmiş tahtlar üzerinde,",
+      "footnotes": null
+    },
+    {
+      "id": "4992",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "16",
+      "arabic_text": "مُتَّكِـ۪ٔينَ عَلَيْهَا مُتَقَابِل۪ينَ",
+      "translation": "Karşılıklı olarak yaslanmış hâlde,",
+      "footnotes": null
+    },
+    {
+      "id": "4993",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "17",
+      "arabic_text": "يَطُوفُ عَلَيْهِمْ وِلْدَانٌ مُخَلَّدُونَۙ",
+      "translation": "Etraflarında ebedî/ölümsüz kılınmış (hizmetkâr) gençler dolanır,",
+      "footnotes": null
+    },
+    {
+      "id": "4994",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "18",
+      "arabic_text": "بِاَكْوَابٍ وَاَبَار۪يقَ وَكَأْسٍ مِنْ مَع۪ينٍۙ",
+      "translation": "Kaynağından doldurulmuş bardaklar, testiler ve kadehlerle.",
+      "footnotes": null
+    },
+    {
+      "id": "4995",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "19",
+      "arabic_text": "لَا يُصَدَّعُونَ عَنْهَا وَلَا يُنْزِفُونَۙ",
+      "translation": "(Onu içtiklerinden dolayı) ne başları ağrır ne de (sarhoşlukla) akılları gider.",
+      "footnotes": null
+    },
+    {
+      "id": "4996",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "20",
+      "arabic_text": "وَفَاكِهَةٍ مِمَّا يَتَخَيَّرُونَۙ",
+      "translation": "Seçecekleri meyveler,",
+      "footnotes": null
+    },
+    {
+      "id": "4997",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "21",
+      "arabic_text": "وَلَحْمِ طَيْرٍ مِمَّا يَشْتَهُونَۜ",
+      "translation": "Canlarının istediği kuş eti,",
+      "footnotes": null
+    },
+    {
+      "id": "4998",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "22",
+      "arabic_text": "وَحُورٌ ع۪ينٌۙ",
+      "translation": "İri gözlü huriler,",
+      "footnotes": null
+    },
+    {
+      "id": "4999",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "23",
+      "arabic_text": "كَاَمْثَالِ اللُّؤْلُؤِ۬ الْمَكْنُونِۚ",
+      "translation": "Saklı inciler gibidir (onlar).",
+      "footnotes": null
+    },
+    {
+      "id": "5000",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "24",
+      "arabic_text": "جَزَٓاءً بِمَا كَانُوا يَعْمَلُونَ",
+      "translation": "Yaptıkları (salih amellerin) karşılığı olarak,",
+      "footnotes": null
+    },
+    {
+      "id": "5001",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "25",
+      "arabic_text": "لَا يَسْمَعُونَ ف۪يهَا لَغْوًا وَلَا تَأْث۪يمًاۙ",
+      "translation": "Orada, boş/faydasız ve günah olacak bir söz işitmezler.",
+      "footnotes": null
+    },
+    {
+      "id": "5002",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "26",
+      "arabic_text": "اِلَّا ق۪يلًا سَلَامًا سَلَامًا",
+      "translation": "İşitecekleri tek söz, (karşılıklı söyleyecekleri) “Selam, Selam”dır.",
+      "footnotes": null
+    },
+    {
+      "id": "5003",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "27",
+      "arabic_text": "وَاَصْحَابُ الْيَم۪ينِ مَٓا اَصْحَابُ الْيَم۪ينِۜ",
+      "translation": "(Amel defterlerini sağdan alacak olan) Ashabu’l Yemin, ne Ashabu’l Yemin’dir ama!",
+      "footnotes": null
+    },
+    {
+      "id": "5004",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "28",
+      "arabic_text": "ف۪ي سِدْرٍ مَخْضُودٍۙ",
+      "translation": "Dikensiz, dalları meyve dolu kiraz ağaçları,",
+      "footnotes": null
+    },
+    {
+      "id": "5005",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "29",
+      "arabic_text": "وَطَلْحٍ مَنْضُودٍۙ",
+      "translation": "Meyveleri iç içe geçmiş muz ağaçları,",
+      "footnotes": null
+    },
+    {
+      "id": "5006",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "30",
+      "arabic_text": "وَظِلٍّ مَمْدُودٍۙ",
+      "translation": "Uzayan gölgeler,",
+      "footnotes": null
+    },
+    {
+      "id": "5007",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "31",
+      "arabic_text": "وَمَٓاءٍ مَسْكُوبٍۙ",
+      "translation": "Kesintisiz akan sular,",
+      "footnotes": null
+    },
+    {
+      "id": "5008",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "32",
+      "arabic_text": "وَفَاكِهَةٍ كَث۪يرَةٍۙ",
+      "translation": "Çokça meyveler,",
+      "footnotes": null
+    },
+    {
+      "id": "5009",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "33",
+      "arabic_text": "لَا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍۙ",
+      "translation": "Arkası kesilmeyen ve yasaklanmayan (meyveler),",
+      "footnotes": null
+    },
+    {
+      "id": "5010",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "34",
+      "arabic_text": "وَفُرُشٍ مَرْفُوعَةٍۜ",
+      "translation": "Ve yükseltilmiş döşemeler üzerinde (olacaklardır).",
+      "footnotes": null
+    },
+    {
+      "id": "5011",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "35",
+      "arabic_text": "اِنَّٓا اَنْشَأْنَاهُنَّ اِنْشَٓاءًۙ",
+      "translation": "Şüphesiz ki biz, (cennet kadınlarını) yeniden yaratmışızdır.",
+      "footnotes": null
+    },
+    {
+      "id": "5012",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "36",
+      "arabic_text": "فَجَعَلْنَاهُنَّ اَبْكَارًاۙ",
+      "translation": "Onları bakire kılmışızdır.",
+      "footnotes": null
+    },
+    {
+      "id": "5013",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "37",
+      "arabic_text": "عُرُبًا اَتْرَابًاۙ",
+      "translation": "Eşlerine aşık ve yaşıt,",
+      "footnotes": null
+    },
+    {
+      "id": "5014",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "38",
+      "arabic_text": "لِاَصْحَابِ الْيَم۪ينِۜ۟",
+      "translation": "(Bu nimetler, amel defterlerini sağdan alacak olan) Ashabu’l Yemin içindir.",
+      "footnotes": null
+    },
+    {
+      "id": "5015",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "39",
+      "arabic_text": "ثُلَّةٌ مِنَ الْاَوَّل۪ينَۙ",
+      "translation": "Birçoğu geçmiş ümmetlerden,",
+      "footnotes": null
+    },
+    {
+      "id": "5016",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "40",
+      "arabic_text": "وَثُلَّةٌ مِنَ الْاٰخِر۪ينَۜ",
+      "translation": "Birçoğu da sonrakilerden (olacaktır).",
+      "footnotes": null
+    },
+    {
+      "id": "5017",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "41",
+      "arabic_text": "وَاَصْحَابُ الشِّمَالِۙ مَٓا اَصْحَابُ الشِّمَالِۜ",
+      "translation": "(Amel defterlerini soldan alacak olan) Ashabu’l Şimal, ne Ashabu’l Şimal’dir ama!",
+      "footnotes": null
+    },
+    {
+      "id": "5018",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "42",
+      "arabic_text": "ف۪ي سَمُومٍ وَحَم۪يمٍۙ",
+      "translation": "Kavuran ateş ve kaynar suda,",
+      "footnotes": null
+    },
+    {
+      "id": "5019",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "43",
+      "arabic_text": "وَظِلٍّ مِنْ يَحْمُومٍۙ",
+      "translation": "Ve dumandan bir gölge içinde,",
+      "footnotes": null
+    },
+    {
+      "id": "5020",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "44",
+      "arabic_text": "لَا بَارِدٍ وَلَا كَر۪يمٍ",
+      "translation": "Ne serindir ne de faydalı!",
+      "footnotes": null
+    },
+    {
+      "id": "5021",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "45",
+      "arabic_text": "اِنَّهُمْ كَانُوا قَبْلَ ذٰلِكَ مُتْرَف۪ينَۚ",
+      "translation": "Şüphesiz ki onlar, bundan önce, refah içinde şımarıkça yaşarlardı.",
+      "footnotes": null
+    },
+    {
+      "id": "5022",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "46",
+      "arabic_text": "وَكَانُوا يُصِرُّونَ عَلَى الْحِنْثِ الْعَظ۪يمِۚ",
+      "translation": "O büyük günahta da (şirkte) ısrar ederlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "5023",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "47",
+      "arabic_text": "وَكَانُوا يَقُولُونَ اَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَامًا ءَاِنَّا لَمَبْعُوثُونَۙ",
+      "translation": "Derlerdi ki: “Öldüğümüz, toprak ve kemik olduğumuz zaman diriltilecek miymişiz?”",
+      "footnotes": null
+    },
+    {
+      "id": "5024",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "48",
+      "arabic_text": "اَوَاٰبَٓاؤُ۬نَا الْاَوَّلُونَ",
+      "translation": "“Babalarımız da mı?”",
+      "footnotes": null
+    },
+    {
+      "id": "5025",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "49",
+      "arabic_text": "قُلْ اِنَّ الْاَوَّل۪ينَ وَالْاٰخِر۪ينَۙ",
+      "translation": "De ki: “Öncekiler ve sonrakiler,”",
+      "footnotes": null
+    },
+    {
+      "id": "5026",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "50",
+      "arabic_text": "لَمَجْمُوعُونَ اِلٰى م۪يقَاتِ يَوْمٍ مَعْلُومٍ",
+      "translation": "“Bilinen (Kıyamet) Günü'nün belirlenmiş vaktinde elbette, toplanacaklardır.”",
+      "footnotes": null
+    },
+    {
+      "id": "5027",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "51",
+      "arabic_text": "ثُمَّ اِنَّكُمْ اَيُّهَا الضَّٓالُّونَ الْمُكَذِّبُونَۙ",
+      "translation": "“Sonra sizler, ey sapık yalanlayıcılar!”",
+      "footnotes": null
+    },
+    {
+      "id": "5028",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "52",
+      "arabic_text": "لَاٰكِلُونَ مِنْ شَجَرٍ مِنْ زَقُّومٍۙ",
+      "translation": "“Siz elbette, zakkumdan olan bir ağaçtan yiyeceksiniz.”",
+      "footnotes": null
+    },
+    {
+      "id": "5029",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "53",
+      "arabic_text": "فَمَالِؤُ۫نَ مِنْهَا الْبُطُونَۚ",
+      "translation": "“Ve o (ağaçtan) karınlarınızı dolduracaksınız.”",
+      "footnotes": null
+    },
+    {
+      "id": "5030",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "54",
+      "arabic_text": "فَشَارِبُونَ عَلَيْهِ مِنَ الْحَم۪يمِۚ",
+      "translation": "“Onun üzerine de kaynar sudan içeceksiniz.”",
+      "footnotes": null
+    },
+    {
+      "id": "5031",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "55",
+      "arabic_text": "فَشَارِبُونَ شُرْبَ الْه۪يمِۜ",
+      "translation": "“İçtikçe susuzluğu artan hasta develer gibi içeceksiniz.”",
+      "footnotes": null
+    },
+    {
+      "id": "5032",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "56",
+      "arabic_text": "هٰذَا نُزُلُهُمْ يَوْمَ الدّ۪ينِۜ",
+      "translation": "Bu, Kıyamet Günü'nde onların ziyafetidir!",
+      "footnotes": null
+    },
+    {
+      "id": "5033",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "57",
+      "arabic_text": "نَحْنُ خَلَقْنَاكُمْ فَلَوْلَا تُصَدِّقُونَ۟",
+      "translation": "Sizi biz yarattık. (Dirilteceğimizi) tasdik etmeniz gerekmez mi?",
+      "footnotes": null
+    },
+    {
+      "id": "5034",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "58",
+      "arabic_text": "اَفَرَاَيْتُمْ مَا تُمْنُونَۜ",
+      "translation": "Dökmekte olduğunuz meniyi gördünüz mü?",
+      "footnotes": null
+    },
+    {
+      "id": "5035",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "59",
+      "arabic_text": "ءَاَنْتُمْ تَخْلُقُونَهُٓ اَمْ نَحْنُ الْخَالِقُونَ",
+      "translation": "Onu siz mi yaratıyorsunuz, yoksa yaratan biz miyiz?",
+      "footnotes": null
+    },
+    {
+      "id": "5036",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "60",
+      "arabic_text": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ الْمَوْتَ وَمَا نَحْنُ بِمَسْبُوق۪ينَۙ",
+      "translation": "Sizin aranızda ölümü takdir eden biziz ve kimse önümüze geçip (bize engel olamaz).",
+      "footnotes": null
+    },
+    {
+      "id": "5037",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "61",
+      "arabic_text": "عَلٰٓى اَنْ نُبَدِّلَ اَمْثَالَكُمْ وَنُنْشِئَكُمْ ف۪ي مَا لَا تَعْلَمُونَ",
+      "translation": "Yerinize benzerleriniz olan (yeni insanlar) getirmek ve sizi hiç bilmediğiniz bir surette yeniden yaratmak konusunda (kimse bizi engelleyemez).",
+      "footnotes": null
+    },
+    {
+      "id": "5038",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "62",
+      "arabic_text": "وَلَقَدْ عَلِمْتُمُ النَّشْاَةَ الْاُو۫لٰى فَلَوْلَا تَذَكَّرُونَ",
+      "translation": "Andolsun ki ilk yaratmayı bildiniz/kabul ettiniz. (Allah’ın kudretini anlayıp sizleri dirilteceği konusunda) düşünüp öğüt almanız gerekmez mi?",
+      "footnotes": null
+    },
+    {
+      "id": "5039",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "63",
+      "arabic_text": "اَفَرَاَيْتُمْ مَا تَحْرُثُونَۜ",
+      "translation": "Ektiğiniz (ekini) gördünüz mü?",
+      "footnotes": null
+    },
+    {
+      "id": "5040",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "64",
+      "arabic_text": "ءَاَنْتُمْ تَزْرَعُونَهُٓ اَمْ نَحْنُ الزَّارِعُونَ",
+      "translation": "Onu (bitki hâline getirip), siz mi bitiriyorsunuz, yoksa bitiren biz miyiz?",
+      "footnotes": null
+    },
+    {
+      "id": "5041",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "65",
+      "arabic_text": "لَوْ نَشَٓاءُ لَجَعَلْنَاهُ حُطَامًا فَظَلْتُمْ تَفَكَّهُونَ",
+      "translation": "Şayet dilesek onu (meyvesiz, sebzesiz, tanesiz) kuru bir ot hâline getirirdik, siz de şaşırıp kalakalırdınız.",
+      "footnotes": null
+    },
+    {
+      "id": "5042",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "66",
+      "arabic_text": "اِنَّا لَمُغْرَمُونَۙ",
+      "translation": "(Derdiniz ki:) “Şüphesiz ki büyük bir borç altına girdik.”",
+      "footnotes": null
+    },
+    {
+      "id": "5043",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "67",
+      "arabic_text": "بَلْ نَحْنُ مَحْرُومُونَ",
+      "translation": "“(Hayır!) İşin aslı, biz mahrum bırakıldık.”",
+      "footnotes": null
+    },
+    {
+      "id": "5044",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "68",
+      "arabic_text": "اَفَرَاَيْتُمُ الْمَٓاءَ الَّذ۪ي تَشْرَبُونَۜ",
+      "translation": "İçtiğiniz suyu gördünüz mü?",
+      "footnotes": null
+    },
+    {
+      "id": "5045",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "69",
+      "arabic_text": "ءَاَنْتُمْ اَنْزَلْتُمُوهُ مِنَ الْمُزْنِ اَمْ نَحْنُ الْمُنْزِلُونَ",
+      "translation": "Onu, buluttan siz mi indirdiniz, yoksa indiren biz miyiz?",
+      "footnotes": null
+    },
+    {
+      "id": "5046",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "70",
+      "arabic_text": "لَوْ نَشَٓاءُ جَعَلْنَاهُ اُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+      "translation": "Şayet dileseydik onu, tuzlu/acı bir su yapardık. Şükretmeniz gerekmez mi?",
+      "footnotes": null
+    },
+    {
+      "id": "5047",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "71",
+      "arabic_text": "اَفَرَاَيْتُمُ النَّارَ الَّت۪ي تُورُونَۜ",
+      "translation": "Yaktığınız ateşi gördünüz mü?",
+      "footnotes": null
+    },
+    {
+      "id": "5048",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "72",
+      "arabic_text": "ءَاَنْتُمْ اَنْشَأْتُمْ شَجَرَتَهَٓا اَمْ نَحْنُ الْمُنْشِؤُ۫نَ",
+      "translation": "Onun ağacını, siz mi yarattınız yoksa yaratan biz miyiz?",
+      "footnotes": null
+    },
+    {
+      "id": "5049",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "73",
+      "arabic_text": "نَحْنُ جَعَلْنَاهَا تَذْكِرَةً وَمَتَاعًا لِلْمُقْو۪ينَۚ",
+      "translation": "Biz onu, hem bir hatırlatma/öğüt hem de ihtiyacı olanlara faydalanacakları bir meta kıldık.",
+      "footnotes": null
+    },
+    {
+      "id": "5050",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "74",
+      "arabic_text": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظ۪يمِ۟",
+      "translation": "O hâlde, büyük olan Rabbini ismiyle tesbih et.",
+      "footnotes": null
+    },
+    {
+      "id": "5051",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "75",
+      "arabic_text": "فَلَٓا اُقْسِمُ بِمَوَاقِعِ النُّجُومِۙ",
+      "translation": "Yıldızların (doğup-battıkları) yerlerine yemin ederim.",
+      "footnotes": null
+    },
+    {
+      "id": "5052",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "76",
+      "arabic_text": "وَاِنَّهُ لَقَسَمٌ لَوْ تَعْلَمُونَ عَظ۪يمٌۙ",
+      "translation": "Hiç şüphesiz, eğer bilirseniz (bu) büyük bir yemindir.",
+      "footnotes": null
+    },
+    {
+      "id": "5053",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "77",
+      "arabic_text": "اِنَّهُ لَقُرْاٰنٌ كَر۪يمٌۙ",
+      "translation": "Hiç kuşkusuz o, Kur’ân-ı Kerim’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "5054",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "78",
+      "arabic_text": "ف۪ي كِتَابٍ مَكْنُونٍۙ",
+      "translation": "(İnsanlardan) saklı (ve korunaklı) bir Kitap’ta yazılıdır.",
+      "footnotes": null
+    },
+    {
+      "id": "5055",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "79",
+      "arabic_text": "لَا يَمَسُّهُٓ اِلَّا الْمُطَهَّرُونَۜ",
+      "translation": "O (Kitab’a) temizlenmiş olanlardan başkası dokunamaz.",
+      "footnotes": null
+    },
+    {
+      "id": "5056",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "80",
+      "arabic_text": "تَنْز۪يلٌ مِنْ رَبِّ الْعَالَم۪ينَ",
+      "translation": "Âlemlerin Rabbi olan (Allah) tarafından indirilmiştir.",
+      "footnotes": null
+    },
+    {
+      "id": "5057",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "81",
+      "arabic_text": "اَفَبِهٰذَا الْحَد۪يثِ اَنْتُمْ مُدْهِنُونَۙ",
+      "translation": "Şimdi siz, bu sözü mü yalanlıyorsunuz?",
+      "footnotes": null
+    },
+    {
+      "id": "5058",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "82",
+      "arabic_text": "وَتَجْعَلُونَ رِزْقَكُمْ اَنَّكُمْ تُكَذِّبُونَ",
+      "translation": "(Maddi ve manevi) rızkınıza, yalanlayarak mı teşekkür ediyorsunuz?!",
+      "footnotes": null
+    },
+    {
+      "id": "5059",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "83",
+      "arabic_text": "فَلَوْلَٓا اِذَا بَلَغَتِ الْحُلْقُومَۙ",
+      "translation": "Can boğaza gelip dayandığında,",
+      "footnotes": null
+    },
+    {
+      "id": "5060",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "84",
+      "arabic_text": "وَاَنْتُمْ ح۪ينَئِذٍ تَنْظُرُونَۙ",
+      "translation": "Siz, o zaman bakıyor olacaksınız.",
+      "footnotes": null
+    },
+    {
+      "id": "5061",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "85",
+      "arabic_text": "وَنَحْنُ اَقْرَبُ اِلَيْهِ مِنْكُمْ وَلٰكِنْ لَا تُبْصِرُونَ",
+      "translation": "Biz size, ondan daha yakınız fakat görmezsiniz.",
+      "footnotes": null
+    },
+    {
+      "id": "5062",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "86",
+      "arabic_text": "فَلَوْلَٓا اِنْ كُنْتُمْ غَيْرَ مَد۪ين۪ينَۙ",
+      "translation": "Şayet ceza gününde, (iddia ettiğiniz gibi diriltilmeyecek ve) hesaba çekilmeyecekseniz,",
+      "footnotes": null
+    },
+    {
+      "id": "5063",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "87",
+      "arabic_text": "تَرْجِعُونَهَٓا اِنْ كُنْتُمْ صَادِق۪ينَ",
+      "translation": "Şayet doğru söylüyorsanız, (çıkmakta olan canı) geri çevirsenize!",
+      "footnotes": null
+    },
+    {
+      "id": "5064",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "88",
+      "arabic_text": "فَاَمَّٓا اِنْ كَانَ مِنَ الْمُقَرَّب۪ينَۙ",
+      "translation": "Şayet o, (Allah’a) yakın kılınanlardan ise,",
+      "footnotes": null
+    },
+    {
+      "id": "5065",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "89",
+      "arabic_text": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَع۪يمٍ",
+      "translation": "Rahatlık, rızık ve “Naim Cenneti” vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "5066",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "90",
+      "arabic_text": "وَاَمَّٓا اِنْ كَانَ مِنْ اَصْحَابِ الْيَم۪ينِۙ",
+      "translation": "Şayet o Ashabu’l Yemin’dense,",
+      "footnotes": null
+    },
+    {
+      "id": "5067",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "91",
+      "arabic_text": "فَسَلَامٌ لَكَ مِنْ اَصْحَابِ الْيَم۪ينِ",
+      "translation": "Selam olsun sana ey Ashab-ı Yemin!",
+      "footnotes": null
+    },
+    {
+      "id": "5068",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "92",
+      "arabic_text": "وَاَمَّٓا اِنْ كَانَ مِنَ الْمُكَذِّب۪ينَ الضَّٓالّ۪ينَۙ",
+      "translation": "Ama o sapık yalanlayıcılardansa,",
+      "footnotes": null
+    },
+    {
+      "id": "5069",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "93",
+      "arabic_text": "فَنُزُلٌ مِنْ حَم۪يمٍۙ",
+      "translation": "Kaynar sudan bir ziyafet,",
+      "footnotes": null
+    },
+    {
+      "id": "5070",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "94",
+      "arabic_text": "وَتَصْلِيَةُ جَح۪يمٍۙ",
+      "translation": "Ve cehenneme atılma (onu bekler).",
+      "footnotes": null
+    },
+    {
+      "id": "5071",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "95",
+      "arabic_text": "اِنَّ هٰذَا لَهُوَ حَقُّ الْيَق۪ينِۚ",
+      "translation": "Şüphesiz ki bu, kesin olan hakkın ta kendisidir.",
+      "footnotes": null
+    },
+    {
+      "id": "5072",
+      "suraNo": "56",
+      "suraName": "Vâkıa",
+      "aya": "96",
+      "arabic_text": "فَسَبِّحْ بِاسْمِ رَبِّكَ الْعَظ۪يمِ",
+      "translation": "O hâlde büyük Rabbini ismiyle tesbih et.",
+      "footnotes": null
+    }
+  ]
+}

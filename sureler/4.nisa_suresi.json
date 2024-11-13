@@ -1,0 +1,1588 @@
+{
+  "result": [
+    {
+      "id": "494",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "1",
+      "arabic_text": "يَٓا اَيُّهَا النَّاسُ اتَّقُوا رَبَّكُمُ الَّذ۪ي خَلَقَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَث۪يرًا وَنِسَٓاءًۚ وَاتَّقُوا اللّٰهَ الَّذ۪ي تَسَٓاءَلُونَ بِه۪ وَالْاَرْحَامَۜ اِنَّ اللّٰهَ كَانَ عَلَيْكُمْ رَق۪يبًا",
+      "translation": "Ey insanlar! Sizleri tek bir nefisten yaratan, ondan da eşini yaratan ve o ikisinden de birçok erkek ve kadın türetip (yeryüzünde) yayan Rabbinizden korkup sakının. Kendisiyle istediğiniz Allah’tan ve akrabalık bağlarını koparmaktan korkup sakının. Şüphesiz ki Allah, sizin üzerinizde gözetleyicidir.",
+      "footnotes": null
+    },
+    {
+      "id": "495",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "2",
+      "arabic_text": "وَاٰتُوا الْيَتَامٰٓى اَمْوَالَهُمْ وَلَا تَتَبَدَّلُوا الْخَب۪يثَ بِالطَّيِّبِۖ وَلَا تَأْكُلُٓوا اَمْوَالَهُمْ اِلٰٓى اَمْوَالِكُمْۜ اِنَّهُ كَانَ حُوبًا كَب۪يرًا",
+      "translation": "Yetimlere mallarını verin ve (onların mallarından iyiyi alıp, kötü olanı onlara vererek) pis ile temizi değiştirmeyin. (Yetimlerin) mallarını, mallarınıza (karıştırarak) yemeyin. Şüphesiz ki bu, büyük bir günahtır.",
+      "footnotes": null
+    },
+    {
+      "id": "496",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "3",
+      "arabic_text": "وَاِنْ خِفْتُمْ اَلَّا تُقْسِطُوا فِي الْيَتَامٰى فَانْكِحُوا مَا طَابَ لَكُمْ مِنَ النِّسَٓاءِ مَثْنٰى وَثُلٰثَ وَرُبَاعَۚ فَاِنْ خِفْتُمْ اَلَّا تَعْدِلُوا فَوَاحِدَةً اَوْ مَا مَلَكَتْ اَيْمَانُكُمْۜ ذٰلِكَ اَدْنٰٓى اَلَّا تَعُولُواۜ",
+      "translation": "Yetimler hakkında adil olamayacağınızdan korkarsanız, (yetim olmayan) kadınlardan hoşunuza giden iki, üç, dört (kadını) nikâhlayın. Şayet (kadınlar arasında) adaleti sağlayamayacağınızdan korkarsanız, bir eşle veya cariyelerinizle yetinin. Haksızlık yapmamanız için en uygun olan budur.",
+      "footnotes": null
+    },
+    {
+      "id": "497",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "4",
+      "arabic_text": "وَاٰتُوا النِّسَٓاءَ صَدُقَاتِهِنَّ نِحْلَةًۜ فَاِنْ طِبْنَ لَكُمْ عَنْ شَيْءٍ مِنْهُ نَفْسًا فَكُلُوهُ هَن۪ٓيـًٔا مَر۪ٓيـًٔا",
+      "translation": "Kadınlara mehirlerini gönül hoşluğuyla verin. (Bununla beraber mehirlerinden) bir kısmını size bağışlarlarsa afiyetle yiyin.",
+      "footnotes": null
+    },
+    {
+      "id": "498",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "5",
+      "arabic_text": "وَلَا تُؤْتُوا السُّفَهَٓاءَ اَمْوَالَكُمُ الَّت۪ي جَعَلَ اللّٰهُ لَكُمْ قِيَامًا وَارْزُقُوهُمْ ف۪يهَا وَاكْسُوهُمْ وَقُولُوا لَهُمْ قَوْلًا مَعْرُوفًا",
+      "translation": "Allah’ın işlerinizi göresiniz diye verdiği malları, (aklı tam olgunlaşmamış) sefihlere vermeyin. O maldan onları yedirip giydirin ve onlara güzel söz söyleyin.",
+      "footnotes": null
+    },
+    {
+      "id": "499",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "6",
+      "arabic_text": "وَابْتَلُوا الْيَتَامٰى حَتّٰٓى اِذَا بَلَغُوا النِّكَاحَۚ فَاِنْ اٰنَسْتُمْ مِنْهُمْ رُشْدًا فَادْفَعُٓوا اِلَيْهِمْ اَمْوَالَهُمْۚ وَلَا تَأْكُلُوهَٓا اِسْرَافًا وَبِدَارًا اَنْ يَكْبَرُواۜ وَمَنْ كَانَ غَنِيًّا فَلْيَسْتَعْفِفْۚ وَمَنْ كَانَ فَق۪يرًا فَلْيَأْكُلْ بِالْمَعْرُوفِۜ فَاِذَا دَفَعْتُمْ اِلَيْهِمْ اَمْوَالَهُمْ فَاَشْهِدُوا عَلَيْهِمْۜ وَكَفٰى بِاللّٰهِ حَس۪يبًا",
+      "translation": "Evlilik çağına ulaşıncaya kadar yetimleri sınayın. Onların (evlenecek) olgunluğa ulaştığını sezerseniz, mallarını onlara verin. Onların büyüyüp (mallarını alacakları korkusuyla) israfla ve çabucak mallarını yemeyin. Her kim zengin olursa (onların mallarından yemesin,) iffetli davransın. Kim de fakir olursa örfe göre yesin. (Olgunluğa eriştiklerini görüp) mallarını onlara verdiğinizde şahit tutun. Hesap gören olarak Allah yeter.",
+      "footnotes": null
+    },
+    {
+      "id": "500",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "7",
+      "arabic_text": "لِلرِّجَالِ نَص۪يبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْاَقْرَبُونَۖ وَلِلنِّسَٓاءِ نَص۪يبٌ مِمَّا تَرَكَ الْوَالِدَانِ وَالْاَقْرَبُونَ مِمَّا قَلَّ مِنْهُ اَوْ كَثُرَۜ نَص۪يبًا مَفْرُوضًا",
+      "translation": "Ebeveyn ve akrabaların (miras olarak) bıraktıklarında erkekler için bir pay vardır. Ebeveyn ve akrabaların (miras olarak) bıraktıklarında kadınlar için de bir pay vardır. (Miras olarak kalandan) az veya çok (Allah tarafından) belirlenmiş bir paydır.",
+      "footnotes": null
+    },
+    {
+      "id": "501",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "8",
+      "arabic_text": "وَاِذَا حَضَرَ الْقِسْمَةَ اُو۬لُوا الْقُرْبٰى وَالْيَتَامٰى وَالْمَسَاك۪ينُ فَارْزُقُوهُمْ مِنْهُ وَقُولُوا لَهُمْ قَوْلًا مَعْرُوفًا",
+      "translation": "(Miras) bölüştürmede akrabalar, yetimler ve miskinler/ihtiyaç sahibi yoksullar hazır bulunursa, (mirastan) onları faydalandırın ve onlara güzel söz söyleyin.",
+      "footnotes": null
+    },
+    {
+      "id": "502",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "9",
+      "arabic_text": "وَلْيَخْشَ الَّذ۪ينَ لَوْ تَرَكُوا مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَافًا خَافُوا عَلَيْهِمْۖ فَلْيَتَّقُوا اللّٰهَ وَلْيَقُولُوا قَوْلًا سَد۪يدًا",
+      "translation": "Arkalarında bıraktıkları zayıf çocuklardan dolayı endişe duyanlar, (velayetleri altında olan yetimler konusunda Allah’tan) korksunlar. (Geride bıraktıkları öz evlatlarına nasıl davranılmasını istiyorlarsa sorumlu oldukları yetimlere de öyle davransınlar.) Allah’tan korkup sakınsınlar ve dosdoğru söz söylesinler.",
+      "footnotes": null
+    },
+    {
+      "id": "503",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "10",
+      "arabic_text": "اِنَّ الَّذ۪ينَ يَأْكُلُونَ اَمْوَالَ الْيَتَامٰى ظُلْمًا اِنَّمَا يَأْكُلُونَ ف۪ي بُطُونِهِمْ نَارًاۜ وَسَيَصْلَوْنَ سَع۪يرًا۟",
+      "translation": "Şüphesiz ki yetimlerin mallarını zulümle yiyen kimseler, ancak karınlarına ateş dolduruyorlar. Ve onlar alevleri dehşet saçan ateşe gireceklerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "504",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "11",
+      "arabic_text": "يُوص۪يكُمُ اللّٰهُ ف۪ٓي اَوْلَادِكُمْ لِلذَّكَرِ مِثْلُ حَظِّ الْاُنْثَيَيْنِۚ فَاِنْ كُنَّ نِسَٓاءً فَوْقَ اثْنَتَيْنِ فَلَهُنَّ ثُلُثَا مَا تَرَكَۚ وَاِنْ كَانَتْ وَاحِدَةً فَلَهَا النِّصْفُۜ وَلِاَبَوَيْهِ لِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُ مِمَّا تَرَكَ اِنْ كَانَ لَهُ وَلَدٌۚ فَاِنْ لَمْ يَكُنْ لَهُ وَلَدٌ وَوَرِثَهُٓ اَبَوَاهُ فَلِاُمِّهِ الثُّلُثُۚ فَاِنْ كَانَ لَهُٓ اِخْوَةٌ فَلِاُمِّهِ السُّدُسُ مِنْ بَعْدِ وَصِيَّةٍ يُوص۪ي بِهَٓا اَوْ دَيْنٍۜ اٰبَٓاؤُ۬كُمْ وَاَبْنَٓاؤُ۬كُمْۚ لَا تَدْرُونَ اَيُّهُمْ اَقْرَبُ لَكُمْ نَفْعًاۚ فَر۪يضَةً مِنَ اللّٰهِۜ اِنَّ اللّٰهَ كَانَ عَل۪يمًا حَك۪يمًا",
+      "translation": "Allah, evlatlarınız hakkında erkeklere, kız çocuklarının payının iki mislini vermenizi tavsiye eder. Şayet o (kız çocukları), ikiden fazlaysa (mirastan) üçte iki onların hakkıdır. (Kız çocuk) tek ise mirasın yarısı onundur. (Miras bırakanın) çocuğu bulunuyorsa ebeveynin her biri mirastan altıda bir pay alır. (Miras bırakanın) çocuğu yoksa ve ebeveyni onun vârisi ise anne üçte bir alır. Şayet (ölenin) kardeşleri varsa anne altıda bir alır. (Tüm bunlar ölenin) vasiyeti yerine getirildikten ve borçları ödendikten sonradır. Babalarınız ve evlatlarınız! Hangisinin fayda olarak size daha yakın olduğunu bilemezsiniz. (Bu paylar) Allah tarafından farz olarak belirlenmiştir. Şüphesiz ki Allah, (her şeyi bilen) Alîm, (hüküm ve hikmet sahibi olan) Hakîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "505",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "12",
+      "arabic_text": "وَلَكُمْ نِصْفُ مَا تَرَكَ اَزْوَاجُكُمْ اِنْ لَمْ يَكُنْ لَهُنَّ وَلَدٌۚ فَاِنْ كَانَ لَهُنَّ وَلَدٌ فَلَكُمُ الرُّبُعُ مِمَّا تَرَكْنَ مِنْ بَعْدِ وَصِيَّةٍ يُوص۪ينَ بِهَٓا اَوْ دَيْنٍۜ وَلَهُنَّ الرُّبُعُ مِمَّا تَرَكْتُمْ اِنْ لَمْ يَكُنْ لَكُمْ وَلَدٌۚ فَاِنْ كَانَ لَكُمْ وَلَدٌ فَلَهُنَّ الثُّمُنُ مِمَّا تَرَكْتُمْ مِنْ بَعْدِ وَصِيَّةٍ تُوصُونَ بِهَٓا اَوْ دَيْنٍۜ وَاِنْ كَانَ رَجُلٌ يُورَثُ كَلَالَةً اَوِ امْرَاَةٌ وَلَهُٓ اَخٌ اَوْ اُخْتٌ فَلِكُلِّ وَاحِدٍ مِنْهُمَا السُّدُسُۚ فَاِنْ كَانُٓوا اَكْثَرَ مِنْ ذٰلِكَ فَهُمْ شُرَكَٓاءُ فِي الثُّلُثِ مِنْ بَعْدِ وَصِيَّةٍ يُوصٰى بِهَٓا اَوْ دَيْنٍۙ غَيْرَ مُضَٓارٍّۚ وَصِيَّةً مِنَ اللّٰهِۜ وَاللّٰهُ عَل۪يمٌ حَل۪يمٌۜ",
+      "translation": "Şayet çocukları bulunmuyorsa, kadınlarınızın bıraktığı mirasın yarısı size aittir. Şayet çocukları bulunuyorsa, vasiyetleri yerine getirildikten ve borçları ödendikten sonra geriye kalanın dörtte biri sizindir. Sizin çocuklarınız yoksa, bıraktığınız mirasın dörtte biri kadınlarınıza aittir. Çocuklarınız varsa, vasiyetiniz yerine getirildikten ve borçlarınız ödendikten sonra geriye kalanın sekizde biri kadınlarınıza aittir. Şayet erkek veya kadına kelale olduğundan (yani babası veya oğlu olmadığı için) mirasçı olunuyor ve onların da erkek ya da kız kardeşleri varsa her biri altıda bir alır. Şayet bundan fazla iseler, vasiyet yerine getirilip borçlar ödendikten sonra üçte birde ortaklardır. (Bütün bunlar vârise ve mirasçıya) zarar vermemek için olmalıdır. (Bu hükümler size) Allah’tan bir vasiyettir. Allah (her şeyi bilen) Alîm, (kulların hak ettikleri cezayı erteleyen) Halîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "506",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "13",
+      "arabic_text": "تِلْكَ حُدُودُ اللّٰهِۜ وَمَنْ يُطِعِ اللّٰهَ وَرَسُولَهُ يُدْخِلْهُ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَاۜ وَذٰلِكَ الْفَوْزُ الْعَظ۪يمُ",
+      "translation": "Bu (miras hükümleri) Allah’ın sınırlarıdır. Kim de Allah’a ve Resûl’üne itaat ederse, onu altından ırmaklar akan ve içinde ebedî kalacakları cennetlere sokar. Bu büyük bir kazançtır/başarıdır.",
+      "footnotes": null
+    },
+    {
+      "id": "507",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "14",
+      "arabic_text": "وَمَنْ يَعْصِ اللّٰهَ وَرَسُولَهُ وَيَتَعَدَّ حُدُودَهُ يُدْخِلْهُ نَارًا خَالِدًا ف۪يهَاۖ وَلَهُ عَذَابٌ مُه۪ينٌ۟",
+      "translation": "Kim de Allah’a ve Resûl’üne isyan eder ve O’nun sınırlarını çiğnerse, onu içinde ebedî kalacağı ateşe sokar ve onun için alçaltıcı bir azap vardır.",
+      "footnotes": null
+    },
+    {
+      "id": "508",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "15",
+      "arabic_text": "وَالّٰت۪ي يَأْت۪ينَ الْفَاحِشَةَ مِنْ نِسَٓائِكُمْ فَاسْتَشْهِدُوا عَلَيْهِنَّ اَرْبَعَةً مِنْكُمْۚ فَاِنْ شَهِدُوا فَاَمْسِكُوهُنَّ فِي الْبُيُوتِ حَتّٰى يَتَوَفّٰيهُنَّ الْمَوْتُ اَوْ يَجْعَلَ اللّٰهُ لَهُنَّ سَب۪يلًا",
+      "translation": "Kadınlarınızdan zina yapan kimselerin (bu suçu işlediklerine dair) sizden dört kişiyi şahit edinin. Şahitlik yaparlarsa ölünceye ya da Allah onlara bir yol kılıncaya kadar onları evde hapsedin.",
+      "footnotes": null
+    },
+    {
+      "id": "509",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "16",
+      "arabic_text": "وَالَّذَانِ يَأْتِيَانِهَا مِنْكُمْ فَاٰذُوهُمَاۚ فَاِنْ تَابَا وَاَصْلَحَا فَاَعْرِضُوا عَنْهُمَاۜ اِنَّ اللّٰهَ كَانَ تَوَّابًا رَح۪يمًا",
+      "translation": "Sizden zinaya yanaşanlara eziyet edin. Şayet tevbe eder ve (hatalarını) düzeltirlerse onlardan yüz çevirin. Şüphesiz ki Allah, (tevbeye muvaffak kılan ve tevbeleri çokça kabul eden) Tevvâb, (kullarına karşı merhametli olan) Rahîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "510",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "17",
+      "arabic_text": "اِنَّمَا التَّوْبَةُ عَلَى اللّٰهِ لِلَّذ۪ينَ يَعْمَلُونَ السُّٓوءَ بِجَهَالَةٍ ثُمَّ يَتُوبُونَ مِنْ قَر۪يبٍ فَاُو۬لٰٓئِكَ يَتُوبُ اللّٰهُ عَلَيْهِمْۜ وَكَانَ اللّٰهُ عَل۪يمًا حَك۪يمًا",
+      "translation": "Allah’ın (kabul edeceğine söz vererek) üstlendiği tevbe, bilmeden günah işleyen sonra çabucak tevbe edenler içindir. Bunların tevbesini Allah kabul eder. Allah (her şeyi bilen) Alîm, (hüküm ve hikmet sahibi olan) Hakîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "511",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "18",
+      "arabic_text": "وَلَيْسَتِ التَّوْبَةُ لِلَّذ۪ينَ يَعْمَلُونَ السَّيِّـَٔاتِۚ حَتّٰٓى اِذَا حَضَرَ اَحَدَهُمُ الْمَوْتُ قَالَ اِنّ۪ي تُبْتُ الْـٰٔنَ وَلَا الَّذ۪ينَ يَمُوتُونَ وَهُمْ كُفَّارٌۜ اُو۬لٰٓئِكَ اَعْتَدْنَا لَهُمْ عَذَابًا اَل۪يمًا",
+      "translation": "(Tevbe etmeksizin) günah işleyip duran, onlardan birine ölüm gelip çatınca da: “Şimdi tevbe ettim.” diyenlerin ve kâfir olarak can verenlerin tevbesi yoktur. Bunlara can yakıcı bir azap hazırlamışızdır.",
+      "footnotes": null
+    },
+    {
+      "id": "512",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "19",
+      "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا يَحِلُّ لَكُمْ اَنْ تَرِثُوا النِّسَٓاءَ كَرْهًاۜ وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا بِبَعْضِ مَٓا اٰتَيْتُمُوهُنَّ اِلَّٓا اَنْ يَأْت۪ينَ بِفَاحِشَةٍ مُبَيِّنَةٍۚ وَعَاشِرُوهُنَّ بِالْمَعْرُوفِۚ فَاِنْ كَرِهْتُمُوهُنَّ فَعَسٰٓى اَنْ تَكْرَهُوا شَيْـًٔا وَيَجْعَلَ اللّٰهُ ف۪يهِ خَيْرًا كَث۪يرًا",
+      "translation": "Ey iman edenler! Kadınlara zorla mirasçı olmanız size helal değildir. Apaçık bir fuhşiyat/zina işlemedikleri sürece, verdiğiniz (mehirleri) geri almak için zorbalıkla baskı yapmayın. Onlarla iyilikle geçinin. Şayet onlardan hoşlanmazsanız (acele etmeyin). Umulur ki hoşlanmadığınız bir şeyde Allah çokça hayır kılar.",
+      "footnotes": null
+    },
+    {
+      "id": "513",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "20",
+      "arabic_text": "وَاِنْ اَرَدْتُمُ اسْتِبْدَالَ زَوْجٍ مَكَانَ زَوْجٍۙ وَاٰتَيْتُمْ اِحْدٰيهُنَّ قِنْطَارًا فَلَا تَأْخُذُوا مِنْهُ شَيْـًٔاۜ اَتَأْخُذُونَهُ بُهْتَانًا وَاِثْمًا مُب۪ينًا",
+      "translation": "Bir eşin yerine başka bir eş almak isterseniz, onlardan birine bir kantar (altın ya da gümüşü mehir olarak) vermiş olsanız bile ondan hiçbir şey almayın. Onu iftira ve apaçık bir günahla mı alacaksınız?",
+      "footnotes": null
+    },
+    {
+      "id": "514",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "21",
+      "arabic_text": "وَكَيْفَ تَأْخُذُونَهُ وَقَدْ اَفْضٰى بَعْضُكُمْ اِلٰى بَعْضٍ وَاَخَذْنَ مِنْكُمْ م۪يثَاقًا غَل۪يظًا",
+      "translation": "Birbirinizle kaynaşmış olduğunuz hâlde (verdiğiniz mehirleri) nasıl alacaksınız? Hem sizden pekiştirilmiş bir söz almışlardır.",
+      "footnotes": null
+    },
+    {
+      "id": "515",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "22",
+      "arabic_text": "وَلَا تَنْكِحُوا مَا نَكَحَ اٰبَٓاؤُ۬كُمْ مِنَ النِّسَٓاءِ اِلَّا مَا قَدْ سَلَفَۜ اِنَّهُ كَانَ فَاحِشَةً وَمَقْتًاۜ وَسَٓاءَ سَب۪يلًا۟",
+      "translation": "Geçmişte kalanlar hariç, babalarınızın evlendiği kadınlarla evlenmeyin. Şüphesiz ki o, bir fuhşiyat ve Allah’ın gazabına neden olan çirkin bir ameldi. Ne kötü bir uygulamaydı.",
+      "footnotes": null
+    },
+    {
+      "id": "516",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "23",
+      "arabic_text": "حُرِّمَتْ عَلَيْكُمْ اُمَّهَاتُكُمْ وَبَنَاتُكُمْ وَاَخَوَاتُكُمْ وَعَمَّاتُكُمْ وَخَالَاتُكُمْ وَبَنَاتُ الْاَخِ وَبَنَاتُ الْاُخْتِ وَاُمَّهَاتُكُمُ الّٰت۪ٓي اَرْضَعْنَكُمْ وَاَخَوَاتُكُمْ مِنَ الرَّضَاعَةِ وَاُمَّهَاتُ نِسَٓائِكُمْ وَرَبَٓائِبُكُمُ الّٰت۪ي ف۪ي حُجُورِكُمْ مِنْ نِسَٓائِكُمُ الّٰت۪ي دَخَلْتُمْ بِهِنَّۘ فَاِنْ لَمْ تَكُونُوا دَخَلْتُمْ بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْۘ وَحَلَٓائِلُ اَبْنَٓائِكُمُ الَّذ۪ينَ مِنْ اَصْلَابِكُمْۙ وَاَنْ تَجْمَعُوا بَيْنَ الْاُخْتَيْنِ اِلَّا مَا قَدْ سَلَفَۜ اِنَّ اللّٰهَ كَانَ غَفُورًا رَح۪يمًاۙ",
+      "translation": "(Şu insanlarla evlenmeniz) size haram kılındı: Anneleriniz, kızlarınız, kız kardeşleriniz, halalarınız, teyzeleriniz, erkek kardeşinizin kızları, kız kardeşinizin kızları, sizi emziren süt anneleriniz, süt kardeşleriniz, eşlerinizin anneleri, kendileriyle zifafa girdiğiniz kadınlarınızın sizin yanınızda büyüyen çocukları -şayet anneleriyle zifafa girmediyseniz (onların sizden olmayan çocuklarıyla evlenmenizde) sizin için bir günah yoktur- sizin soyunuzdan olan çocuklarınızın eşleri, geçmişte kalanlar hariç iki kız kardeşi (aynı nikâh altında) bir araya getirmeniz... Şüphesiz ki Allah, (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) Ğafûr, (kullarına karşı merhametli olan) Rahîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "517",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "24",
+      "arabic_text": "وَالْمُحْصَنَاتُ مِنَ النِّسَٓاءِ اِلَّا مَا مَلَكَتْ اَيْمَانُكُمْۚ كِتَابَ اللّٰهِ عَلَيْكُمْۘ وَاُحِلَّ لَكُمْ مَا وَرَٓاءَ ذٰلِكُمْ اَنْ تَبْتَغُوا بِاَمْوَالِكُمْ مُحْصِن۪ينَ غَيْرَ مُسَافِح۪ينَۜ فَمَا اسْتَمْتَعْتُمْ بِه۪ مِنْهُنَّ فَاٰتُوهُنَّ اُجُورَهُنَّ فَر۪يضَةًۜ وَلَا جُنَاحَ عَلَيْكُمْ ف۪يمَا تَرَاضَيْتُمْ بِه۪ مِنْ بَعْدِ الْفَر۪يضَةِۜ اِنَّ اللّٰهَ كَانَ عَل۪يمًا حَك۪يمًا",
+      "translation": "Elinizin altında bulunan (cariyeleriniz) dışında evli kadınlar da haram kılındı. (Bu sayılanlar) Allah’ın sizin üzerinizdeki kesin hükmüdür. Bunların dışında kalan kadınlarla, mallarınızla (mehirlerini ödeyip), zinaya düşmeden evlilik yapmayı talep etmeniz size helal kılındı. Onlardan (nikâh yaparak) faydalandıklarınızın (mehir) ücretlerini, (Allah tarafından belirlenmiş) bir farz olarak verin. (Mehir) belirledikten sonra aranızda karşılıklı rızaya dayalı anlaşır (haklarınızdan feragat ederseniz), sizin için bir günah yoktur. Şüphesiz ki Allah, (her şeyi bilen) Alîm, (hüküm ve hikmet sahibi olan) Hakîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "518",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "25",
+      "arabic_text": "وَمَنْ لَمْ يَسْتَطِعْ مِنْكُمْ طَوْلًا اَنْ يَنْكِحَ الْمُحْصَنَاتِ الْمُؤْمِنَاتِ فَمِنْ مَا مَلَكَتْ اَيْمَانُكُمْ مِنْ فَتَيَاتِكُمُ الْمُؤْمِنَاتِۜ وَاللّٰهُ اَعْلَمُ بِا۪يمَانِكُمْۜ بَعْضُكُمْ مِنْ بَعْضٍۚ فَانْكِحُوهُنَّ بِاِذْنِ اَهْلِهِنَّ وَاٰتُوهُنَّ اُجُورَهُنَّ بِالْمَعْرُوفِ مُحْصَنَاتٍ غَيْرَ مُسَافِحَاتٍ وَلَا مُتَّخِذَاتِ اَخْدَانٍۚ فَاِذَٓا اُحْصِنَّ فَاِنْ اَتَيْنَ بِفَاحِشَةٍ فَعَلَيْهِنَّ نِصْفُ مَا عَلَى الْمُحْصَنَاتِ مِنَ الْعَذَابِۜ ذٰلِكَ لِمَنْ خَشِيَ الْعَنَتَ مِنْكُمْۜ وَاَنْ تَصْبِرُوا خَيْرٌ لَكُمْۜ وَاللّٰهُ غَفُورٌ رَح۪يمٌ۟",
+      "translation": "Sizden hür ve mümin kadınlarla evlenmeye güç yetiremeyenler, yanınızda bulunan mümin cariye hanımlarla evlensin. Allah imanlarınızı en iyi bilendir. Siz (imanda kardeş, insanlıkta eşit olduğunuz için) birbirinizdensiniz. Onları ailelerinin izniyle nikâhlayın ve (mehir) ücretlerini iyilikle verin. İffetli bir şekilde, zinaya düşmeksizin ve dost tutmaksızın (evlilik yapın). Evlendikleri zaman zina yaparlarsa, hür kadınların cezasının yarısı kadarıyla cezalandırılırlar. Bu (cariyelerle evlilik izni) sizden zinadan korkanlar içindir. (Evlenmeden) sabretmeniz sizin için daha hayırlıdır. Allah (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) Ğafûr, (kullarına karşı merhametli olan) Rahîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "519",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "26",
+      "arabic_text": "يُر۪يدُ اللّٰهُ لِيُبَيِّنَ لَكُمْ وَيَهْدِيَكُمْ سُنَنَ الَّذ۪ينَ مِنْ قَبْلِكُمْ وَيَتُوبَ عَلَيْكُمْۜ وَاللّٰهُ عَل۪يمٌ حَك۪يمٌ",
+      "translation": "Allah size açıklamak, sizi sizden öncekilerin sünnetine iletmek ve tevbelerinizi kabul etmek ister. Allah (her şeyi bilen) Alîm, (hüküm ve hikmet sahibi olan) Hakîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "520",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "27",
+      "arabic_text": "وَاللّٰهُ يُر۪يدُ اَنْ يَتُوبَ عَلَيْكُمْ وَيُر۪يدُ الَّذ۪ينَ يَتَّبِعُونَ الشَّهَوَاتِ اَنْ تَم۪يلُوا مَيْلًا عَظ۪يمًا",
+      "translation": "Allah, (sizleri tevbeye muvaffak kılarak) tevbelerinizi kabul etmek ister. Şehvetlere tabi olan kimseler ise sizin büyük sapıklıkla sapmanızı isterler.",
+      "footnotes": null
+    },
+    {
+      "id": "521",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "28",
+      "arabic_text": "يُر۪يدُ اللّٰهُ اَنْ يُخَفِّفَ عَنْكُمْۚ وَخُلِقَ الْاِنْسَانُ ضَع۪يفًا",
+      "translation": "Allah sizden (yükünüzü) hafifletmek ister. Ve insan zayıf olarak yaratıldı.",
+      "footnotes": null
+    },
+    {
+      "id": "522",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "29",
+      "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تَأْكُلُٓوا اَمْوَالَكُمْ بَيْنَكُمْ بِالْبَاطِلِ اِلَّٓا اَنْ تَكُونَ تِجَارَةً عَنْ تَرَاضٍ مِنْكُمْ وَلَا تَقْتُلُٓوا اَنْفُسَكُمْۜ اِنَّ اللّٰهَ كَانَ بِكُمْ رَح۪يمًا",
+      "translation": "Ey iman edenler! Karşılıklı rızaya dayalı bir ticaret olması dışında, aranızda mallarınızı batıl yolla yemeyin. Kendinizi öldürmeyin. Şüphesiz ki Allah, size karşı merhametlidir.",
+      "footnotes": null
+    },
+    {
+      "id": "523",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "30",
+      "arabic_text": "وَمَنْ يَفْعَلْ ذٰلِكَ عُدْوَانًا وَظُلْمًا فَسَوْفَ نُصْل۪يهِ نَارًاۜ وَكَانَ ذٰلِكَ عَلَى اللّٰهِ يَس۪يرًا",
+      "translation": "Kim de bunu haddi aşmak ve zulmetmek için yaparsa, (bir ceza olarak) onu ateşe sokacağız. Bu, Allah için çok kolaydır.",
+      "footnotes": null
+    },
+    {
+      "id": "524",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "31",
+      "arabic_text": "اِنْ تَجْتَنِبُوا كَبَٓائِرَ مَا تُنْهَوْنَ عَنْهُ نُكَفِّرْ عَنْكُمْ سَيِّـَٔاتِكُمْ وَنُدْخِلْكُمْ مُدْخَلًا كَر۪يمًا",
+      "translation": "Yasaklandığınız büyük günahlardan kaçınırsanız (küçük) günahlarınızı örter ve sizi şerefli bir makama sokarız.",
+      "footnotes": null
+    },
+    {
+      "id": "525",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "32",
+      "arabic_text": "وَلَا تَتَمَنَّوْا مَا فَضَّلَ اللّٰهُ بِه۪ بَعْضَكُمْ عَلٰى بَعْضٍۜ لِلرِّجَالِ نَص۪يبٌ مِمَّا اكْتَسَبُوا وَلِلنِّسَٓاءِ نَص۪يبٌ مِمَّا اكْتَسَبْنَۜ وَسْـَٔلُوا اللّٰهَ مِنْ فَضْلِه۪ۜ اِنَّ اللّٰهَ كَانَ بِكُلِّ شَيْءٍ عَل۪يمًا",
+      "translation": "Allah’ın bir kısmınızı diğer bir kısmınıza üstün kıldığı şeyleri temenni etmeyin. Erkeklere kazandıklarından bir pay, kadınlara da kazandıklarından bir pay vardır. Allah’tan fazlını isteyin. Şüphesiz ki Allah, her şeyi bilendir.",
+      "footnotes": null
+    },
+    {
+      "id": "526",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "33",
+      "arabic_text": "وَلِكُلٍّ جَعَلْنَا مَوَالِيَ مِمَّا تَرَكَ الْوَالِدَانِ وَالْاَقْرَبُونَۜ وَالَّذ۪ينَ عَقَدَتْ اَيْمَانُكُمْ فَاٰتُوهُمْ نَص۪يبَهُمْۜ اِنَّ اللّٰهَ كَانَ عَلٰى كُلِّ شَيْءٍ شَه۪يدًا۟",
+      "translation": "Anne, baba ve yakın akrabanın geride bıraktıklarından her biri için mirasçılar kıldık. Yemininiz (ya da anlaşmalarınızın) bağladığı kimselere paylarını verin. Şüphesiz ki Allah, her şeye şahit olandır.",
+      "footnotes": null
+    },
+    {
+      "id": "527",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "34",
+      "arabic_text": "اَلرِّجَالُ قَوَّامُونَ عَلَى النِّسَٓاءِ بِمَا فَضَّلَ اللّٰهُ بَعْضَهُمْ عَلٰى بَعْضٍ وَبِمَٓا اَنْفَقُوا مِنْ اَمْوَالِهِمْۜ فَالصَّالِحَاتُ قَانِتَاتٌ حَافِظَاتٌ لِلْغَيْبِ بِمَا حَفِظَ اللّٰهُۜ وَالّٰت۪ي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَاهْجُرُوهُنَّ فِي الْمَضَاجِعِ وَاضْرِبُوهُنَّۚ فَاِنْ اَطَعْنَكُمْ فَلَا تَبْغُوا عَلَيْهِنَّ سَب۪يلًاۜ اِنَّ اللّٰهَ كَانَ عَلِيًّا كَب۪يرًا",
+      "translation": "Allah’ın bir kısmını (erkekleri) diğer bir kısmına (kadınlara) üstün kılması ve mallarından harcamaları nedeniyle erkekler, kadınlar üzerinde idare edicidir. Saliha kadınlar, gönülden Allah’a itaat eden ve gaybta (kimsenin olmadığı yerlerde) Allah’ın koruduğu (iffet, mal gibi şeyleri) koruyan kimselerdir. Serkeşliğinden korktuğunuz kadınlara nasihat edin, yataklarını terk edin, onları dövün. (Bunlardan herhangi birini yaptığınızda) size itaat eder (serkeşliği bırakırlarsa) onların aleyhine (onlara zarar verecek başka bir) yol aramayın. Şüphesiz ki Allah, (zatı ve sıfatları en yüce olan) Aliy, (en büyük olan) Kebîr’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "528",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "35",
+      "arabic_text": "وَاِنْ خِفْتُمْ شِقَاقَ بَيْنِهِمَا فَابْعَثُوا حَكَمًا مِنْ اَهْلِه۪ وَحَكَمًا مِنْ اَهْلِهَاۚ اِنْ يُر۪يدَٓا اِصْلَاحًا يُوَفِّقِ اللّٰهُ بَيْنَهُمَاۜ اِنَّ اللّٰهَ كَانَ عَل۪يمًا خَب۪يرًا",
+      "translation": "Aralarının açılmasından korkarsanız erkeğin ehlinden bir hakem, kadının ehlinden de bir hakem yollayın. Şayet (bozulan evliliği) ıslah etmek isterlerse, Allah aralarını düzeltir (çabalarını başarıya ulaştırır). Şüphesiz ki Allah, (her şeyi bilen) Alîm, (her şeyden haberdar olan) Habîr’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "529",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "36",
+      "arabic_text": "وَاعْبُدُوا اللّٰهَ وَلَا تُشْرِكُوا بِه۪ شَيْـًٔا وَبِالْوَالِدَيْنِ اِحْسَانًا وَبِذِي الْقُرْبٰى وَالْيَتَامٰى وَالْمَسَاك۪ينِ وَالْجَارِ ذِي الْقُرْبٰى وَالْجَارِ الْجُنُبِ وَالصَّاحِبِ بِالْجَنْبِ وَابْنِ السَّب۪يلِۙ وَمَا مَلَكَتْ اَيْمَانُكُمْۜ اِنَّ اللّٰهَ لَا يُحِبُّ مَنْ كَانَ مُخْتَالًا فَخُورًاۙ",
+      "translation": "Allah’a ibadet edin, hiçbir şeyi O’na ortak koşmayın. Anne babaya, yakın akrabaya, yetimlere, miskinlere/ihtiyaç sahibi yoksullara, akrabanız olan komşuya, akraba olmayan komşuya, yanınızda olan arkadaşa, yolda kalmışa ve ellerinizin altında bulunanlara (köle ve cariyelere) iyilik yapın. Şüphesiz ki Allah, kibirli ve böbürlenen kimseleri sevmez.",
+      "footnotes": null
+    },
+    {
+      "id": "530",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "37",
+      "arabic_text": "اَلَّذ۪ينَ يَبْخَلُونَ وَيَأْمُرُونَ النَّاسَ بِالْبُخْلِ وَيَكْتُمُونَ مَٓا اٰتٰيهُمُ اللّٰهُ مِنْ فَضْلِه۪ۜ وَاَعْتَدْنَا لِلْكَافِر۪ينَ عَذَابًا مُه۪ينًاۚ",
+      "translation": "Onlar ki; cimrilik eder ve insanlara da cimriliği emrederler. Allah’ın lütuf ve ihsanından verdiği (nimetlerini) gizlerler. Biz, kâfirler için alçaltıcı bir azap hazırlamışızdır.",
+      "footnotes": null
+    },
+    {
+      "id": "531",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "38",
+      "arabic_text": "وَالَّذ۪ينَ يُنْفِقُونَ اَمْوَالَهُمْ رِئَٓاءَ النَّاسِ وَلَا يُؤْمِنُونَ بِاللّٰهِ وَلَا بِالْيَوْمِ الْاٰخِرِۜ وَمَنْ يَكُنِ الشَّيْطَانُ لَهُ قَر۪ينًا فَسَٓاءَ قَر۪ينًا",
+      "translation": "Onlar ki; mallarını insanlara gösteriş için infak eder, Allah’a ve de Ahiret Gününe inanmazlar. Kimin de arkadaşı şeytan olursa o, ne kötü bir arkadaştır.",
+      "footnotes": null
+    },
+    {
+      "id": "532",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "39",
+      "arabic_text": "وَمَاذَا عَلَيْهِمْ لَوْ اٰمَنُوا بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِ وَاَنْفَقُوا مِمَّا رَزَقَهُمُ اللّٰهُۜ وَكَانَ اللّٰهُ بِهِمْ عَل۪يمًا",
+      "translation": "Allah’a ve Ahiret Günü'ne iman edip, Allah’ın onlara rızık olarak verdiklerinden infak etseler ne kaybederlerdi ki? Allah, onları bilendir.",
+      "footnotes": null
+    },
+    {
+      "id": "533",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "40",
+      "arabic_text": "اِنَّ اللّٰهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍۚ وَاِنْ تَكُ حَسَنَةً يُضَاعِفْهَا وَيُؤْتِ مِنْ لَدُنْهُ اَجْرًا عَظ۪يمًا",
+      "translation": "Şüphesiz ki Allah, zerre ağırlığınca dahi zulmetmez. Şayet bir iyilik yapılmışsa onu kat kat fazlalaştırır ve kendi yanından büyük bir ecir verir.",
+      "footnotes": null
+    },
+    {
+      "id": "534",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "41",
+      "arabic_text": "فَكَيْفَ اِذَا جِئْنَا مِنْ كُلِّ اُمَّةٍ بِشَه۪يدٍ وَجِئْنَا بِكَ عَلٰى هٰٓؤُ۬لَٓاءِ شَه۪يدًاۜ",
+      "translation": "Her ümmetten bir şahit getirdiğimiz, seni de bunların üzerine şahit olarak getirdiğimizde onların hâli nice olur?",
+      "footnotes": null
+    },
+    {
+      "id": "535",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "42",
+      "arabic_text": "يَوْمَئِذٍ يَوَدُّ الَّذ۪ينَ كَفَرُوا وَعَصَوُا الرَّسُولَ لَوْ تُسَوّٰى بِهِمُ الْاَرْضُۜ وَلَا يَكْتُمُونَ اللّٰهَ حَد۪يثًا۟",
+      "translation": "O gün, kâfir olan ve Resûl’e isyan edenler yerle bir olmak isterler. (Bununla beraber) Allah’tan hiçbir sözü de gizleyemezler.",
+      "footnotes": null
+    },
+    {
+      "id": "536",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "43",
+      "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تَقْرَبُوا الصَّلٰوةَ وَاَنْتُمْ سُكَارٰى حَتّٰى تَعْلَمُوا مَا تَقُولُونَ وَلَا جُنُبًا اِلَّا عَابِر۪ي سَب۪يلٍ حَتّٰى تَغْتَسِلُواۜ وَاِنْ كُنْتُمْ مَرْضٰٓى اَوْ عَلٰى سَفَرٍ اَوْ جَٓاءَ اَحَدٌ مِنْكُمْ مِنَ الْغَٓائِطِ اَوْ لٰمَسْتُمُ النِّسَٓاءَ فَلَمْ تَجِدُوا مَٓاءً فَتَيَمَّمُوا صَع۪يدًا طَيِّبًا فَامْسَحُوا بِوُجُوهِكُمْ وَاَيْد۪يكُمْۜ اِنَّ اللّٰهَ كَانَ عَفُوًّا غَفُورًا",
+      "translation": "Ey iman edenler! Sarhoş olduğunuzda ne dediğinizi bilinceye kadar ve cünüp olduğunuzda -yolculuk hâli müstesna- gusledinceye kadar namaza yaklaşmayın. Şayet hasta olur, yolculukta bulunursanız veya sizden biri ihtiyaç gidermeden gelirse veya kadınlarla birlikte olur ve su bulamazsanız, temiz toprakla teyemmüm edin. Yüzlerinizi ve ellerinizi mesh edin. Şüphesiz ki Allah, (günahları affeden) Afuv, (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) Ğafûr’dur.",
+      "footnotes": null
+    },
+    {
+      "id": "537",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "44",
+      "arabic_text": "اَلَمْ تَرَ اِلَى الَّذ۪ينَ اُو۫تُوا نَص۪يبًا مِنَ الْكِتَابِ يَشْتَرُونَ الضَّلَالَةَ وَيُر۪يدُونَ اَنْ تَضِلُّوا السَّب۪يلَۜ",
+      "translation": "Kendilerine Kitap’tan pay verilen kimseleri görmedin mi? Sapıklığı satın alıyor ve sizin de yoldan sapmanızı istiyorlar.",
+      "footnotes": null
+    },
+    {
+      "id": "538",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "45",
+      "arabic_text": "وَاللّٰهُ اَعْلَمُ بِاَعْدَٓائِكُمْۜ وَكَفٰى بِاللّٰهِ وَلِيًّاۗ وَكَفٰى بِاللّٰهِ نَص۪يرًا",
+      "translation": "Allah, düşmanlarınızı en iyi bilendir. (Düşmanlarınıza karşı size) dost olarak da Allah yeter. Yardımcı olarak da Allah yeter.",
+      "footnotes": null
+    },
+    {
+      "id": "539",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "46",
+      "arabic_text": "مِنَ الَّذ۪ينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَنْ مَوَاضِعِه۪ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَاسْمَعْ غَيْرَ مُسْمَعٍ وَرَاعِنَا لَيًّا بِاَلْسِنَتِهِمْ وَطَعْنًا فِي الدّ۪ينِۜ وَلَوْ اَنَّهُمْ قَالُوا سَمِعْنَا وَاَطَعْنَا وَاسْمَعْ وَانْظُرْنَا لَكَانَ خَيْرًا لَهُمْ وَاَقْوَمَۙ وَلٰكِنْ لَعَنَهُمُ اللّٰهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ اِلَّا قَل۪يلًا",
+      "translation": "Yahudi olanlardan bazısı, kelimeleri kondukları yerden (asıl manalarının dışında kullanarak) tahrif ediyorlar. Dillerini geveleyerek ve dine hakaret ederek: “İşittik ve isyan ettik.”, “İşit işitmez olası!” ve “Râinâ!” diyorlar. Şayet onlar: “İşittik ve itaat ettik.”, “İşit ve bizi gözet!” deselerdi onlar için daha hayırlı ve daha doğru olurdu. Fakat Allah, küfürleri nedeniyle onlara lanet etti. (Bu nedenle) pek az iman ederler.",
+      "footnotes": null
+    },
+    {
+      "id": "540",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "47",
+      "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اُو۫تُوا الْكِتَابَ اٰمِنُوا بِمَا نَزَّلْنَا مُصَدِّقًا لِمَا مَعَكُمْ مِنْ قَبْلِ اَنْ نَطْمِسَ وُجُوهًا فَنَرُدَّهَا عَلٰٓى اَدْبَارِهَٓا اَوْ نَلْعَنَهُمْ كَمَا لَعَنَّٓا اَصْحَابَ السَّبْتِۜ وَكَانَ اَمْرُ اللّٰهِ مَفْعُولًا",
+      "translation": "Ey kendilerine Kitap verilenler! Birtakım yüzleri silip arkalarına çevirmeden1 ya da Cumartesi Ashabı’na lanet ettiğimiz gibi lanet etmeden önce, yanınızdakini doğrulayıcı olarak indirdiğimiz (Kur’ân’a) iman edin. Allah’ın emri mutlaka yerine gelmiştir/gelecektir.",
+      "footnotes": null
+    },
+    {
+      "id": "541",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "48",
+      "arabic_text": "اِنَّ اللّٰهَ لَا يَغْفِرُ اَنْ يُشْرَكَ بِه۪ وَيَغْفِرُ مَا دُونَ ذٰلِكَ لِمَنْ يَشَٓاءُۚ وَمَنْ يُشْرِكْ بِاللّٰهِ فَقَدِ افْتَرٰٓى اِثْمًا عَظ۪يمًا",
+      "translation": "Şüphesiz ki Allah, kendisine şirk koşulmasını bağışlamaz. Bunun (şirk) dışında kalanları dilediği kimse için bağışlar. Kim de Allah’a şirk koşarsa, hiç şüphesiz büyük bir günahla iftirada bulunmuş olur.",
+      "footnotes": null
+    },
+    {
+      "id": "542",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "49",
+      "arabic_text": "اَلَمْ تَرَ اِلَى الَّذ۪ينَ يُزَكُّونَ اَنْفُسَهُمْۜ بَلِ اللّٰهُ يُزَكّ۪ي مَنْ يَشَٓاءُ وَلَا يُظْلَمُونَ فَت۪يلًا",
+      "translation": "Nefislerini temize çıkaranları görmedin mi? (Hayır, öyle değil!) Bilakis, Allah dilediğini temize çıkarır. Ve onlar kıl kadar da olsa zulme uğramazlar.",
+      "footnotes": null
+    },
+    {
+      "id": "543",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "50",
+      "arabic_text": "اُنْظُرْ كَيْفَ يَفْتَرُونَ عَلَى اللّٰهِ الْكَذِبَۜ وَكَفٰى بِه۪ٓ اِثْمًا مُب۪ينًا۟",
+      "translation": "Bak! Nasıl da Allah’a yalan iftirada bulunuyorlar. Apaçık bir günah olarak (Allah’a iftira etmek) yeter.",
+      "footnotes": null
+    },
+    {
+      "id": "544",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "51",
+      "arabic_text": "اَلَمْ تَرَ اِلَى الَّذ۪ينَ اُو۫تُوا نَص۪يبًا مِنَ الْكِتَابِ يُؤْمِنُونَ بِالْجِبْتِ وَالطَّاغُوتِ وَيَقُولُونَ لِلَّذ۪ينَ كَفَرُوا هٰٓؤُ۬لَٓاءِ اَهْدٰى مِنَ الَّذ۪ينَ اٰمَنُوا سَب۪يلًا",
+      "translation": "Kendilerine Kitap’tan pay (ilim) verilen kimseleri görmedin mi? Onlar cibte ve tağuta iman ediyorlar ve kâfirler için: “Bunlar, müminlerden daha doğru bir yol üzeredir.” diyorlar.",
+      "footnotes": null
+    },
+    {
+      "id": "545",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "52",
+      "arabic_text": "اُو۬لٰٓئِكَ الَّذ۪ينَ لَعَنَهُمُ اللّٰهُۜ وَمَنْ يَلْعَنِ اللّٰهُ فَلَنْ تَجِدَ لَهُ نَص۪يرًاۜ",
+      "translation": "Bunlar, Allah’ın lanet ettiği kimselerdir. Kime de Allah lanet etmişse, ona bir yardımcı bulamazsın.",
+      "footnotes": null
+    },
+    {
+      "id": "546",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "53",
+      "arabic_text": "اَمْ لَهُمْ نَص۪يبٌ مِنَ الْمُلْكِ فَاِذًا لَا يُؤْتُونَ النَّاسَ نَق۪يرًاۙ",
+      "translation": "Yoksa onların mülkte nasipleri mi vardır? O zaman insanlara kıl kadar dahi bir şey vermezlerdi.",
+      "footnotes": null
+    },
+    {
+      "id": "547",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "54",
+      "arabic_text": "اَمْ يَحْسُدُونَ النَّاسَ عَلٰى مَٓا اٰتٰيهُمُ اللّٰهُ مِنْ فَضْلِه۪ۚ فَقَدْ اٰتَيْنَٓا اٰلَ اِبْرٰه۪يمَ الْكِتَابَ وَالْحِكْمَةَ وَاٰتَيْنَاهُمْ مُلْكًا عَظ۪يمًا",
+      "translation": "Yoksa Allah’ın lütuf ve ihsanından insanlara verdiklerini mi kıskanıyorlar? Hiç şüphesiz biz, İbrahim ailesine Kitap ve hikmet verdik. Ve onlara büyük bir mülk verdik.",
+      "footnotes": null
+    },
+    {
+      "id": "548",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "55",
+      "arabic_text": "فَمِنْهُمْ مَنْ اٰمَنَ بِه۪ وَمِنْهُمْ مَنْ صَدَّ عَنْهُۜ وَكَفٰى بِجَهَنَّمَ سَع۪يرًا",
+      "translation": "Onlardan kimi (kendilerine verilene) iman etti, kimi de ondan yüz çevirdi. Dehşet saçan alevleriyle cehennem (onlara) yeter.",
+      "footnotes": null
+    },
+    {
+      "id": "549",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "56",
+      "arabic_text": "اِنَّ الَّذ۪ينَ كَفَرُوا بِاٰيَاتِنَا سَوْفَ نُصْل۪يهِمْ نَارًاۜ كُلَّمَا نَضِجَتْ جُلُودُهُمْ بَدَّلْنَاهُمْ جُلُودًا غَيْرَهَا لِيَذُوقُوا الْعَذَابَۜ اِنَّ اللّٰهَ كَانَ عَز۪يزًا حَك۪يمًا",
+      "translation": "Şüphesiz ki, ayetlerimiz hakkında küfre sapanları ateşe sokacağız. (Ateş, onların) derilerini yakıp kavurdukça, azabı tatsınlar diye (yeni) bir deriyle değiştireceğiz. Şüphesiz ki Allah, (izzet sahibi, her şeyi mağlup eden) Azîz, (hüküm ve hikmet sahibi olan) Hakîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "550",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "57",
+      "arabic_text": "وَالَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَٓا اَبَدًاۜ لَهُمْ ف۪يهَٓا اَزْوَاجٌ مُطَهَّرَةٌۘ وَنُدْخِلُهُمْ ظِلًّا ظَل۪يلًا",
+      "translation": "İman edip salih amel işleyenleri, altından ırmaklar akan ve içinde ebedî kalacakları cennetlere sokacağız. Orada onlar için (kusurlarından arındırılmış) tertemiz eşler vardır. Ve onları gölgeliklere sokacağız.",
+      "footnotes": null
+    },
+    {
+      "id": "551",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "58",
+      "arabic_text": "اِنَّ اللّٰهَ يَأْمُرُكُمْ اَنْ تُؤَدُّوا الْاَمَانَاتِ اِلٰٓى اَهْلِهَاۙ وَاِذَا حَكَمْتُمْ بَيْنَ النَّاسِ اَنْ تَحْكُمُوا بِالْعَدْلِۜ اِنَّ اللّٰهَ نِعِمَّا يَعِظُكُمْ بِه۪ۜ اِنَّ اللّٰهَ كَانَ سَم۪يعًا بَص۪يرًا",
+      "translation": "Şüphesiz ki Allah, emanetleri ehil olanlara vermenizi ve insanlar arasında hükmettiğinizde adaletli olmanızı size emreder. Allah, bununla sizlere ne güzel öğüt veriyor. Şüphesiz Allah (işiten ve dualara icabet eden) Semi’, (her şeyi gören) Basîr’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "552",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "59",
+      "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُٓوا اَط۪يعُوا اللّٰهَ وَاَط۪يعُوا الرَّسُولَ وَاُو۬لِي الْاَمْرِ مِنْكُمْۚ فَاِنْ تَنَازَعْتُمْ ف۪ي شَيْءٍ فَرُدُّوهُ اِلَى اللّٰهِ وَالرَّسُولِ اِنْ كُنْتُمْ تُؤْمِنُونَ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِۜ ذٰلِكَ خَيْرٌ وَاَحْسَنُ تَأْو۪يلًا۟",
+      "translation": "Ey iman edenler! Allah’a itaat edin, Resûl’e itaat edin. Sizden olan (Müslim/şirki terk ederek tevhidle Allah’a yönelen) yöneticilere de (itaat edin). Herhangi bir konuda anlaşmazlığa düşerseniz, şayet Allah’a ve Ahiret Günü'ne inanıyorsanız (o meseleyi çözmek için) Allah’a ve Resûl’e götürün. Bu, daha hayırlı ve sonuç bakımından daha güzeldir.",
+      "footnotes": null
+    },
+    {
+      "id": "553",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "60",
+      "arabic_text": "اَلَمْ تَرَ اِلَى الَّذ۪ينَ يَزْعُمُونَ اَنَّهُمْ اٰمَنُوا بِمَٓا اُنْزِلَ اِلَيْكَ وَمَٓا اُنْزِلَ مِنْ قَبْلِكَ يُر۪يدُونَ اَنْ يَتَحَاكَمُٓوا اِلَى الطَّاغُوتِ وَقَدْ اُمِرُٓوا اَنْ يَكْفُرُوا بِه۪ۜ وَيُر۪يدُ الشَّيْطَانُ اَنْ يُضِلَّهُمْ ضَلَالًا بَع۪يدًا",
+      "translation": "Sana indirilene (Kur’ân) ve senden önce indirilen (Kitaplara) iman ettiğini zannedenleri görmedin mi? İnkâr etmekle emrolundukları hâlde tağuta muhakeme olmak istiyorlar. Şeytan onları (hakka geri dönüşü zor) uzak bir saptırmayla saptırmak ister.",
+      "footnotes": null
+    },
+    {
+      "id": "554",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "61",
+      "arabic_text": "وَاِذَا ق۪يلَ لَهُمْ تَعَالَوْا اِلٰى مَٓا اَنْزَلَ اللّٰهُ وَاِلَى الرَّسُولِ رَاَيْتَ الْمُنَافِق۪ينَ يَصُدُّونَ عَنْكَ صُدُودًاۚ",
+      "translation": "Onlara: “(Sorunlarınızı çözmek için) Allah’ın indirdiğine ve Resûl’e gelin.” denildiği zaman, münafıkların alabildiğince senden kaçtıklarını görürsün.",
+      "footnotes": null
+    },
+    {
+      "id": "555",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "62",
+      "arabic_text": "فَكَيْفَ اِذَٓا اَصَابَتْهُمْ مُص۪يبَةٌ بِمَا قَدَّمَتْ اَيْد۪يهِمْ ثُمَّ جَٓاؤُ۫كَ يَحْلِفُونَ بِاللّٰهِ اِنْ اَرَدْنَٓا اِلَّٓا اِحْسَانًا وَتَوْف۪يقًا",
+      "translation": "Elleriyle (yapıp) takdim ettikleri (bu günah sebebiyle) başlarına bir musibet geldiğinde hâlleri nice olur? Sonra da sana gelip: “Sadece iyilik ve başarı istedik.” diye yemin ederler.",
+      "footnotes": null
+    },
+    {
+      "id": "556",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "63",
+      "arabic_text": "اُو۬لٰٓئِكَ الَّذ۪ينَ يَعْلَمُ اللّٰهُ مَا ف۪ي قُلُوبِهِمْ فَاَعْرِضْ عَنْهُمْ وَعِظْهُمْ وَقُلْ لَهُمْ ف۪ٓي اَنْفُسِهِمْ قَوْلًا بَل۪يغًا",
+      "translation": "Bunlar, Allah’ın kalplerinde (gizledikleri asıl gayelerini) bildiği kimselerdir. Onlardan yüz çevir, onlara öğüt ver ve onlara (onları derinden sarsacak) etkili bir söz söyle.",
+      "footnotes": null
+    },
+    {
+      "id": "557",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "64",
+      "arabic_text": "وَمَٓا اَرْسَلْنَا مِنْ رَسُولٍ اِلَّا لِيُطَاعَ بِاِذْنِ اللّٰهِۜ وَلَوْ اَنَّهُمْ اِذْ ظَلَمُٓوا اَنْفُسَهُمْ جَٓاؤُ۫كَ فَاسْتَغْفَرُوا اللّٰهَ وَاسْتَغْفَرَ لَهُمُ الرَّسُولُ لَوَجَدُوا اللّٰهَ تَوَّابًا رَح۪يمًا",
+      "translation": "Resûl yollamamızın tek gayesi, Allah’ın izniyle ona itaat edilsin diyedir. Şayet onlar (günah işleyip) kendilerine zulmettiklerinde sana gelseler ve Allah’tan bağışlanma dileselerdi, Resûl de onlar için (Allah’tan) bağışlanmalarını dileseydi, şüphesiz ki Allah’ı (tevbeye muvaffak kılan ve tevbeleri çokça kabul eden) Tevvâb, (kullarına karşı merhametli) Rahîm olarak bulacaklardı.",
+      "footnotes": null
+    },
+    {
+      "id": "558",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "65",
+      "arabic_text": "فَلَا وَرَبِّكَ لَا يُؤْمِنُونَ حَتّٰى يُحَكِّمُوكَ ف۪يمَا شَجَرَ بَيْنَهُمْۙ ثُمَّ لَا يَجِدُوا ف۪ٓي اَنْفُسِهِمْ حَرَجًا مِمَّا قَضَيْتَ وَيُسَلِّمُوا تَسْل۪يمًا",
+      "translation": "Hayır! Rabbine andolsun ki, aralarında çıkan anlaşmazlıklarda seni hakem tayin edip, verdiğin hükme içlerinde hiçbir sıkıntı duymadan ve tam bir teslimiyetle teslim olmadıkça iman etmiş olmazlar.",
+      "footnotes": null
+    },
+    {
+      "id": "559",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "66",
+      "arabic_text": "وَلَوْ اَنَّا كَتَبْنَا عَلَيْهِمْ اَنِ اقْتُلُٓوا اَنْفُسَكُمْ اَوِ اخْرُجُوا مِنْ دِيَارِكُمْ مَا فَعَلُوهُ اِلَّا قَل۪يلٌ مِنْهُمْۜ وَلَوْ اَنَّهُمْ فَعَلُوا مَا يُوعَظُونَ بِه۪ لَكَانَ خَيْرًا لَهُمْ وَاَشَدَّ تَثْب۪يتًاۙ",
+      "translation": "Şayet biz: “Kendinizi öldürün ya da yurtlarınızdan çıkın.” diye onlara farz kılmış olsak, onlardan azı hariç (bu emri) yerine getirmezlerdi. Onlar, kendilerine verilen bu öğüdü yerine getirselerdi kendileri için daha hayırlı olur, (ayaklarını) daha kuvvetli bir şekilde sabit kılardık.",
+      "footnotes": null
+    },
+    {
+      "id": "560",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "67",
+      "arabic_text": "وَاِذًا لَاٰتَيْنَاهُمْ مِنْ لَدُنَّٓا اَجْرًا عَظ۪يمًاۙ",
+      "translation": "O zaman onlara kendi katımızdan büyük bir ecir verirdik.",
+      "footnotes": null
+    },
+    {
+      "id": "561",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "68",
+      "arabic_text": "وَلَهَدَيْنَاهُمْ صِرَاطًا مُسْتَق۪يمًا",
+      "translation": "Ve şüphesiz onları dosdoğru yola iletirdik.",
+      "footnotes": null
+    },
+    {
+      "id": "562",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "69",
+      "arabic_text": "وَمَنْ يُطِعِ اللّٰهَ وَالرَّسُولَ فَاُو۬لٰٓئِكَ مَعَ الَّذ۪ينَ اَنْعَمَ اللّٰهُ عَلَيْهِمْ مِنَ النَّبِيّ۪نَ وَالصِّدّ۪يق۪ينَ وَالشُّهَدَٓاءِ وَالصَّالِح۪ينَۚ وَحَسُنَ اُو۬لٰٓئِكَ رَف۪يقًاۜ",
+      "translation": "Kim Allah’a ve Resûl’e itaat ederse bunlar, Allah’ın kendilerine nimet verdiği nebiler, sıddıklar, şehitler ve salihlerle beraber olacaklardır. Ne güzel arkadaştır bunlar!",
+      "footnotes": null
+    },
+    {
+      "id": "563",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "70",
+      "arabic_text": "ذٰلِكَ الْفَضْلُ مِنَ اللّٰهِۜ وَكَفٰى بِاللّٰهِ عَل۪يمًا۟",
+      "translation": "Bu, Allah’tan olan bir lütuftur. Her şeyi bilen olarak Allah yeter.",
+      "footnotes": null
+    },
+    {
+      "id": "564",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "71",
+      "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا خُذُوا حِذْرَكُمْ فَانْفِرُوا ثُبَاتٍ اَوِ انْفِرُوا جَم۪يعًا",
+      "translation": "Ey iman edenler! Tedbirinizi alın. Gruplar hâlinde veya toplu olarak savaşa çıkın.",
+      "footnotes": null
+    },
+    {
+      "id": "565",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "72",
+      "arabic_text": "وَاِنَّ مِنْكُمْ لَمَنْ لَيُبَطِّئَنَّۚ فَاِنْ اَصَابَتْكُمْ مُص۪يبَةٌ قَالَ قَدْ اَنْعَمَ اللّٰهُ عَلَيَّ اِذْ لَمْ اَكُنْ مَعَهُمْ شَه۪يدًا",
+      "translation": "Şüphesiz ki sizin içinizden (savaşa çıkmayı) ağırdan alanlar var. Sizin başınıza bir musibet geldiğinde: “Onlarla olmadığım için Allah bana lütfetti.” der.",
+      "footnotes": null
+    },
+    {
+      "id": "566",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "73",
+      "arabic_text": "وَلَئِنْ اَصَابَكُمْ فَضْلٌ مِنَ اللّٰهِ لَيَقُولَنَّ كَاَنْ لَمْ تَكُنْ بَيْنَكُمْ وَبَيْنَهُ مَوَدَّةٌ يَا لَيْتَن۪ي كُنْتُ مَعَهُمْ فَاَفُوزَ فَوْزًا عَظ۪يمًا",
+      "translation": "Size Allah’tan bir lütuf ve ihsan geldiğinde, âdeta sizinle onun arasında (sevgi bağı oluşturan) tanışıklık yokmuş gibi: “Keşke ben de onlarla beraber olsaydım da büyük bir kazanç elde etseydim.” der.",
+      "footnotes": null
+    },
+    {
+      "id": "567",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "74",
+      "arabic_text": "فَلْيُقَاتِلْ ف۪ي سَب۪يلِ اللّٰهِ الَّذ۪ينَ يَشْرُونَ الْحَيٰوةَ الدُّنْيَا بِالْاٰخِرَةِۜ وَمَنْ يُقَاتِلْ ف۪ي سَب۪يلِ اللّٰهِ فَيُقْتَلْ اَوْ يَغْلِبْ فَسَوْفَ نُؤْت۪يهِ اَجْرًا عَظ۪يمًا",
+      "translation": "(Öyleyse) dünya hayatını (feda edip) karşılığında ahireti satın alanlar Allah yolunda savaşsınlar. Kim de Allah yolunda savaşır, öldürülür ya da galibiyet elde ederse ona büyük bir mükâfat vereceğiz.",
+      "footnotes": null
+    },
+    {
+      "id": "568",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "75",
+      "arabic_text": "وَمَا لَكُمْ لَا تُقَاتِلُونَ ف۪ي سَب۪يلِ اللّٰهِ وَالْمُسْتَضْعَف۪ينَ مِنَ الرِّجَالِ وَالنِّسَٓاءِ وَالْوِلْدَانِ الَّذ۪ينَ يَقُولُونَ رَبَّنَٓا اَخْرِجْنَا مِنْ هٰذِهِ الْقَرْيَةِ الظَّالِمِ اَهْلُهَاۚ وَاجْعَلْ لَنَا مِنْ لَدُنْكَ وَلِيًّاۚ وَاجْعَلْ لَنَا مِنْ لَدُنْكَ نَص۪يرًاۜ",
+      "translation": "Mustazaf erkekler, kadınlar ve çocuklar: “Rabbimiz! Bizi halkı zalim olan bu beldeden çıkar. Bize kendi yanından bir dost kıl. Bize kendi yanından bir yardımcı kıl.” (diye yardım istedikleri hâlde) size ne oluyor da Allah yolunda savaşmıyorsunuz?",
+      "footnotes": null
+    },
+    {
+      "id": "569",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "76",
+      "arabic_text": "اَلَّذ۪ينَ اٰمَنُوا يُقَاتِلُونَ ف۪ي سَب۪يلِ اللّٰهِۚ وَالَّذ۪ينَ كَفَرُوا يُقَاتِلُونَ ف۪ي سَب۪يلِ الطَّاغُوتِ فَقَاتِلُٓوا اَوْلِيَٓاءَ الشَّيْطَانِۚ اِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَع۪يفًا۟",
+      "translation": "İman edenler Allah yolunda savaşırlar. Kâfirler ise tağutun yolunda savaşırlar. (Öyleyse) şeytanın dostlarıyla savaşın. Şüphesiz şeytanın hilesi pek zayıftır.",
+      "footnotes": null
+    },
+    {
+      "id": "570",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "77",
+      "arabic_text": "اَلَمْ تَرَ اِلَى الَّذ۪ينَ ق۪يلَ لَهُمْ كُفُّٓوا اَيْدِيَكُمْ وَاَق۪يمُوا الصَّلٰوةَ وَاٰتُوا الزَّكٰوةَۚ فَلَمَّا كُتِبَ عَلَيْهِمُ الْقِتَالُ اِذَا فَر۪يقٌ مِنْهُمْ يَخْشَوْنَ النَّاسَ كَخَشْيَةِ اللّٰهِ اَوْ اَشَدَّ خَشْيَةًۚ وَقَالُوا رَبَّنَا لِمَ كَتَبْتَ عَلَيْنَا الْقِتَالَۚ لَوْلَٓا اَخَّرْتَنَٓا اِلٰٓى اَجَلٍ قَر۪يبٍۜ قُلْ مَتَاعُ الدُّنْيَا قَل۪يلٌۚ وَالْاٰخِرَةُ خَيْرٌ لِمَنِ اتَّقٰى وَلَا تُظْلَمُونَ فَت۪يلًا",
+      "translation": "Kendilerine: “(Savaştan) elinizi çekin, namazı kılın, zekâtı verin.” denilen kimseleri görmedin mi? (Savaşın farz kılınması için ısrar ediyorlardı.) Savaş onlara farz kılınınca da onlardan bir grup Allah’tan korkar gibi veya daha şiddetli bir korkuyla insanlardan korkmaya ve: “Rabbimiz! Niçin bize savaşı farz kıldın? Bize yakın bir zamana kadar mühlet verseydin ya!” demeye başladılar. De ki: “Dünya metaı azdır. Ahiret ise korkup sakınanlar için daha hayırlıdır. Ve size kıl kadar dahi zulmedilmez.”",
+      "footnotes": null
+    },
+    {
+      "id": "571",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "78",
+      "arabic_text": "اَيْنَ مَا تَكُونُوا يُدْرِكْكُمُ الْمَوْتُ وَلَوْ كُنْتُمْ ف۪ي بُرُوجٍ مُشَيَّدَةٍۜ وَاِنْ تُصِبْهُمْ حَسَنَةٌ يَقُولُوا هٰذِه۪ مِنْ عِنْدِ اللّٰهِۚ وَاِنْ تُصِبْهُمْ سَيِّئَةٌ يَقُولُوا هٰذِه۪ مِنْ عِنْدِكَۜ قُلْ كُلٌّ مِنْ عِنْدِ اللّٰهِۜ فَمَا لِ‌هٰٓؤُ۬لَٓاءِ الْقَوْمِ لَا يَكَادُونَ يَفْقَهُونَ حَد۪يثًا",
+      "translation": "Nerede olursanız olun -korunaklı burçlarda dahi olsanız- ölüm sizi bulacaktır. Onların başına bir güzellik geldiğinde: “Bu, Allah’tandır.” diyorlar. Başlarına bir kötülük geldiğinde: “Bu, senden dolayıdır.” diyorlar. De ki: “Hepsi Allah’tandır.” Ne oluyor bu topluluğa? Neredeyse hiçbir sözü anlamayacaklar.",
+      "footnotes": null
+    },
+    {
+      "id": "572",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "79",
+      "arabic_text": "مَٓا اَصَابَكَ مِنْ حَسَنَةٍ فَمِنَ اللّٰهِۘ وَمَٓا اَصَابَكَ مِنْ سَيِّئَةٍ فَمِنْ نَفْسِكَۜ وَاَرْسَلْنَاكَ لِلنَّاسِ رَسُولًاۜ وَكَفٰى بِاللّٰهِ شَه۪يدًا",
+      "translation": "Başına gelen her iyilik Allah’tandır. Başına gelen her kötülük de kendindendir. Seni insanlara Resûl olarak gönderdik. (Senin hak Peygamber olduğuna) şahit olarak Allah yeter.",
+      "footnotes": null
+    },
+    {
+      "id": "573",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "80",
+      "arabic_text": "مَنْ يُطِعِ الرَّسُولَ فَقَدْ اَطَاعَ اللّٰهَۚ وَمَنْ تَوَلّٰى فَمَٓا اَرْسَلْنَاكَ عَلَيْهِمْ حَف۪يظًاۜ",
+      "translation": "Kim Resûl’e itaat ederse hiç şüphesiz Allah’a itaat etmiş olur. Kim de yüz çevirirse seni, onların üzerine koruyucu göndermedik.",
+      "footnotes": null
+    },
+    {
+      "id": "574",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "81",
+      "arabic_text": "وَيَقُولُونَ طَاعَةٌۘ فَاِذَا بَرَزُوا مِنْ عِنْدِكَ بَيَّتَ طَٓائِفَةٌ مِنْهُمْ غَيْرَ الَّذ۪ي تَقُولُۜ وَاللّٰهُ يَكْتُبُ مَا يُبَيِّتُونَۚ فَاَعْرِضْ عَنْهُمْ وَتَوَكَّلْ عَلَى اللّٰهِۜ وَكَفٰى بِاللّٰهِ وَك۪يلًا",
+      "translation": "“İtaat edeceğiz.” diyorlar. Senin yanından çıktıkları zaman onlardan bir grup, söylediklerinin dışında bir şeyleri gece/gizlice kurguluyor. Allah onların gece/gizlice kurguladıklarını yazar. Onlardan yüz çevir ve Allah’a tevekkül et. Vekil olarak Allah yeter.",
+      "footnotes": null
+    },
+    {
+      "id": "575",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "82",
+      "arabic_text": "اَفَلَا يَتَدَبَّرُونَ الْقُرْاٰنَۜ وَلَوْ كَانَ مِنْ عِنْدِ غَيْرِ اللّٰهِ لَوَجَدُوا ف۪يهِ اخْتِلَافًا كَث۪يرًا",
+      "translation": "Onlar Kur’ân’ın (derin anlamlarını anlayacak şekilde dikkatli) düşünmüyorlar mı? Şayet Allah’tan (değil de) bir başka yerden gelmiş olsaydı onda çok fazla çelişki/zıtlık bulurlardı.",
+      "footnotes": null
+    },
+    {
+      "id": "576",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "83",
+      "arabic_text": "وَاِذَا جَٓاءَهُمْ اَمْرٌ مِنَ الْاَمْنِ اَوِ الْخَوْفِ اَذَاعُوا بِه۪ۜ وَلَوْ رَدُّوهُ اِلَى الرَّسُولِ وَاِلٰٓى اُو۬لِي الْاَمْرِ مِنْهُمْ لَعَلِمَهُ الَّذ۪ينَ يَسْتَنْبِطُونَهُ مِنْهُمْۜ وَلَوْلَا فَضْلُ اللّٰهِ عَلَيْكُمْ وَرَحْمَتُهُ لَاتَّبَعْتُمُ الشَّيْطَانَ اِلَّا قَل۪يلًا",
+      "translation": "Onlara emniyete ya da korkuya dair bir haber geldiğinde (haberin olumlu olumsuz etkisini hesaba katmadan) onu yayarlar. Şayet onu (kimseye anlatmadan önce) Resûl’e ya da yöneticilerine götürselerdi, olaylardan sonuç çıkarma kabiliyeti olanlar, o haberin (doğru mu, yanlış mı, bırakacağı etki faydalı mı, zararlı mı) hakikatini bilirlerdi. Allah’ın sizin üzerinizde lütfu ve rahmeti olmasaydı azınız müstesna, şeytana uymuştunuz.",
+      "footnotes": null
+    },
+    {
+      "id": "577",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "84",
+      "arabic_text": "فَقَاتِلْ ف۪ي سَب۪يلِ اللّٰهِۚ لَا تُكَلَّفُ اِلَّا نَفْسَكَ وَحَرِّضِ الْمُؤْمِن۪ينَۚ عَسَى اللّٰهُ اَنْ يَكُفَّ بَأْسَ الَّذ۪ينَ كَفَرُواۜ وَاللّٰهُ اَشَدُّ بَأْسًا وَاَشَدُّ تَنْك۪يلًا",
+      "translation": "Allah yolunda savaş! Sen sadece kendinden sorumlusun. Müminleri (savaşa) teşvik et. Umulur ki Allah, kâfirlerin (müminler üzerinde baskı oluşturan) tazyiklerini engeller. Allah’ın baskısı da ibretlik cezalandırması da daha çetindir.",
+      "footnotes": null
+    },
+    {
+      "id": "578",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "85",
+      "arabic_text": "مَنْ يَشْفَعْ شَفَاعَةً حَسَنَةً يَكُنْ لَهُ نَص۪يبٌ مِنْهَاۚ وَمَنْ يَشْفَعْ شَفَاعَةً سَيِّئَةً يَكُنْ لَهُ كِفْلٌ مِنْهَاۜ وَكَانَ اللّٰهُ عَلٰى كُلِّ شَيْءٍ مُق۪يتًا",
+      "translation": "Kim güzel bir aracılıkta bulunursa (aracılık ettiği hayırdan) onun da nasibi olur. Kim de kötü bir aracılık ederse (aracılık ettiği kötülükten) onun da payı olur. Allah her şeyin üzerinde (güç sahibi, koruyucu, gözetleyici, rızık veren) Mukît’tir.",
+      "footnotes": null
+    },
+    {
+      "id": "579",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "86",
+      "arabic_text": "وَاِذَا حُيّ۪يتُمْ بِتَحِيَّةٍ فَحَيُّوا بِاَحْسَنَ مِنْهَٓا اَوْ رُدُّوهَاۜ اِنَّ اللّٰهَ كَانَ عَلٰى كُلِّ شَيْءٍ حَس۪يبًا",
+      "translation": "Selamlandığınız zaman (karşılığında) daha güzel bir selam verin ya da (misliyle) karşılık verin. Şüphesiz Allah her şeyin üzerinde (hesap gören) Hasib’tir.",
+      "footnotes": null
+    },
+    {
+      "id": "580",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "87",
+      "arabic_text": "اَللّٰهُ لَٓا اِلٰهَ اِلَّا هُوَۜ لَيَجْمَعَنَّكُمْ اِلٰى يَوْمِ الْقِيٰمَةِ لَا رَيْبَ ف۪يهِۜ وَمَنْ اَصْدَقُ مِنَ اللّٰهِ حَد۪يثًا۟",
+      "translation": "Allah... O’ndan başka (ibadeti hak eden) hiçbir ilah yoktur. Şüphesiz ki sizleri, kendisinde şüphe olmayan Kıyamet Günü'nde toplayacaktır. Kim Allah’tan daha doğru sözlü olabilir?",
+      "footnotes": null
+    },
+    {
+      "id": "581",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "88",
+      "arabic_text": "فَمَا لَكُمْ فِي الْمُنَافِق۪ينَ فِئَتَيْنِ وَاللّٰهُ اَرْكَسَهُمْ بِمَا كَسَبُواۜ اَتُر۪يدُونَ اَنْ تَهْدُوا مَنْ اَضَلَّ اللّٰهُۜ وَمَنْ يُضْلِلِ اللّٰهُ فَلَنْ تَجِدَ لَهُ سَب۪يلًا",
+      "translation": "Size ne oluyor da (hicret etmeyen) münafıklar hakkında (onlar mümin mi kâfir mi diye tartışan) iki gruba bölünüyorsunuz? Oysa Allah onları kazandıklarından dolayı baş aşağı etmiştir. (Yoksa siz) Allah’ın saptırdığını hidayet etmek mi istiyorsunuz? Kimi de Allah saptırmışsa, sen onun için (bir kurtuluş) yolu bulamazsın.",
+      "footnotes": null
+    },
+    {
+      "id": "582",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "89",
+      "arabic_text": "وَدُّوا لَوْ تَكْفُرُونَ كَمَا كَفَرُوا فَتَكُونُونَ سَوَٓاءً فَلَا تَتَّخِذُوا مِنْهُمْ اَوْلِيَٓاءَ حَتّٰى يُهَاجِرُوا ف۪ي سَب۪يلِ اللّٰهِۜ فَاِنْ تَوَلَّوْا فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ وَجَدْتُمُوهُمْۖ وَلَا تَتَّخِذُوا مِنْهُمْ وَلِيًّا وَلَا نَص۪يرًاۙ",
+      "translation": "(O münafıklar) küfre girdikleri gibi sizin de küfre girmenizi ve onlarla eşit olmanızı isterler. Allah yolunda hicret edinceye kadar onlardan dost edinmeyin. (Hicret etmeye yanaşmaz) yüz çevirirlerse onları yakalayın ve bulduğunuz yerde öldürün. Onlardan ne bir dost ne de yardımcı edinin.",
+      "footnotes": null
+    },
+    {
+      "id": "583",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "90",
+      "arabic_text": "اِلَّا الَّذ۪ينَ يَصِلُونَ اِلٰى قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ م۪يثَاقٌ اَوْ جَٓاؤُ۫كُمْ حَصِرَتْ صُدُورُهُمْ اَنْ يُقَاتِلُوكُمْ اَوْ يُقَاتِلُوا قَوْمَهُمْۜ وَلَوْ شَٓاءَ اللّٰهُ لَسَلَّطَهُمْ عَلَيْكُمْ فَلَقَاتَلُوكُمْۚ فَاِنِ اعْتَزَلُوكُمْ فَلَمْ يُقَاتِلُوكُمْ وَاَلْقَوْا اِلَيْكُمُ السَّلَمَۙ فَمَا جَعَلَ اللّٰهُ لَكُمْ عَلَيْهِمْ سَب۪يلًا",
+      "translation": "Sizinle antlaşmalı olan bir topluluğa (sığınarak ya da onların yanında yer alarak) uzlaşanlar ve sizinle ya da kavimleriyle savaşma konusunda sineleri daralanlar (iki tarafla da savaşmak istemeyenler) müstesnadır. (Onları öldürmeyin.) Şayet Allah dileseydi onları size musallat eder sizinle savaşırlardı. Şayet sizden uzak durur, size karşı savaşmaz ve sizden eman talebinde bulunurlarsa Allah, onların aleyhinde size bir yol kılmamıştır.",
+      "footnotes": null
+    },
+    {
+      "id": "584",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "91",
+      "arabic_text": "سَتَجِدُونَ اٰخَر۪ينَ يُر۪يدُونَ اَنْ يَأْمَنُوكُمْ وَيَأْمَنُوا قَوْمَهُمْۜ كُلَّمَا رُدُّٓوا اِلَى الْفِتْنَةِ اُرْكِسُوا ف۪يهَاۚ فَاِنْ لَمْ يَعْتَزِلُوكُمْ وَيُلْقُٓوا اِلَيْكُمُ السَّلَمَ وَيَكُفُّٓوا اَيْدِيَهُمْ فَخُذُوهُمْ وَاقْتُلُوهُمْ حَيْثُ ثَقِفْتُمُوهُمْۜ وَاُو۬لٰٓئِكُمْ جَعَلْنَا لَكُمْ عَلَيْهِمْ سُلْطَانًا مُب۪ينًا۟",
+      "translation": "Başkalarının ise hem sizinle hem de kavimleriyle güven içinde olmayı istediklerini göreceksiniz. Her imtihan olduklarında baş aşağı olurlar. Sizden uzak durmaz, eman talebinde bulunmaz ve (savaşmaktan) ellerini çekmezlerse, onları yakalayın ve bulduğunuz yerde öldürün. Bunların aleyhine (olmak üzere) size apaçık delil/yetki kılmışızdır.",
+      "footnotes": null
+    },
+    {
+      "id": "585",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "92",
+      "arabic_text": "وَمَا كَانَ لِمُؤْمِنٍ اَنْ يَقْتُلَ مُؤْمِنًا اِلَّا خَطَـًٔاۚ وَمَنْ قَتَلَ مُؤْمِنًا خَطَـًٔا فَتَحْر۪يرُ رَقَبَةٍ مُؤْمِنَةٍ وَدِيَةٌ مُسَلَّمَةٌ اِلٰٓى اَهْلِه۪ٓ اِلَّٓا اَنْ يَصَّدَّقُواۜ فَاِنْ كَانَ مِنْ قَوْمٍ عَدُوٍّ لَكُمْ وَهُوَ مُؤْمِنٌ فَتَحْر۪يرُ رَقَبَةٍ مُؤْمِنَةٍۜ وَاِنْ كَانَ مِنْ قَوْمٍ بَيْنَكُمْ وَبَيْنَهُمْ م۪يثَاقٌ فَدِيَةٌ مُسَلَّمَةٌ اِلٰٓى اَهْلِه۪ وَتَحْر۪يرُ رَقَبَةٍ مُؤْمِنَةٍۚ فَمَنْ لَمْ يَجِدْ فَصِيَامُ شَهْرَيْنِ مُتَتَابِعَيْنِۘ تَوْبَةً مِنَ اللّٰهِۜ وَكَانَ اللّٰهُ عَل۪يمًا حَك۪يمًا",
+      "translation": "Bir müminin başka bir mümini hatayla olması hariç (kasten) öldürmesi olacak şey değildir. Kim de bir mümini hatayla öldürürse (bunun kefareti) mümin bir köle azat etmek, bağışlamadıkları müddetçe ailesine diyet vermektir. Şayet (hatayla öldürülen) size düşman olan bir kavimden ve müminse (sadece) mümin bir köle azat etmektir. Şayet (hatayla öldürülen) sizinle antlaşmalı bir kavimdense ailesine diyet teslim etmek ve mümin bir köle azat etmektir. Kim de bulamazsa peş peşe (ara vermeden) iki ay oruç tutsun. Bu, Allah’tan bir tevbedir. Allah (her şeyi bilen) Alîm, (hüküm ve hikmet sahibi olan) Hakîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "586",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "93",
+      "arabic_text": "وَمَنْ يَقْتُلْ مُؤْمِنًا مُتَعَمِّدًا فَجَزَٓاؤُ۬هُ جَهَنَّمُ خَالِدًا ف۪يهَا وَغَضِبَ اللّٰهُ عَلَيْهِ وَلَعَنَهُ وَاَعَدَّ لَهُ عَذَابًا عَظ۪يمًا",
+      "translation": "Kim de bir mümini kasten öldürürse onun cezası, içinde uzun süre kalacağı cehennemdir. Allah ona kızmış, ona lanet etmiş ve onun için büyük bir azap hazırlamıştır.",
+      "footnotes": null
+    },
+    {
+      "id": "587",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "94",
+      "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُٓوا اِذَا ضَرَبْتُمْ ف۪ي سَب۪يلِ اللّٰهِ فَتَبَيَّنُوا وَلَا تَقُولُوا لِمَنْ اَلْقٰٓى اِلَيْكُمُ السَّلَامَ لَسْتَ مُؤْمِنًاۚ تَبْتَغُونَ عَرَضَ الْحَيٰوةِ الدُّنْيَاۘ فَعِنْدَ اللّٰهِ مَغَانِمُ كَث۪يرَةٌۜ كَذٰلِكَ كُنْتُمْ مِنْ قَبْلُ فَمَنَّ اللّٰهُ عَلَيْكُمْ فَتَبَيَّنُواۜ اِنَّ اللّٰهَ كَانَ بِمَا تَعْمَلُونَ خَب۪يرًا",
+      "translation": "Ey iman edenler! Allah yolunda sefere çıktığınız zaman (emin olmak için) meseleleri açıklığa kavuşturun. Size selam veren kimseye, dünya hayatının malını isteyerek: “Sen mümin değilsin.” demeyin. (Oysa) Allah’ın yanında çok fazla ganimet vardır. Siz de bundan önce böyleydiniz. Allah size (hidayet edip küfürden kurtararak) iyilikte bulundu. (Emin olmak için) meseleleri açıklığa kavuşturun. Şüphesiz ki Allah, yaptıklarınızdan haberdardır.",
+      "footnotes": null
+    },
+    {
+      "id": "588",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "95",
+      "arabic_text": "لَا يَسْتَوِي الْقَاعِدُونَ مِنَ الْمُؤْمِن۪ينَ غَيْرُ اُو۬لِي الضَّرَرِ وَالْمُجَاهِدُونَ ف۪ي سَب۪يلِ اللّٰهِ بِاَمْوَالِهِمْ وَاَنْفُسِهِمْۜ فَضَّلَ اللّٰهُ الْمُجَاهِد۪ينَ بِاَمْوَالِهِمْ وَاَنْفُسِهِمْ عَلَى الْقَاعِد۪ينَ دَرَجَةًۜ وَكُلًّا وَعَدَ اللّٰهُ الْحُسْنٰىۜ وَفَضَّلَ اللّٰهُ الْمُجَاهِد۪ينَ عَلَى الْقَاعِد۪ينَ اَجْرًا عَظ۪يمًاۙ",
+      "translation": "Müminlerden (savaştan geri kalmasını meşrulaştıracak) özrü olmaksızın oturanlarla Allah yolunda malları ve canlarıyla cihad edenler eşit değildir. Allah, malları ve canlarıyla cihad edenleri, oturanlara derece bakımından üstün kılmıştır. (Bununla beraber) Allah hepsine güzellik vadetmiştir. Allah, mücahidleri oturanlara büyük bir ecirle üstün kılmıştır.",
+      "footnotes": null
+    },
+    {
+      "id": "589",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "96",
+      "arabic_text": "دَرَجَاتٍ مِنْهُ وَمَغْفِرَةً وَرَحْمَةًۜ وَكَانَ اللّٰهُ غَفُورًا رَح۪يمًا۟",
+      "translation": "(Bu büyük ecir) Allah’tan dereceler, bağışlanma ve rahmettir. Allah (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) Ğafûr, (kullarına karşı merhametli olan) Rahîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "590",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "97",
+      "arabic_text": "اِنَّ الَّذ۪ينَ تَوَفّٰيهُمُ الْمَلٰٓئِكَةُ ظَالِم۪ٓي اَنْفُسِهِمْ قَالُوا ف۪يمَ كُنْتُمْۜ قَالُوا كُنَّا مُسْتَضْعَف۪ينَ فِي الْاَرْضِۜ قَالُٓوا اَلَمْ تَكُنْ اَرْضُ اللّٰهِ وَاسِعَةً فَتُهَاجِرُوا ف۪يهَاۜ فَاُو۬لٰٓئِكَ مَأْوٰيهُمْ جَهَنَّمُۜ وَسَٓاءَتْ مَص۪يرًاۙ",
+      "translation": "Melekler, nefislerine zulmedenlerin canını aldığında: “Nerede idiniz/hangi saftaydınız?” derler. Derler ki: “Biz yeryüzünde (müşriklerin safında yer almak zorunda olan, çaresiz) mustazaflardık.” (Melekler:) “Allah’ın arzı geniş değil miydi? Hicret etseydiniz ya!” derler. Bunların barınağı cehennemdir. Ne kötü bir yataktır o!",
+      "footnotes": null
+    },
+    {
+      "id": "591",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "98",
+      "arabic_text": "اِلَّا الْمُسْتَضْعَف۪ينَ مِنَ الرِّجَالِ وَالنِّسَٓاءِ وَالْوِلْدَانِ لَا يَسْتَط۪يعُونَ ح۪يلَةً وَلَا يَهْتَدُونَ سَب۪يلًا",
+      "translation": "Erkek, kadın ve çocuklardan mustazaf olup da (hicrete) hiçbir çare bulamayan ve yol bilmeyenler müstesna.",
+      "footnotes": null
+    },
+    {
+      "id": "592",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "99",
+      "arabic_text": "فَاُو۬لٰٓئِكَ عَسَى اللّٰهُ اَنْ يَعْفُوَ عَنْهُمْۜ وَكَانَ اللّٰهُ عَفُوًّا غَفُورًا",
+      "translation": "Bunları Allah’ın affetmesi umulur. Allah (günahları affeden) Afuv, (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) Ğafûr’dur.",
+      "footnotes": null
+    },
+    {
+      "id": "593",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "100",
+      "arabic_text": "وَمَنْ يُهَاجِرْ ف۪ي سَب۪يلِ اللّٰهِ يَجِدْ فِي الْاَرْضِ مُرَاغَمًا كَث۪يرًا وَسَعَةًۜ وَمَنْ يَخْرُجْ مِنْ بَيْتِه۪ مُهَاجِرًا اِلَى اللّٰهِ وَرَسُولِه۪ ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ اَجْرُهُ عَلَى اللّٰهِۜ وَكَانَ اللّٰهُ غَفُورًا رَح۪يمًا۟",
+      "translation": "Kim de Allah yolunda hicret ederse, yeryüzünde barınabileceği çokça belde ve (her konuda) genişlik bulacaktır. Kim de Allah’a ve Resûl’üne hicret etmek için evinden çıkar sonra (yolda) ölürse onun ecri Allah’a aittir. Allah (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) Ğafûr, (kullarına karşı merhametli olan) Rahîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "594",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "101",
+      "arabic_text": "وَاِذَا ضَرَبْتُمْ فِي الْاَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ اَنْ تَقْصُرُوا مِنَ الصَّلٰوةِۗ اِنْ خِفْتُمْ اَنْ يَفْتِنَكُمُ الَّذ۪ينَ كَفَرُواۜ اِنَّ الْكَافِر۪ينَ كَانُوا لَكُمْ عَدُوًّا مُب۪ينًا",
+      "translation": "Yeryüzünde sefere çıktığınızda, kâfirlerin sizi fitneye düşürmesinden korkarsanız, namazı kısaltmanızda sizin için bir günah yoktur. Şüphesiz ki kâfirler, sizin apaçık düşmanınızdır.",
+      "footnotes": null
+    },
+    {
+      "id": "595",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "102",
+      "arabic_text": "وَاِذَا كُنْتَ ف۪يهِمْ فَاَقَمْتَ لَهُمُ الصَّلٰوةَ فَلْتَقُمْ طَٓائِفَةٌ مِنْهُمْ مَعَكَ وَلْيَأْخُذُٓوا اَسْلِحَتَهُمْ۠ فَاِذَا سَجَدُوا فَلْيَكُونُوا مِنْ وَرَٓائِكُمْۖ وَلْتَأْتِ طَٓائِفَةٌ اُخْرٰى لَمْ يُصَلُّوا فَلْيُصَلُّوا مَعَكَ وَلْيَأْخُذُوا حِذْرَهُمْ وَاَسْلِحَتَهُمْۚ وَدَّ الَّذ۪ينَ كَفَرُوا لَوْ تَغْفُلُونَ عَنْ اَسْلِحَتِكُمْ وَاَمْتِعَتِكُمْ فَيَم۪يلُونَ عَلَيْكُمْ مَيْلَةً وَاحِدَةًۜ وَلَا جُنَاحَ عَلَيْكُمْ اِنْ كَانَ بِكُمْ اَذًى مِنْ مَطَرٍ اَوْ كُنْتُمْ مَرْضٰٓى اَنْ تَضَعُٓوا اَسْلِحَتَكُمْۚ وَخُذُوا حِذْرَكُمْۜ اِنَّ اللّٰهَ اَعَدَّ لِلْكَافِر۪ينَ عَذَابًا مُه۪ينًا",
+      "translation": "(Savaş ve korku durumunda) onların içinde olur ve onlara namaz kıldırırsan (şöyle yap): Onlardan bir topluluk seninle beraber (namaza) dursun ve silahlarını yanlarına alsınlar. (Namaz kılanlar) secdeye vardığında, (namaz kılmayanlar) arkanızda (sizi korumak için) dursunlar. (Birinci grup namazı bitirince kalksın) Namaz kılmayan bir topluluk gelsin ve seninle beraber namaz kılsınlar. Tedbirlerini ve silahlarını alsınlar. Kâfirler size bir defada/ansızın hücum edebilmek için silahlarınızdan ve eşyalarınızdan habersiz olmanızı isterler. Yağmurdan dolayı eziyet görüyorsanız ya da hastaysanız silahlarınızı bırakmanızda size bir günah yoktur. Tedbirlerinizi alınız! Şüphesiz ki Allah, kâfirlere alçaltıcı bir azap hazırlamıştır.",
+      "footnotes": null
+    },
+    {
+      "id": "596",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "103",
+      "arabic_text": "فَاِذَا قَضَيْتُمُ الصَّلٰوةَ فَاذْكُرُوا اللّٰهَ قِيَامًا وَقُعُودًا وَعَلٰى جُنُوبِكُمْۚ فَاِذَا اطْمَأْنَنْتُمْ فَاَق۪يمُوا الصَّلٰوةَۚ اِنَّ الصَّلٰوةَ كَانَتْ عَلَى الْمُؤْمِن۪ينَ كِتَابًا مَوْقُوتًا",
+      "translation": "Namazı bitirdiğinizde ayakta, oturarak ve yanlarınız üzere Allah’ı zikredin. (Korku hâli geçer de) mutmain olursanız namazı dosdoğru kılın. Şüphesiz ki namaz, belirlenmiş vakitler içinde müminlere farz kılınmıştır.",
+      "footnotes": null
+    },
+    {
+      "id": "597",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "104",
+      "arabic_text": "وَلَا تَهِنُوا فِي ابْتِغَٓاءِ الْقَوْمِۜ اِنْ تَكُونُوا تَأْلَمُونَ فَاِنَّهُمْ يَأْلَمُونَ كَمَا تَأْلَمُونَۚ وَتَرْجُونَ مِنَ اللّٰهِ مَا لَا يَرْجُونَۜ وَكَانَ اللّٰهُ عَل۪يمًا حَك۪يمًا۟",
+      "translation": "(Düşmanı takip için çağrıldığınızda savaşın yorgunluğu ve hasarını bahane ederek) topluluğu izleyip yakalama konusunda gevşeklik göstermeyin. Şayet acı çekiyorsanız, onlar da sizin acı çektiğiniz gibi acı çekiyorlar. Üstelik siz, onların ummadığı (rıza-ı ilahi, sevap, cennet gibi) şeyleri Allah’tan umuyorsunuz. Allah (her şeyi bilen) Alîm, (hüküm ve hikmet sahibi olan) Hakîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "598",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "105",
+      "arabic_text": "اِنَّٓا اَنْزَلْنَٓا اِلَيْكَ الْكِتَابَ بِالْحَقِّ لِتَحْكُمَ بَيْنَ النَّاسِ بِمَٓا اَرٰيكَ اللّٰهُۜ وَلَا تَكُنْ لِلْخَٓائِن۪ينَ خَص۪يمًاۙ",
+      "translation": "İnsanlar arasında Allah’ın sana gösterdiği şekilde hükmedesin diye bu Kitab’ı sana hak olarak indirdik. Hainlerin savunucusu olma!",
+      "footnotes": null
+    },
+    {
+      "id": "599",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "106",
+      "arabic_text": "وَاسْتَغْفِرِ اللّٰهَۜ اِنَّ اللّٰهَ كَانَ غَفُورًا رَح۪يمًاۚ",
+      "translation": "Allah’tan bağışlanma dile! Şüphesiz ki Allah, (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) Ğafûr, (kullarına karşı merhametli olan) Rahîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "600",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "107",
+      "arabic_text": "وَلَا تُجَادِلْ عَنِ الَّذ۪ينَ يَخْتَانُونَ اَنْفُسَهُمْۜ اِنَّ اللّٰهَ لَا يُحِبُّ مَنْ كَانَ خَوَّانًا اَث۪يمًاۚ",
+      "translation": "(Hırsızlık yapmak suretiyle) nefislerine ihanet eden kimseleri savunma. Şüphesiz ki Allah, hainlikte sınırları zorlayan aşırı günahkâr kimseyi sevmez.",
+      "footnotes": null
+    },
+    {
+      "id": "601",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "108",
+      "arabic_text": "يَسْتَخْفُونَ مِنَ النَّاسِ وَلَا يَسْتَخْفُونَ مِنَ اللّٰهِ وَهُوَ مَعَهُمْ اِذْ يُبَيِّتُونَ مَا لَا يَرْضٰى مِنَ الْقَوْلِۜ وَكَانَ اللّٰهُ بِمَا يَعْمَلُونَ مُح۪يطًا",
+      "translation": "(Günah işlediklerinde) insanlardan gizleniyorlar da Allah’tan gizlenmiyorlar. (Oysa Allah) razı olmadığı işi kurguladıkları gece onlarla beraberdir. Allah, onların yaptıklarını (çepeçevre kuşatan) Muhit’tir.",
+      "footnotes": null
+    },
+    {
+      "id": "602",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "109",
+      "arabic_text": "هَٓا اَنْتُمْ هٰٓؤُ۬لَٓاءِ جَادَلْتُمْ عَنْهُمْ فِي الْحَيٰوةِ الدُّنْيَا فَمَنْ يُجَادِلُ اللّٰهَ عَنْهُمْ يَوْمَ الْقِيٰمَةِ اَمْ مَنْ يَكُونُ عَلَيْهِمْ وَك۪يلًا",
+      "translation": "Hadi diyelim ki dünya hayatında siz onları savundunuz! Peki, Kıyamet Günü'nde Allah’a karşı kim onları savunacak ya da kim onlara vekil olacak?",
+      "footnotes": null
+    },
+    {
+      "id": "603",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "110",
+      "arabic_text": "وَمَنْ يَعْمَلْ سُٓوءًا اَوْ يَظْلِمْ نَفْسَهُ ثُمَّ يَسْتَغْفِرِ اللّٰهَ يَجِدِ اللّٰهَ غَفُورًا رَح۪يمًا",
+      "translation": "Her kim bir kötülük yapar yahut nefsine zulmeder, sonra Allah’tan bağışlanma dilerse Allah’ı (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) Ğafûr, (kullarına karşı merhametli) Rahîm olarak bulacaktır.",
+      "footnotes": null
+    },
+    {
+      "id": "604",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "111",
+      "arabic_text": "وَمَنْ يَكْسِبْ اِثْمًا فَاِنَّمَا يَكْسِبُهُ عَلٰى نَفْسِه۪ۜ وَكَانَ اللّٰهُ عَل۪يمًا حَك۪يمًا",
+      "translation": "Kim de bir günah işlemişse kendi aleyhine günah işlemiş olur. Allah (her şeyi bilen) Alîm, (hüküm ve hikmet sahibi olan) Hakîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "605",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "112",
+      "arabic_text": "وَمَنْ يَكْسِبْ خَط۪ٓيـَٔةً اَوْ اِثْمًا ثُمَّ يَرْمِ بِه۪ بَر۪ٓيـًٔا فَقَدِ احْتَمَلَ بُهْتَانًا وَاِثْمًا مُب۪ينًا۟",
+      "translation": "Kim de bir hata ya da günah kazanır, sonra suçsuz olan birinin üzerine yıkarsa hiç şüphesiz, bir iftirayı ve apaçık bir günahı yüklenmiş olur.",
+      "footnotes": null
+    },
+    {
+      "id": "606",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "113",
+      "arabic_text": "وَلَوْلَا فَضْلُ اللّٰهِ عَلَيْكَ وَرَحْمَتُهُ لَهَمَّتْ طَٓائِفَةٌ مِنْهُمْ اَنْ يُضِلُّوكَۜ وَمَا يُضِلُّونَ اِلَّٓا اَنْفُسَهُمْ وَمَا يَضُرُّونَكَ مِنْ شَيْءٍۜ وَاَنْزَلَ اللّٰهُ عَلَيْكَ الْكِتَابَ وَالْحِكْمَةَ وَعَلَّمَكَ مَا لَمْ تَكُنْ تَعْلَمُۜ وَكَانَ فَضْلُ اللّٰهِ عَلَيْكَ عَظ۪يمًا",
+      "translation": "Şayet Allah’ın lütfu ve rahmeti senin üzerine olmasaydı, onlardan bir grup seni saptırmayı arzuluyordu. Onlar sadece kendilerini saptırıyorlar ve sana hiçbir zarar da veremezler. Allah, sana Kitab’ı ve hikmeti indirdi ve sana bilmediklerini öğretti. Allah’ın senin üzerindeki lütuf ve ihsanı çok büyüktür.",
+      "footnotes": null
+    },
+    {
+      "id": "607",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "114",
+      "arabic_text": "لَا خَيْرَ ف۪ي كَث۪يرٍ مِنْ نَجْوٰيهُمْ اِلَّا مَنْ اَمَرَ بِصَدَقَةٍ اَوْ مَعْرُوفٍ اَوْ اِصْلَاحٍ بَيْنَ النَّاسِۜ وَمَنْ يَفْعَلْ ذٰلِكَ ابْتِغَٓاءَ مَرْضَاتِ اللّٰهِ فَسَوْفَ نُؤْت۪يهِ اَجْرًا عَظ۪يمًا",
+      "translation": "Sadakayı, iyiliği ve insanların arasını düzeltmeyi teşvik etmeleri dışında, aralarında yaptıkları fısıldaşmaların çoğunda hiçbir hayır yoktur. Kim de bu (iyiliğe teşvik işini) Allah’ın rızasını elde etmek için yaparsa, ona büyük bir ecir vereceğiz.",
+      "footnotes": null
+    },
+    {
+      "id": "608",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "115",
+      "arabic_text": "وَمَنْ يُشَاقِقِ الرَّسُولَ مِنْ بَعْدِ مَا تَبَيَّنَ لَهُ الْهُدٰى وَيَتَّبِعْ غَيْرَ سَب۪يلِ الْمُؤْمِن۪ينَ نُوَلِّه۪ مَا تَوَلّٰى وَنُصْلِه۪ جَهَنَّمَۜ وَسَٓاءَتْ مَص۪يرًا۟",
+      "translation": "Kim de hidayet kendisine apaçık belli olduktan sonra Resûl’e muhalefet eder ve müminlerin yolunun dışında bir yola uyarsa, (batıl yolu ona süslü göstererek) onu yöneldiği yola havale eder ve cehenneme sokarız. Ne kötü bir dönüş yeridir orası!",
+      "footnotes": null
+    },
+    {
+      "id": "609",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "116",
+      "arabic_text": "اِنَّ اللّٰهَ لَا يَغْفِرُ اَنْ يُشْرَكَ بِه۪ وَيَغْفِرُ مَا دُونَ ذٰلِكَ لِمَنْ يَشَٓاءُۜ وَمَنْ يُشْرِكْ بِاللّٰهِ فَقَدْ ضَلَّ ضَلَالًا بَع۪يدًا",
+      "translation": "Şüphesiz ki Allah, kendisine şirk koşulmasını bağışlamaz. Bunun (şirkin) dışında kalanları dilediğine bağışlar. Kim de Allah’a şirk koşarsa (geri dönüşü zor) uzak bir sapıtmayla sapıtmış olur.",
+      "footnotes": null
+    },
+    {
+      "id": "610",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "117",
+      "arabic_text": "اِنْ يَدْعُونَ مِنْ دُونِه۪ٓ اِلَّٓا اِنَاثًاۚ وَاِنْ يَدْعُونَ اِلَّا شَيْطَانًا مَر۪يدًاۙ",
+      "translation": "Onlar, Allah’ı bırakıp da birtakım dişi (ismi verilen putlara) dua ederler. (Gerçekte) onların dua ettiği inatçı şeytandan başkası değildir.",
+      "footnotes": null
+    },
+    {
+      "id": "611",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "118",
+      "arabic_text": "لَعَنَهُ اللّٰهُۢ وَقَالَ لَاَتَّخِذَنَّ مِنْ عِبَادِكَ نَص۪يبًا مَفْرُوضًاۙ",
+      "translation": "Allah ona lanet etmiştir/etsin. Dedi ki: “(Kasem olsun ki) senin kullarından belirlenmiş bir pay edineceğim.”",
+      "footnotes": null
+    },
+    {
+      "id": "612",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "119",
+      "arabic_text": "وَلَاُضِلَّنَّهُمْ وَلَاُمَنِّيَنَّهُمْ وَلَاٰمُرَنَّهُمْ فَلَيُبَتِّكُنَّ اٰذَانَ الْاَنْعَامِ وَلَاٰمُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ اللّٰهِۜ وَمَنْ يَتَّخِذِ الشَّيْطَانَ وَلِيًّا مِنْ دُونِ اللّٰهِ فَقَدْ خَسِرَ خُسْرَانًا مُب۪ينًاۜ",
+      "translation": "“Onları saptıracağım, onları (boş) kuruntularla oyalayacağım, onlara emredeceğim hayvanların kulaklarını kesecekler, onlara emredeceğim Allah’ın yarattığı (fıtratı) değiştirecekler.” Kim de Allah’ı bırakıp şeytanı dost edinirse, hiç şüphesiz apaçık bir hüsrana uğramış olur.",
+      "footnotes": null
+    },
+    {
+      "id": "613",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "120",
+      "arabic_text": "يَعِدُهُمْ وَيُمَنّ۪يهِمْۜ وَمَا يَعِدُهُمُ الشَّيْطَانُ اِلَّا غُرُورًا",
+      "translation": "Onlara vaatte bulunur ve onları (boş) kuruntularla oyalar. Şeytanın onlara vaadi aldatmadan ibarettir.",
+      "footnotes": null
+    },
+    {
+      "id": "614",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "121",
+      "arabic_text": "اُو۬لٰٓئِكَ مَأْوٰيهُمْ جَهَنَّمُ وَلَا يَجِدُونَ عَنْهَا مَح۪يصًا",
+      "translation": "Bunların barınağı cehennemdir. Ondan kaçış bulamayacaklardır.",
+      "footnotes": null
+    },
+    {
+      "id": "615",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "122",
+      "arabic_text": "وَالَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ سَنُدْخِلُهُمْ جَنَّاتٍ تَجْر۪ي مِنْ تَحْتِهَا الْاَنْهَارُ خَالِد۪ينَ ف۪يهَٓا اَبَدًاۜ وَعْدَ اللّٰهِ حَقًّاۜ وَمَنْ اَصْدَقُ مِنَ اللّٰهِ ق۪يلًا",
+      "translation": "İman edip salih amel işleyen kimseleri altından ırmaklar akan ve içinde ebedî kalacakları cennetlere sokacağız. Allah’ın vaadi haktır. Kim Allah’tan daha doğru sözlü olabilir?",
+      "footnotes": null
+    },
+    {
+      "id": "616",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "123",
+      "arabic_text": "لَيْسَ بِاَمَانِيِّكُمْ وَلَٓا اَمَانِيِّ اَهْلِ الْكِتَابِۜ مَنْ يَعْمَلْ سُٓوءًا يُجْزَ بِه۪ۙ وَلَا يَجِدْ لَهُ مِنْ دُونِ اللّٰهِ وَلِيًّا وَلَا نَص۪يرًا",
+      "translation": "(Kimin hak ya da batıl üzere olduğu, kimin cennete ya da cehenneme gideceği) ne sizin ne de Ehl-i Kitab’ın temennileriyle olacak iştir. (Bunu belirleyecek olan şudur:) Kim bir kötülük yaparsa onunla cezalandırılır. Ve kendisi için Allah’ın dışında ne bir dost ne de bir yardımcı bulur.",
+      "footnotes": null
+    },
+    {
+      "id": "617",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "124",
+      "arabic_text": "وَمَنْ يَعْمَلْ مِنَ الصَّالِحَاتِ مِنْ ذَكَرٍ اَوْ اُنْثٰى وَهُوَ مُؤْمِنٌ فَاُو۬لٰٓئِكَ يَدْخُلُونَ الْجَنَّةَ وَلَا يُظْلَمُونَ نَق۪يرًا",
+      "translation": "Erkek ve kadınlardan kim mümin olarak salih ameller yaparsa bunlar, cennete girerler ve kıl kadar da olsa zulme uğramazlar.",
+      "footnotes": null
+    },
+    {
+      "id": "618",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "125",
+      "arabic_text": "وَمَنْ اَحْسَنُ د۪ينًا مِمَّنْ اَسْلَمَ وَجْهَهُ لِلّٰهِ وَهُوَ مُحْسِنٌ وَاتَّبَعَ مِلَّةَ اِبْرٰه۪يمَ حَن۪يفًاۜ وَاتَّخَذَ اللّٰهُ اِبْرٰه۪يمَ خَل۪يلًا",
+      "translation": "Muhsin olarak/Kulluğunu en güzel şekilde yapmaya çalışarak yüzünü Allah’a teslim eden ve hanif olan İbrahim’in milletine uyandan daha güzel bir dine kim sahip olabilir? Ki, Allah İbrahim’i dost edinmiştir.",
+      "footnotes": null
+    },
+    {
+      "id": "619",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "126",
+      "arabic_text": "وَلِلّٰهِ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِۜ وَكَانَ اللّٰهُ بِكُلِّ شَيْءٍ مُح۪يطًا۟",
+      "translation": "Göklerde ve yerde olanların tamamı Allah’a aittir. Ve Allah, her şeyi (çepeçevre kuşatan) Muhit’tir.",
+      "footnotes": null
+    },
+    {
+      "id": "620",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "127",
+      "arabic_text": "وَيَسْتَفْتُونَكَ فِي النِّسَٓاءِۜ قُلِ اللّٰهُ يُفْت۪يكُمْ ف۪يهِنَّۙ وَمَا يُتْلٰى عَلَيْكُمْ فِي الْكِتَابِ ف۪ي يَتَامَى النِّسَٓاءِ الّٰت۪ي لَا تُؤْتُونَهُنَّ مَا كُتِبَ لَهُنَّ وَتَرْغَبُونَ اَنْ تَنْكِحُوهُنَّ وَالْمُسْتَضْعَف۪ينَ مِنَ الْوِلْدَانِۙ وَاَنْ تَقُومُوا لِلْيَتَامٰى بِالْقِسْطِۜ وَمَا تَفْعَلُوا مِنْ خَيْرٍ فَاِنَّ اللّٰهَ كَانَ بِه۪ عَل۪يمًا",
+      "translation": "Kadınlar hususunda sana fetva soruyorlar. De ki: “Allah onlar hakkında size fetva veriyor.” Kendileri için (Allah tarafından) yazılmış olan (mirası) vermediğiniz (bununla beraber) evlenmek istediğiniz yetim kadınlar, mustazaf çocuklar ve adaletle davranmanız gereken yetimler (hakkında) Kitap’ta okunan (ayetler yeterli değil mi?) Her ne hayır yaparsanız şüphesiz ki Allah, onu bilir.",
+      "footnotes": null
+    },
+    {
+      "id": "621",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "128",
+      "arabic_text": "وَاِنِ امْرَاَةٌ خَافَتْ مِنْ بَعْلِهَا نُشُوزًا اَوْ اِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَٓا اَنْ يُصْلِحَا بَيْنَهُمَا صُلْحًاۜ وَالصُّلْحُ خَيْرٌۜ وَاُحْضِرَتِ الْاَنْفُسُ الشُّحَّۜ وَاِنْ تُحْسِنُوا وَتَتَّقُوا فَاِنَّ اللّٰهَ كَانَ بِمَا تَعْمَلُونَ خَب۪يرًا",
+      "translation": "Şayet bir kadın kocasının serkeşliğinden veya (kendisinden) yüz çevirip (uzaklaşmasından) korkarsa, aralarında sulh yapmalarında o ikisi için bir günah yoktur. Sulh (ayrılık, serkeşlik, sorunlu evlilik seçenekleri arasında) en hayırlı olanıdır. (Bununla birlikte) nefislerde bencillik/cimrilik vardır. (Her bir eş kendi hakkının gözetilmesi konusunda ısrarcıdır.) Şayet (birbirinize) iyilikte bulunur ve (karşılıklı haklarınızda) Allah’tan korkup sakınırsanız, şüphesiz ki Allah, yaptıklarınızdan haberdardır.",
+      "footnotes": null
+    },
+    {
+      "id": "622",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "129",
+      "arabic_text": "وَلَنْ تَسْتَط۪يعُٓوا اَنْ تَعْدِلُوا بَيْنَ النِّسَٓاءِ وَلَوْ حَرَصْتُمْ فَلَا تَم۪يلُوا كُلَّ الْمَيْلِ فَتَذَرُوهَا كَالْمُعَلَّقَةِۜ وَاِنْ تُصْلِحُوا وَتَتَّقُوا فَاِنَّ اللّٰهَ كَانَ غَفُورًا رَح۪يمًا",
+      "translation": "Çok isteseniz bile kadınlar arasında (sevgi konusunda) tam adaleti sağlayamayacaksınız. (Mutlaka birini daha fazla seveceksiniz.) (Birine) tamamen yönelip (diğer eşinizi ne dul ne de evli olmayan ikisi arasında kalmış gibi) muallakta bırakmayın. Şayet düzeltir ve (Allah’tan) sakınıp korkarsanız şüphesiz ki Allah, (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) Ğafûr, (kullarına karşı merhametli olan) Rahîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "623",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "130",
+      "arabic_text": "وَاِنْ يَتَفَرَّقَا يُغْنِ اللّٰهُ كُلًّا مِنْ سَعَتِه۪ۜ وَكَانَ اللّٰهُ وَاسِعًا حَك۪يمًا",
+      "translation": "Şayet ayrılırlarsa Allah her ikisini de genişliğinden zengin kılacaktır. Allah (ihsanı ve lütfu bütün varlığı kuşatacak kadar geniş olan) Vâsi’, (hüküm ve hikmet sahibi olan) Hakîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "624",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "131",
+      "arabic_text": "وَلِلّٰهِ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِۜ وَلَقَدْ وَصَّيْنَا الَّذ۪ينَ اُو۫تُوا الْكِتَابَ مِنْ قَبْلِكُمْ وَاِيَّاكُمْ اَنِ اتَّقُوا اللّٰهَۜ وَاِنْ تَكْفُرُوا فَاِنَّ لِلّٰهِ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِۜ وَكَانَ اللّٰهُ غَنِيًّا حَم۪يدًا",
+      "translation": "Göklerde ve yerde olanların tamamı Allah’a aittir. Andolsun ki, sizden önce kendilerine Kitap verilenlere ve size Allah’tan sakınmanızı tavsiye ettik. Şayet kâfir olursanız şüphesiz göklerde ve yerde olanların tamamı Allah’a aittir. Allah (kimseye muhtaç olmayan, her şeyin kendisine muhtaç olduğu) Ğaniy, (her daim övgüyü hak eden ve varlık tarafından övülen) Hamîd’tir.”",
+      "footnotes": null
+    },
+    {
+      "id": "625",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "132",
+      "arabic_text": "وَلِلّٰهِ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِۜ وَكَفٰى بِاللّٰهِ وَك۪يلًا",
+      "translation": "Göklerde ve yerde olanların tamamı Allah’a aittir. Vekil olarak Allah yeter.",
+      "footnotes": null
+    },
+    {
+      "id": "626",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "133",
+      "arabic_text": "اِنْ يَشَأْ يُذْهِبْكُمْ اَيُّهَا النَّاسُ وَيَأْتِ بِاٰخَر۪ينَۜ وَكَانَ اللّٰهُ عَلٰى ذٰلِكَ قَد۪يرًا",
+      "translation": "Şayet (Allah) dilerse -Ey insanlar!- sizi götürüp yerinize başkalarını getirir. Allah, bunu yapmaya muktedirdir.",
+      "footnotes": null
+    },
+    {
+      "id": "627",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "134",
+      "arabic_text": "مَنْ كَانَ يُر۪يدُ ثَوَابَ الدُّنْيَا فَعِنْدَ اللّٰهِ ثَوَابُ الدُّنْيَا وَالْاٰخِرَةِۜ وَكَانَ اللّٰهُ سَم۪يعًا بَص۪يرًا۟",
+      "translation": "Kim dünya sevabını istiyorsa, şüphesiz ki dünyanın da ahiretin de sevabı Allah’ın yanındadır. Allah (işiten ve dualara icabet eden) Semi’, (her şeyi gören) Basîr’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "628",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "135",
+      "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا كُونُوا قَوَّام۪ينَ بِالْقِسْطِ شُهَدَٓاءَ لِلّٰهِ وَلَوْ عَلٰٓى اَنْفُسِكُمْ اَوِ الْوَالِدَيْنِ وَالْاَقْرَب۪ينَۚ اِنْ يَكُنْ غَنِيًّا اَوْ فَق۪يرًا فَاللّٰهُ اَوْلٰى بِهِمَا فَلَا تَتَّبِعُوا الْهَوٰٓى اَنْ تَعْدِلُواۚ وَاِنْ تَلْوُٓ۫ا اَوْ تُعْرِضُوا فَاِنَّ اللّٰهَ كَانَ بِمَا تَعْمَلُونَ خَب۪يرًا",
+      "translation": "Ey iman edenler! Sizin, ebeveyninizin veya yakın akrabalarınızın aleyhine dahi olsa Allah için adaleti ayakta tutan (adil) şahitler olun. (Şahitlik yaptığınız) zengin ya da fakir olursa (zenginlik ve fakirliğe göre değerlendirmeyin.) (Şahitlik yaparken) Allah(ın hakkını gözetmeniz) daha evladır. Hevaya tabi olup adaletsizlik yapmayın. Şayet lafı ağzınızda geveler ya da (adaletten) yüz çevirirseniz şüphesiz ki Allah, yaptıklarınızdan haberdardır.",
+      "footnotes": null
+    },
+    {
+      "id": "629",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "136",
+      "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُٓوا اٰمِنُوا بِاللّٰهِ وَرَسُولِه۪ وَالْكِتَابِ الَّذ۪ي نَزَّلَ عَلٰى رَسُولِه۪ وَالْكِتَابِ الَّذ۪ٓي اَنْزَلَ مِنْ قَبْلُۜ وَمَنْ يَكْفُرْ بِاللّٰهِ وَمَلٰٓئِكَتِه۪ وَكُتُبِه۪ وَرُسُلِه۪ وَالْيَوْمِ الْاٰخِرِ فَقَدْ ضَلَّ ضَلَالًا بَع۪يدًا",
+      "translation": "Ey iman edenler! Allah’a, Resûl’üne, Resûl’üne indirdiği Kitab’a ve daha önce indirdiği Kitab’a iman edin. Kim de Allah’a, meleklerine, kitaplarına, resûllerine ve Ahiret Günü'ne kâfirlik ederse şüphesiz (hakka geri dönüşü zor) uzak bir sapıtmayla sapıtmış olur.”",
+      "footnotes": null
+    },
+    {
+      "id": "630",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "137",
+      "arabic_text": "اِنَّ الَّذ۪ينَ اٰمَنُوا ثُمَّ كَفَرُوا ثُمَّ اٰمَنُوا ثُمَّ كَفَرُوا ثُمَّ ازْدَادُوا كُفْرًا لَمْ يَكُنِ اللّٰهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ سَب۪يلًاۜ",
+      "translation": "Şüphesiz, iman eden sonra kâfir olanlar, sonra tekrar iman edip sonra kâfir olanlar, sonra da küfürlerini arttıran kimseler; Allah onları bağışlayacak ve yol gösterecek değildir.",
+      "footnotes": null
+    },
+    {
+      "id": "631",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "138",
+      "arabic_text": "بَشِّرِ الْمُنَافِق۪ينَ بِاَنَّ لَهُمْ عَذَابًا اَل۪يمًاۙ",
+      "translation": "Münafıklara, kendileri için can yakıcı bir azap olduğunu müjdele!",
+      "footnotes": null
+    },
+    {
+      "id": "632",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "139",
+      "arabic_text": "اَلَّذ۪ينَ يَتَّخِذُونَ الْكَافِر۪ينَ اَوْلِيَٓاءَ مِنْ دُونِ الْمُؤْمِن۪ينَۜ اَيَبْتَغُونَ عِنْدَهُمُ الْعِزَّةَ فَاِنَّ الْعِزَّةَ لِلّٰهِ جَم۪يعًاۜ",
+      "translation": "Onlar ki müminleri bırakıp kâfirleri dost ediniyorlar. Onların yanında izzet mi arıyorlar? Hiç şüphesiz, izzetin tamamı Allah’a aittir.",
+      "footnotes": null
+    },
+    {
+      "id": "633",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "140",
+      "arabic_text": "وَقَدْ نَزَّلَ عَلَيْكُمْ فِي الْكِتَابِ اَنْ اِذَا سَمِعْتُمْ اٰيَاتِ اللّٰهِ يُكْفَرُ بِهَا وَيُسْتَهْزَاُ بِهَا فَلَا تَقْعُدُوا مَعَهُمْ حَتّٰى يَخُوضُوا ف۪ي حَد۪يثٍ غَيْرِه۪ۘ اِنَّكُمْ اِذًا مِثْلُهُمْۜ اِنَّ اللّٰهَ جَامِعُ الْمُنَافِق۪ينَ وَالْكَافِر۪ينَ ف۪ي جَهَنَّمَ جَم۪يعًاۙ",
+      "translation": "Şüphesiz ki (Allah), Kitap’ta size (şu hükmü) indirdi: Allah’ın ayetlerinin inkâr edildiğini ve alaya alındığını duyduğunuz zaman, başka bir söze dalıncaya kadar onlarla beraber (aynı mecliste) oturmayın. (İnkâr etmeden ya da konuyu değiştirmedikleri hâlde aynı ortamda oturursanız) şüphesiz ki siz de onlar gibi (kâfir/müşrik) olursunuz. Muhakkak ki Allah, münafıkları ve kâfirleri cehennemde toplayacak olandır.",
+      "footnotes": null
+    },
+    {
+      "id": "634",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "141",
+      "arabic_text": "اَلَّذ۪ينَ يَتَرَبَّصُونَ بِكُمْۚ فَاِنْ كَانَ لَكُمْ فَتْحٌ مِنَ اللّٰهِ قَالُٓوا اَلَمْ نَكُنْ مَعَكُمْۘ وَاِنْ كَانَ لِلْكَافِر۪ينَ نَص۪يبٌۙ قَالُٓوا اَلَمْ نَسْتَحْوِذْ عَلَيْكُمْ وَنَمْنَعْكُمْ مِنَ الْمُؤْمِن۪ينَۜ فَاللّٰهُ يَحْكُمُ بَيْنَكُمْ يَوْمَ الْقِيٰمَةِۜ وَلَنْ يَجْعَلَ اللّٰهُ لِلْكَافِر۪ينَ عَلَى الْمُؤْمِن۪ينَ سَب۪يلًا۟",
+      "translation": "O (münafıklar) ki sizin durumunuzu gözetlerler. Size Allah’tan bir yardım gelecek olsa: “Sizinle beraber değil miydik?” derler. Kâfirlerin (zaferden) bir payı olacak olsa (bu sefer onlara:) “Size dostluk edip, müminlerden korumadık mı?” derler. Allah Kıyamet Günü'nde aranızda hükmedecektir. Allah, müminlerin aleyhine kâfirlere yol vermeyecektir. (Siz de onları dost edinip başınıza yönetici atayarak, imamlık, nikâh gibi konularda velayet yetkisi vererek, sizinle ilgili söz sahibi ve yetkili olmalarına müsaade etmeyin.)",
+      "footnotes": null
+    },
+    {
+      "id": "635",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "142",
+      "arabic_text": "اِنَّ الْمُنَافِق۪ينَ يُخَادِعُونَ اللّٰهَ وَهُوَ خَادِعُهُمْۚ وَاِذَا قَامُٓوا اِلَى الصَّلٰوةِ قَامُوا كُسَالٰىۙ يُرَٓاؤُ۫نَ النَّاسَ وَلَا يَذْكُرُونَ اللّٰهَ اِلَّا قَل۪يلًاۘ",
+      "translation": "Şüphesiz ki münafıklar, Allah’ı aldattıklarını sanırlar. (Oysa onlara mühlet verip, azabın gelip çattığı güne kadar onları oyalamakla) Allah onları aldatmaktadır. Namaza kalktıkları zaman tembel bir şekilde kalkarlar, insanlara gösteriş yaparlar ve Allah’ı çok az zikrederler.",
+      "footnotes": null
+    },
+    {
+      "id": "636",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "143",
+      "arabic_text": "مُذَبْذَب۪ينَ بَيْنَ ذٰلِكَۗ لَٓا اِلٰى هٰٓؤُ۬لَٓاءِ وَلَٓا اِلٰى هٰٓؤُ۬لَٓاءِۜ وَمَنْ يُضْلِلِ اللّٰهُ فَلَنْ تَجِدَ لَهُ سَب۪يلًا",
+      "translation": "(İman ve küfür) arasında tereddüt içindelerdir. Ne (tam olarak) bunlardan (müminlerden) ne de onlardandır (kâfirlerden). Kimi de Allah saptırmışsa sen ona bir yol bulamazsın.",
+      "footnotes": null
+    },
+    {
+      "id": "637",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "144",
+      "arabic_text": "يَٓا اَيُّهَا الَّذ۪ينَ اٰمَنُوا لَا تَتَّخِذُوا الْكَافِر۪ينَ اَوْلِيَٓاءَ مِنْ دُونِ الْمُؤْمِن۪ينَۜ اَتُر۪يدُونَ اَنْ تَجْعَلُوا لِلّٰهِ عَلَيْكُمْ سُلْطَانًا مُب۪ينًا",
+      "translation": "Ey iman edenler! Müminleri bırakıp da kâfirleri dost edinmeyin. Allah’a aleyhinize apaçık bir delil mi vermek istiyorsunuz?",
+      "footnotes": null
+    },
+    {
+      "id": "638",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "145",
+      "arabic_text": "اِنَّ الْمُنَافِق۪ينَ فِي الدَّرْكِ الْاَسْفَلِ مِنَ النَّارِۚ وَلَنْ تَجِدَ لَهُمْ نَص۪يرًاۙ",
+      "translation": "Şüphesiz ki münafıklar, ateşin en alt tabakasındalardır. Sen onlar için bir yardımcı da bulamazsın.",
+      "footnotes": null
+    },
+    {
+      "id": "639",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "146",
+      "arabic_text": "اِلَّا الَّذ۪ينَ تَابُوا وَاَصْلَحُوا وَاعْتَصَمُوا بِاللّٰهِ وَاَخْلَصُوا د۪ينَهُمْ لِلّٰهِ فَاُو۬لٰٓئِكَ مَعَ الْمُؤْمِن۪ينَۜ وَسَوْفَ يُؤْتِ اللّٰهُ الْمُؤْمِن۪ينَ اَجْرًا عَظ۪يمًا",
+      "translation": "Tevbe edenler, (hatalarını) düzeltenler, Allah’a tutunanlar ve dinlerini (içine şirk ve riya karıştırmadan) Allah’a halis kılanlar; bunlar (münafıklarla değil), müminlerle beraberdir. Ve Allah, müminlere büyük bir ecir verecektir.",
+      "footnotes": null
+    },
+    {
+      "id": "640",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "147",
+      "arabic_text": "مَا يَفْعَلُ اللّٰهُ بِعَذَابِكُمْ اِنْ شَكَرْتُمْ وَاٰمَنْتُمْۜ وَكَانَ اللّٰهُ شَاكِرًا عَل۪يمًا",
+      "translation": "Şayet şükreder ve iman ederseniz Allah size ne diye azap etsin ki? Allah (kullarına teşekkür eden ve yaptıklarının karşılığını fazlasıyla veren) Şâkir, (her şeyi bilen) Alîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "641",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "148",
+      "arabic_text": "لَا يُحِبُّ اللّٰهُ الْجَهْرَ بِالسُّٓوءِ مِنَ الْقَوْلِ اِلَّا مَنْ ظُلِمَۜ وَكَانَ اللّٰهُ سَم۪يعًا عَل۪يمًا",
+      "translation": "Allah, kötü sözün açıktan söylenmesinden hoşlanmaz. Zulme uğrayan müstesna. Allah (işiten ve dualara icabet eden) Semi’, (her şeyi bilen) Alîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "642",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "149",
+      "arabic_text": "اِنْ تُبْدُوا خَيْرًا اَوْ تُخْفُوهُ اَوْ تَعْفُوا عَنْ سُٓوءٍ فَاِنَّ اللّٰهَ كَانَ عَفُوًّا قَد۪يرًا",
+      "translation": "Şayet bir hayrı açıktan yapar veya onu gizler ya da bir kötülüğü affederseniz şüphesiz ki Allah, (günahları affeden) Afuv, (her şeye güç yetiren, mutlak kudret sahibi olan) Kadîrdir.",
+      "footnotes": null
+    },
+    {
+      "id": "643",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "150",
+      "arabic_text": "اِنَّ الَّذ۪ينَ يَكْفُرُونَ بِاللّٰهِ وَرُسُلِه۪ وَيُر۪يدُونَ اَنْ يُفَرِّقُوا بَيْنَ اللّٰهِ وَرُسُلِه۪ وَيَقُولُونَ نُؤْمِنُ بِبَعْضٍ وَنَكْفُرُ بِبَعْضٍۙ وَيُر۪يدُونَ اَنْ يَتَّخِذُوا بَيْنَ ذٰلِكَ سَب۪يلًاۙ",
+      "translation": "Şüphesiz ki Allah’a ve resûllerine karşı küfre sapan, Allah ile resûllerinin arasını ayırmak isteyen: “Bir kısmına inanır bir kısmını inkâr ederiz.” diyenler ve bu ikisi arasında bir yol tutmak isteyenler (var ya);",
+      "footnotes": null
+    },
+    {
+      "id": "644",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "151",
+      "arabic_text": "اُو۬لٰٓئِكَ هُمُ الْكَافِرُونَ حَقًّاۚ وَاَعْتَدْنَا لِلْكَافِر۪ينَ عَذَابًا مُه۪ينًا",
+      "translation": "Bunlar, hakiki kâfirlerin ta kendileridir. Kâfirler için alçaltıcı bir azap hazırlamışızdır.",
+      "footnotes": null
+    },
+    {
+      "id": "645",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "152",
+      "arabic_text": "وَالَّذ۪ينَ اٰمَنُوا بِاللّٰهِ وَرُسُلِه۪ وَلَمْ يُفَرِّقُوا بَيْنَ اَحَدٍ مِنْهُمْ اُو۬لٰٓئِكَ سَوْفَ يُؤْت۪يهِمْ اُجُورَهُمْۜ وَكَانَ اللّٰهُ غَفُورًا رَح۪يمًا۟",
+      "translation": "Allah’a ve resûllerine iman eden, onların arasında ayrım yapmayanlar ise bunlara (Allah) ecirlerini verecektir. Allah (günahları bağışlayan, örten ve günahların kötü akıbetinden kulu koruyan) Ğafûr, (kullarına karşı merhametli olan) Rahîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "646",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "153",
+      "arabic_text": "يَسْـَٔلُكَ اَهْلُ الْكِتَابِ اَنْ تُنَزِّلَ عَلَيْهِمْ كِتَابًا مِنَ السَّمَٓاءِ فَقَدْ سَاَلُوا مُوسٰٓى اَكْبَرَ مِنْ ذٰلِكَ فَقَالُٓوا اَرِنَا اللّٰهَ جَهْرَةً فَاَخَذَتْهُمُ الصَّاعِقَةُ بِظُلْمِهِمْۚ ثُمَّ اتَّخَذُوا الْعِجْلَ مِنْ بَعْدِ مَا جَٓاءَتْهُمُ الْبَيِّنَاتُ فَعَفَوْنَا عَنْ ذٰلِكَۚ وَاٰتَيْنَا مُوسٰى سُلْطَانًا مُب۪ينًا",
+      "translation": "Ehl-i Kitap (olanlar) üzerlerine gökten bir kitap indirmeni istiyorlar. (Bu isteklerine şaşırma!) Şüphesiz ki Musa’dan, bundan daha büyük bir şey istemişlerdi. Dediler ki: “Allah’ı bize (çıplak gözle görecek şekilde) açıkça göster.” Zulümleri nedeniyle onlara yıldırım çarpmıştı. Ardından kendilerine apaçık deliller geldikten sonra buzağıyı (ilah) edindiler. Bu (suçlarını da) bağışladık. Ve Musa’ya apaçık bir delil verdik.",
+      "footnotes": null
+    },
+    {
+      "id": "647",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "154",
+      "arabic_text": "وَرَفَعْنَا فَوْقَهُمُ الطُّورَ بِم۪يثَاقِهِمْ وَقُلْنَا لَهُمُ ادْخُلُوا الْبَابَ سُجَّدًا وَقُلْنَا لَهُمْ لَا تَعْدُوا فِي السَّبْتِ وَاَخَذْنَا مِنْهُمْ م۪يثَاقًا غَل۪يظًا",
+      "translation": "Tur Dağı’nı (Allah’a vermiş oldukları) sözleri sebebiyle tepelerine yükselttik. Onlara: “Kapıdan secde ederek girin.” dedik. Onlara: “Cumartesi (Avlanma) Yasağını çiğnemeyin.” dedik. Ve onlardan sağlam bir söz aldık.",
+      "footnotes": null
+    },
+    {
+      "id": "648",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "155",
+      "arabic_text": "فَبِمَا نَقْضِهِمْ م۪يثَاقَهُمْ وَكُفْرِهِمْ بِاٰيَاتِ اللّٰهِ وَقَتْلِهِمُ الْاَنْبِيَٓاءَ بِغَيْرِ حَقٍّ وَقَوْلِهِمْ قُلُوبُنَا غُلْفٌۜ بَلْ طَبَعَ اللّٰهُ عَلَيْهَا بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ اِلَّا قَل۪يلًاۖ",
+      "translation": "Sözlerini bozmaları, Allah’ın ayetlerine karşı kâfir olmaları, haksız yere nebileri öldürmeleri ve: “Kalplerimiz (hak ve hakikate karşı) kapalıdır.” sözleri (nedeniyle onları cezalandırdık). (Hayır, öyle değil!) Bilakis, Allah küfürleri sebebiyle onların kalplerini mühürlemiştir. (Bu nedenle) pek az iman ederler.",
+      "footnotes": null
+    },
+    {
+      "id": "649",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "156",
+      "arabic_text": "وَبِكُفْرِهِمْ وَقَوْلِهِمْ عَلٰى مَرْيَمَ بُهْتَانًا عَظ۪يمًاۙ",
+      "translation": "Küfürleri ve Meryem hakkındaki büyük iftiraları nedeniyle (de onları cezalandırdık).",
+      "footnotes": null
+    },
+    {
+      "id": "650",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "157",
+      "arabic_text": "وَقَوْلِهِمْ اِنَّا قَتَلْنَا الْمَس۪يحَ ع۪يسَى ابْنَ مَرْيَمَ رَسُولَ اللّٰهِۚ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلٰكِنْ شُبِّهَ لَهُمْۜ وَاِنَّ الَّذ۪ينَ اخْتَلَفُوا ف۪يهِ لَف۪ي شَكٍّ مِنْهُۜ مَا لَهُمْ بِه۪ مِنْ عِلْمٍ اِلَّا اتِّبَاعَ الظَّنِّۚ وَمَا قَتَلُوهُ يَق۪ينًاۙ",
+      "translation": "“Allah’ın Resûlü Meryem oğlu İsa Mesih’i öldürdük.” demeleri nedeniyle (de onları cezalandırdık). (Oysa) onu öldürmediler, onu asmadılar, (astıkları kişi İsa’ya) benzetildi. Şüphesiz ki (İsa hakkında) tartışanlar, ondan dolayı şüphe içerisindelerdir. Zanna uymak dışında onun hakkında hiçbir bilgiye sahip değillerdir. Kesinlikle onu öldürmediler.",
+      "footnotes": null
+    },
+    {
+      "id": "651",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "158",
+      "arabic_text": "بَلْ رَفَعَهُ اللّٰهُ اِلَيْهِۜ وَكَانَ اللّٰهُ عَز۪يزًا حَك۪يمًا",
+      "translation": "(Sandıkları gibi değil!) Bilakis Allah, onu kendisine yükseltti. Allah (izzet sahibi, her şeyi mağlup eden) Azîz, (hüküm ve hikmet sahibi olan) Hakîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "652",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "159",
+      "arabic_text": "وَاِنْ مِنْ اَهْلِ الْكِتَابِ اِلَّا لَيُؤْمِنَنَّ بِه۪ قَبْلَ مَوْتِه۪ۚ وَيَوْمَ الْقِيٰمَةِ يَكُونُ عَلَيْهِمْ شَه۪يدًاۚ",
+      "translation": "Ehl-i Kitab’ın tamamı ölümünden önce mutlaka ona iman edecektir. (Hem İsa’da) Kıyamet Günü onların aleyhine şahitlikte bulunacaktır.",
+      "footnotes": null
+    },
+    {
+      "id": "653",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "160",
+      "arabic_text": "فَبِظُلْمٍ مِنَ الَّذ۪ينَ هَادُوا حَرَّمْنَا عَلَيْهِمْ طَيِّبَاتٍ اُحِلَّتْ لَهُمْ وَبِصَدِّهِمْ عَنْ سَب۪يلِ اللّٰهِ كَث۪يرًاۙ",
+      "translation": "Yahudi olanların zulümleri ve birçok kişiyi Allah’ın yolundan alıkoymaları sebebiyle, (daha önceden) helal kılınmış temiz yiyecekleri onlara haram kıldık.",
+      "footnotes": null
+    },
+    {
+      "id": "654",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "161",
+      "arabic_text": "وَاَخْذِهِمُ الرِّبٰوا وَقَدْ نُهُوا عَنْهُ وَاَكْلِهِمْ اَمْوَالَ النَّاسِ بِالْبَاطِلِۜ وَاَعْتَدْنَا لِلْكَافِر۪ينَ مِنْهُمْ عَذَابًا اَل۪يمًا",
+      "translation": "Yasaklandıkları hâlde faiz ve insanların mallarını batıl yollarla yemeleri nedeniyle... Onlardan kâfir olanlar için can yakıcı bir azap hazırladık.",
+      "footnotes": null
+    },
+    {
+      "id": "655",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "162",
+      "arabic_text": "لٰكِنِ الرَّاسِخُونَ فِي الْعِلْمِ مِنْهُمْ وَالْمُؤْمِنُونَ يُؤْمِنُونَ بِمَٓا اُنْزِلَ اِلَيْكَ وَمَٓا اُنْزِلَ مِنْ قَبْلِكَ وَالْمُق۪يم۪ينَ الصَّلٰوةَ وَالْمُؤْتُونَ الزَّكٰوةَ وَالْمُؤْمِنُونَ بِاللّٰهِ وَالْيَوْمِ الْاٰخِرِۜ اُو۬لٰٓئِكَ سَنُؤْت۪يهِمْ اَجْرًا عَظ۪يمًا۟",
+      "translation": "Fakat onlardan ilimde derinleşenler ve müminler, sana ve senden önce indirilene iman ederler. Namazı dosdoğru kılanlar, zekâtı verenler, Allah’a ve Ahiret Günü'ne iman edenler... Bunlara büyük bir ecir vereceğiz.",
+      "footnotes": null
+    },
+    {
+      "id": "656",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "163",
+      "arabic_text": "اِنَّٓا اَوْحَيْنَٓا اِلَيْكَ كَمَٓا اَوْحَيْنَٓا اِلٰى نُوحٍ وَالنَّبِيّ۪نَ مِنْ بَعْدِه۪ۚ وَاَوْحَيْنَٓا اِلٰٓى اِبْرٰه۪يمَ وَاِسْمٰع۪يلَ وَاِسْحٰقَ وَيَعْقُوبَ وَالْاَسْبَاطِ وَع۪يسٰى وَاَيُّوبَ وَيُونُسَ وَهٰرُونَ وَسُلَيْمٰنَۚ وَاٰتَيْنَا دَاوُ۫دَ زَبُورًاۚ",
+      "translation": "Şüphesiz ki biz, Nuh’a ve ondan sonra (gelen) nebilere vahyettiğimiz gibi sana da vahyettik. İbrahim’e, İsmail’e, İshak’a, Yakub’a, torunlarına, İsa’ya, Eyyub’a, Yunus’a, Harun’a ve Süleyman’a vahyettik. Ve Davud’a da Zebur’u verdik.",
+      "footnotes": null
+    },
+    {
+      "id": "657",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "164",
+      "arabic_text": "وَرُسُلًا قَدْ قَصَصْنَاهُمْ عَلَيْكَ مِنْ قَبْلُ وَرُسُلًا لَمْ نَقْصُصْهُمْ عَلَيْكَۜ وَكَلَّمَ اللّٰهُ مُوسٰى تَكْل۪يمًاۚ",
+      "translation": "Kıssalarını daha önce sana anlattığımız resûllere de kıssalarını anlatmadıklarımıza da (vahyettik). Allah, Musa ile (kesin bir şekilde) konuştu.",
+      "footnotes": null
+    },
+    {
+      "id": "658",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "165",
+      "arabic_text": "رُسُلًا مُبَشِّر۪ينَ وَمُنْذِر۪ينَ لِئَلَّا يَكُونَ لِلنَّاسِ عَلَى اللّٰهِ حُجَّةٌ بَعْدَ الرُّسُلِۜ وَكَانَ اللّٰهُ عَز۪يزًا حَك۪يمًا",
+      "translation": "Müjdeleyici ve uyarıcı resûller (gönderdik). Ta ki resûllerden sonra insanların Allah’a (“bilmiyorduk, duymadık” gibi bahane olarak) sunacakları bir hüccetleri kalmasın. Allah (izzet sahibi, her şeyi mağlup eden) Azîz, (hüküm ve hikmet sahibi olan) Hakîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "659",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "166",
+      "arabic_text": "لٰكِنِ اللّٰهُ يَشْهَدُ بِمَٓا اَنْزَلَ اِلَيْكَ اَنْزَلَهُ بِعِلْمِه۪ۚ وَالْمَلٰٓئِكَةُ يَشْهَدُونَۜ وَكَفٰى بِاللّٰهِ شَه۪يدًا",
+      "translation": "(Yahudiler: “Senin peygamber olduğuna şahitlik edecek bilgimiz yok.” diyor.) Lakin Allah sana indirdiğine şahitlik eder ki onu ilmiyle indirmiştir. Melekler de şahitlik etmektedir. Şahit olarak Allah yeter.",
+      "footnotes": null
+    },
+    {
+      "id": "660",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "167",
+      "arabic_text": "اِنَّ الَّذ۪ينَ كَفَرُوا وَصَدُّوا عَنْ سَب۪يلِ اللّٰهِ قَدْ ضَلُّوا ضَلَالًا بَع۪يدًا",
+      "translation": "Şüphesiz ki kâfir olan ve (insanları) Allah’ın yolundan alıkoyanlar, (hakka geri dönmeleri zor) uzak bir sapıklıkla sapıtmışlardır.",
+      "footnotes": null
+    },
+    {
+      "id": "661",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "168",
+      "arabic_text": "اِنَّ الَّذ۪ينَ كَفَرُوا وَظَلَمُوا لَمْ يَكُنِ اللّٰهُ لِيَغْفِرَ لَهُمْ وَلَا لِيَهْدِيَهُمْ طَر۪يقًاۙ",
+      "translation": "Şüphesiz ki kâfir olan ve zulmedenleri, Allah bağışlayacak ve onları bir yola hidayet edecek değildir.",
+      "footnotes": null
+    },
+    {
+      "id": "662",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "169",
+      "arabic_text": "اِلَّا طَر۪يقَ جَهَنَّمَ خَالِد۪ينَ ف۪يهَٓا اَبَدًاۜ وَكَانَ ذٰلِكَ عَلَى اللّٰهِ يَس۪يرًا",
+      "translation": "(Onları ileteceği tek yol) içinde ebedî kalacakları cehennem yoludur. Ve bu, Allah’a kolaydır.",
+      "footnotes": null
+    },
+    {
+      "id": "663",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "170",
+      "arabic_text": "يَٓا اَيُّهَا النَّاسُ قَدْ جَٓاءَكُمُ الرَّسُولُ بِالْحَقِّ مِنْ رَبِّكُمْ فَاٰمِنُوا خَيْرًا لَكُمْۜ وَاِنْ تَكْفُرُوا فَاِنَّ لِلّٰهِ مَا فِي السَّمٰوَاتِ وَالْاَرْضِۜ وَكَانَ اللّٰهُ عَل۪يمًا حَك۪يمًا",
+      "translation": "Ey insanlar! Şüphesiz ki Resûl, Rabbinizden hak ile size gelmiştir. (O’na) iman edin. (Bu) sizin için en hayırlı olandır. Şayet inkâr ederseniz şüphesiz ki göklerde ve yerde olanların tamamı Allah’a aittir. Allah (her şeyi bilen) Alîm, (hüküm ve hikmet sahibi olan) Hakîm’dir.",
+      "footnotes": null
+    },
+    {
+      "id": "664",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "171",
+      "arabic_text": "يَٓا اَهْلَ الْكِتَابِ لَا تَغْلُوا ف۪ي د۪ينِكُمْ وَلَا تَقُولُوا عَلَى اللّٰهِ اِلَّا الْحَقَّۜ اِنَّمَا الْمَس۪يحُ ع۪يسَى ابْنُ مَرْيَمَ رَسُولُ اللّٰهِ وَكَلِمَتُهُۚ اَلْقٰيهَٓا اِلٰى مَرْيَمَ وَرُوحٌ مِنْهُۘ فَاٰمِنُوا بِاللّٰهِ وَرُسُلِه۪ۚ وَلَا تَقُولُوا ثَلٰثَةٌۜ اِنْتَهُوا خَيْرًا لَكُمْۜ اِنَّمَا اللّٰهُ اِلٰهٌ وَاحِدٌۜ سُبْحَانَهُٓ اَنْ يَكُونَ لَهُ وَلَدٌۢ لَهُ مَا فِي السَّمٰوَاتِ وَمَا فِي الْاَرْضِۜ وَكَفٰى بِاللّٰهِ وَك۪يلًا۟",
+      "translation": "Ey Ehl-i Kitap! Dininizde aşırı gitmeyin ve Allah’a dair hak olandan başka bir söz söylemeyin. Meryem oğlu İsa Mesih ancak Allah’ın Resûlü ve Meryem’e (babasız doğması için “Ol!” diyerek) ilka ettiği kelimesi ve O’ndan bir ruhtur. Allah’a ve resûllerine iman edin. “(İlahımız) üçtür.” demeyin. (Bu batıla) son verin. (Bu) sizin için daha hayırlı olur. Ancak Allah tek bir ilahtır. O bir çocuğunun olmasından münezzehtir. Göklerde ve yerde olanların tamamı O’na aittir. Vekil olarak Allah yeter.",
+      "footnotes": null
+    },
+    {
+      "id": "665",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "172",
+      "arabic_text": "لَنْ يَسْتَنْكِفَ الْمَس۪يحُ اَنْ يَكُونَ عَبْدًا لِلّٰهِ وَلَا الْمَلٰٓئِكَةُ الْمُقَرَّبُونَۜ وَمَنْ يَسْتَنْكِفْ عَنْ عِبَادَتِه۪ وَيَسْتَكْبِرْ فَسَيَحْشُرُهُمْ اِلَيْهِ جَم۪يعًا",
+      "translation": "Ne Mesih ne de Allah’a yakınlaştırılmış melekler, Allah’a kul olmaktan çekinirler. Kim de Allah’a ibadetten çekinir ve büyüklenirse, onların hepsini (diriltip) kendi huzurunda toplayacaktır.",
+      "footnotes": null
+    },
+    {
+      "id": "666",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "173",
+      "arabic_text": "فَاَمَّا الَّذ۪ينَ اٰمَنُوا وَعَمِلُوا الصَّالِحَاتِ فَيُوَفّ۪يهِمْ اُجُورَهُمْ وَيَز۪يدُهُمْ مِنْ فَضْلِه۪ۚ وَاَمَّا الَّذ۪ينَ اسْتَنْكَفُوا وَاسْتَكْبَرُوا فَيُعَذِّبُهُمْ عَذَابًا اَل۪يمًاۙ وَلَا يَجِدُونَ لَهُمْ مِنْ دُونِ اللّٰهِ وَلِيًّا وَلَا نَص۪يرًا",
+      "translation": "İman edip salih amel işleyenlere gelince; onlara ecirlerini eksiksiz verecek, lütuf ve ihsanından (fazla fazla) arttıracaktır. Kim de (Allah’a kulluk yapmaktan) çekinir ve büyüklenirse, onlara can yakıcı bir azapla azap edecek ve onlar kendileri için Allah’ın dışında ne bir dost ne de yardımcı bulabileceklerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "667",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "174",
+      "arabic_text": "يَٓا اَيُّهَا النَّاسُ قَدْ جَٓاءَكُمْ بُرْهَانٌ مِنْ رَبِّكُمْ وَاَنْزَلْنَٓا اِلَيْكُمْ نُورًا مُب۪ينًا",
+      "translation": "Ey insanlar! Rabbinizden size (hiçbir şüpheye yer bırakmayan) burhan geldi ve size apaçık bir nur indirdik.",
+      "footnotes": null
+    },
+    {
+      "id": "668",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "175",
+      "arabic_text": "فَاَمَّا الَّذ۪ينَ اٰمَنُوا بِاللّٰهِ وَاعْتَصَمُوا بِه۪ فَسَيُدْخِلُهُمْ ف۪ي رَحْمَةٍ مِنْهُ وَفَضْلٍۙ وَيَهْد۪يهِمْ اِلَيْهِ صِرَاطًا مُسْتَق۪يمًاۜ",
+      "translation": "Allah’a iman edip O’na tutunanlara gelince, onları kendinden olan bir rahmete, lütuf ve ihsana dâhil edecek ve (sonunda Allah’a ulaşacakları) dosdoğru yola hidayet edecektir.",
+      "footnotes": null
+    },
+    {
+      "id": "669",
+      "suraNo": "4",
+      "suraName": "Nisa",
+      "aya": "176",
+      "arabic_text": "يَسْتَفْتُونَكَۜ قُلِ اللّٰهُ يُفْت۪يكُمْ فِي الْكَلَالَةِۜ اِنِ امْرُؤٌا هَلَكَ لَيْسَ لَهُ وَلَدٌ وَلَهُٓ اُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَۚ وَهُوَ يَرِثُهَٓا اِنْ لَمْ يَكُنْ لَهَا وَلَدٌۜ فَاِنْ كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَۜ وَاِنْ كَانُٓوا اِخْوَةً رِجَالًا وَنِسَٓاءً فَلِلذَّكَرِ مِثْلُ حَظِّ الْاُنْثَيَيْنِۜ يُبَيِّنُ اللّٰهُ لَكُمْ اَنْ تَضِلُّواۜ وَاللّٰهُ بِكُلِّ شَيْءٍ عَل۪يمٌ",
+      "translation": "Sana fetva soruyorlar. De ki: “Allah size kelale hakkında fetva veriyor: Biri ölür, (geride ona mirasçı olacak) çocuğu olmaz, kız kardeşi (mirasçı) olursa (kız kardeşine) mirasın yarısı vardır. Şayet kız kardeşin çocuğu olmazsa erkek kardeşi onun malının tamamını alır. Şayet kızlar iki olursa (erkek kardeşin mirasının) üçte ikisini alırlar. (Çocuğu olmayan erkeğin) kız ve erkek kardeşleri (mirasçı) olursa erkekler, kadınların iki katı pay alır. Sapmamanız için Allah size açıklıyor. Allah, her şeyi bilendir.”",
+      "footnotes": null
+    }
+  ]
+}

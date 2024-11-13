@@ -1,0 +1,445 @@
+{
+  "result": [
+    {
+      "id": "4733",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "1",
+      "arabic_text": "وَالطُّورِۙ",
+      "translation": "Tur’a,",
+      "footnotes": null
+    },
+    {
+      "id": "4734",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "2",
+      "arabic_text": "وَكِتَابٍ مَسْطُورٍۙ",
+      "translation": "Satır satır yazılmış Kitab’a,",
+      "footnotes": null
+    },
+    {
+      "id": "4735",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "3",
+      "arabic_text": "ف۪ي رَقٍّ مَنْشُورٍۙ",
+      "translation": "(O Kitap ki) yayılmış kağıt içinde(dir).",
+      "footnotes": null
+    },
+    {
+      "id": "4736",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "4",
+      "arabic_text": "وَالْبَيْتِ الْمَعْمُورِۙ",
+      "translation": "(Meleklerin tavaflarıyla imar ettiği bir ev olan) Beyt-i Ma’mur’a,",
+      "footnotes": null
+    },
+    {
+      "id": "4737",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "5",
+      "arabic_text": "وَالسَّقْفِ الْمَرْفُوعِۙ",
+      "translation": "Yükseltilmiş tavana,",
+      "footnotes": null
+    },
+    {
+      "id": "4738",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "6",
+      "arabic_text": "وَالْبَحْرِ الْمَسْجُورِۙ",
+      "translation": "Ve tutuşturulmuş denize andolsun ki,",
+      "footnotes": null
+    },
+    {
+      "id": "4739",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "7",
+      "arabic_text": "اِنَّ عَذَابَ رَبِّكَ لَوَاقِعٌۙ",
+      "translation": "Şüphesiz ki Rabbinin azabı gerçekleşecektir.",
+      "footnotes": null
+    },
+    {
+      "id": "4740",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "8",
+      "arabic_text": "مَا لَهُ مِنْ دَافِعٍۙ",
+      "translation": "Onu savıp engel olacak hiç kimse yoktur.",
+      "footnotes": null
+    },
+    {
+      "id": "4741",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "9",
+      "arabic_text": "يَوْمَ تَمُورُ السَّمَٓاءُ مَوْرًاۙ",
+      "translation": "O gün gök, dönerek sallanır.",
+      "footnotes": null
+    },
+    {
+      "id": "4742",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "10",
+      "arabic_text": "وَتَس۪يرُ الْجِبَالُ سَيْرًاۜ",
+      "translation": "Ve dağlar bir yürüyüşle yürür.",
+      "footnotes": null
+    },
+    {
+      "id": "4743",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "11",
+      "arabic_text": "فَوَيْلٌ يَوْمَئِذٍ لِلْمُكَذِّب۪ينَۙ",
+      "translation": "O gün, yalanlayanların vay hâline!",
+      "footnotes": null
+    },
+    {
+      "id": "4744",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "12",
+      "arabic_text": "اَلَّذ۪ينَ هُمْ ف۪ي خَوْضٍ يَلْعَبُونَۢ",
+      "translation": "Onlar ki (Resûl’ü yalanlama ve alaya almaya) dalıp oyalanmaktalardır.",
+      "footnotes": null
+    },
+    {
+      "id": "4745",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "13",
+      "arabic_text": "يَوْمَ يُدَعُّونَ اِلٰى نَارِ جَهَنَّمَ دَعًّاۜ",
+      "translation": "Ateşe şiddetle sürüklendikleri o gün,",
+      "footnotes": null
+    },
+    {
+      "id": "4746",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "14",
+      "arabic_text": "هٰذِهِ النَّارُ الَّت۪ي كُنْتُمْ بِهَا تُكَذِّبُونَ",
+      "translation": "(Onlara denir ki:) “İşte bu, yalanladığınız ateştir.”",
+      "footnotes": null
+    },
+    {
+      "id": "4747",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "15",
+      "arabic_text": "اَفَسِحْرٌ هٰذَٓا اَمْ اَنْتُمْ لَا تُبْصِرُونَ",
+      "translation": "“Bu da büyü olabilir mi? Yoksa siz mi görmüyorsunuz?”",
+      "footnotes": null
+    },
+    {
+      "id": "4748",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "16",
+      "arabic_text": "اِصْلَوْهَا فَاصْبِرُٓوا اَوْ لَا تَصْبِرُواۚ سَوَٓاءٌ عَلَيْكُمْۜ اِنَّمَا تُجْزَوْنَ مَا كُنْتُمْ تَعْمَلُونَ",
+      "translation": "“Oraya girin. İster (azaba) sabredip dayanın ister dayanmayın, sizin için birdir. Ancak yaptıklarınızın karşılığını alacaksınız.”",
+      "footnotes": null
+    },
+    {
+      "id": "4749",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "17",
+      "arabic_text": "اِنَّ الْمُتَّق۪ينَ ف۪ي جَنَّاتٍ وَنَع۪يمٍۙ",
+      "translation": "Şüphesiz ki muttakiler, cennetlerde ve nimetler içerisindelerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "4750",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "18",
+      "arabic_text": "فَاكِه۪ينَ بِمَٓا اٰتٰيهُمْ رَبُّهُمْۚ وَوَقٰيهُمْ رَبُّهُمْ عَذَابَ الْجَح۪يمِ",
+      "translation": "Rablerinin kendilerine verdiği (nimetlerden dolayı) mutludurlar. Rableri onları cehennem azabından korumuştur.",
+      "footnotes": null
+    },
+    {
+      "id": "4751",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "19",
+      "arabic_text": "كُلُوا وَاشْرَبُوا هَن۪ٓيـًٔا بِمَا كُنْتُمْ تَعْمَلُونَۙ",
+      "translation": "“Amellerinize karşılık, afiyetle yiyip için.”",
+      "footnotes": null
+    },
+    {
+      "id": "4752",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "20",
+      "arabic_text": "مُتَّكِـ۪ٔينَ عَلٰى سُرُرٍ مَصْفُوفَةٍۚ وَزَوَّجْنَاهُمْ بِحُورٍ ع۪ينٍ",
+      "translation": "Sıra sıra dizilmiş sedirler üzerine yaslanmışlardır. Hem, onları iri gözlü hurilerle evlendirmişizdir.",
+      "footnotes": null
+    },
+    {
+      "id": "4753",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "21",
+      "arabic_text": "وَالَّذ۪ينَ اٰمَنُوا وَاتَّبَعَتْهُمْ ذُرِّيَّتُهُمْ بِا۪يمَانٍ اَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَٓا اَلَتْنَاهُمْ مِنْ عَمَلِهِمْ مِنْ شَيْءٍۜ كُلُّ امْرِئٍ بِمَا كَسَبَ رَه۪ينٌ",
+      "translation": "İman edip zürriyetleri imanla kendilerine tabi olanların, zürriyetlerini de onlara kattık ve onların amelinden hiçbir şey eksiltmedik. Her kişi, kazandığı (ameller) karşılığında rehindir. (Yaptığı ameller, onun akıbetini belirleyecektir.)",
+      "footnotes": null
+    },
+    {
+      "id": "4754",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "22",
+      "arabic_text": "وَاَمْدَدْنَاهُمْ بِفَاكِهَةٍ وَلَحْمٍ مِمَّا يَشْتَهُونَ",
+      "translation": "Onlara canlarının istediği meyvelerden ve etten bolca verdik.",
+      "footnotes": null
+    },
+    {
+      "id": "4755",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "23",
+      "arabic_text": "يَتَنَازَعُونَ ف۪يهَا كَأْسًا لَا لَغْوٌ ف۪يهَا وَلَا تَأْث۪يمٌ",
+      "translation": "Orada kadehleri elden ele dolaştırırlar. (Kadehlerdeki şaraptan dolayı) ne boş söz söylerler ne de günaha girecek bir iş yaparlar.",
+      "footnotes": null
+    },
+    {
+      "id": "4756",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "24",
+      "arabic_text": "وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَهُمْ كَاَنَّهُمْ لُؤْلُؤٌ۬ مَكْنُونٌ",
+      "translation": "Kendilerine ait olan hizmetkârlar etraflarında dolanır. Onlar âdeta sedefte saklı inci gibilerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "4757",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "25",
+      "arabic_text": "وَاَقْبَلَ بَعْضُهُمْ عَلٰى بَعْضٍ يَتَسَٓاءَلُونَ",
+      "translation": "Birbirlerine yönelerek sorarlar.",
+      "footnotes": null
+    },
+    {
+      "id": "4758",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "26",
+      "arabic_text": "قَالُٓوا اِنَّا كُنَّا قَبْلُ ف۪ٓي اَهْلِنَا مُشْفِق۪ينَ",
+      "translation": "Derler ki: “Biz daha önce ailemizin arasında (azaptan) korkardık.”",
+      "footnotes": null
+    },
+    {
+      "id": "4759",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "27",
+      "arabic_text": "فَمَنَّ اللّٰهُ عَلَيْنَا وَوَقٰينَا عَذَابَ السَّمُومِ",
+      "translation": "“Allah bize lütfetti de bizi yakıp kavuran cehennem azabından korudu.”",
+      "footnotes": null
+    },
+    {
+      "id": "4760",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "28",
+      "arabic_text": "اِنَّا كُنَّا مِنْ قَبْلُ نَدْعُوهُۜ اِنَّهُ هُوَ الْبَرُّ الرَّح۪يمُ۟",
+      "translation": "“Şüphesiz ki biz, bundan önce O’na dua ederdik. Doğrusu O, (çokça iyilik yapan) El-Berr, (kullarına karşı merhametli olan) Er-Rahîm’dir.”",
+      "footnotes": null
+    },
+    {
+      "id": "4761",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "29",
+      "arabic_text": "فَذَكِّرْ فَمَٓا اَنْتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍۜ",
+      "translation": "Öyleyse hatırlat/öğüt ver. Sen, Rabbinin nimetiyle ne kâhinsin ne de mecnun.",
+      "footnotes": null
+    },
+    {
+      "id": "4762",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "30",
+      "arabic_text": "اَمْ يَقُولُونَ شَاعِرٌ نَتَرَبَّصُ بِه۪ رَيْبَ الْمَنُونِ",
+      "translation": "Yoksa onlar: “Bu bir şairdir. Biz, onun başına felaketler gelmesini (ve ondan kurtulmayı) gözlüyoruz.” mu diyorlar?",
+      "footnotes": null
+    },
+    {
+      "id": "4763",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "31",
+      "arabic_text": "قُلْ تَرَبَّصُوا فَاِنّ۪ي مَعَكُمْ مِنَ الْمُتَرَبِّص۪ينَۜ",
+      "translation": "De ki: “Gözetleyin (bakalım). Hiç şüphesiz, ben de sizinle beraber gözetlemedeyim.”",
+      "footnotes": null
+    },
+    {
+      "id": "4764",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "32",
+      "arabic_text": "اَمْ تَأْمُرُهُمْ اَحْلَامُهُمْ بِهٰذَٓا اَمْ هُمْ قَوْمٌ طَاغُونَۚ",
+      "translation": "Onlara bu (düşünceleri) akılları mı emrediyor yoksa onlar, azgın bir topluluk mudur?",
+      "footnotes": null
+    },
+    {
+      "id": "4765",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "33",
+      "arabic_text": "اَمْ يَقُولُونَ تَقَوَّلَهُۚ بَلْ لَا يُؤْمِنُونَۚ",
+      "translation": "Yoksa: “Onu uydurdu.” mu diyorlar? (Hayır, öyle değil!) Bilakis onlar, iman etmezler.",
+      "footnotes": null
+    },
+    {
+      "id": "4766",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "34",
+      "arabic_text": "فَلْيَأْتُوا بِحَد۪يثٍ مِثْلِه۪ٓ اِنْ كَانُوا صَادِق۪ينَۜ",
+      "translation": "Şayet doğru söylüyorlarsa (onlar da uydurup) benzer bir söz getirsinler (bakalım).",
+      "footnotes": null
+    },
+    {
+      "id": "4767",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "35",
+      "arabic_text": "اَمْ خُلِقُوا مِنْ غَيْرِ شَيْءٍ اَمْ هُمُ الْخَالِقُونَۜ",
+      "translation": "Yoksa onlar, (yaratıcısız mı) yaratıldılar? Yoksa yaratıcı onlar mı?",
+      "footnotes": null
+    },
+    {
+      "id": "4768",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "36",
+      "arabic_text": "اَمْ خَلَقُوا السَّمٰوَاتِ وَالْاَرْضَۚ بَلْ لَا يُوقِنُونَۜ",
+      "translation": "Yoksa gökleri ve yeri onlar mı yarattı? Bilakis, yakinen inanmazlar.",
+      "footnotes": null
+    },
+    {
+      "id": "4769",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "37",
+      "arabic_text": "اَمْ عِنْدَهُمْ خَزَٓائِنُ رَبِّكَ اَمْ هُمُ الْمُصَيْطِرُونَۜ",
+      "translation": "Yoksa Rabbinin hazineleri, onların yanında mıdır? Yoksa her şeyi kontrol altına alan hakim güç onlar mı?",
+      "footnotes": null
+    },
+    {
+      "id": "4770",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "38",
+      "arabic_text": "اَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ ف۪يهِۚ فَلْيَأْتِ مُسْتَمِعُهُمْ بِسُلْطَانٍ مُب۪ينٍۜ",
+      "translation": "Yoksa onların bir merdiveni var da (onunla Mele-i A’lâ’ya uzanıp) dinleme mi yapıyorlar? (Madem öyle) dinleyicileri apaçık bir delil getirsin (bakalım).",
+      "footnotes": null
+    },
+    {
+      "id": "4771",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "39",
+      "arabic_text": "اَمْ لَهُ الْبَنَاتُ وَلَكُمُ الْبَنُونَۜ",
+      "translation": "Yoksa, kız çocuklar O’nun, erkekler sizin mi?",
+      "footnotes": null
+    },
+    {
+      "id": "4772",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "40",
+      "arabic_text": "اَمْ تَسْـَٔلُهُمْ اَجْرًا فَهُمْ مِنْ مَغْرَمٍ مُثْقَلُونَۜ",
+      "translation": "Yoksa sen, onlardan ücret istiyorsun da, bu borçtan dolayı mı ağır bir yük altına girmişler? (Ücret korkusuyla mı İslam’a girmiyorlar?)",
+      "footnotes": null
+    },
+    {
+      "id": "4773",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "41",
+      "arabic_text": "اَمْ عِنْدَهُمُ الْغَيْبُ فَهُمْ يَكْتُبُونَۜ",
+      "translation": "Yoksa gayb bilgisi onların yanında mıdır? (Seni yeneceklerine dair senaryolar) yazıyorlar.",
+      "footnotes": null
+    },
+    {
+      "id": "4774",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "42",
+      "arabic_text": "اَمْ يُر۪يدُونَ كَيْدًاۜ فَالَّذ۪ينَ كَفَرُوا هُمُ الْمَك۪يدُونَۜ",
+      "translation": "Yoksa tuzak mı kurmak istiyorlar? Fakat asıl tuzağa düşenler kâfirlerdir.",
+      "footnotes": null
+    },
+    {
+      "id": "4775",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "43",
+      "arabic_text": "اَمْ لَهُمْ اِلٰهٌ غَيْرُ اللّٰهِۜ سُبْحَانَ اللّٰهِ عَمَّا يُشْرِكُونَ",
+      "translation": "Yoksa onların, Allah’ın dışında bir ilahları mı vardır? Allah, onların şirk koştuklarından münezzehtir.",
+      "footnotes": null
+    },
+    {
+      "id": "4776",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "44",
+      "arabic_text": "وَاِنْ يَرَوْا كِسْفًا مِنَ السَّمَٓاءِ سَاقِطًا يَقُولُوا سَحَابٌ مَرْكُومٌ",
+      "translation": "Şayet (mucize olarak gökten) bir parça düşse (yine de inanmaz, inatla) “üst üste binmiş buluttur” derler.",
+      "footnotes": null
+    },
+    {
+      "id": "4777",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "45",
+      "arabic_text": "فَذَرْهُمْ حَتّٰى يُلَاقُوا يَوْمَهُمُ الَّذ۪ي ف۪يهِ يُصْعَقُونَۙ",
+      "translation": "(Madem inanmıyorlar, öyleyse) çarpılıp düşecekleri günle karşılaşıncaya kadar, onları kendi hâllerine bırak.",
+      "footnotes": null
+    },
+    {
+      "id": "4778",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "46",
+      "arabic_text": "يَوْمَ لَا يُغْن۪ي عَنْهُمْ كَيْدُهُمْ شَيْـًٔا وَلَا هُمْ يُنْصَرُونَۜ",
+      "translation": "O gün kurdukları tuzak, onlara hiçbir fayda sağlamayacak ve yardım da olunmayacaklar.",
+      "footnotes": null
+    },
+    {
+      "id": "4779",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "47",
+      "arabic_text": "وَاِنَّ لِلَّذ۪ينَ ظَلَمُوا عَذَابًا دُونَ ذٰلِكَ وَلٰكِنَّ اَكْثَرَهُمْ لَا يَعْلَمُونَ",
+      "translation": "Şüphesiz ki zalimler için, bundan önce de bir azap vardır. Fakat onların çoğu bilmezler.",
+      "footnotes": null
+    },
+    {
+      "id": "4780",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "48",
+      "arabic_text": "وَاصْبِرْ لِحُكْمِ رَبِّكَ فَاِنَّكَ بِاَعْيُنِنَا وَسَبِّحْ بِحَمْدِ رَبِّكَ ح۪ينَ تَقُومُۙ",
+      "translation": "Rabbinin hükmüne sabret. Çünkü sen, bizim gözlerimizin önündesin. Kalktığın zaman, Rabbini hamd ile tesbih et.",
+      "footnotes": null
+    },
+    {
+      "id": "4781",
+      "suraNo": "52",
+      "suraName": "Tur",
+      "aya": "49",
+      "arabic_text": "وَمِنَ الَّيْلِ فَسَبِّحْهُ وَاِدْبَارَ النُّجُومِ",
+      "translation": "Gecenin bir bölümünde ve yıldızların batışından sonra da O’nu tesbih et.",
+      "footnotes": null
+    }
+  ]
+}
